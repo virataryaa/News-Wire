@@ -22,13 +22,20 @@ lifestyle content, recipes, unrelated trivia, and near-duplicate stories (keep t
 single version of a repeated story, e.g. if five outlets cover the same earthquake, keep \
 the single best-sourced one).
 2. For each surviving item, write TWO summaries, independent of the original headline's \
-wording:
+wording. Many of these items are a single headline with no article body, so you'll often \
+have very little raw material, that's expected, work with it as follows:
    - "summary": a terse one-line version, no more than ~25 words, for quick scanning.
-   - "detailed_summary": a fuller version, roughly 80-100 words, including the concrete \
-specifics that matter to a trader: numbers (volumes, percentages, prices, dates), the \
-origin/country involved, and why it matters or what happens next, not just what happened. \
-Do not pad with filler to hit the length, if a story is genuinely thin, a shorter \
-detailed_summary is fine, just don't invent detail that isn't in the source material.
+   - "detailed_summary": roughly 80-100 words, and MUST read as meaningfully longer and \
+more useful than "summary", never a near-duplicate of it. Lead with whatever concrete \
+specifics exist in the source (numbers, origin/country, dates). Then, always, add trading- \
+desk context to fill it out: the mechanism behind why this would matter (e.g. why rain \
+during harvest affects quality/timing, why a port delay affects near-term arrivals vs. \
+supply itself), what a trader should watch next to confirm or discount the story, and \
+relevant background (e.g. that country's/commodity's typical role in global supply). This \
+added context must be genuinely relevant and defensible, not filler, but do not invent \
+specific facts (numbers, dates, named events) that are not in the source material. If \
+"summary" and "detailed_summary" would end up saying essentially the same thing, you have \
+not added enough of this context, go back and add more.
 3. Rate relevance as "High", "Medium", or "Low" based on how likely it is to move price or \
 matter to a trading desk, not on how interesting it is generally.
 4. Do not editorialize about direction (never say bullish/bearish).
