@@ -2,11 +2,91 @@
   "run_date": "24 Aug 2026",
   "coffee": [
     {
-      "source": "Cecafe",
-      "summary": "Brazil exported 3.03 million bags of coffee in July, up 9.9% year-on-year, though export revenue fell 13.2% to $903.9 million.",
+      "source": "Laodong.vn (via Google News)",
+      "summary": "Vietnamese domestic coffee prices rose slightly on August 24, diverging from broader global price trends.",
+      "relevance": "Medium",
+      "date": "Mon, 24 Aug 2026 04:29:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlRWeWRITVlyNXRXdE9iRThOMTZzTE9KZU5zSE9icURDNWotTW1WaWF2cHE5SGpwaG9aZC1DQ0o0RnFaQ2VYMWd2RGZ0eTd4MTZpVUwzN2lXcHVreUprcFlRb1pCd3BnYTk2Zmt0YTFiZzMwa0plZjhKUk43UF9rZmk5Qk5EZVFGWnRDMDV4TUowQjUzMklCNnBBNDJVQjlp?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "STiR Coffee and Tea Magazine (via Google News)",
+      "summary": "Disruptions continue to affect global coffee shipping and supply chain logistics.",
       "relevance": "High",
-      "date": "July 2026",
-      "link": "https://www.cecafe.com.br/en/publications/monthly-exports-report/",
+      "date": "Mon, 24 Aug 2026 03:48:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEpkU2p3b0UzSDFETDBkME8zdkhOZUp0QTlZZlNLV1dwNl90UUxtbkRSYzBtY0p4T0owQk5vMFFrRlZtcW5GNUZnNTljai1ESUh4NjdVM0hXLUNBQTJnX2hYMzUtdVgtRnZMT29INjEzZFIxWXZpdnU1dzhtQzhsZzZYT2IwRlplZXljVDN4RGhEeHppd1p2WQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "open.kg (via Google News)",
+      "summary": "Report warns of a looming shortage in Brazilian coffee supply.",
+      "relevance": "Medium",
+      "date": "Mon, 24 Aug 2026 02:50:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzdCSFRuTXZHS1NyRUVGalBmMkh0M2ozbmo5aXVhOHZ4UkNrZlpUcVFmUktrNnluXzN6eDdjaFZ5RXlkYzNaQmZHOWVjSUlIbzhsVUZoOWUzVjEzdlBQY1I5M2l4MjFqaW1kcWRrcXN5VUdTdlZRR0QyOHFxdlU1X3VsazA5RF9jT2c?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Moneyweb (via Google News)",
+      "summary": "Supply of high-end, specialty-grade coffee is tightening in the market.",
+      "relevance": "Medium",
+      "date": "Mon, 24 Aug 2026 02:07:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2dKVWJoWjZJMm5pWUt5OGVtVEZaVEFla2R4MnVrSHJENkQwaFRwT3czeFUtbk1LbC1PVnRlTU9xOTQzZnRzbDN6VU5WVDI5cWtUYjlkd1NfRzNKeXFPQVFOeFJBVVhNYjFpYUFSenBwTjZ4dklCdElMVC0zNi1WU3k3Nlh5azl3?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Briefs Finance (via Google News)",
+      "summary": "Heavy rainfall in Brazil's coffee regions is pushing Arabica futures higher on crop concerns.",
+      "relevance": "High",
+      "date": "Sun, 23 Aug 2026 21:37:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVzhEV28zRXNFd3U1MGR6al81eWJ3N2F0czdvSVVaRFNGZWVTRW8za3VJY0RRSVFLWmdQN3FRUHktZEtIOExkZGphOUtLRGFWdXZiZUY3MUo1VUlFSUtuRkZucVBibHYtczM4c2EyeEtjZ05tRm13OE1ucnVXX3VWVnlPSU9GLWJLZ0E?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "BusinessWorld Online (via Google News)",
+      "summary": "Vietnam's robusta coffee production is expected to rise slightly this season.",
+      "relevance": "High",
+      "date": "Sun, 23 Aug 2026 16:02:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTM2cVduV1ExVThTQkdJT1ptc05zSlR0VndQU24zQy1VdWVoUXpQQVBLOHdURm9YWHIyY1B5Y1JuaUtPNDJIWU0yYWVRdUZvTXd2aEJ5aHRzcm5wQzdaRTZFaVJMNU5QVmQtNE5zdENqelNjY3pwMmdMQlhOelR1c01GRE5BYU9jd2tpQl91MWdGNmRDVlpYeVVlOFdJRWpIaElxVV9zRU40TzJZU1lnTA?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "BusinessWorld Online (via Google News)",
+      "summary": "El Nino weather patterns, not the recent earthquake, are seen as the main risk to Colombia's coffee harvest.",
+      "relevance": "High",
+      "date": "Sun, 23 Aug 2026 16:01:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTJIZTFZX1M2cFZLeVAzSUh5bTB6M01WYm56djBiY1BWeXNrZEhTZjlWZHdSM0R5aWtvVF90RDB3OEhmcEliWGxVNlplS21Sdjkwa1BYdEJ4ZGludWoycFhubGNjS3Z4YWh6S0YzOGI2V0RraUplaEJQdGlkT3c4WjFPN3RVYVVSeHI2UkVhUnk3Y3NuUTJHX1FSTG5Tc25DdlFQN3gwaTJnbXJHN3hKWmVrUmlWaEowRFQ1T0JUYlZJdw?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Bloomberg.com (via Google News)",
+      "summary": "Heavy rains in Brazil are affecting coffee trees, raising concerns about supply of top-quality beans.",
+      "relevance": "High",
+      "date": "Sun, 23 Aug 2026 11:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm9SRTdUMXN3MkpCMVZadWFOVk85aENVMXF5ekhta1lyR0wwSDZuOG1WRkt0VTZtUWV3WnhRemRaSU5mOC1FdEZQRnY1VEtPaVJzS19sYXItQ2F4SUdUNWFWUDVOMGs2QXNUc09UVnR3dllKaXFOVURBVkVZYlk5RE9RaFNFSVhydFNSY0xac2ZfNVE2ald3NDRIbHEtRlVEY2ozV3V1ZjZBOEs2cUpZdWxEdlY2RHFYdFdPbnduSE44NGJ1?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Farmers Review Africa (via Google News)",
+      "summary": "Report on a shipment of Kenyan green coffee prepared for export.",
+      "relevance": "Low",
+      "date": "Sun, 23 Aug 2026 02:34:48 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWV93cW13N3FobkRVVEZFakplX2VURjQzM0d2QnR3SDZhWnV3c2I0bE1Db3l5WVJzOC1teWVfekhCRlNobzNZdUZOSUxGRjIzWUd3V3pVblBoTHNYRFN3Rk5WUk82QmtsRzJ2Y3ZpZXdUTXYyanZuQkxvd19XdTdSMTRSY2FLdDJqdkRERmNiTVRxQlZoZGFCM2ZmcnhPUkdWcFdWRnVfd2s5ZWFibm5VcWlrUDg0OG40T1Ziak9zSEoxMlpTNzFhYW1NSWtYQjlORzlrNy03R3ZQbE0?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "TV BRICS (via Google News)",
+      "summary": "Brazilian coffee exports rose 9.9% at the start of the new marketing season.",
+      "relevance": "High",
+      "date": "Sat, 22 Aug 2026 18:19:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTk1S0xvSkdQandxeGxiTjdXeTE1SGkzNzRieTM4STlYWVVYZ2o3eUVwbzlEVU8wMjhnOWdpTFc3LTV2X28wZXlfVl81NkhuNU9TV2tqVzBNSmpfZnJBeHBwU0NmbmV6UEVyYzNiNDdyaVMwODNRUmhoU2FoTnRtWjFKVDRBOUMtUERNSTdB?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Uganda Observer (via Google News)",
+      "summary": "Uganda's economy is being lifted by rising coffee exports alongside upcoming oil production.",
+      "relevance": "Low",
+      "date": "Sat, 22 Aug 2026 09:15:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbl85QVA5aHRRbnB2Tk9sX2Y5bHcwU1NUOE92QXJMeWwwems4Zzh2YnIwbnJxVVZoUmNEZzhSdFJwY09TblJZR3BCVTdQWDBDZzR5ZGFuZElmVmdoYmFrbTJrLVFNRkZtbFBJYVRhdHJ3NFY2QXN2bzNxQmM2RGVXbUUyWjhnTWhTX1dqWUpUY04?oc=5",
       "commodity": "coffee"
     },
     {
@@ -15,6 +95,22 @@
       "relevance": "Medium",
       "date": "Fri Aug 21, 1:23PM CDT",
       "link": "https://www.barchart.com/story/news/3975098/brazil-harvest-pressures-weigh-on-coffee-prices",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Arabica futures eased as Brazil's coffee harvest advances, adding supply pressure to the market.",
+      "relevance": "High",
+      "date": "Fri Aug 21, 10:47AM CDT",
+      "link": "https://www.barchart.com/story/news/3972303/coffee-prices-slip-on-brazil-harvest-pressures",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Ecofin Agency",
+      "summary": "Ethiopia extended the timeline for its coffee yield growth plan while leaving revenue targets unchanged.",
+      "relevance": "Medium",
+      "date": "13 Aug 2026",
+      "link": "https://www.ecofinagency.com/news-agriculture/1308-58123-ethiopia-s-coffee-yield-target-doubled-in-length-the-revenue-target-did-not-move",
       "commodity": "coffee"
     },
     {
@@ -31,6 +127,22 @@
       "relevance": "Low",
       "date": "3 August 2026",
       "link": "https://hedgepointglobal.com/en/blog/mercado-de-commodities-balan\u00e7o-do-2t-e-proje\u00e7\u00f5es-para-o-3t-de-2026",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Ecofin Agency",
+      "summary": "Uganda is investing $200 million to build out domestic coffee processing and value-chain capacity.",
+      "relevance": "Medium",
+      "date": "31 Jul 2026",
+      "link": "https://www.ecofinagency.com/news-agriculture/3107-57900-uganda-advances-coffee-value-chain-with-200-million-industrial-project",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Cecafe",
+      "summary": "Brazil exported 3.03 million bags of coffee in July, up 9.9% year-on-year, though export revenue fell 13.2% to $903.9 million.",
+      "relevance": "High",
+      "date": "July 2026",
+      "link": "https://www.cecafe.com.br/en/publications/monthly-exports-report/",
       "commodity": "coffee"
     },
     {
@@ -56,78 +168,6 @@
       "date": "23 December 2025",
       "link": "https://hedgepointglobal.com/en/blog/coffee-price-in-brazil-low-stocks-weather-and-crop-projections",
       "commodity": "coffee"
-    },
-    {
-      "source": "Bloomberg.com (via Google News)",
-      "summary": "Heavy rains in Brazil are affecting coffee trees, raising concerns about supply of top-quality beans.",
-      "relevance": "High",
-      "date": "Sun, 23 Aug 2026 11:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm9SRTdUMXN3MkpCMVZadWFOVk85aENVMXF5ekhta1lyR0wwSDZuOG1WRkt0VTZtUWV3WnhRemRaSU5mOC1FdEZQRnY1VEtPaVJzS19sYXItQ2F4SUdUNWFWUDVOMGs2QXNUc09UVnR3dllKaXFOVURBVkVZYlk5RE9RaFNFSVhydFNSY0xac2ZfNVE2ald3NDRIbHEtRlVEY2ozV3V1ZjZBOEs2cUpZdWxEdlY2RHFYdFdPbnduSE44NGJ1?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "BusinessWorld Online (via Google News)",
-      "summary": "Vietnam's robusta coffee production is expected to rise slightly this season.",
-      "relevance": "High",
-      "date": "Sun, 23 Aug 2026 16:02:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTM2cVduV1ExVThTQkdJT1ptc05zSlR0VndQU24zQy1VdWVoUXpQQVBLOHdURm9YWHIyY1B5Y1JuaUtPNDJIWU0yYWVRdUZvTXd2aEJ5aHRzcm5wQzdaRTZFaVJMNU5QVmQtNE5zdENqelNjY3pwMmdMQlhOelR1c01GRE5BYU9jd2tpQl91MWdGNmRDVlpYeVVlOFdJRWpIaElxVV9zRU40TzJZU1lnTA?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "Moneyweb (via Google News)",
-      "summary": "Supply of high-end, specialty-grade coffee is tightening in the market.",
-      "relevance": "Medium",
-      "date": "Mon, 24 Aug 2026 02:07:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2dKVWJoWjZJMm5pWUt5OGVtVEZaVEFla2R4MnVrSHJENkQwaFRwT3czeFUtbk1LbC1PVnRlTU9xOTQzZnRzbDN6VU5WVDI5cWtUYjlkd1NfRzNKeXFPQVFOeFJBVVhNYjFpYUFSenBwTjZ4dklCdElMVC0zNi1WU3k3Nlh5azl3?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "BusinessWorld Online (via Google News)",
-      "summary": "El Nino weather patterns, not the recent earthquake, are seen as the main risk to Colombia's coffee harvest.",
-      "relevance": "High",
-      "date": "Sun, 23 Aug 2026 16:01:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTJIZTFZX1M2cFZLeVAzSUh5bTB6M01WYm56djBiY1BWeXNrZEhTZjlWZHdSM0R5aWtvVF90RDB3OEhmcEliWGxVNlplS21Sdjkwa1BYdEJ4ZGludWoycFhubGNjS3Z4YWh6S0YzOGI2V0RraUplaEJQdGlkT3c4WjFPN3RVYVVSeHI2UkVhUnk3Y3NuUTJHX1FSTG5Tc25DdlFQN3gwaTJnbXJHN3hKWmVrUmlWaEowRFQ1T0JUYlZJdw?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "Uganda Observer (via Google News)",
-      "summary": "Uganda's economy is being lifted by rising coffee exports alongside upcoming oil production.",
-      "relevance": "Low",
-      "date": "Sat, 22 Aug 2026 09:15:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbl85QVA5aHRRbnB2Tk9sX2Y5bHcwU1NUOE92QXJMeWwwems4Zzh2YnIwbnJxVVZoUmNEZzhSdFJwY09TblJZR3BCVTdQWDBDZzR5ZGFuZElmVmdoYmFrbTJrLVFNRkZtbFBJYVRhdHJ3NFY2QXN2bzNxQmM2RGVXbUUyWjhnTWhTX1dqWUpUY04?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "STiR Coffee and Tea Magazine (via Google News)",
-      "summary": "Disruptions continue to affect global coffee shipping and supply chain logistics.",
-      "relevance": "High",
-      "date": "Mon, 24 Aug 2026 03:48:37 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEpkU2p3b0UzSDFETDBkME8zdkhOZUp0QTlZZlNLV1dwNl90UUxtbkRSYzBtY0p4T0owQk5vMFFrRlZtcW5GNUZnNTljai1ESUh4NjdVM0hXLUNBQTJnX2hYMzUtdVgtRnZMT29INjEzZFIxWXZpdnU1dzhtQzhsZzZYT2IwRlplZXljVDN4RGhEeHppd1p2WQ?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "Farmers Review Africa (via Google News)",
-      "summary": "Report on a shipment of Kenyan green coffee prepared for export.",
-      "relevance": "Low",
-      "date": "Sun, 23 Aug 2026 02:34:48 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWV93cW13N3FobkRVVEZFakplX2VURjQzM0d2QnR3SDZhWnV3c2I0bE1Db3l5WVJzOC1teWVfekhCRlNobzNZdUZOSUxGRjIzWUd3V3pVblBoTHNYRFN3Rk5WUk82QmtsRzJ2Y3ZpZXdUTXYyanZuQkxvd19XdTdSMTRSY2FLdDJqdkRERmNiTVRxQlZoZGFCM2ZmcnhPUkdWcFdWRnVfd2s5ZWFibm5VcWlrUDg0OG40T1Ziak9zSEoxMlpTNzFhYW1NSWtYQjlORzlrNy03R3ZQbE0?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "Laodong.vn (via Google News)",
-      "summary": "Vietnamese domestic coffee prices rose slightly on August 24, diverging from broader global price trends.",
-      "relevance": "Medium",
-      "date": "Mon, 24 Aug 2026 04:29:04 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlRWeWRITVlyNXRXdE9iRThOMTZzTE9KZU5zSE9icURDNWotTW1WaWF2cHE5SGpwaG9aZC1DQ0o0RnFaQ2VYMWd2RGZ0eTd4MTZpVUwzN2lXcHVreUprcFlRb1pCd3BnYTk2Zmt0YTFiZzMwa0plZjhKUk43UF9rZmk5Qk5EZVFGWnRDMDV4TUowQjUzMklCNnBBNDJVQjlp?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "open.kg (via Google News)",
-      "summary": "Report warns of a looming shortage in Brazilian coffee supply.",
-      "relevance": "Medium",
-      "date": "Mon, 24 Aug 2026 02:50:31 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzdCSFRuTXZHS1NyRUVGalBmMkh0M2ozbmo5aXVhOHZ4UkNrZlpUcVFmUktrNnluXzN6eDdjaFZ5RXlkYzNaQmZHOWVjSUlIbzhsVUZoOWUzVjEzdlBQY1I5M2l4MjFqaW1kcWRrcXN5VUdTdlZRR0QyOHFxdlU1X3VsazA5RF9jT2c?oc=5",
-      "commodity": "coffee"
     }
   ],
   "cocoa": [
@@ -148,6 +188,94 @@
       "commodity": "cocoa"
     },
     {
+      "source": "Ecofin Agency",
+      "summary": "C\u00f4te d'Ivoire is restructuring its cocoa marketing system to shield farmers and capture more export value.",
+      "relevance": "High",
+      "date": "14 Aug 2026",
+      "link": "https://www.ecofinagency.com/news-agriculture/1408-58147-cote-d-ivoire-reshapes-its-cocoa-model-to-protect-markets-and-capture-more-value",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Ecofin Agency",
+      "summary": "Ghanaian cocoa farmers are challenging a new land-use law they say threatens farm profitability.",
+      "relevance": "Medium",
+      "date": "14 Aug 2026",
+      "link": "https://www.ecofinagency.com/news-agriculture/1408-58140-ghana-cocoa-farmers-challenge-land-use-law-over-farm-viability",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Barry Callebaut is evaluating supply risks to West African cocoa crops as El Ni\u00f1o weather intensifies.",
+      "relevance": "High",
+      "date": "16 Jul 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/07/16/barry-callebaut-says-cocoa-sector-prepared-for-el-nino-disruption",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Researchers identified four new Peruvian cacao varieties that could diversify future cocoa supply sources.",
+      "relevance": "Medium",
+      "date": "14 Jul 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/07/14/new-peruvian-cacao-varieties-discovered-to-save-chocolate",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Major chocolate makers are increasingly investing in cocoa alternatives as prices remain elevated.",
+      "relevance": "Medium",
+      "date": "07 Jul 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/07/07/the-alt-cocoa-boom-and-big-chocolates-search-for-cocoa-alternatives",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Cargill outlined its strategy to secure long-term cocoa supply amid ongoing production and price pressures.",
+      "relevance": "Medium",
+      "date": "06 Jul 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/07/06/how-cargill-is-futureproofing-cocoa-as-threats-to-supply-grow",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Large chocolate manufacturers are developing backup cocoa-supply and substitution strategies amid persistent shortages.",
+      "relevance": "Medium",
+      "date": "02 Jul 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/07/02/mars-nestle-lindt-barry-callebaut-mondelez-big-chocolates-alternative-cocoa-strategies",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "The UK plans new anti-deforestation regulations that would affect cocoa import supply chains, similar to the EU's EUDR.",
+      "relevance": "High",
+      "date": "23 Jun 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/06/23/uk-government-to-introduce-anti-deforestation-rules",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Ingredients firm D\u00f6hler acquired Nukoko to expand into cocoa-free chocolate as demand for alternatives grows.",
+      "relevance": "Medium",
+      "date": "18 Jun 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/06/18/dohler-acquires-nukoko-as-cocoa-free-chocolate-gains-momentum-in-confectionery",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Barry Callebaut is adjusting its business strategy in response to sustained cocoa price volatility.",
+      "relevance": "Medium",
+      "date": "02 Jun 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/06/02/barry-callebaut-sharpens-strategy-amid-cocoa-volatility",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Barry Callebaut is expanding into cocoa-free chocolate products as a hedge against high cocoa costs.",
+      "relevance": "Medium",
+      "date": "28 May 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/05/28/barry-callebaut-brings-new-cocoa-free-chocolate-to-us",
+      "commodity": "cocoa"
+    },
+    {
       "source": "Hedgepoint",
       "summary": "Overview of cocoa supply recovery trends and continued market volatility in the 2025/26 season.",
       "relevance": "Medium",
@@ -156,11 +284,115 @@
       "commodity": "cocoa"
     },
     {
+      "source": "ConfectioneryNews",
+      "summary": "Mars is scaling up regenerative farming initiatives aimed at securing long-term cocoa supply.",
+      "relevance": "Medium",
+      "date": "16 Apr 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/04/16/mars-ramps-up-net-zero-cocoa-ambitions-through-regenerative-farming",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Fermentation-based innovations are being explored as a way to buffer cocoa supply against climate and price risk.",
+      "relevance": "Medium",
+      "date": "08 Apr 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/04/08/can-fermentation-protect-cocoa-from-rising-prices-and-climate-risk",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Nestl\u00e9's bet on cocoa-free chocolate is seen as a critical test for alternative-ingredient strategies.",
+      "relevance": "Medium",
+      "date": "01 Apr 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/04/01/nestles-alt-chocolate-bet-is-make-or-break-for-cocoa-free",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Major chocolate makers formed a coalition to support cocoa growers amid UK deforestation policy moves.",
+      "relevance": "Medium",
+      "date": "26 Mar 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/03/26/barry-callebaut-ferrero-hershey-tonys-chocolonely-join-uk-cocoa-coalition",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Cocoa futures climbed as the market rebounded from a prior sharp price collapse.",
+      "relevance": "High",
+      "date": "18 Mar 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/03/18/cocoa-prices-climb-following-market-collapse",
+      "commodity": "cocoa"
+    },
+    {
       "source": "Hedgepoint",
       "summary": "Cocoa market volatility is expected to persist despite forecasts of a global surplus for 2026.",
       "relevance": "High",
       "date": "13 March 2026",
       "link": "https://hedgepointglobal.com/en/blog/the-global-cocoa-market-remains-volatile-despite-the-surplus-forecast-for-2026-says-hedgepoint",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Nestl\u00e9 launched Choviva, a cocoa-free chocolate product, as part of its response to high cocoa costs.",
+      "relevance": "Medium",
+      "date": "10 Mar 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/03/10/nestle-launches-cocoa-free-chocolate-with-choviva",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Escalating conflict involving Iran raised concerns about potential shortages across the confectionery supply chain.",
+      "relevance": "High",
+      "date": "06 Mar 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/03/06/confectionery-sector-braced-for-shortages-as-iran-conflict-escalates",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Cocoa prices swung from record highs to a sharp demand slump as chocolate buyers pulled back.",
+      "relevance": "High",
+      "date": "03 Mar 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/03/03/cocoa-prices-crash-after-2024-record-highs-as-demand-slump-hits-global-chocolate-market",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Cocoa substitutes are unlikely to resolve the underlying pricing pressures facing chocolate manufacturers.",
+      "relevance": "Medium",
+      "date": "25 Feb 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/02/25/can-cocoa-alternatives-fix-chocolates-pricing-crisis",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Five major chocolate companies launched a joint initiative to support cocoa growers and supply resilience.",
+      "relevance": "Medium",
+      "date": "24 Feb 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/02/24/mars-mondelez-nestle-hershey-and-lindt-team-up-to-protect-cocoa-and-support-growers",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "The US Supreme Court struck down tariff powers used under the IEEPA, with implications for import costs.",
+      "relevance": "Medium",
+      "date": "20 Feb 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/02/20/supreme-court-strikes-down-trumps-tariff-powers-under-ieepa",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Cocoa futures fell sharply after reaching record highs, easing cost pressure on chocolate makers.",
+      "relevance": "High",
+      "date": "13 Feb 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/02/13/cocoa-prices-collapse-following-record-highs",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Falling cocoa prices may be giving smaller chocolate companies a competitive advantage over larger rivals.",
+      "relevance": "Medium",
+      "date": "11 Feb 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/02/11/cocoa-prices-could-declines-benefit-smaller-companies",
       "commodity": "cocoa"
     }
   ]
