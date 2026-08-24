@@ -23,6 +23,12 @@ try {
         exit 1
     }
 
+    $lastWrite = (Get-Item $OutputFile).LastWriteTime.Date
+    if ($lastWrite -ne (Get-Date).Date) {
+        Write-Log "Output file is from $lastWrite, not today, nothing new was found today, skipping mail."
+        exit 0
+    }
+
     $html = Get-Content -Path $OutputFile -Raw -Encoding UTF8
     $today = Get-Date -Format "dd MMM yyyy"
 
