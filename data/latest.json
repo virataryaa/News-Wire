@@ -47,6 +47,15 @@
       "detailed_summary": "Moneyweb reports that supply of high-end, specialty-grade coffee is tightening, though no volumes, origins, or grading details are given. Specialty-grade coffee is a smaller, higher-margin segment distinct from the commodity-grade beans that dominate futures markets, so tightness there can signal quality-differential widening \u2014 top lots commanding larger premiums \u2014 even without moving the broader C-market. This can stem from weather affecting bean size and density at origin, or roasters bidding up limited premium lots. Traders focused on differentials and specialty premiums should watch cupping-quality auction results and origin-specific grading reports to confirm the trend."
     },
     {
+      "source": "Briefs Finance (via Google News)",
+      "summary": "Arabica coffee prices rose after rain in Brazil's growing regions raised concerns about the ongoing harvest.",
+      "detailed_summary": "Arabica futures moved higher after rainfall was reported across Brazil's key coffee-growing areas during the harvest window. Rain during harvest can delay picking, raise the risk of coffee drying on trees or fermenting after being picked, and slow the movement of beans to processing and export channels \u2014 all of which can tighten near-term availability even without changing the underlying crop size. Given Brazil's dominant share of global arabica supply, weather disruptions during this period are closely watched. Traders should track whether the rain is isolated or widespread, how long it persists, and subsequent harvest-progress and export data to confirm the actual supply impact.",
+      "relevance": "High",
+      "date": "Sun, 23 Aug 2026 21:37:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVzhEV28zRXNFd3U1MGR6al81eWJ3N2F0czdvSVVaRFNGZWVTRW8za3VJY0RRSVFLWmdQN3FRUHktZEtIOExkZGphOUtLRGFWdXZiZUY3MUo1VUlFSUtuRkZucVBibHYtczM4c2EyeEtjZ05tRm13OE1ucnVXX3VWVnlPSU9GLWJLZ0E?oc=5",
+      "commodity": "coffee"
+    },
+    {
       "source": "BusinessWorld Online (via Google News)",
       "summary": "Vietnam's robusta coffee output is projected to rise slightly this season, per trade estimates.",
       "relevance": "High",
@@ -108,6 +117,15 @@
       "link": "https://www.barchart.com/story/news/3975098/brazil-harvest-pressures-weigh-on-coffee-prices",
       "commodity": "coffee",
       "detailed_summary": "Barchart reports that Brazil's coffee harvest, now underway, is adding supply pressure to the market as fresh-crop beans reach the trade, with Arabica futures easing in response. Brazil's harvest typically runs roughly May through September, and the pace at which beans move from farm to exportable stock directly affects near-term availability priced into futures. As harvest progresses, increased selling from farmers and cooperatives typically pressures prices lower until the bulk of the crop has cleared. Traders should track weekly harvest-progress percentages from Brazilian crop-forecasting agencies to gauge how much of the crop remains to be sold."
+    },
+    {
+      "source": "Barchart",
+      "summary": "Coffee futures slipped as Brazil's coffee harvest advances, pressuring near-term supply availability.",
+      "detailed_summary": "Coffee prices eased this week as Brazil's harvest progresses, with fresh supply reaching the market and easing near-term tightness. Brazil is the world's largest arabica and robusta producer, so the pace of its harvest directly affects how much new-crop coffee is available for export in the coming months. Traders should watch harvest completion rates, farmer selling behavior, and export data out of Santos to gauge whether this pressure persists or whether logistics or quality issues could later tighten flows. Currency moves in the real, which affect farmer selling incentives, are also worth monitoring alongside this harvest-driven pressure.",
+      "relevance": "High",
+      "date": "Fri Aug 21, 10:47AM CDT",
+      "link": "https://www.barchart.com/story/news/3972303/coffee-prices-slip-on-brazil-harvest-pressures",
+      "commodity": "coffee"
     },
     {
       "source": "Ecofin Agency",
