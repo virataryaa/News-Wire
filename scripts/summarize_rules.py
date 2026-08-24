@@ -63,7 +63,13 @@ def summarize(raw_items):
         relevance = _relevance(text)
         if relevance is None:
             continue
-        scored.append({**item, "relevance": relevance, "summary": item["summary"][:180]})
+        full_text = item["summary"]
+        scored.append({
+            **item,
+            "relevance": relevance,
+            "summary": full_text[:150],
+            "detailed_summary": full_text[:600],
+        })
 
     scored.sort(key=_priority)
     kept = []

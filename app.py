@@ -10,7 +10,7 @@ DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "latest.json")
 
 CUSTOM_CSS = """
 <style>
-    .block-container {padding-top: 2rem; max-width: 1100px;}
+    .block-container {padding-top: 2rem; max-width: 1500px;}
     .wire-title {
         font-size: 2.2rem; font-weight: 700; letter-spacing: -0.01em;
         margin-bottom: 0.1rem; color: #1c2128;
@@ -32,6 +32,51 @@ CUSTOM_CSS = """
 </style>
 """
 st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
+
+SOURCES_INFO = [
+    {
+        "name": "Cecafe",
+        "covers": "Coffee",
+        "description": "Brazil's coffee exporters council. Monthly export report: bags shipped, crop-year comparison, FX revenue.",
+        "cadence": "Monthly",
+        "link": "https://www.cecafe.com.br/en/publications/monthly-exports-report/",
+    },
+    {
+        "name": "Barchart",
+        "covers": "Coffee & Cocoa",
+        "description": "Same-day price-action headlines for ICE coffee (KC) and cocoa (CC) futures.",
+        "cadence": "Daily",
+        "link": "https://www.barchart.com/futures/quotes/KCU26/news",
+    },
+    {
+        "name": "Hedgepoint",
+        "covers": "Coffee & Cocoa",
+        "description": "Trade-house market commentary and crop/supply analysis.",
+        "cadence": "Weekly-ish",
+        "link": "https://hedgepointglobal.com/en/blog/tag/coffee",
+    },
+    {
+        "name": "Google News",
+        "covers": "Coffee & Cocoa",
+        "description": "Catch-all search feed, surfaces Bloomberg/Reuters/FT/trade-press coverage that can't be reached directly (paywalls, bot-blocks).",
+        "cadence": "Daily",
+        "link": "https://news.google.com/",
+    },
+    {
+        "name": "Ecofin Agency",
+        "covers": "Coffee & Cocoa",
+        "description": "African agriculture news, origin-country coverage (Ivory Coast, Ghana, Uganda, Nigeria, etc).",
+        "cadence": "Daily",
+        "link": "https://www.ecofinagency.com/ea-agriculture",
+    },
+    {
+        "name": "ConfectioneryNews",
+        "covers": "Cocoa",
+        "description": "Covers major cocoa processors (Barry Callebaut, Cargill, Nestle) and chocolate-industry supply news.",
+        "cadence": "Daily",
+        "link": "https://www.confectionerynews.com/Sectors/Cocoa/",
+    },
+]
 
 
 @st.cache_data(ttl=300)
@@ -64,10 +109,12 @@ def render_table(items, relevance_filter):
     rows = []
     for item in filtered:
         pill_class = f"relevance-{item.get('relevance', 'Medium').lower()}"
+        detailed = item.get("detailed_summary", item["summary"])
         rows.append(
             f"""<tr>
                 <td style="font-weight:600;color:#2563a8;white-space:nowrap;">{item['source']}</td>
-                <td>{item['summary']}</td>
+                <td style="min-width:220px;">{item['summary']}</td>
+                <td style="min-width:340px;color:#3a4150;">{detailed}</td>
                 <td><span class="relevance-pill {pill_class}">{item.get('relevance', 'Medium')}</span></td>
                 <td style="font-family:ui-monospace,monospace;font-size:0.78rem;color:#6b7280;white-space:nowrap;">{item.get('date', '')}</td>
                 <td><a class="wire-link" href="{item.get('link', '#')}" target="_blank">Open &#8599;</a></td>
@@ -75,11 +122,13 @@ def render_table(items, relevance_filter):
         )
 
     table_html = f"""
+    <div style="overflow-x:auto;">
     <table style="width:100%; border-collapse:collapse; font-size:0.88rem;">
         <thead>
             <tr style="border-bottom:2px solid #d8dce3;">
                 <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Source</th>
                 <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Summary</th>
+                <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Detailed Summary</th>
                 <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Relevance</th>
                 <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Date</th>
                 <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Link</th>
@@ -89,6 +138,7 @@ def render_table(items, relevance_filter):
             {"".join(rows)}
         </tbody>
     </table>
+    </div>
     """
     st.markdown(table_html, unsafe_allow_html=True)
 
@@ -110,10 +160,39 @@ relevance_filter = st.multiselect(
     "Relevance", options=["High", "Medium", "Low"], default=["High", "Medium", "Low"],
 )
 
-tab_coffee, tab_cocoa = st.tabs(["Coffee", "Cocoa"])
+tab_coffee, tab_cocoa, tab_sources = st.tabs(["Coffee", "Cocoa", "Sources"])
 
 with tab_coffee:
     render_table(coffee_items, relevance_filter)
 
 with tab_cocoa:
     render_table(cocoa_items, relevance_filter)
+
+with tab_sources:
+    rows = "".join(
+        f"""<tr>
+            <td style="font-weight:600;color:#2563a8;white-space:nowrap;">{s['name']}</td>
+            <td style="white-space:nowrap;">{s['covers']}</td>
+            <td>{s['description']}</td>
+            <td style="white-space:nowrap;color:#6b7280;">{s['cadence']}</td>
+            <td><a class="wire-link" href="{s['link']}" target="_blank">Visit &#8599;</a></td>
+        </tr>"""
+        for s in SOURCES_INFO
+    )
+    st.markdown(
+        f"""
+        <table style="width:100%; border-collapse:collapse; font-size:0.88rem;">
+            <thead>
+                <tr style="border-bottom:2px solid #d8dce3;">
+                    <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Source</th>
+                    <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Covers</th>
+                    <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Description</th>
+                    <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Cadence</th>
+                    <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Link</th>
+                </tr>
+            </thead>
+            <tbody>{rows}</tbody>
+        </table>
+        """,
+        unsafe_allow_html=True,
+    )

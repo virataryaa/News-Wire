@@ -1,5 +1,6 @@
-"""Daily orchestrator: pulls every source, ranks with a rule-based filter (no API,
-no cost), writes the shared HTML file.
+"""Daily orchestrator: pulls every source, ranks only the genuinely new items,
+and accumulates them into a running history file (old items stay, sorted by
+date in the app, new ones just add on top).
 
 Run manually with: python build.py
 Task Scheduler runs this exact command once a day.
@@ -13,7 +14,7 @@ import traceback
 
 sys.path.insert(0, os.path.dirname(__file__))
 
-from sources import cecafe, barchart, hedgepoint, gnews  # noqa: E402
+from sources import cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews  # noqa: E402
 from summarize import summarize  # noqa: E402
 from template import render  # noqa: E402
 
@@ -22,7 +23,9 @@ SHARED_OUTPUT = os.path.join(NEWS_ROOT, "output", "latest.html")
 DATA_OUTPUT = os.path.join(NEWS_ROOT, "data", "latest.json")
 LOG_DIR = os.path.join(NEWS_ROOT, "logs")
 
-SOURCES = [cecafe, barchart, hedgepoint, gnews]
+MAX_HISTORY_PER_COMMODITY = 500
+
+SOURCES = [cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews]
 
 
 def log(message):
@@ -32,6 +35,31 @@ def log(message):
     print(line)
     with open(os.path.join(LOG_DIR, "build.log"), "a", encoding="utf-8") as f:
         f.write(line + "\n")
+
+
+def load_history():
+    if not os.path.exists(DATA_OUTPUT):
+        return {"coffee": [], "cocoa": []}
+    with open(DATA_OUTPUT, encoding="utf-8") as f:
+        data = json.load(f)
+    return {"coffee": data.get("coffee", []), "cocoa": data.get("cocoa", [])}
+
+
+def trim(items):
+    """Keeps the newest MAX_HISTORY_PER_COMMODITY items so the file doesn't grow forever."""
+    from dateutil import parser as dateparser
+
+    def sort_key(item):
+        try:
+            parsed = dateparser.parse(item.get("date", ""), fuzzy=True)
+            if parsed.tzinfo is not None:
+                parsed = parsed.replace(tzinfo=None)
+            return parsed
+        except (ValueError, TypeError, OverflowError):
+            return datetime.datetime.min
+
+    items.sort(key=sort_key, reverse=True)
+    return items[:MAX_HISTORY_PER_COMMODITY]
 
 
 def main():
@@ -50,19 +78,37 @@ def main():
         log("No items fetched from any source, aborting without overwriting output.")
         return
 
-    ranked = summarize(raw_items)
-    log(f"After summarizing/ranking: {len(ranked)} items kept")
+    history = load_history()
+    known_links = {i["link"] for i in history["coffee"] + history["cocoa"]}
+    new_items = [i for i in raw_items if i["link"] not in known_links]
+    log(f"{len(new_items)} genuinely new items out of {len(raw_items)} fetched (rest already seen)")
 
-    coffee_items = [i for i in ranked if i.get("commodity") == "coffee"]
-    cocoa_items = [i for i in ranked if i.get("commodity") == "cocoa"]
+    if not new_items:
+        log("Nothing new since last run, skipping email/output/push.")
+        return
+
+    ranked_new = summarize(new_items)
+    log(f"After summarizing/ranking: {len(ranked_new)} new items kept")
+    if not ranked_new:
+        log("Everything new today was filtered out as irrelevant, skipping email/output/push.")
+        return
+
+    new_coffee = [i for i in ranked_new if i.get("commodity") == "coffee"]
+    new_cocoa = [i for i in ranked_new if i.get("commodity") == "cocoa"]
 
     run_date = datetime.date.today().strftime("%d %b %Y")
-    html = render(coffee_items, cocoa_items, run_date)
+    # Email/shared HTML: only today's new items, so the inbox doesn't repeat
+    # the whole history every morning.
+    html = render(new_coffee, new_cocoa, run_date)
 
     os.makedirs(os.path.dirname(SHARED_OUTPUT), exist_ok=True)
     with open(SHARED_OUTPUT, "w", encoding="utf-8") as f:
         f.write(html)
     log(f"Wrote {SHARED_OUTPUT}")
+
+    # Data file backing the Streamlit app: full accumulated history.
+    coffee_items = trim(history["coffee"] + new_coffee)
+    cocoa_items = trim(history["cocoa"] + new_cocoa)
 
     os.makedirs(os.path.dirname(DATA_OUTPUT), exist_ok=True)
     with open(DATA_OUTPUT, "w", encoding="utf-8") as f:

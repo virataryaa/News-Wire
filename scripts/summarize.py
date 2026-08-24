@@ -21,15 +21,21 @@ exports, weather, crop estimates, policy, logistics, certified stocks). Drop con
 lifestyle content, recipes, unrelated trivia, and near-duplicate stories (keep the best \
 single version of a repeated story, e.g. if five outlets cover the same earthquake, keep \
 the single best-sourced one).
-2. For each surviving item, write a one-line, plain-English summary (no more than ~25 \
-words), independent of the original headline's wording.
+2. For each surviving item, write TWO summaries, independent of the original headline's \
+wording:
+   - "summary": a terse one-line version, no more than ~25 words, for quick scanning.
+   - "detailed_summary": a fuller version, roughly 80-100 words, including the concrete \
+specifics that matter to a trader: numbers (volumes, percentages, prices, dates), the \
+origin/country involved, and why it matters or what happens next, not just what happened. \
+Do not pad with filler to hit the length, if a story is genuinely thin, a shorter \
+detailed_summary is fine, just don't invent detail that isn't in the source material.
 3. Rate relevance as "High", "Medium", or "Low" based on how likely it is to move price or \
 matter to a trading desk, not on how interesting it is generally.
 4. Do not editorialize about direction (never say bullish/bearish).
 
 Reply with ONLY a JSON array, no other text, no markdown fences, where each element has: \
-source, summary, relevance, date, link, commodity. Preserve the original link and date \
-fields exactly."""
+source, summary, detailed_summary, relevance, date, link, commodity. Preserve the original \
+link and date fields exactly."""
 
 
 def _extract_json_array(text):
