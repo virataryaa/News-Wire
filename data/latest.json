@@ -2,6 +2,15 @@
   "run_date": "24 Aug 2026",
   "coffee": [
     {
+      "source": "Kursiv Media \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d (via Google News)",
+      "summary": "Report says arabica futures may rise after rainfall hit Brazil, the world's top arabica producer, during harvest season.",
+      "detailed_summary": "A report suggests arabica futures could see upward pressure following rainfall in Brazil during the harvest window. Rain at this stage can delay picking and drying of cherries, risking quality degradation and slower processing, which tightens near-term deliverable supply even if the underlying crop size is unaffected. Traders should watch Brazilian crop progress updates from Conab and private forecasters, plus regional rainfall data for Minas Gerais and S\u00e3o Paulo, to confirm whether disruption is broad-based or localized. Brazil supplies roughly a third of global arabica output, so harvest delays there carry outsized influence on ICE arabica pricing.",
+      "relevance": "High",
+      "date": "Mon, 24 Aug 2026 07:43:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmVQbFNfb1k1Tk45T3ZDRVMyTHpsa0c5ajJHQl9BdWZwZXBHaFRzRVl3LWlzMW1oMXpBX29SLVBQWVVlNFpwTzRUUHRkejJlYWxEeE9namx0ZnFmZ01DNW40UEdwQ2JxMnNFeWJ5dVlEVjkzaWxpSUFJSmt1S0tEQU54c0tUM1BjNURuRlVVLTJyWXdFNlVMcy1aUmV5SE93enNFR3NfTno5N2xC?oc=5",
+      "commodity": "coffee"
+    },
+    {
       "source": "Kursiv Media \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
       "summary": "Arabica prices may firm as rain in Brazil's coffee belt raises concerns over the ongoing harvest.",
       "detailed_summary": "Reports indicate Arabica coffee futures could see upward pressure following rainfall across Brazil's coffee-growing regions. Rain during harvest season can disrupt drying and picking, raising concerns about crop quality and delayed deliveries from the world's largest Arabica producer. No specific volume or price figures were given in the source headline. Traders should watch upcoming Brazilian crop condition reports and CONAB updates for confirmation of harvest impact, as any delay or quality downgrade from Brazil typically has outsized influence on ICE Arabica futures given Brazil's dominant share of global supply.",
@@ -101,6 +110,15 @@
       "commodity": "coffee"
     },
     {
+      "source": "TV BRICS (via Google News)",
+      "summary": "Brazilian coffee exports rose 9.9% at the start of the new season, per trade data cited in the report.",
+      "detailed_summary": "Brazilian coffee exports climbed 9.9% at the outset of the new season, according to the report, though it does not break out volumes by coffee type or destination. As the top global producer and exporter, Brazil's early-season export pace signals whether the harvest is reaching market faster than usual, which can pressure nearby arabica differentials and imply strong crop availability. Traders should check Cecaf\u00e9 or Brazilian trade ministry data for confirming shipment volumes by port and origin state, and compare the pace against prior seasons to gauge whether this reflects a genuinely larger crop or front-loaded shipping ahead of logistical or currency shifts.",
+      "relevance": "High",
+      "date": "Sat, 22 Aug 2026 18:19:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTk1S0xvSkdQandxeGxiTjdXeTE1SGkzNzRieTM4STlYWVVYZ2o3eUVwbzlEVU8wMjhnOWdpTFc3LTV2X28wZXlfVl81NkhuNU9TV2tqVzBNSmpfZnJBeHBwU0NmbmV6UEVyYzNiNDdyaVMwODNRUmhoU2FoTnRtWjFKVDRBOUMtUERNSTdB?oc=5",
+      "commodity": "coffee"
+    },
+    {
       "source": "Uganda Observer (via Google News)",
       "summary": "Uganda's economy is being buoyed by rising coffee exports alongside upcoming oil production.",
       "relevance": "Low",
@@ -135,6 +153,15 @@
       "link": "https://www.ecofinagency.com/news-agriculture/1308-58123-ethiopia-s-coffee-yield-target-doubled-in-length-the-revenue-target-did-not-move",
       "commodity": "coffee",
       "detailed_summary": "Ecofin Agency reports Ethiopia has doubled the length of the timeline for its coffee yield-growth plan while leaving the associated revenue targets unchanged, implying a slower expected pace of production gains than originally planned. Ethiopia is Africa's largest coffee producer and a major Arabica origin known for heirloom varieties, so a longer runway to reach higher yields suggests structural production growth there may lag earlier government projections. This is a longer-term policy signal rather than a near-term supply shock. Traders focused on African-origin Arabica availability should watch subsequent government output data against the original versus revised timeline."
+    },
+    {
+      "source": "Coffee Geography",
+      "summary": "Fairtrade International raised its minimum coffee prices for certified producers, per an August 2026 announcement.",
+      "detailed_summary": "Fairtrade International has raised its minimum coffee prices, according to the report, though the specific new levels, affected origins, and effective date are not stated. The Fairtrade minimum acts as a price floor paid to certified smallholder producers, running alongside but distinct from ICE futures pricing, so raising it lifts producer cost baselines and support at the margin, particularly when market prices trade near or below the floor. Traders should look for the specific new minimum figures and rollout date, and monitor whether shifting economics for certified growers affects supply flow into certified versus conventional channels.",
+      "relevance": "Medium",
+      "date": "05 Aug 2026",
+      "link": "https://coffeegeography.com/2026/08/05/fairtrade-international-raises-minimum-coffee-prices",
+      "commodity": "coffee"
     },
     {
       "source": "Hedgepoint",
@@ -173,6 +200,15 @@
       "detailed_summary": "Cecafe's official data shows Brazil exported 3.03 million bags of coffee in July, a 9.9% increase year-on-year, while export revenue fell 13.2% to $903.9 million over the same period. The divergence between rising volume and falling revenue indicates average per-bag export prices declined meaningfully compared with a year earlier. As the world's largest coffee exporter, Brazil's monthly shipment data is a closely watched real-time gauge of how much supply is actually reaching the global market versus sitting in domestic stock. Traders should compare this volume growth against futures price trends over the same period to assess whether the market has already priced in the pace of Brazilian shipments."
     },
     {
+      "source": "Coffee Geography",
+      "summary": "Nestl\u00e9 is investing over $619 million to expand Nescaf\u00e9 production capacity in Thailand.",
+      "detailed_summary": "Nestl\u00e9 is committing more than $619 million to expand its Nescaf\u00e9 production capacity in Thailand, per the report, which does not detail the specific timeline or added output volume. A large-scale capacity investment by a top instant-coffee buyer signals expectations of sustained robusta demand growth in Southeast Asia, a region whose importance as a robusta source has grown given volatile Vietnamese output in recent seasons. Traders should watch for follow-up details on the plant's sourcing footprint, whether it draws on Thai or Vietnamese robusta, and its start-up date, since added structural buying capacity from a major roaster can support the robusta complex over time.",
+      "relevance": "Medium",
+      "date": "21 Jul 2026",
+      "link": "https://coffeegeography.com/2026/07/21/nestle-expands-nescafe-production-with-more-than-619-million-investment-in-thailand",
+      "commodity": "coffee"
+    },
+    {
       "source": "Hedgepoint",
       "summary": "Hedgepoint forecasts Brazil will drive a global coffee surplus in the 2026/27 crop year.",
       "relevance": "High",
@@ -180,6 +216,24 @@
       "link": "https://hedgepointglobal.com/en/blog/brazil-expected-to-boost-global-coffee-surplus-in-2026/27-according-to-hedgepoint",
       "commodity": "coffee",
       "detailed_summary": "Hedgepoint's forecast projects Brazil's 2026/27 crop will be large enough to push the global coffee balance into surplus. As the dominant Arabica producer, Brazil's crop size is typically the single largest swing factor in the world coffee balance sheet, so a surplus call hinges heavily on assumptions about Brazilian yields and the biennial production cycle, where Brazilian Arabica trees alternate between higher- and lower-yielding years. Traders should track this forecast against subsequent updates from Conab, USDA, and other Brazilian crop-watchers as the 2026/27 season progresses, since early-season surplus/deficit forecasts are frequently revised as weather and flowering data develop."
+    },
+    {
+      "source": "Coffee Geography",
+      "summary": "Germany overtook the US as the top buyer of Brazilian coffee amid US tariff disruption.",
+      "detailed_summary": "Germany has overtaken the United States as the leading destination for Brazilian coffee exports, with the report attributing the shift to tariff-related disruption affecting the US market. This points to demand reallocation among major consuming countries rather than a change in overall global consumption, likely reflecting US tariffs on Brazilian coffee pushing US roasters toward alternative origins while Brazilian exporters redirect volumes toward Europe. Traders should track US tariff policy developments, US green coffee import data from substitute origins such as Colombia and Vietnam, and whether the reshuffling affects freight costs and differential structures on Brazil-to-Europe versus Brazil-to-US routes.",
+      "relevance": "High",
+      "date": "01 Mar 2026",
+      "link": "https://coffeegeography.com/2026/03/01/germany-overtakes-u-s-in-brazilian-coffee-imports-amid-tariff-fallout",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Coffee Geography",
+      "summary": "New migrant labor is becoming a key source of harvest labor for coffee farms in southern Mexico.",
+      "detailed_summary": "New migrant labor is reportedly becoming a critical source of harvest workers for coffee farms in southern Mexico, though the report does not specify worker numbers or the exact regions involved. Labor availability during harvest directly affects how quickly cherries are picked at optimal ripeness, and shortages can delay harvest timing, push up labor costs, or force more selective picking that reduces the total crop volume gathered. Traders should watch for follow-up reporting on Chiapas and Oaxaca harvest progress and estimates from AMECAF\u00c9, Mexico's coffee association, since Mexico is a mid-sized arabica origin whose output matters more to Central American-quality differentials than to headline global supply.",
+      "relevance": "Medium",
+      "date": "17 Jan 2026",
+      "link": "https://coffeegeography.com/2026/01/17/new-migrant-labor-becomes-lifeline-for-southern-mexicos-coffee-harvest",
+      "commodity": "coffee"
     },
     {
       "source": "Hedgepoint",
