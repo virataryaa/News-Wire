@@ -14,7 +14,7 @@ import traceback
 
 sys.path.insert(0, os.path.dirname(__file__))
 
-from sources import cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews, cocoapost  # noqa: E402
+from sources import cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews, cocoapost, coffeegeography  # noqa: E402
 from summarize import summarize  # noqa: E402
 from template import render  # noqa: E402
 
@@ -25,7 +25,7 @@ LOG_DIR = os.path.join(NEWS_ROOT, "logs")
 
 MAX_HISTORY_PER_COMMODITY = 500
 
-SOURCES = [cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews, cocoapost]
+SOURCES = [cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews, cocoapost, coffeegeography]
 
 
 def log(message):

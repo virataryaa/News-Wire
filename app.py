@@ -83,6 +83,13 @@ SOURCES_INFO = [
         "cadence": "Daily",
         "link": "https://thecocoapost.com/category/news/",
     },
+    {
+        "name": "Coffee Geography",
+        "covers": "Coffee",
+        "description": "Dedicated coffee-origin coverage: export/import shifts, tariffs, major roaster investment moves.",
+        "cadence": "Daily",
+        "link": "https://coffeegeography.com/",
+    },
 ]
 
 
