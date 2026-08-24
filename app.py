@@ -76,6 +76,13 @@ SOURCES_INFO = [
         "cadence": "Daily",
         "link": "https://www.confectionerynews.com/Sectors/Cocoa/",
     },
+    {
+        "name": "The Cocoa Post",
+        "covers": "Cocoa",
+        "description": "Ghana-based cocoa/chocolate trade press. Strong on origin-country fundamentals: producer pricing, farmgate prices, buyer/exporter disputes.",
+        "cadence": "Daily",
+        "link": "https://thecocoapost.com/category/news/",
+    },
 ]
 
 
