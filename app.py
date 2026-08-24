@@ -4,7 +4,7 @@ import os
 import streamlit as st
 from dateutil import parser as dateparser
 
-st.set_page_config(page_title="Coffee Wire", layout="wide")
+st.set_page_config(page_title="Commodity Wire", layout="wide")
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "latest.json")
 
@@ -145,7 +145,7 @@ def render_table(items, relevance_filter):
 
 data = load_data()
 
-st.markdown('<div class="wire-title">Coffee Wire</div>', unsafe_allow_html=True)
+st.markdown('<div class="wire-title">Commodity Wire</div>', unsafe_allow_html=True)
 
 if not data:
     st.warning("No data yet. This dashboard reads data/latest.json, which the daily automation writes after its first run.")

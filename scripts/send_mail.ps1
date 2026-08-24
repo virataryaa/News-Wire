@@ -1,4 +1,4 @@
-# Sends the daily Coffee Wire output via the logged-in Outlook desktop client.
+# Sends the daily Commodity Wire output via the logged-in Outlook desktop client.
 # Same approach as the working Certs Automation pipeline: Outlook COM automation,
 # no SMTP password to manage.
 
@@ -29,7 +29,7 @@ try {
     $outlook = New-Object -ComObject Outlook.Application
     $mail = $outlook.CreateItem(0)
     $mail.To = $Recipient
-    $mail.Subject = "Coffee Wire - $today"
+    $mail.Subject = "Commodity Wire - $today"
     $mail.HTMLBody = $html
     $mail.Send()
 

@@ -4,7 +4,7 @@ PAGE_TEMPLATE = """<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Coffee Wire</title>
+<title>Commodity Wire</title>
 <style>
   :root {{
     --bg: #efece1; --bg-panel: #f8f6ef; --ink: #262218; --ink-soft: #59503f;
@@ -72,7 +72,7 @@ PAGE_TEMPLATE = """<!doctype html>
 <body>
 <div class="sheet">
   <div class="masthead">
-    <div class="masthead-row"><span>Coffee Wire</span><span>{run_date}</span></div>
+    <div class="masthead-row"><span>Commodity Wire</span><span>{run_date}</span></div>
     <h1>Source Table</h1>
   </div>
   {coffee_section}
