@@ -1,6 +1,42 @@
 {
-  "run_date": "24 Aug 2026",
+  "run_date": "25 Aug 2026",
   "coffee": [
+    {
+      "source": "DatamarNews (via Google News)",
+      "summary": "Brazil's coffee exports opened the 2026/27 crop year at a stronger pace than the prior year, DatamarNews reports.",
+      "detailed_summary": "DatamarNews reports Brazilian coffee exports are off to a stronger start in the new 2026/27 crop year versus the equivalent period last year. As the world's top coffee exporter, Brazil's shipment cadence is a real-time gauge of physical availability and logistics flow, directly shaping near-term arrival expectations at destination ports and roaster pipelines. A faster early export pace can reflect either a larger harvest reaching market or exporters front-loading shipments ahead of potential disruption. Traders should track subsequent Cecaf\u00e9/Secex export data and shipping/container logistics to see whether the stronger pace holds through the season.",
+      "relevance": "Medium",
+      "date": "Mon, 24 Aug 2026 20:30:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemNoSjNwaWE1eHg4X0twOC1HbWRUMUJpM0dsX2otUV9xUHNXa01QNVl3MnVEMTBNY19qM3VtdzFvSVFRS1hPNjJRMkdqd1Z1eHRpSE5ZUUl0bF9CeVNYSHFUcXdtMjZhU0VoT0RtTGFxeFUxUGRyYVh2RnNiMTZsSFpHcG5iR1dUSzFQOWJDYjFDdnk0cEJ5RFF6Rm8?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "stonex.com (via Google News)",
+      "summary": "Brazil's coffee flowering is diverging this season, with robusta advancing ahead of arabica, StoneX reports.",
+      "detailed_summary": "StoneX flags a split in Brazil's coffee flowering this season: robusta (conilon) trees are flowering earlier or faster, while arabica flowering lags. Flowering timing is an early input into next season's crop-size outlook \u2014 delayed or uneven flowering, often tied to rainfall timing, can foreshadow a smaller or later arabica crop well before formal estimates are published, while on-pace robusta flowering points to a more typical conilon season. Since Brazil is both the top arabica producer and a major robusta grower, a divergent outcome could affect the two coffee markets differently. Watch subsequent flowering and rainfall reports to confirm the trend.",
+      "relevance": "Medium",
+      "date": "Mon, 24 Aug 2026 19:51:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2F3b2NHbkttREZrRXU0eC1uNHN2bWJoR2szQTZ0N2JvRFdmRm52Wmp1bkF6dmZIM01nQWdzcnA2bk91cnE4S29zaTNseUc4RGhxU0tzUWx3S21QZDhsSElXZ1NrUDc1cXNaN3haMUtnOHlhTU5UWUlkNjJ3cng0RWFWbTRyX21CQUlTWjM2blVRWkluSUNVaE4wLTR0QW02UEtFa2N3?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Seeking Alpha (via Google News)",
+      "summary": "Coffee futures gained on supply concerns and growing fears of a 'Super El Ni\u00f1o' weather pattern, Seeking Alpha reports.",
+      "detailed_summary": "Seeking Alpha reports coffee prices rose amid ongoing supply issues and growing fears of a \"Super El Ni\u00f1o\" event. El Ni\u00f1o phases are historically linked to drought risk in parts of Southeast Asia, a major robusta-growing region, and can also shift rainfall patterns in Brazil, making it a closely watched macro-weather signal for both arabica and robusta traders well before any crop damage is confirmed. Because El Ni\u00f1o impacts vary widely by intensity and region, even the mention of a strong event tends to add a risk premium to prices ahead of verified impact. Watch ENSO/NOAA forecast updates and regional rainfall in Vietnam, Indonesia, and Brazil to confirm or discount the concern.",
+      "relevance": "High",
+      "date": "Mon, 24 Aug 2026 19:40:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzVGdVVYWC1PREtld1lBbEdBeDcwdVRMckVsWEFvaUFJdFZySEI2ZldyMFF3aF9RbnIyRHRzQi1TRUpyTDdLeHB2MmhfOWZleDdaSXN1ZEo2Z2Rncl9mRW5Nb3dNNGx4cHhpNU1VcjBfWl9GOFhlRzhsMXdESzhmZ1EwM2c2aTdjOG5mdjU0SDdKWF9MdkRDZzI2YWpSeG9H?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "FXEmpire (via Google News)",
+      "summary": "Arabica coffee futures are consolidating in a technical flag pattern amid harvest delays and low inventories, FXEmpire reports.",
+      "detailed_summary": "FXEmpire notes arabica coffee futures are consolidating in a technical \"flag\" continuation pattern while the underlying fundamental picture \u2014 delayed Brazilian harvest progress and low exchange-certified inventories \u2014 remains unchanged. This combines a technical read with the same drivers cited elsewhere today: Brazil's slower-than-normal harvest pace and tight certified stocks continue to constrain near-term physical supply. For a trading desk the pattern itself is secondary; what matters is whether certified stock levels and harvest-progress data continue to support the tight-supply narrative underpinning the price action, which would determine if the consolidation resolves higher.",
+      "relevance": "Medium",
+      "date": "Mon, 24 Aug 2026 16:24:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNG5rQVZ2SzIxalozdVVFWnZBQ05TTnVfcHFDUHAtQ3E4Nm8wMlItUEdCd1c4dFBwenV3OVRWTzZENlBwSHFLVmNmT2hUc3I3dGpLbVI0NUVCWnJfdTNPV1J0Z0syb3NvcEZLUmk5Z3RYSlRSVWFRNjdXbXJJS3djRjFtZVpXZTdFMXd5enVtczRGRmlzeERCMzNtaE1ONGg0SzNDS2ZOWHplbE4xcmdVYXNIZVdUR0h1UTNSR1BpTkhPaFNhYnIw?oc=5",
+      "commodity": "coffee"
+    },
     {
       "source": "Food Business Middle East & Africa (via Google News)",
       "summary": "Saudi Arabia's coffee import trade has surged to reach US$1.86 billion, reflecting rising Gulf demand.",
@@ -29,6 +65,24 @@
       "commodity": "coffee"
     },
     {
+      "source": "Barchart",
+      "summary": "Coffee futures rose Monday as Brazil's harvest progresses slowly and inventories remain tight.",
+      "detailed_summary": "Barchart reports coffee futures gained as Brazil's ongoing harvest advances at a slower-than-usual pace while inventories stay tight. Brazil is the world's largest arabica producer, so a slow harvest delays the flow of new-crop coffee into the pipeline right as old-crop stocks are drawn down, tightening near-term physical availability even if the eventual crop size proves normal. Traders should watch weekly Brazilian harvest-progress readings and Cecaf\u00e9 export data, plus ICE certified stock levels, to determine whether this reflects a genuine supply crunch or simply a timing lag that unwinds as harvest catches up.",
+      "relevance": "High",
+      "date": "Mon Aug 24, 10:43AM CDT",
+      "link": "https://www.barchart.com/story/news/4004707/slow-pace-of-brazil-harvest-and-tight-inventories-boost-coffee-prices",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Caliber.Az (via Google News)",
+      "summary": "Bloomberg reports heavy rains across Brazil are raising concerns for arabica coffee supply, per Caliber.Az.",
+      "detailed_summary": "Citing Bloomberg, Caliber.Az reports heavy rainfall in Brazil's coffee-growing regions is raising concerns for arabica supply. Since Brazil accounts for the largest share of global arabica output, excess rain during harvest can slow picking and drying and degrade bean quality, delaying coffee's arrival to market even if total crop volume is unaffected. This aligns with other same-day reports of slow Brazilian harvest progress and tight inventories. Traders should watch regional rainfall forecasts, harvest-progress figures, and quality/grading data out of key producing states like Minas Gerais to confirm whether this is a timing disruption or a more lasting quality issue.",
+      "relevance": "High",
+      "date": "Mon, 24 Aug 2026 10:00:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZm1VNUpES2dieDR5b19CVV92RnkxMGxhNlJaemtIVVJQc1owOTNlU2dwRWNfU21HTHBsS0xkOTQ2UFZVQnhOT0NLQWRSUHB0Rl9xZm54NkFydkdtR2NBMTVGRE1QT21GZy1oMHctT3c4bEhuQ29PQ2ZZeWRTVWRzQndwYkNDbHRPZ3ZXWlZWSEFma1pwdHVXN2dZbm9lU2NT?oc=5",
+      "commodity": "coffee"
+    },
+    {
       "source": "Comunicaffe International (via Google News)",
       "summary": "Arabica futures hit their highest level since January as Colombia's Fnc and Vietnam's Vicofa warn on El Ni\u00f1o risk to output.",
       "detailed_summary": "Arabica futures climbed to their highest point since January, coinciding with warnings from Colombia's national coffee federation (Fnc) and Vietnam's coffee-cocoa association (Vicofa) about the potential impact of El Ni\u00f1o on upcoming production. El Ni\u00f1o events have historically been linked to drought or irregular rainfall in key growing regions, which can affect flowering and cherry development months ahead of harvest. Since Colombia and Vietnam are the world's largest arabica and robusta origins respectively, coordinated concern from both bodies adds weight beyond a single-origin warning. Traders should track further statements from these associations, updated weather models, and whether the futures move is sustained or reverses once forecasts are refined.",
@@ -44,6 +98,15 @@
       "relevance": "Medium",
       "date": "Mon, 24 Aug 2026 09:09:27 GMT",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVNkVTZiX0NsTEZkNXVyUkxGdkk2MktqMXpVYXZ6Y2NpZDdBMzZiSXdlZGVQS0QybUdFdEtjbVBnSTEwd0RCbUFuaXIyclR1N2tWd0xBX0pjNGVFUGtMYUVFS18tc2poZGdXemVHUDZid0J1ZWY2Vk1IZHZiU1BKalBya05Eb3lLcFk1aV9BclFlVm1sTi1BaGRxQ1gzUXNia2NGUnZLcmV2ZzlFRUs3NUtTVQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "streamlinefeed.co.ke (via Google News)",
+      "summary": "A fresh cold wave tied to a building cyclone is forecast to hit Brazil, raising frost-risk watch for coffee areas.",
+      "detailed_summary": "A cold wave tied to a developing cyclone system is forecast to move across Brazil. Cold snaps during Brazil's coffee season carry frost risk for arabica trees, particularly in southern Minas Gerais and other key producing areas; frost can damage or kill trees, with yield effects that often take weeks to confirm. Not every cold wave produces damaging frost \u2014 the outcome depends on the system's intensity, duration, and precise geographic track. Traders should monitor temperature forecasts and frost advisories for the main producing states over the coming days to see whether this system reaches damaging levels or passes without lasting impact.",
+      "relevance": "Medium",
+      "date": "Mon, 24 Aug 2026 07:44:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3M4a0p4SWRKNF9qQ2drMzE3eUdQZDNsN1Y0TGVMM29GNURRNDdIMW5LQmtiaGtlS0pBS3NMeVdMYWR6WkhiR1RKMU1YMGhPdTRxT0JueXNXMnBSTEZxd0l6YUw1VURtTHJiWWd3N3lrOG5sc0hSeC1RLThpTHpCVGM4SF9NdVU2Q2RfQ3J3?oc=5",
       "commodity": "coffee"
     },
     {
@@ -334,6 +397,15 @@
       "relevance": "Medium",
       "date": "Mon, 24 Aug 2026 11:27:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRTN2SUVqaW5fNjY2UHE2dTBvZW9HMC1sQnpCRVJFMzN2MFI0UVFWOHJqbFVEWVVkN09nNWg5LU03Zk5MS05ETm9IZHFEMm51SExPSS1EWUNMd3F2TUZfd1laWkFqYVRlVEJOZnlwbEVGX193Yko4YU94Mm0wdDRaQjJIRTh0anVSRlJURTAtX1FhQ3NfaHl1a2dWMklDcV82ZF9IN2tCYVY3VUl1WHNUMDRyNA?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Cocoa futures fell as signs of abundant global supply eased tightness concerns.",
+      "detailed_summary": "Barchart reports cocoa futures declined as emerging signs point to abundant global supply, easing the tightness that has driven the market over recent seasons. After multiple years of deficit-driven price spikes tied to West African production shortfalls, particularly in C\u00f4te d'Ivoire and Ghana, any indication of a supply rebuild \u2014 whether from improved crop conditions, stronger arrivals, or rising port stocks \u2014 carries outsized weight given how thin global cocoa inventories have become. Traders should watch West African port arrival data, ICE cocoa exchange-certified stocks, and grinding/processing figures to confirm whether this marks a genuine supply recovery or a shorter-term fluctuation.",
+      "relevance": "High",
+      "date": "Mon Aug 24, 11:06AM CDT",
+      "link": "https://www.barchart.com/story/news/4004988/signs-of-abundant-cocoa-supplies-undercut-prices",
       "commodity": "cocoa"
     },
     {
