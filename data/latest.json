@@ -1,6 +1,51 @@
 {
-  "run_date": "25 Aug 2026",
+  "run_date": "26 Aug 2026",
   "coffee": [
+    {
+      "source": "streamlinefeed.co.ke (via Google News)",
+      "summary": "More reliable power supply around Kericho, Kenya is credited with supporting coffee output and yields.",
+      "detailed_summary": "Improved electricity reliability in the Kericho area of Kenya is credited with supporting coffee production and higher yields. Steady power matters most at the processing stage: pulping, washing and drying equipment at wet mills runs more consistently, lifting throughput and reducing quality losses, so the effect is incremental rather than a step change in volume. Watch volumes and clearing prices at the Nairobi Coffee Exchange and Kenyan export statistics for confirmation. Kenya is a small share of global output but a source of premium washed arabica, so this matters more for specialty differentials than for the futures benchmark.",
+      "relevance": "Low",
+      "date": "Wed, 26 Aug 2026 05:37:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS0J6QTNCRDRYUnZzMDBkMlg5M29IcEhDRDhXSVc1bVYzU08zTE9mWEt6U3NVTXhWUEVsWkpRV1NuUFpHVU51bFdaOUNRUjJjSGZpRTMtdDY2NnlxclNuazdBOExXdXljV0p0SzNVV1lhVEFFYzh0T2F4VkF6TGFCTDhsT3U5elh0X1hlc3R3ZWJNQlA4V3FUV2t3cWNrS0oxd3o5dFAxR3cyRGhLQ0VEZXYwa29tZw?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "The Economic Times (via Google News)",
+      "summary": "Heavy rain in Brazil is reported to be hitting trees and cutting availability of top-quality beans.",
+      "detailed_summary": "Persistent heavy rain across Brazil's arabica areas is reported to be damaging trees and reducing availability of the highest-quality coffee. Rain around harvest and drying interrupts patio and mechanical drying and raises the risk of fermentation, mould and defects, so a larger share of the crop is downgraded even when total tonnage holds up. That shows up first in quality differentials for fine and good-cup lots rather than in headline production numbers. Watch Brazilian differentials by grade, exporter quality assessments, ICE certified stock approval rates, and rainfall forecasts for the arabica belt over the coming weeks.",
+      "relevance": "High",
+      "date": "Wed, 26 Aug 2026 05:23:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0lKYWpGaERlYnEyMXluWHFCemVTYXFDaGpKVlRiVFZnNzBjY3pWeWV1c003WDIxUERsVzlVdXVyZ051WHBVb1dXbjloWnNwbnhfMWNkbUNGLVFLYUdVeFYxYzZLbGFSM3JfZ21fcGZPUl9WMnhnX3I5eExYZ3VwOVVwVUNXUkk2dmUyOXowVXRvNEVnSy1ITUZwUnktZHBpZ0hDTi10cUFxRW5vN1RNX01KYVlsZ2NsUlExSTduWHV0TFMtZ1YxdTZ5c1BPOF9YOHdxWlNOOEIzTWZpcnFUeHJRM0lUQdIB6wFBVV95cUxOLU0xbGxGUzh5RklzbE9sMllqWlJacDlrZ09uemFFV2o3dE9meW5KZEI4M3ZHb29mUFBaTEhpLW9ub3FmQURNMXR0cXZGTF8wenNlQWI2SW1ubGQxd0VKNFYtT19kZkV4LUNSZmpwMGRmRFIwTmZ5ODNnTThqdlVkcFg0azBydmdhaGRZZDlJV2pSQWxtMFlCYVZnNlBhRlh6SjB6Q0hZYmpTRHZ0dzNPcUM2djZ0bmxNSk83U25KM0g3aTBNSWdRZUZwazdqZE5vR0R4OV9KOUJ2MEhUb3czMVRpQWxoY3Z5NFpZ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Barchart flags firm demand against tight coffee supply and pitches a specific trade around the move.",
+      "detailed_summary": "Barchart frames current coffee strength as a demand-versus-tight-supply story and builds a trade idea around it. For a desk, the useful content is the underlying claim rather than the recommendation: when supply is tight and offtake steady, the buffer between roaster requirements and available exportable stocks compresses, so small disruptions move futures more than they otherwise would. Confirm the premise against certified exchange stocks, origin differentials and roaster buying pace rather than the retail-facing trade structure. Broker trade ideas also hint at where positioning is crowding, which matters for liquidity and for how violently the market reacts around option expiries.",
+      "relevance": "Medium",
+      "date": "15 minutes ago",
+      "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
+      "commodity": "coffee"
+    },
+    {
+      "source": "stonex.com (via Google News)",
+      "summary": "Analysis of which coffee origins are best positioned to meet EU deforestation rules already reshaping trade flows.",
+      "detailed_summary": "A StoneX analysis assesses which coffee origins are best placed to meet the EU deforestation regulation, which is already altering trade flows. EUDR requires plot-level geolocation and traceability, so origins able to document their supply chains retain access to European buyers while others redirect volume to non-EU destinations, effectively splitting the market into compliant and non-compliant pools with separate differentials. Smallholder-heavy origins carry the highest compliance cost. Watch EU import and stock-building pace, origin traceability rollouts, any change to enforcement timing, and the price gap between certified-compliant and conventional lots as the clearest confirmation.",
+      "relevance": "Medium",
+      "date": "Tue, 25 Aug 2026 20:55:41 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQm4teTdUSGdraWZLU3YyUjFmRjlaV1RzT0hBWUJsc29XeW1vR3NOcE9DV0xmYVdaVmwxNWxKRy1TX3AzWHhCRGptNE1XTW1uN2prbE5Uc0k3eWxqbUVyMGc1ZFNqaXVkQThYUVROS0MwMFNGMV9ObjdrZUZUWjlFcEpkUXhXNjJ3YUVHWGI4Q0F0MmpzcnhLLWo3ZXBoOTdESFkycFFQcHRHXzQyRkpZaHYwZE1CTE5PU1JUSFhVVjZ4dko5QzczY2FiZlotQU5wVUI4OUFTQ2Y3WFB5WHc?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Arabica gave back early gains Tuesday as Brazilian warehouses fill and expectations build for larger Brazilian export volumes.",
+      "detailed_summary": "Arabica futures turned lower on Tuesday after early strength, with reports that Brazilian warehouses are filling and expectations of larger Brazilian export volumes ahead. Coffee accumulating in origin warehouses represents readily available supply that can move to port or to exchange grading, easing near-term availability even when crop size is unchanged. Desks should track Cecaf\u00e9 shipment data, ICE certified arabica stocks and the pending-grading queue, farmer selling pace and Brazilian internal differentials to confirm or discount the trend. Brazil is the largest arabica producer and exporter, so its warehouse and shipment flow anchors global near-term availability.",
+      "relevance": "High",
+      "date": "Tue Aug 25, 1:26PM CDT",
+      "link": "https://www.barchart.com/story/news/4028574/coffee-prices-erase-early-gains-as-brazils-coffee-warehouses-fill",
+      "commodity": "coffee"
+    },
     {
       "source": "redpepper.co.ug (via Google News)",
       "summary": "Vietnam forecast to harvest a larger robusta crop, though an El Ni\u00f1o threat is flagged over the outlook.",
@@ -56,15 +101,6 @@
       "commodity": "coffee"
     },
     {
-      "source": "Barchart",
-      "summary": "Barchart flags firm demand against tight coffee supply and pitches a specific trade around the move.",
-      "detailed_summary": "Barchart frames current coffee strength as a demand-versus-tight-supply story and builds a trade idea around it. For a desk, the useful content is the underlying claim rather than the recommendation: when supply is tight and offtake steady, the buffer between roaster requirements and available exportable stocks compresses, so small disruptions move futures more than they otherwise would. Confirm the premise against certified exchange stocks, origin differentials and roaster buying pace rather than the retail-facing trade structure. Broker trade ideas also hint at where positioning is crowding, which matters for liquidity and for how violently the market reacts around option expiries.",
-      "relevance": "Medium",
-      "date": "15 minutes ago",
-      "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
-      "commodity": "coffee"
-    },
-    {
       "source": "TechStock\u00b2 (via Google News)",
       "summary": "Colombia faces a reported $9.6 billion earthquake reconstruction bill, with recovery costs pressuring sovereign bonds.",
       "detailed_summary": "Colombia is reported to face roughly $9.6 billion in earthquake reconstruction costs, with the recovery weighing on its sovereign bonds. The coffee relevance is indirect but real: Colombia is a major washed arabica origin, and quake damage reaches the trade mainly through roads, milling capacity and port access that move parchment from farms to export points, plus any fiscal strain affecting grower support programmes. Damage to trees is a separate question from damage to logistics, and the two resolve on very different timelines. Watch Federaci\u00f3n Nacional de Cafeteros production and export figures, activity at Buenaventura and Cartagena, and Colombian differentials.",
@@ -116,6 +152,15 @@
       "relevance": "High",
       "date": "Mon, 24 Aug 2026 19:11:51 GMT",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JQVl2OHhTWWhMU3cwRU83dzV4ajVZYWZyc1JVVGJXbXU1cTNPVUk4QVlmck0zYnFjVnd6d1owcXktTlk1YnduY0hxQdIBS0FVX3lxTE9JQVl2OHhTWWhMU3cwRU83dzV4ajVZYWZyc1JVVGJXbXU1cTNPVUk4QVlmck0zYnFjVnd6d1owcXktTlk1YnduY0hxQQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Coffee rallied Monday on a slow Brazilian harvest pace and tight nearby inventories.",
+      "detailed_summary": "Arabica moved sharply higher on Monday, with a slow Brazilian harvest pace and thin nearby inventories cited as the drivers. A delayed harvest does not change crop size, but it pushes back hulling, sale and shipment, so nearby availability stays tight while deferred supply is unaffected; low exchange stocks magnify that effect on prompt prices and spreads. Watch harvest-completion estimates from Brazilian analysts, weekly export and shipment figures, ICE certified stocks and grading arrivals, and the nearby-to-deferred spread structure. Note this sits directly against the following session's focus on filling Brazilian warehouses.",
+      "relevance": "High",
+      "date": "Mon, 24 Aug 2026 18:30:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0RFaXhwR2lhN2dFT1dGWVBWRkdNeVVVRHJrS2Jja0FPMkNzVjlsWjJHaFlMcFVGTG5mWXM2REdZTGhwOS1lendMVmJCZUhFNXFLaC04V3NkWFFLWWptZF9EeHB5MG9PM1RiRHp0VGVhNkZYODJQZS03MU5PWjlPQnFVakV6aHJONGc?oc=5",
       "commodity": "coffee"
     },
     {
@@ -508,12 +553,39 @@
   ],
   "cocoa": [
     {
+      "source": "Food Business Middle East & Africa (via Google News)",
+      "summary": "Cocoa grinder Guan Chong reported Q2 2026 profit up roughly fivefold to US$62.58 million.",
+      "detailed_summary": "Guan Chong reported second-quarter 2026 profit of US$62.58 million, roughly five times the year-earlier level. Grinder profitability is driven by the combined butter and powder ratios earned against bean cost, so a jump of this size points to a marked improvement in processing margins. Wider margins generally encourage grinders to run capacity harder and lift bean buying, while compressed margins lead to curtailed processing. Watch quarterly grind numbers from Europe, Asia and North America, butter and powder ratio quotes, and origin bean differentials. Guan Chong is among the largest grinders globally, making its results a useful demand-side read.",
+      "relevance": "Medium",
+      "date": "Wed, 26 Aug 2026 05:37:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzBpV2dUVXpMM3h3blFYX3BubzFCMi1VY0gyY1ZYUnJwUGpzdXFQTFV1N0tqQVk5N2VLWnJ0N2UwYnNvZWJSWkFBT19fczBzU0FtS2Q2Qmx5SzFlTWtEbVRaazUyY3BiZTFTNVh2OUFZRjhrTE1ZbnJqeWFpc3BnZVNGMXhRY25ISjZxRXJ2RmJDaWc?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Ghana News Agency (via Google News)",
+      "summary": "COCOBOD is backing four Ghanaian institutions to cultivate cocoa on their campuses, a small planting initiative.",
+      "detailed_summary": "Ghana's COCOBOD is supporting cocoa cultivation on the campuses of four institutions, an extension-and-planting initiative rather than a commercial supply programme. New plantings take several years to bear, so the near-term supply impact is negligible; the value is as a signal of COCOBOD's policy direction on expanding and rehabilitating planted area. More consequential Ghanaian variables to watch are farmgate price decisions, replanting and disease-control spending, cocoa purchase financing, and the pace of beans reaching licensed buying companies. Ghana is the second-largest origin, with output constrained in recent years by ageing trees and disease pressure.",
+      "relevance": "Low",
+      "date": "Tue, 25 Aug 2026 21:56:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFJHZm85Vl9PV2VaOE1BZGtqV2NJVmNRRUdoLThwRklWTTh1SHFrSW1jYlFmSEhRZkx2M2pTOXB2aTFlVW4zNkl1NnN0Y1NwbVZFLXc3cjVRNHZ2MkpmSmh0OWdRcWNINXg3RnN0TlV4Q21iUHlZSzJleE1TVjR0YlN1T0I3dDFubWNnSG5mcUc2eTdwRE0wU0xYZmlqSTVV?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "The Grocer (via Google News)",
       "summary": "Hotel Chocolat slipped to a loss, citing soaring cocoa and employment costs.",
       "detailed_summary": "Hotel Chocolat reported a swing into loss, attributing it to sharply higher cocoa and employment costs. Manufacturer and retailer results are among the clearest read-throughs on how far elevated bean costs have travelled down the chain: companies absorb margin first, then reformulate, shrink pack sizes or raise shelf prices, and each of those steps eventually registers in grind volumes. Consumer-level demand destruction is the main mechanism by which sustained high cocoa prices correct themselves. Watch quarterly grind data from the European, North American and Asian associations, chocolate category volume trends, and comparable results from larger confectioners for corroboration.",
       "relevance": "Medium",
       "date": "Tue, 25 Aug 2026 13:49:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHR3Mk9qY0FMQ3AzVDd4VWdZcFB0eDRoeFJsbVlmNE1RdzZPMmNCY3NuSXVoc1laTGYwU0E2eWJuR2U2NUFKN09IRWdsb0ItbnRQemhrLWFvb05jVEhJTnZzTGNGcmpBc2dlTTAxcEg4S3lQRzkzTTJGQkkwaUk3QU53ZS10Z3c2Q0RfWE5sRk5mOVlNNG96SGJKVlM0ODZESHUtcTBqRTdsMGkzN0RVcXJpNEI2alZt?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Cocoa fell Tuesday as signs of more comfortable supply and easing scarcity concerns pressured futures.",
+      "detailed_summary": "Cocoa futures came under pressure on Tuesday as indications of more abundant supply outweighed earlier concerns. Supply premiums in cocoa are typically built on West African arrival pace and exchange stock levels, so evidence of a fuller pipeline removes that scarcity element quickly. Traders should confirm with cumulative Ivorian and Ghanaian port arrivals, ICE stocks in US and European warehouses, pod-count and weather reports ahead of the West African main crop, and quarterly grind data on the demand side. C\u00f4te d'Ivoire and Ghana together supply the majority of world beans, so their arrival pace dominates positioning.",
+      "relevance": "High",
+      "date": "Tue Aug 25, 1:27PM CDT",
+      "link": "https://www.barchart.com/story/news/4028585/cocoa-prices-pressured-by-signs-of-abundant-supplies",
       "commodity": "cocoa"
     },
     {
@@ -784,6 +856,15 @@
       "relevance": "Low",
       "date": "Mar 10, 2026",
       "link": "https://thecocoapost.com/scaling-dynamic-agroforestry-could-boost-cocoa-farmers-income/",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
+      "summary": "Nestl\u00e9 launched a cocoa-free chocolate using the Choviva ingredient, extending manufacturer interest in cocoa substitutes.",
+      "detailed_summary": "Nestl\u00e9 has launched a cocoa-free chocolate product built on the Choviva ingredient, one of several manufacturer moves into cocoa substitutes. Substitution is a slow-moving demand-side variable: partial replacement in mainstream lines could gradually trim grind requirements, but scale-up is constrained by alternative-ingredient supply, cost and labelling rules that limit what can be sold as chocolate. Watch whether such products move from limited launches into core ranges, subsequent regional grind data, and manufacturer commentary on reformulation. Reformulation interest tends to intensify after periods of elevated bean costs, so treat this as a structural indicator rather than a near-term driver.",
+      "relevance": "Low",
+      "date": "10 Mar 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/03/10/nestle-launches-cocoa-free-chocolate-with-choviva",
       "commodity": "cocoa"
     },
     {
