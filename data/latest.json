@@ -1,6 +1,42 @@
 {
-  "run_date": "27 Aug 2026",
+  "run_date": "28 Aug 2026",
   "coffee": [
+    {
+      "source": "Vietnam.vn (via Google News)",
+      "summary": "Vietnamese domestic coffee prices fell up to 800 VND/kg on Aug 28, while global Arabica futures dropped nearly 4%.",
+      "detailed_summary": "Domestic coffee prices in Vietnam fell by as much as 800 VND per kg on August 28, tracking a near-4% drop in global Arabica futures, per Vietnam.vn. As the world's largest robusta producer, Vietnam's farmgate prices are a real-time gauge of grower selling behavior and near-term export liquidity; a sharp local drop can prompt farmers to hold back stock rather than sell into a falling market, tightening near-term availability even as headline prices soften. This move lines up with the broader futures selloff tied to improving global supply expectations. Watch Vietnamese farmer selling activity and the approaching Central Highlands harvest for confirmation of trend.",
+      "relevance": "High",
+      "date": "Fri, 28 Aug 2026 05:11:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRElzakRJcy13ck5kVW9vazh4NGNYME5ka2dST3RVWkJ5MjM1UW9tRW5EcEpVUHg4S0ZsS1h5THBxMS1vaXZneFV3NFNPNUZSa3FkTy03MU1yd29kYUVwWFc3Zk1HNUx5cG1kUzdQYU1OVThEUVZLblFKdWhuVHdxWlZtaEZjX3FMRVVzMmxZWGJnZVNDNFhoSg?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Barchart flags firm demand against tight coffee supply and pitches a specific trade around the move.",
+      "detailed_summary": "Barchart frames current coffee strength as a demand-versus-tight-supply story and builds a trade idea around it. For a desk, the useful content is the underlying claim rather than the recommendation: when supply is tight and offtake steady, the buffer between roaster requirements and available exportable stocks compresses, so small disruptions move futures more than they otherwise would. Confirm the premise against certified exchange stocks, origin differentials and roaster buying pace rather than the retail-facing trade structure. Broker trade ideas also hint at where positioning is crowding, which matters for liquidity and for how violently the market reacts around option expiries.",
+      "relevance": "Medium",
+      "date": "15 minutes ago",
+      "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Arabica futures extended their slide Thursday to a three-week low as easing concerns over global coffee supply weighed on prices.",
+      "detailed_summary": "Arabica futures fell for a second straight session Thursday, touching a three-week low as easing concerns over global coffee supply weighed on prices, according to Barchart. The move builds on Wednesday's declines tied to expectations of a larger Brazilian crop and reports that Brazilian warehouses are filling with new-crop beans. Since Brazil is the world's dominant arabica supplier, any signal that its crop is arriving in size can quickly loosen the market's near-term supply picture. Traders should watch Brazilian export pace, Cecafe shipment data, and ICE-certified arabica stock levels for confirmation that supply is genuinely building rather than just repricing sentiment.",
+      "relevance": "High",
+      "date": "Thu Aug 27, 1:25PM CDT",
+      "link": "https://www.barchart.com/story/news/4233180/coffee-prices-retreat-as-supply-situation-improves",
+      "commodity": "coffee"
+    },
+    {
+      "source": "AgroSpectrum India (via Google News)",
+      "summary": "India's coffee exports are rising, driven largely by robusta shipments, according to AgroSpectrum India.",
+      "detailed_summary": "India's coffee exports have surged, with robusta beans driving the bulk of the trade growth, according to AgroSpectrum India; the report gives no specific volume or value figures. India is one of the world's top robusta producers alongside Vietnam and Brazil's Conilon regions, and its exports typically fill gaps when Vietnamese supply tightens or pricing turns competitive. Rising Indian shipments could ease pressure on the London robusta market at the margin. A trading desk should watch Coffee Board of India export data and Vietnamese robusta offer prices to see whether this reflects a genuine supply shift or a short-term reporting quirk.",
+      "relevance": "Medium",
+      "date": "Thu, 27 Aug 2026 12:14:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnp2bm9yb1JVTHhhTkZ1NU1mZEZTN0JJLTJWUUc1OXpRbEtxLWJ4SGJVeUNsRTNYOGZOZ25kWmlfa3hEejZaem5YYy0zam1xemwzS1hJbXRCU3FwZ2x4ZUxQeF9pYVgwek5PX2RVdkFLVkdrSC1fRFZPeHU1cjcwWjlJaDdDcU4wVE9wTFFJQUVBa202cWZ5bGY1LVJhTWx5TWx4MjRKU1lRR3c?oc=5",
+      "commodity": "coffee"
+    },
     {
       "source": "Laodong.vn (via Google News)",
       "summary": "Vietnamese domestic coffee prices continued to decline on 27 August, per daily price tracker.",
@@ -20,21 +56,21 @@
       "commodity": "coffee"
     },
     {
-      "source": "Barchart",
-      "summary": "Barchart flags firm demand against tight coffee supply and pitches a specific trade around the move.",
-      "detailed_summary": "Barchart frames current coffee strength as a demand-versus-tight-supply story and builds a trade idea around it. For a desk, the useful content is the underlying claim rather than the recommendation: when supply is tight and offtake steady, the buffer between roaster requirements and available exportable stocks compresses, so small disruptions move futures more than they otherwise would. Confirm the premise against certified exchange stocks, origin differentials and roaster buying pace rather than the retail-facing trade structure. Broker trade ideas also hint at where positioning is crowding, which matters for liquidity and for how violently the market reacts around option expiries.",
-      "relevance": "Medium",
-      "date": "15 minutes ago",
-      "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
-      "commodity": "coffee"
-    },
-    {
       "source": "\uc544\uc2dc\uc544\uacbd\uc81c (via Google News)",
       "summary": "Korean firm Quazer pitches tagless digital product passports to help exporters meet EU regulations.",
       "detailed_summary": "An interview with Quazer covers tagless digital product passport technology aimed at helping coffee exporters comply with EU regulatory requirements. Compliance technology matters to the physical trade because EU deforestation rules impose traceability obligations on every consignment entering the bloc, and origins unable to document geolocation risk being shut out of the largest import market. That creates a potential two-tier market: compliant beans commanding a premium, non-compliant volume redirected elsewhere. Desks should track adoption rates at origin, EU enforcement timelines, and whether compliance costs begin showing up in differentials for European delivery.",
       "relevance": "Low",
       "date": "Wed, 26 Aug 2026 23:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WX0s0Uzkzc3k0VEFHN3ZzWTRjWUpLU1pDVzRyS3pCUVdOTnRDa2hCSUpwSDQzOHREMWVVNjZCY2cwYjM2S3J3b3VQNVhSWFFtMU0yU19jbkZxZG1CbkpzTTNGZWg?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Comunicaffe International (via Google News)",
+      "summary": "Coffee futures fell further as Brazilian warehouses fill with new-crop beans, even though actual new-crop sales remain sluggish.",
+      "detailed_summary": "Coffee futures extended declines as Brazilian warehouses fill with newly harvested beans, even though actual sales of the new crop remain sluggish, according to Comunicaffe. The gap between rising stockpiles and slow sales matters: it suggests futures are pricing in expected supply before it's actually confirmed as sold or shipped, which leaves room for the market to reassess if farmers hold out for higher prices rather than release beans. Brazil is the largest global arabica and robusta (Conilon) producer, so its on-farm and warehouse inventory dynamics heavily influence ICE pricing. Watch Cecafe export figures and farmer selling/pricing behavior for signs the physical market is catching up to the futures move.",
+      "relevance": "High",
+      "date": "Wed, 26 Aug 2026 22:59:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2tFd0FYSHdPMWRaWjJxVE14WjVFR1BERXZoUWtYZTlld25wWjI2aW5WTzl2UVo1azliR2lyX0tMZmxwQUlJNHl4bzdZbUpYNnY0Yi1DMHROYUE5TXA5eEJCSVZXVjVPNUN3N3dDUlE0ZzJrZTA4YjFlZXZaeTEySUUyZWNYcV8ydmg4cUI1SGZONVgxNTZrQXdYc0x6NVRJZVhtY3B4a1UzbldsbXo5c2Vvckl6NUFU?oc=5",
       "commodity": "coffee"
     },
     {
@@ -643,6 +679,51 @@
   ],
   "cocoa": [
     {
+      "source": "Business Recorder (via Google News)",
+      "summary": "London cocoa futures reached a three-week high Friday while coffee futures slipped, per Business Recorder's market wrap.",
+      "detailed_summary": "London cocoa futures climbed to a three-week high on Friday even as coffee futures slipped, according to Business Recorder's market wrap, extending the divergence seen this week between the two markets. Cocoa's strength lines up with ongoing concern about West African crop quality and Ivory Coast port congestion risk, while coffee's softness reflects growing confidence in a larger incoming Brazilian crop. For a desk trading both markets, the split is a reminder that origin-specific fundamentals, rather than a broad soft-commodity trend, are currently driving price action. Watch whether cocoa's gains hold into the next session and whether coffee stabilizes once Brazilian export data confirms the supply narrative.",
+      "relevance": "Medium",
+      "date": "Fri, 28 Aug 2026 00:28:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JM0FrYW9HdDJmcmpPWWpVRWN3S1hoMjNlbV9WUU9aZ05CZHJ2VGhLX1R1QnphRmhsbll4ZnJYdEJaV1ZqRFR4ZGVNX0ZHaWY5bk5zZmt30gFWQVVfeXFMTUkzQWthb0d0MmZyak9ZalVFY3dLWGgyM2VtX1ZRT1pnTkJkcnZUaEtfVHVCemFGaGxuWXhmclh0QlpXVmpEVHhkZU1fRkdpZjluTnNma3c?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Confectionery Production (via Google News)",
+      "summary": "Ferrero highlighted progress from an industry-wide cocoa initiative aimed at reducing child labour in the supply chain.",
+      "detailed_summary": "Ferrero said a sector-wide initiative targeting child labour in cocoa supply chains has shown meaningful progress, though the report gives no specific metrics. Child labour compliance has become a bigger commercial issue for chocolate buyers as EU due-diligence and deforestation rules push majors to trace beans back to farm level and pay premiums for verified-clean cooperatives, particularly in Ivory Coast and Ghana. Progress here can influence sourcing costs and the size of certification premiums origin buyers are willing to pay. Watch for EU regulatory implementation timelines and whether other major chocolate makers report similar compliance milestones, which would signal broader cost pressure across the supply chain.",
+      "relevance": "Medium",
+      "date": "Thu, 27 Aug 2026 15:25:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZEFMZG9RTjliR1Rpa3BHVDdjME9DQTFaWE1NM1p2SmtfVTMxdmp0TkJEbFkwbWVKSVZEUFh6QnJsaXFRc04yMVhyX2JVVVh0VXZwWG56ay1oMTlvdlJpMDRVWnBEZlpuYkptZmxhdXAtN2FOMlN2QzFLcHlxRF9vaEN2d0JsdHpvUVlRUW92Q2ZtNTdraWhvOW96XzlQazd0eC1BMTk3NjBXNDJoaDR3ZFNGT01sMEphVnB1d2hnNmc3eGpFMG1PdFg4TGRLSENtenUw?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "WSJ (via Google News)",
+      "summary": "A WSJ profile examines an investor positioning to profit from El Ni\u00f1o-driven weather disruptions to commodity markets.",
+      "detailed_summary": "The Wall Street Journal profiles an investor positioning to capitalize on El Ni\u00f1o-driven weather swings, though the article's coffee/cocoa-specific details are unclear from the headline alone. El Ni\u00f1o episodes have historically been associated with drought risk in Vietnam and Indonesia's robusta belt, irregular rainfall in Brazil's coffee regions, and disrupted rainy seasons in West Africa's cocoa belt, all of which can affect flowering, pod/cherry development, and harvest timing. Because this is an investor-focused piece rather than a crop report, treat it as sentiment and positioning color rather than confirmed impact. Watch official ENSO forecasts and origin-level rainfall data for evidence that weather is actually diverging from normal.",
+      "relevance": "Low",
+      "date": "Thu, 27 Aug 2026 13:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHdNRjQwWnZNZHhzWXFoN2t3bWRUSFZ2djBGNkVTWGI1M2ViVGdfV3luWGlMSlppZG9CeVJqWEx0eE1EYTRqS196Y0ZWNk9HTXF5MjM2RjlBNWRzQUtOWGJuVExveHJqWHAtQ3Nsd0p2RW0xMTM4Qi1NRm1BazJibUpTbmsyS2RCZlBFNDdVNHdJdTVy?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Cocoa futures jumped Thursday to near a two-month high on concerns over West African crop quality.",
+      "detailed_summary": "Cocoa futures surged Thursday, gaining as much as 3.06% and pushing prices near a two-month high, on growing concern over the quality of the incoming West African crop, according to Barchart and related market reports. Ivory Coast and Ghana together supply roughly 60% of the world's cocoa, so any sign that excess rain, disease, or delayed drying is degrading bean quality can tighten the pool of gradeable, exchange-deliverable cocoa even if raw tonnage looks adequate. Traders should watch Ivory Coast and Ghana port arrival and grading data, along with ICE-certified cocoa stock levels, to see whether quality issues are translating into fewer beans meeting delivery specifications.",
+      "relevance": "High",
+      "date": "Thu Aug 27, 1:26PM CDT",
+      "link": "https://www.barchart.com/story/news/4233390/cocoa-prices-surge-on-west-african-cocoa-quality-concerns",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Businessamlive (via Google News)",
+      "summary": "Nigeria and other West African producers are boosting current cocoa supply even as the next crop's outlook worsens.",
+      "detailed_summary": "Nigeria and other West African producers have been boosting near-term cocoa supply even as the outlook for the following crop deteriorates, according to Businessamlive, though the report doesn't specify tonnage or the cause of the weaker forward outlook. Nigeria is a smaller but growing cocoa origin alongside Ivory Coast and Ghana, and this kind of split - more beans available now, less expected later - can steepen the futures curve and pull buyers to cover needs earlier rather than wait. It's also consistent with broader West African concerns this week about crop quality and delayed harvesting. Watch near-term port arrival volumes against next-season rainfall data and the shape of the futures curve for confirmation.",
+      "relevance": "High",
+      "date": "Thu, 27 Aug 2026 12:48:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWZqQVBXSm41clZwUDdWNDFRbXBLd2c4NXlaSjQ5WWZHM01xLXJnSmo1dWlkb3pUMHVkUTVXc19qMk9UWmdXOWNkc2dGeGRzYnROR3JQelEtdnU3cWxmZkpIMHM4em5qd3B2RXFmNF83UU41cFlVcDlibm1adVdvWVFKc3ZFZDZzMkhpV1BOTVNZUzg5UGhTZEdHNA?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "globalpost.com (via Google News)",
       "summary": "Commentary questions Ivory Coast's democratic progress despite the president's conciliatory gestures.",
       "detailed_summary": "A political analysis argues Ivory Coast remains a 'mirage of democracy' notwithstanding conciliatory presidential moves. Ivorian political risk matters to cocoa because the country supplies the largest share of world production and because past electoral crises have disrupted port operations, farmgate purchasing and export licensing. The trading relevance is contingent rather than immediate: stability keeps the harvest and export machinery running, instability threatens both. This piece is commentary, not an event. Desks should watch for concrete signals instead: election scheduling, opposition participation, security incidents near Abidjan and San Pedro, and any interruption to weekly arrivals.",
@@ -661,12 +742,30 @@
       "commodity": "cocoa"
     },
     {
+      "source": "Comunicaffe International (via Google News)",
+      "summary": "Comunicaffe reports on Italy's stated commitment to strengthening sustainability across its coffee and cocoa supply chains.",
+      "detailed_summary": "Comunicaffe reports that Italy has reiterated its commitment to more sustainable coffee and cocoa supply chains, though no specific policy or funding details are given in the headline. Italy is home to major roasters such as Lavazza and illycaff\u00e8 and is one of Europe's largest coffee-importing and re-exporting hubs, so its sustainability posture can influence how much premium is paid for traceable, EU-compliant beans from origin countries. As a general policy statement rather than a concrete regulatory or funding announcement, this is unlikely to move prices on its own. Watch for follow-up details on funding, certification requirements, or sourcing targets that would translate the commitment into an actual cost or volume impact.",
+      "relevance": "Low",
+      "date": "Wed, 26 Aug 2026 22:01:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR1NMNC1qb1hmdVMxN2VidnNWUjg4MXpPd3lVZXV6cGhxTlRabEs2aWxYaldlUVdqQmMwYUFjNTdubEg4b25RVW5PQ21RYnBXQ2loaXhCNWpVTVV3M0tMLWZLMTZPZHVDYlJaS0JrMzk4YXZpS1diQVlLQ3FmNl9icmVHNG1nUFNYVC04SzF3XzN4ektuYjRhYUNMOVBZU09xVFhvUVhLUXJCeGVTb0gzcWtLVC1MLThEMU9wdl9nb2FISGJHcUtNLU1JTDhFQUZnNVhQMkVRU21YT2VpYVhvdGNXbVRGRm5WdlVHdWdXMWYxOE0?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "Modern Ghana (via Google News)",
       "summary": "World Bank warns Ghana's reliance on gold and cocoa exports leaves the economy shock-exposed.",
       "detailed_summary": "The World Bank cautions that Ghana's dependence on gold and cocoa exports exposes its economy to external shocks. For a cocoa desk the relevance is fiscal transmission: Cocobod's ability to raise syndicated pre-export financing and to pay competitive farmgate prices depends on Ghana's sovereign credit standing and cedi stability. When financing tightens, purchases and input support to farmers can slow, feeding back into production and into smuggling incentives toward Ivory Coast. Watch Cocobod's syndicated loan arrangements, cedi movements, farmgate price decisions ahead of the main crop, and official purchase volumes.",
       "relevance": "Medium",
       "date": "Wed, 26 Aug 2026 21:37:02 GMT",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pYVdsNEp0dVlHQVVnbEh5U09LbTgtSlBoZE5keFRSNTItMVNjNHNoZ2JzV0d3VGxCbnI0TTYyZ0gxUzk3cVloWkt3XzdFU2x1UmoyYTNWdDAwaGc3WVM2d1U3OA?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Modern Ghana (via Google News)",
+      "summary": "The World Bank warned that Ghana's heavy reliance on gold and cocoa exports leaves its economy vulnerable to shocks.",
+      "detailed_summary": "The World Bank has warned that Ghana's heavy economic reliance on gold and cocoa exports leaves the country exposed to external shocks, according to Modern Ghana, though specific figures aren't given in the headline. As the world's second-largest cocoa producer, Ghana's economic stability directly affects COCOBOD's ability to finance farmgate purchases, extend input credit to farmers, and fund the producer price the government sets each season - all of which influence how much cocoa actually gets sold through official channels versus smuggled across borders. A fiscally strained Ghana raises the risk of farmgate price disputes or COCOBOD financing stress. Watch upcoming producer price announcements, COCOBOD debt/financing news, and the cedi's exchange rate for follow-through.",
+      "relevance": "Medium",
+      "date": "Wed, 26 Aug 2026 20:52:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45amxYYWNtXzlhMWZpbkgyZlgxV1lLMVVYUnRnamhDbmY1T080NUdZZXBTOWNkQTlIMEdVR0puZE5xNW1mRkhaNXpBZVRYdlZLREdZME9kUkgxaVpXejRvMzBWNNIBXEFVX3lxTE1rWFJPUDI4YUpOYjZBcXAtaDRfVXI3UlB4QnBTZjcyQWwydHViam15SXJzdS1MWnUyenQ0b25NcXVlcXB5SkFla3Z4MWtZc0twUU9xdUZCUTBqbmhr?oc=5",
       "commodity": "cocoa"
     },
     {
@@ -688,12 +787,30 @@
       "commodity": "cocoa"
     },
     {
+      "source": "TradingView (via Google News)",
+      "summary": "Sources say Ivory Coast's delayed cocoa harvest could congest ports just as new EU import rules take effect.",
+      "detailed_summary": "Industry sources say a delayed cocoa harvest in Ivory Coast could lead to port congestion just as new EU import rules take effect, according to TradingView. A late harvest compresses the window in which beans move from farm to port, so if arrivals bunch up right as EUDR-related traceability paperwork adds processing time per shipment, vessels could face longer loading queues even if the underlying crop size is unaffected. That distinction matters for pricing: congestion is a near-term logistics and shipment-timing issue, not necessarily a change in total available supply. Traders should track Ivory Coast port arrival and export data along with the EU rule's implementation timeline for signs of building bottlenecks.",
+      "relevance": "High",
+      "date": "Wed, 26 Aug 2026 18:12:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNlZVYkMyR0RNZDROc0Q1UHcxMTl3cVNJVmY1YzMzb0h1eXZRYXlKUzNYcEstM3lpMUxoeW9sa3MyXzJ4aktveGdlOTU2NmtGRDhWbGtLNUI2QzRjUzlqWmNxQUtmS2h2QXpDQ2ZqRUlHVlJEY0FLTV9Dd1hhZmZ2bTBtLUVPNFUzaGFhTGRuaUZMN0dCWDR1Qkh2R0RrMk9WUTRGM0hwRm9UN1ZwY0tGeUYxS3RqMUhkN1F3a3d2YVlxQWZWUjFGblJQWTVhRGRyR1dzNWRWdTVvcDY3Rk1hZ2ZoM2w5S2hwZ3NVVkhhSmI?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "Modern Ghana (via Google News)",
       "summary": "First-hand reporting from Ghana's cocoa belt on illegal gold mining encroaching on farmland.",
       "detailed_summary": "A field report documents illegal artisanal gold mining, known locally as galamsey, inside Ghana's cocoa-growing heartlands. This is a genuine supply-side issue rather than a political story: galamsey removes cocoa farmland permanently, contaminates water sources used for farming, and draws young labour away from cocoa work at higher pay. The effect on production is gradual and cumulative rather than seasonal, which makes it a structural input to multi-year Ghanaian output assumptions rather than a near-term price catalyst. Watch government enforcement actions, Cocobod area statistics, and Ghana's official purchase totals across successive seasons.",
       "relevance": "Medium",
       "date": "Wed, 26 Aug 2026 16:22:40 GMT",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3F2azllZlY2c2I5cTM0U1lESmR3a0ZBcGw4cFlOOUdfVTBXOXppZ1Iwc0lJVU5UakpOTlF2YUhZQ1dZY1ZzaGE4YWNoTERSQUVCQ1hIb2c2VVFSOXQ1NHN2VmdWYUtjQWRwLTZNMVc0QkJhUGZ1bFpRNDUwQmEzT0V0dXBMTzNlaG9CVWNuZmljZWxyXzQ0Zi1B0gGYAUFVX3lxTFB0N2U5eUVTNThNbzY0QzBTWlJZY09ydUVTcG9PbllIQUJXUERxU3ZJdTV6NDFTdVE4Y19UdHFfbDRpMTN2d3RlWWhUcHAtbkJtbXkxeUFHYk1kT3JkNGRrWjVRRmFIamhsMEtMNGtwaEloWnR4Y2ZfWXdfWjVnbWRCMjZkZTVHVDVqTk9aZks4a2I5cE9RNU80?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Cocoa prices eased Wednesday as fears over near-term supply tightness diminished, before reversing sharply higher the next day.",
+      "detailed_summary": "Cocoa prices weakened on Wednesday as concerns about near-term supply tightness eased, according to Barchart, only to reverse sharply higher the next day on renewed West African crop-quality worries. The whipsaw illustrates how thinly confirmed the current cocoa supply narrative is: prices are swinging on shifting read-throughs from limited origin data rather than confirmed shipment or grading figures. For a trading desk, this kind of rapid reversal raises the value of watching primary data - Ivory Coast and Ghana port arrivals, mid-crop grading reports, and exporter commentary - over headline-driven sentiment, since the underlying fundamentals appear to be moving less than the price is.",
+      "relevance": "Medium",
+      "date": "Wed, 26 Aug 2026 16:02:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzRvOG1NME9WUDgzVndQbmNqa0RxaEFsQnRCS1MzYjNxcGM5Zkg4Vm1ZU2g5NHZYRzRReGM4UThoVDJXeGNRcmhZTmtZN0w2M1RHZ3RZbDJ6N2hmb3JjZUJjR21ERVNKQUdzcDRmNS1aaW1EVGh2SThUOXZoT0FIQkQtZU5kSm9hTjRGUjN3?oc=5",
       "commodity": "cocoa"
     },
     {
