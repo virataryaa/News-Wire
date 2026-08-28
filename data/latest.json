@@ -2,12 +2,39 @@
   "run_date": "28 Aug 2026",
   "coffee": [
     {
+      "source": "Perfect Daily Grind (via Google News)",
+      "summary": "Recap: ICE-certified arabica stocks near lowest since 1999; one forecast sees the C price at US$3/lb by year-end.",
+      "detailed_summary": "An industry recap notes ICE-certified arabica inventories near their lowest since 1999, alongside a cited forecast for the C price around US$3/lb by year-end. Certified stocks are the visible, exchange-deliverable buffer that shorts can draw on, so multi-decade lows shrink deliverable supply and can amplify spot tightness and backwardation. Desk view: the price forecast is one analyst's opinion, not a fundamental \u2014 treat it as sentiment. Watch daily ICE stock and grading-queue reports, pending gradings, and origin differentials that signal whether fresh coffee will be tendered. Certified stocks have fallen sharply in recent years as high prices pulled beans toward consumption rather than warehouses.",
+      "relevance": "Medium",
+      "date": "Fri, 28 Aug 2026 11:19:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaZ0lmaFBHYXpJVk1QdVhmNjY5SXNlaUl4d3NRYlBuYVhsOXlYZkgtMGxyMGVtU0hTQ1ZmTHcyTUZOR1VBT3hodzVhSEtCLUpIWmlldFlDaGV6UkVCRjUyYk1iN3BGS19MMmNraHBjN3pxUnp2QnBfeGRKQQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "The Straits Times (via Google News)",
+      "summary": "Exchange-monitored arabica stocks fell to a 26-year low, cited as a support for futures.",
+      "detailed_summary": "Exchange-monitored arabica inventories fell to a 26-year low in late August, a factor cited as underpinning futures. When certified stocks shrink, the pool of coffee immediately deliverable against futures thins, which tends to firm nearby calendar spreads and leaves the flat price more sensitive to any interruption in origin flows. Watch whether the drawdown continues in daily ICE data, the size of the grading queue awaiting certification, warehouse arrivals from Brazil and Colombia, and cash differentials. Background: this coincides with same-week reports of futures falling on easing Brazil supply concerns, so visible stocks and incoming harvest flow are pointing in different directions.",
+      "relevance": "High",
+      "date": "Fri, 28 Aug 2026 10:55:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUk9HMVBRZXlCNnVjOGxvenVybnR1T29td25za3loc0R3dGtsZGg3MURLRXUzblVhT1Y5ZG13bDdPS3VKdzFkT09CbV9ybGFlM3oza1dtdTRDeFVmS1RtNVVkaURqdUE3MkIxNmQ3Ui1PNHZxRkIxQnh5djRlcjFUUzlrSmtqLXNmQlpzMGFiWEh2OGtKcjduUg?oc=5",
+      "commodity": "coffee"
+    },
+    {
       "source": "Vietnam.vn (via Google News)",
       "summary": "Vietnamese domestic coffee prices fell up to 800 VND/kg on Aug 28, while global Arabica futures dropped nearly 4%.",
       "detailed_summary": "Domestic coffee prices in Vietnam fell by as much as 800 VND per kg on August 28, tracking a near-4% drop in global Arabica futures, per Vietnam.vn. As the world's largest robusta producer, Vietnam's farmgate prices are a real-time gauge of grower selling behavior and near-term export liquidity; a sharp local drop can prompt farmers to hold back stock rather than sell into a falling market, tightening near-term availability even as headline prices soften. This move lines up with the broader futures selloff tied to improving global supply expectations. Watch Vietnamese farmer selling activity and the approaching Central Highlands harvest for confirmation of trend.",
       "relevance": "High",
       "date": "Fri, 28 Aug 2026 05:11:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRElzakRJcy13ck5kVW9vazh4NGNYME5ka2dST3RVWkJ5MjM1UW9tRW5EcEpVUHg4S0ZsS1h5THBxMS1vaXZneFV3NFNPNUZSa3FkTy03MU1yd29kYUVwWFc3Zk1HNUx5cG1kUzdQYU1OVThEUVZLblFKdWhuVHdxWlZtaEZjX3FMRVVzMmxZWGJnZVNDNFhoSg?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Vietnam's domestic robusta prices declined, tracking weaker global futures.",
+      "detailed_summary": "Domestic robusta prices in Vietnam's Central Highlands fell, tracking weaker global futures. Vietnamese physical prices are set off London futures plus a differential, so exchange moves pass through quickly to farm-gate levels; falling prices often slow farmer selling and widen asked differentials, tightening near-term exportable supply. Watch London robusta futures, Vietnamese customs and export-shipment data, farmer withholding behaviour, and inventory estimates ahead of the new harvest that usually begins around October\u2013November. Background: Vietnam is the world's largest robusta producer, so its selling pace influences the robusta\u2013arabica spread and roasters' scope to substitute between the two.",
+      "relevance": "Medium",
+      "date": "Fri, 28 Aug 2026 00:28:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHBhVjQwWUd4RzNHSnI4Z3BTdjFMUXVNb1VqaHlXQXJPYXVSVE0yT1NGYXlJcV9EdmwzckNSdUpxTXJ6MWtVdnpZSGlmM20tV1ctRVhERndoNFJXaGpxbmpfTEEyN18zNS1hQUNXaVNMTXhreGRiRVd5Wk0yZTFaQUh2S2ZpTmvSAVZBVV95cUxPYnIxV0lSMTFfMjZUbmVDbzF1aWlCY1poZ01zMjFlOW1yMDBpbEYwemp1QzNIMWdEakJ3M0RLQ0RPR0w5NUNodTBPTHVmeU1zTnp5SHdNZw?oc=5",
       "commodity": "coffee"
     },
     {
@@ -35,6 +62,24 @@
       "relevance": "Medium",
       "date": "Thu, 27 Aug 2026 12:14:07 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnp2bm9yb1JVTHhhTkZ1NU1mZEZTN0JJLTJWUUc1OXpRbEtxLWJ4SGJVeUNsRTNYOGZOZ25kWmlfa3hEejZaem5YYy0zam1xemwzS1hJbXRCU3FwZ2x4ZUxQeF9pYVgwek5PX2RVdkFLVkdrSC1fRFZPeHU1cjcwWjlJaDdDcU4wVE9wTFFJQUVBa202cWZ5bGY1LVJhTWx5TWx4MjRKU1lRR3c?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Arabica extended losses for a second session as worries about near-term supply tightness eased.",
+      "detailed_summary": "Arabica fell for a second session on Aug 27 as fears of near-term tightness eased, extending the prior day's decline. Supply fears in coffee usually center on origin availability \u2014 Brazil's harvest, Vietnamese robusta flow and exchange inventories \u2014 and when those ease the risk premium unwinds quickly. Watch: daily ICE certified-stock changes, Brazilian and Vietnamese shipment updates, cash differentials at origin and weather in key growing areas. Background: arabica had been trading near multi-year highs on thin exchange stocks, so incremental supply news can drive outsized two-way moves. Note this sits against same-week reports of exchange stocks near 26-year lows.",
+      "relevance": "High",
+      "date": "Thu Aug 27, 10:49AM CDT",
+      "link": "https://www.barchart.com/story/news/4222495/coffee-prices-extend-losses-as-supply-fears-ease",
+      "commodity": "coffee"
+    },
+    {
+      "source": "ROI-NJ (via Google News)",
+      "summary": "A charity appeal points to an earthquake affecting Balboa, in Colombia's Cauca coffee region.",
+      "detailed_summary": "An earthquake struck Balboa, in Colombia's Cauca department, referenced here through a diaspora fundraising appeal rather than a crop-damage assessment. Cauca is a smallholder arabica region, so a significant quake could disrupt rural roads, wet-milling and picking labour, affecting the timing and movement of local lots more than national output. Desk view: treat this as unconfirmed for fundamentals until better sourcing emerges. Watch for statements from the Colombian Coffee Growers Federation (FNC), Cauca authorities, and any reports of road closures or infrastructure damage. Background: Colombia is the largest washed-arabica supplier, though Cauca is only a small share of its total production.",
+      "relevance": "Low",
+      "date": "Thu, 27 Aug 2026 10:18:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUFBVN0hiX1I5UGQzbUcwQ0xLeEVxUUc4V2ZmQ2hxMHFvb2F0ZW5oRlhEa1hLbHlrM1JGZ3dVWFF5cnNjeldQeXRLZDU2QUdXTTRVMUIyRW1xcEtjTC1oNEFrNHh1d1pWQlRvVkdfX3JvaVB5TFl2LWE5eXRocDBSazZUeGpQUXIxcWJvd0xVSDhDdEdXTllIWnY0T08tNVU1VDBwaG9NRnAzT3BkUTRuM0liN2dSSnNfTzlyTWR0OWdxVEgtNUFBLUpSQWxXWkY5LVJzdXFNcWM5aXdZUFVycVo4T2ZmbEZLNmVKNzBlb0NyclA3d05WcXZR?oc=5",
       "commodity": "coffee"
     },
     {
@@ -89,6 +134,15 @@
       "relevance": "Medium",
       "date": "Wed, 26 Aug 2026 19:24:26 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDZmbnV1ZE9qWUlBSk95XzJadkJJTXdQbFRfQlJJZ0JtaUhWTndKbmFkWXJSbFdwbHZaV1JLZEFyNjRTUlJqWWR2VmZDX2h3c004ZVNGMFJOU0ZOb2R5bEZBSTV5a1gyZlVQdnZvYnY0M09ScDFzMENnTTlkelQtUEZYTlB3TVFta0FzaVNKNzVTS0dLSjF2aGUyQXpZNkk4cU1v?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Coffee futures fell Aug 26 as the market positioned for larger supplies from Brazil, the top arabica producer.",
+      "detailed_summary": "Coffee futures fell on Aug 26 as traders positioned for larger supplies from Brazil, the world's top arabica grower. Brazil's main harvest runs roughly May\u2013September, and signs of a bigger or faster-progressing crop erode the scarcity premium embedded in ICE arabica. Desk view: this reflects expectations rather than confirmed volume, so watch Conab and private crop estimates, Cecafe export figures, weekly harvest-pace readings and producer selling to confirm or fade the move. Because Brazil accounts for a large share of globally traded arabica, revisions to its output typically move the C contract more than news from any other origin.",
+      "relevance": "High",
+      "date": "Wed, 26 Aug 2026 18:23:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlhhQm9nQmY4VDByaDhtaGxGOHJRQWtDeUFIaXo3VXJrUmFIWlNfREFnUzJZXzBoamZ1eklfOGdXNzdjOGZQRURpX0EwSnJxVm9URER6VjR4Y0hScGJGQW1aa1RFRUl0MS1vVHVZWjN2VnRlLWs5YlJzVzdPbS1ZMWdfWDJCcExsbDgtWWJSS181b0ZsaExqM0xUMHBNbEd1TkFXMEZjdm5sNVpCblc4aXN3?oc=5",
       "commodity": "coffee"
     },
     {
@@ -721,6 +775,24 @@
       "relevance": "High",
       "date": "Thu, 27 Aug 2026 12:48:40 GMT",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWZqQVBXSm41clZwUDdWNDFRbXBLd2c4NXlaSjQ5WWZHM01xLXJnSmo1dWlkb3pUMHVkUTVXc19qMk9UWmdXOWNkc2dGeGRzYnROR3JQelEtdnU3cWxmZkpIMHM4em5qd3B2RXFmNF83UU41cFlVcDlibm1adVdvWVFKc3ZFZDZzMkhpV1BOTVNZUzg5UGhTZEdHNA?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Data Portuaria (via Google News)",
+      "summary": "A delayed Ivorian cocoa harvest could bunch deliveries and congest the San Pedro and Abidjan ports.",
+      "detailed_summary": "A late start to Ivory Coast's cocoa harvest could bunch bean deliveries and congest the ports of San Pedro and Abidjan. A delay compresses the arrival window, so beans land in a shorter, heavier wave that can overwhelm warehousing, trucking and vessel berths \u2014 a timing and logistics problem that pushes back near-term shipments and export declarations rather than shrinking the crop itself. Watch: weekly port-arrival figures, exporter loading schedules, freight queues and any revision to the crop calendar. Ivory Coast is the largest cocoa exporter, so shipment timing from these ports drives short-term supply into European and North American grinders.",
+      "relevance": "Medium",
+      "date": "Thu, 27 Aug 2026 12:22:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGdtWmNkdzI0ZEI5aGNUcnYtYjF1em42a3JBNnc4Y0FaYUY1a0lQS3JfRHJhTU5xQ245blNTT00zZ1o4Z1BPcmgxd2xpX0ZZaERveDRsTnNCbmpsSXFKX2F5V0huUWEyR3YwNWtkZ1N5NFgxZzR0N0cxLUhJZVJnTGlZVnpKVnNjXzVqcGxOMFJOQ0ZRaHJSaFJiTXB2U3ZPZUhueXZjYWk0N3MwV3lQT3FIclgwUQ?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Cocoa futures rose on concern that West African bean quality is deteriorating ahead of the main crop.",
+      "detailed_summary": "Cocoa futures rose on Aug 27 on concern that West African bean quality is deteriorating ahead of the main crop. Ivory Coast and Ghana together supply roughly 60% of world cocoa, and poor quality \u2014 small beans, high defect counts, weak nib yield \u2014 cuts the effectively grindable tonnage even when gross harvest volume looks adequate, and can slow arrivals of export-grade beans. Watch: Ivorian port-arrival data, exporter and grinder quality reports, rainfall and disease pressure such as black pod and swollen shoot, and the regulator's main-crop opening. Quality scares typically hit differentials and nearby spreads before the flat price.",
+      "relevance": "High",
+      "date": "Thu Aug 27, 11:06AM CDT",
+      "link": "https://www.barchart.com/story/news/4223857/cocoa-prices-jump-on-concern-over-west-african-crop-quality",
       "commodity": "cocoa"
     },
     {
