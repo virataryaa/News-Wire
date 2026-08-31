@@ -8,6 +8,8 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 PAGES = {
     "coffee": "https://hedgepointglobal.com/en/blog/tag/coffee",
     "cocoa": "https://hedgepointglobal.com/en/blog/tag/cocoa",
+    "sugar": "https://hedgepointglobal.com/en/blog/tag/sugar",
+    "cotton": "https://hedgepointglobal.com/en/blog/tag/cotton",
 }
 
 

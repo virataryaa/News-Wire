@@ -20,7 +20,8 @@ JUNK_KEYWORDS = [
 
 STOPWORDS = {
     "the", "a", "an", "in", "on", "at", "to", "of", "and", "or", "for",
-    "is", "as", "with", "by", "from", "coffee", "cocoa", "prices", "price",
+    "is", "as", "with", "by", "from", "coffee", "cocoa", "sugar", "cotton",
+    "prices", "price",
 }
 
 
@@ -42,6 +43,7 @@ def _relevance(text):
 
 SOURCE_PRIORITY = {
     "Cecafe": 0, "Barchart": 1, "Hedgepoint": 1,
+    "Fibre2Fashion": 1, "ChiniMandi": 1,
 }
 
 

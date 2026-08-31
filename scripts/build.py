@@ -14,7 +14,10 @@ import traceback
 
 sys.path.insert(0, os.path.dirname(__file__))
 
-from sources import cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews, cocoapost, coffeegeography  # noqa: E402
+from sources import (  # noqa: E402
+    cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews,
+    cocoapost, coffeegeography, fibre2fashion, chinimandi,
+)
 from summarize import summarize  # noqa: E402
 from template import render  # noqa: E402
 
@@ -25,7 +28,12 @@ LOG_DIR = os.path.join(NEWS_ROOT, "logs")
 
 MAX_HISTORY_PER_COMMODITY = 500
 
-SOURCES = [cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews, cocoapost, coffeegeography]
+COMMODITIES = ["coffee", "cocoa", "sugar", "cotton"]
+
+SOURCES = [
+    cecafe, barchart, hedgepoint, gnews, ecofin, confectionerynews,
+    cocoapost, coffeegeography, fibre2fashion, chinimandi,
+]
 
 
 def log(message):
@@ -39,10 +47,10 @@ def log(message):
 
 def load_history():
     if not os.path.exists(DATA_OUTPUT):
-        return {"coffee": [], "cocoa": []}
+        return {c: [] for c in COMMODITIES}
     with open(DATA_OUTPUT, encoding="utf-8") as f:
         data = json.load(f)
-    return {"coffee": data.get("coffee", []), "cocoa": data.get("cocoa", [])}
+    return {c: data.get(c, []) for c in COMMODITIES}
 
 
 def trim(items):
@@ -79,7 +87,7 @@ def main():
         return
 
     history = load_history()
-    known_links = {i["link"] for i in history["coffee"] + history["cocoa"]}
+    known_links = {i["link"] for items in history.values() for i in items}
     new_items = [i for i in raw_items if i["link"] not in known_links]
     log(f"{len(new_items)} genuinely new items out of {len(raw_items)} fetched (rest already seen)")
 
@@ -93,13 +101,14 @@ def main():
         log("Everything new today was filtered out as irrelevant, skipping email/output/push.")
         return
 
-    new_coffee = [i for i in ranked_new if i.get("commodity") == "coffee"]
-    new_cocoa = [i for i in ranked_new if i.get("commodity") == "cocoa"]
+    new_by_commodity = {
+        c: [i for i in ranked_new if i.get("commodity") == c] for c in COMMODITIES
+    }
 
     run_date = datetime.date.today().strftime("%d %b %Y")
     # Email/shared HTML: only today's new items, so the inbox doesn't repeat
     # the whole history every morning.
-    html = render(new_coffee, new_cocoa, run_date)
+    html = render([(c.title(), new_by_commodity[c]) for c in COMMODITIES], run_date)
 
     os.makedirs(os.path.dirname(SHARED_OUTPUT), exist_ok=True)
     with open(SHARED_OUTPUT, "w", encoding="utf-8") as f:
@@ -107,12 +116,11 @@ def main():
     log(f"Wrote {SHARED_OUTPUT}")
 
     # Data file backing the Streamlit app: full accumulated history.
-    coffee_items = trim(history["coffee"] + new_coffee)
-    cocoa_items = trim(history["cocoa"] + new_cocoa)
+    all_items = {c: trim(history[c] + new_by_commodity[c]) for c in COMMODITIES}
 
     os.makedirs(os.path.dirname(DATA_OUTPUT), exist_ok=True)
     with open(DATA_OUTPUT, "w", encoding="utf-8") as f:
-        json.dump({"run_date": run_date, "coffee": coffee_items, "cocoa": cocoa_items}, f, indent=2)
+        json.dump({"run_date": run_date, **all_items}, f, indent=2)
     log(f"Wrote {DATA_OUTPUT}")
 
     push_to_github()

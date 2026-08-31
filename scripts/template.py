@@ -75,8 +75,7 @@ PAGE_TEMPLATE = """<!doctype html>
     <div class="masthead-row"><span>Commodity Wire</span><span>{run_date}</span></div>
     <h1>Source Table</h1>
   </div>
-  {coffee_section}
-  {cocoa_section}
+  {sections}
 </div>
 </body>
 </html>
@@ -105,7 +104,10 @@ ROW_TEMPLATE = """        <tr>
         </tr>"""
 
 
-def render(coffee_items, cocoa_items, run_date):
+def render(commodity_items, run_date):
+    """commodity_items: list of (label, items) pairs, one section per commodity,
+    in the order given. Sections with no items are skipped."""
+
     def rows_for(items):
         items = sorted(items, key=lambda x: {"High": 0, "Medium": 1, "Low": 2}.get(x.get("relevance", "Medium"), 1))
         return "\n".join(
@@ -121,15 +123,10 @@ def render(coffee_items, cocoa_items, run_date):
             for item in items
         )
 
-    coffee_section = SECTION_TEMPLATE.format(
-        label="Coffee", rows=rows_for(coffee_items),
-        footer=f"{len(coffee_items)} items.",
-    )
-    cocoa_section = SECTION_TEMPLATE.format(
-        label="Cocoa", rows=rows_for(cocoa_items),
-        footer=f"{len(cocoa_items)} items.",
+    sections = "\n".join(
+        SECTION_TEMPLATE.format(label=label, rows=rows_for(items), footer=f"{len(items)} items.")
+        for label, items in commodity_items
+        if items
     )
 
-    return PAGE_TEMPLATE.format(
-        run_date=run_date, coffee_section=coffee_section, cocoa_section=cocoa_section,
-    )
+    return PAGE_TEMPLATE.format(run_date=run_date, sections=sections)

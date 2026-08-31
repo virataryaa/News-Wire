@@ -12,6 +12,8 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 KEYWORDS = {
     "coffee": ["coffee", "arabica", "robusta"],
     "cocoa": ["cocoa", "cacao"],
+    "sugar": ["sugar", "sugarcane", "ethanol"],
+    "cotton": ["cotton"],
 }
 
 

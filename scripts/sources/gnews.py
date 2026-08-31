@@ -8,6 +8,8 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 QUERIES = {
     "coffee": "coffee (Brazil OR Vietnam OR Colombia OR export OR frost OR drought) when:2d",
     "cocoa": "cocoa (Ivory Coast OR Ghana OR Ecuador OR export OR COCOBOD) when:2d",
+    "sugar": "sugar (Brazil OR India OR Thailand OR export OR ethanol OR UNICA) when:2d",
+    "cotton": "cotton (India OR China OR USDA OR export OR crop OR ICE) when:2d",
 }
 
 

@@ -6,21 +6,27 @@ import requests
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
-PAGES = {
-    "coffee": "https://www.barchart.com/futures/quotes/KCU26/news",
-    "cocoa": "https://www.barchart.com/futures/quotes/CCU26/news",
-}
+# The softs news feed is shared across every futures symbol page, one fetch
+# is enough, but hitting two pages doubles the chance of catching everything
+# in a given feed refresh window.
+PAGES = [
+    "https://www.barchart.com/futures/quotes/KCU26/news",
+    "https://www.barchart.com/futures/quotes/CTZ26/news",
+]
 
-KEYWORDS = {
-    "coffee": ["coffee", "arabica", "robusta"],
-    "cocoa": ["cocoa"],
-}
+# Checked in order, first match wins, so more specific terms go first.
+KEYWORDS = [
+    ("coffee", ["coffee", "arabica", "robusta"]),
+    ("cocoa", ["cocoa"]),
+    ("cotton", ["cotton"]),
+    ("sugar", ["sugar"]),
+]
 
 
 def fetch():
     items = []
     seen_ids = set()
-    for commodity, url in PAGES.items():
+    for url in PAGES:
         resp = requests.get(url, headers=HEADERS, timeout=30)
         resp.raise_for_status()
         raw = resp.text
@@ -30,14 +36,19 @@ def fetch():
             continue
 
         feed = json.loads(html.unescape(match.group(1)))
-        keywords = KEYWORDS[commodity]
 
         for entry in feed:
             title = entry.get("title", "")
             if entry["id"] in seen_ids:
                 continue
-            if not any(k in title.lower() for k in keywords):
+
+            commodity = next(
+                (name for name, keywords in KEYWORDS if any(k in title.lower() for k in keywords)),
+                None,
+            )
+            if commodity is None:
                 continue
+
             seen_ids.add(entry["id"])
             items.append({
                 "source": "Barchart",

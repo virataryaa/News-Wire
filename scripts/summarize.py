@@ -12,15 +12,17 @@ import subprocess
 
 CLAUDE_BIN = shutil.which("claude") or r"C:\Users\virat.arya\.local\bin\claude.exe"
 
-SYSTEM_PROMPT = """You are curating a daily fundamentals news wire for a coffee and cocoa \
-trading desk. You'll be given a JSON list of raw headline items (source, title, summary, \
-date, link, commodity). Do the following:
+SYSTEM_PROMPT = """You are curating a daily fundamentals news wire for a soft commodities \
+trading desk covering coffee, cocoa, sugar, and cotton. You'll be given a JSON list of raw \
+headline items (source, title, summary, date, link, commodity), the "commodity" field tells \
+you which of the four each item is about, use it, don't second-guess it. Do the following:
 
-1. Drop anything that is not relevant to coffee/cocoa trade fundamentals (price action, \
-exports, weather, crop estimates, policy, logistics, certified stocks). Drop consumer \
-lifestyle content, recipes, unrelated trivia, and near-duplicate stories (keep the best \
-single version of a repeated story, e.g. if five outlets cover the same earthquake, keep \
-the single best-sourced one).
+1. Drop anything that is not relevant to that item's trade fundamentals (price action, \
+exports, weather, crop estimates, policy, logistics, certified/warehouse stocks). This \
+applies equally across all four commodities, do not treat sugar or cotton items as lower \
+priority just because there are fewer of them. Drop consumer lifestyle content, recipes, \
+unrelated trivia, and near-duplicate stories (keep the best single version of a repeated \
+story, e.g. if five outlets cover the same earthquake, keep the single best-sourced one).
 2. For each surviving item, write TWO summaries, independent of the original headline's \
 wording. Many of these items are a single headline with no article body, so you'll often \
 have very little raw material, that's expected, work with it as follows:
@@ -75,12 +77,27 @@ def _via_rules(raw_items):
     return rules_summarize(raw_items)
 
 
+# ~5s/item observed for the CLI call, keep each chunk comfortably under the
+# per-call timeout so a big backlog (e.g. onboarding a new source) can't
+# time out and fall back to the less precise rule-based filter for everything.
+CHUNK_SIZE = 35
+
+
 def summarize(raw_items):
-    try:
-        return _via_cli(raw_items)
-    except Exception as exc:
-        print(f"Claude CLI summarize failed ({exc}), falling back to rule-based filter")
-        return _via_rules(raw_items)
+    if not raw_items:
+        return []
+
+    results = []
+    for i in range(0, len(raw_items), CHUNK_SIZE):
+        chunk = raw_items[i:i + CHUNK_SIZE]
+        try:
+            results.extend(_via_cli(chunk))
+        except Exception as exc:
+            print(f"Claude CLI summarize failed on chunk {i}-{i + len(chunk)} ({exc}), "
+                  f"falling back to rule-based filter for this chunk only")
+            results.extend(_via_rules(chunk))
+
+    return results
 
 
 if __name__ == "__main__":

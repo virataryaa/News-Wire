@@ -43,28 +43,28 @@ SOURCES_INFO = [
     },
     {
         "name": "Barchart",
-        "covers": "Coffee & Cocoa",
-        "description": "Same-day price-action headlines for ICE coffee (KC) and cocoa (CC) futures.",
+        "covers": "Coffee, Cocoa, Sugar & Cotton",
+        "description": "Same-day price-action headlines for ICE futures across all four softs.",
         "cadence": "Daily",
         "link": "https://www.barchart.com/futures/quotes/KCU26/news",
     },
     {
         "name": "Hedgepoint",
-        "covers": "Coffee & Cocoa",
+        "covers": "Coffee, Cocoa, Sugar & Cotton",
         "description": "Trade-house market commentary and crop/supply analysis.",
         "cadence": "Weekly-ish",
         "link": "https://hedgepointglobal.com/en/blog/tag/coffee",
     },
     {
         "name": "Google News",
-        "covers": "Coffee & Cocoa",
+        "covers": "Coffee, Cocoa, Sugar & Cotton",
         "description": "Catch-all search feed, surfaces Bloomberg/Reuters/FT/trade-press coverage that can't be reached directly (paywalls, bot-blocks).",
         "cadence": "Daily",
         "link": "https://news.google.com/",
     },
     {
         "name": "Ecofin Agency",
-        "covers": "Coffee & Cocoa",
+        "covers": "Coffee, Cocoa, Sugar & Cotton",
         "description": "African agriculture news, origin-country coverage (Ivory Coast, Ghana, Uganda, Nigeria, etc).",
         "cadence": "Daily",
         "link": "https://www.ecofinagency.com/ea-agriculture",
@@ -89,6 +89,20 @@ SOURCES_INFO = [
         "description": "Dedicated coffee-origin coverage: export/import shifts, tariffs, major roaster investment moves.",
         "cadence": "Daily",
         "link": "https://coffeegeography.com/",
+    },
+    {
+        "name": "Fibre2Fashion",
+        "covers": "Cotton",
+        "description": "Dedicated ICE cotton price-action and trade fundamentals (shipments, stocks, demand).",
+        "cadence": "Daily",
+        "link": "https://www.fibre2fashion.com/news/cotton-news/",
+    },
+    {
+        "name": "ChiniMandi",
+        "covers": "Sugar",
+        "description": "India sugar industry trade press: mill quotas, cane pricing, ethanol policy. India is a top-3 global producer/exporter.",
+        "cadence": "Daily",
+        "link": "https://www.chinimandi.com/",
     },
 ]
 
@@ -167,22 +181,19 @@ if not data:
 
 st.markdown(f'<div class="wire-date">Last updated &middot; {data.get("run_date", "")}</div>', unsafe_allow_html=True)
 
-coffee_items = data.get("coffee", [])
-cocoa_items = data.get("cocoa", [])
+COMMODITIES = ["coffee", "cocoa", "sugar", "cotton"]
 
 relevance_filter = st.multiselect(
     "Relevance", options=["High", "Medium", "Low"], default=["High", "Medium", "Low"],
 )
 
-tab_coffee, tab_cocoa, tab_sources = st.tabs(["Coffee", "Cocoa", "Sources"])
+tabs = st.tabs([c.title() for c in COMMODITIES] + ["Sources"])
 
-with tab_coffee:
-    render_table(coffee_items, relevance_filter)
+for commodity, tab in zip(COMMODITIES, tabs):
+    with tab:
+        render_table(data.get(commodity, []), relevance_filter)
 
-with tab_cocoa:
-    render_table(cocoa_items, relevance_filter)
-
-with tab_sources:
+with tabs[-1]:
     rows = "".join(
         f"""<tr>
             <td style="font-weight:600;color:#2563a8;white-space:nowrap;">{s['name']}</td>
