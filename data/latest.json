@@ -1,6 +1,78 @@
 {
-  "run_date": "28 Aug 2026",
+  "run_date": "31 Aug 2026",
   "coffee": [
+    {
+      "source": "Vietnam.vn (via Google News)",
+      "summary": "Vietnamese domestic coffee prices stay firm on Aug 31 with steady buying interest.",
+      "detailed_summary": "Vietnamese domestic farmgate coffee prices held elevated on Aug 31, 2026, with purchasing power reported as undiminished. The domestic price floor in Vietnam reflects farmer holding behavior and exporter competition for beans; when growers resist selling and demand stays strong, it can slow the pace of robusta shipments and support London futures via origin differentials. A trader should watch the daily Central Highlands quotes, the spread to London robusta, Vietnamese export volumes and stock levels heading into the October-November new-crop harvest, and growing-region weather. Vietnam supplies the bulk of world robusta, so its farmgate tone feeds through to the global market.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 05:33:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd3VvbzFfSkdTd1FoNXhwYldkSGhPQnZGZmZSRWlkOU44VUVOVkE1NGpPVXdkN0JHc28wT1VHLUd2d3J0eW5ZeTZYVllHN284aDBlSGljYnFuSXJtZHg2SVlfb19aSEVnYzFXWWlDa3FUM2QwdGUyNnBhQWVhLVhJVVNtZ2FpaGVLcFNQejF2THdLR1lId0JGWHNkLURvemVYei1GQmdLSkhIc2RMT053U2RRS1gtczJNeWhyTU54STZCcHFBcWVEM1d1M1lTOWJ1dXhuUENLazN6UVRaQk1Ec2YxY0p6X1dhRWR3OXh5WERmZDR0c1pZanFkUkN1QQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Barchart flags firm demand against tight coffee supply and pitches a specific trade around the move.",
+      "detailed_summary": "Barchart frames current coffee strength as a demand-versus-tight-supply story and builds a trade idea around it. For a desk, the useful content is the underlying claim rather than the recommendation: when supply is tight and offtake steady, the buffer between roaster requirements and available exportable stocks compresses, so small disruptions move futures more than they otherwise would. Confirm the premise against certified exchange stocks, origin differentials and roaster buying pace rather than the retail-facing trade structure. Broker trade ideas also hint at where positioning is crowding, which matters for liquidity and for how violently the market reacts around option expiries.",
+      "relevance": "Medium",
+      "date": "15 minutes ago",
+      "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
+      "commodity": "coffee"
+    },
+    {
+      "source": "The New Times (via Google News)",
+      "summary": "Rwanda's coffee sector pursues new cultivars to lift low per-tree yields.",
+      "detailed_summary": "Rwanda's coffee industry is seeking improved varieties to raise productivity. Rwanda is a small but quality-focused fully washed arabica origin; varietal renewal and replanting take three to four years to bear fruit and longer to reach full yield, making this a slow-burn structural supply story rather than a near-term price driver. It matters more to specialty differentials and East African origin availability than to the ICE benchmark. A trader should watch for official planting targets and funding, uptake by growers, similar programs in Burundi, DRC and Uganda, and seasonal rainfall affecting the current crop.",
+      "relevance": "Low",
+      "date": "Sun, 30 Aug 2026 22:49:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVlZTDJ4R0dxN21qd1FPNmcyaXptaUZzS2ZWOVNKZmhuXy0yZ3U2cWNDd1A5Sk9PR19LNzd4MEMwd09BREczaTF2cDV0ZUE5cEVMdHBWRm9oS09QRV9RVzZoYlMzaVBFMENkQjZtdjVnM2tRc2hlU0ZhTXRkTHZMWElvRC1qRmdqSEhVNDJ3eVc4WjVsVlJHZjZzc0tTNkptWTNza1BELXdRNWplTS0yV9IBsAFBVV95cUxOUVlZTDJ4R0dxN21qd1FPNmcyaXptaUZzS2ZWOVNKZmhuXy0yZ3U2cWNDd1A5Sk9PR19LNzd4MEMwd09BREczaTF2cDV0ZUE5cEVMdHBWRm9oS09QRV9RVzZoYlMzaVBFMENkQjZtdjVnM2tRc2hlU0ZhTXRkTHZMWElvRC1qRmdqSEhVNDJ3eVc4WjVsVlJHZjZzc0tTNkptWTNza1BELXdRNWplTS0yVw?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "NewVision.co.ug (via Google News)",
+      "summary": "Uganda's total merchandise export earnings rose 11%, with coffee a key contributor.",
+      "detailed_summary": "Uganda reported an 11.0% rise in merchandise export earnings, a basket in which coffee is typically the single largest line. Uganda is Africa's leading coffee exporter and a major robusta origin, so a higher export value often reflects both firm world prices and larger shipped volume; such releases usually break out coffee bags and dollar receipts separately. A trader should look to the UCDA monthly coffee export report for volume and average realized price, the robusta share, and how weather in the Lake Victoria crescent and Mount Elgon zones is shaping the coming crop. The vague headline number needs the coffee-specific detail to be tradable.",
+      "relevance": "Low",
+      "date": "Sun, 30 Aug 2026 20:00:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2VLOHdEVWhUY3pyUVhTeVdic1prRkxkcXFwNDQwcWRXaktQbGlRaFRWallpdmFibjFVMWZySG8wblBOQmozYTZlY2tyVnUySDVzcEROVFUzVlpEQXAxb0FrbkRUc2l4S2RvZ0JDZnJmYlNxSWcxYmdUNmsxczFBVmY1VHlOMG9RSjh0czZPNkNWTlRxUF9pSXJZblotOE9GeXdZRmlZWk1qanBZ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Daily Monitor (via Google News)",
+      "summary": "New study challenges the assumption that robusta coffee tolerates heat and drought well.",
+      "detailed_summary": "The author of a new study argues that robusta's reputation for climate resilience is unfounded, calling it an internet myth. Markets have assumed robusta can absorb warming better than arabica, a belief underpinning expansion plans in Vietnam, Brazil, Uganda and India; if robusta is in fact temperature- and drought-sensitive, long-run yield and quality risk in those origins is higher than currently priced. This is a research and narrative item, not an immediate supply change. A trader should watch for the study's specifics on optimal growing temperature, peer response, and whether major origins cite it in planting or irrigation decisions. Robusta now accounts for a large and rising share of world output.",
+      "relevance": "Medium",
+      "date": "Sun, 30 Aug 2026 07:36:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbFQ1c0huLWg5V3dqNHVvb0FGV1hhU25DR2RON3NSU3lkUnlCUWFWcWhsSWV6dDR4Rk03RFRkaHNiOURSYVMzaFNaYWpEWnFVTDZiU05PZVhESG9ZbTAwUnBLdDk5LTlOUEw3OTJGMWU3cW9UVk9OTlNQQlZlU2plWjFKRVNSOFRNeXN2Mk0tbVg3SXFTYTdacU1kc09OWlNhVEZxUEk3WS00Y2c0YzZ0NVZnZzZNOEFhdHBfSFBQVVpNV1NFVEZxMnE4SGhUM2M?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "The Straits Times (via Google News)",
+      "summary": "Vietnamese growers convert coffee land to higher-value durian for Chinese demand.",
+      "detailed_summary": "Farmers in Vietnam are reportedly shifting land out of coffee and into durian orchards to capture strong Chinese fruit demand. Vietnam is the world's largest robusta producer, so sustained acreage loss in the Central Highlands would tighten the robusta balance over several seasons, since replanting and intercropping decisions take years to show in output. Near term this is a structural and sentiment story rather than a supply shock. A trader should watch Vietnam's official planted-area and customs export data, farmgate price spreads between coffee and durian, and whether replanting support or weather shifts the incentive. Robusta-arabica arbitrage and European buyer coverage are the transmission channels.",
+      "relevance": "Medium",
+      "date": "Sun, 30 Aug 2026 04:20:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXhVMFJDQnFzcWttWUpwRy1ldHdNdEV5R01ub2tQdVZDY09xbnVBTVRYenE2eVByZTA5QmhiM3pQVUM2bkdTSWlubGZyRkxMNDlyTDlIVk5zUkxZc3lyMHgta1lqWlBaTlRyR280cExnbXVweUhOVmdDUVdpb0p3RHZsY0VHOWZ6aUJma3pPQWxGdG1HalE?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "SGGP English Edition (via Google News)",
+      "summary": "Vietnam's January-August 2026 coffee export earnings exceed US$6 billion.",
+      "detailed_summary": "Vietnam's coffee export revenue topped US$6 billion in the first eight months of 2026, according to SGGP. A high value figure that may accompany flat or lower tonnage points to elevated unit prices carrying earnings; the split between volume and price tells a trader whether Vietnam is drawing down inventory or simply selling dearer. With the new crop harvested from October, low carryover would leave the market thinly supplied into the fourth quarter. Watch the volume number alongside the value, monthly customs releases, remaining exportable-surplus estimates, and the London robusta curve. Vietnam is the dominant global robusta supplier, so its shipment pace sets near-term availability.",
+      "relevance": "Medium",
+      "date": "Sun, 30 Aug 2026 02:43:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1FxTHJJTWNzaFNSUFhXdmV3eEFnM3NCbmVFOVpwemhSN3U2Vmo1NW5ER2wyRkhzUXNkellHMkJScWFFdGRMeFNQeXZWZ0N5X3BXWFAwU1loX2VoYW5kUzlfOHdTMVBzajJFNjBjTllGbHF4R3duVVlLSGZFX01Bb3JYV3BfdG8zSllhYkViZkpFOVNEM251cE1xMTZycWFaT0hBcVB0WlhFMlFO?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Arabica firms as ICE exchange-monitored coffee stocks continue to decline.",
+      "detailed_summary": "Arabica futures were supported on Aug 28 by a continued drawdown in ICE-monitored certified coffee inventories. Certified stocks are the visible buffer deliverable against the exchange, so when they fall it signals tight nearby availability and can push shorts and roasters to bid up prompt contracts, often steepening backwardation. A trader should watch the daily ICE warehouse report for further drawdowns versus fresh gradings and pending-grade entries, alongside Brazilian and Central American shipment pace and the Brazilian real, since origin selling and currency swings usually determine whether the stock decline persists. Brazil and Colombia dominate world arabica supply.",
+      "relevance": "High",
+      "date": "Fri Aug 28, 1:23PM CDT",
+      "link": "https://www.barchart.com/story/news/4325974/falling-ice-inventories-boost-arabica-coffee-prices",
+      "commodity": "coffee"
+    },
     {
       "source": "Perfect Daily Grind (via Google News)",
       "summary": "Recap: ICE-certified arabica stocks near lowest since 1999; one forecast sees the C price at US$3/lb by year-end.",
@@ -35,15 +107,6 @@
       "relevance": "Medium",
       "date": "Fri, 28 Aug 2026 00:28:39 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHBhVjQwWUd4RzNHSnI4Z3BTdjFMUXVNb1VqaHlXQXJPYXVSVE0yT1NGYXlJcV9EdmwzckNSdUpxTXJ6MWtVdnpZSGlmM20tV1ctRVhERndoNFJXaGpxbmpfTEEyN18zNS1hQUNXaVNMTXhreGRiRVd5Wk0yZTFaQUh2S2ZpTmvSAVZBVV95cUxPYnIxV0lSMTFfMjZUbmVDbzF1aWlCY1poZ01zMjFlOW1yMDBpbEYwemp1QzNIMWdEakJ3M0RLQ0RPR0w5NUNodTBPTHVmeU1zTnp5SHdNZw?oc=5",
-      "commodity": "coffee"
-    },
-    {
-      "source": "Barchart",
-      "summary": "Barchart flags firm demand against tight coffee supply and pitches a specific trade around the move.",
-      "detailed_summary": "Barchart frames current coffee strength as a demand-versus-tight-supply story and builds a trade idea around it. For a desk, the useful content is the underlying claim rather than the recommendation: when supply is tight and offtake steady, the buffer between roaster requirements and available exportable stocks compresses, so small disruptions move futures more than they otherwise would. Confirm the premise against certified exchange stocks, origin differentials and roaster buying pace rather than the retail-facing trade structure. Broker trade ideas also hint at where positioning is crowding, which matters for liquidity and for how violently the market reacts around option expiries.",
-      "relevance": "Medium",
-      "date": "15 minutes ago",
-      "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
       "commodity": "coffee"
     },
     {
@@ -732,6 +795,33 @@
     }
   ],
   "cocoa": [
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Softs wrap: raw sugar eases from a one-year high while cocoa extends gains.",
+      "detailed_summary": "In the Aug 29 session, raw sugar retreated after touching a one-year high and cocoa continued to climb. A cross-commodity market wrap like this reflects fund positioning across the softs complex, where money flows often move sugar, coffee and cocoa together. Cocoa's continued strength aligns with ongoing West African supply concern, while sugar's pullback from its peak suggests profit-taking or improved supply signals from Brazil, India or Thailand. A trader should watch ICE settlement trends over the following sessions, CFTC managed-money positioning, and whether cocoa's move is backed by fresh port arrivals or grind data rather than momentum alone.",
+      "relevance": "Medium",
+      "date": "Sat, 29 Aug 2026 21:32:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tYm96eUg2ZE5LTVFmY3lLSjFWUUhoYWItZUJ3YnBTUzNRWlg2eHBlZ2JtM0ZoazRaRWp4N1ctTmJRYnkxczNoRktNQjFLTUVJbFZxc0pR0gFWQVVfeXFMTm1ib3p5SDZkTktNUWZjeUtKMVZRSGhhYi1lQndicFNTM1FaWDZ4cGVnYm0zRmhrNFpFang3Vy1OYlFieTFzM2hGS01CMUtNRUlsVnFzSlE?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "News Ghana (via Google News)",
+      "summary": "Proforest expands forest patrols in a high-deforestation-risk Ghanaian cocoa district.",
+      "detailed_summary": "The NGO Proforest is scaling up forest monitoring patrols in one of Ghana's highest-risk cocoa-linked deforestation areas. This ties to EU deforestation regulation compliance, which requires traceability proving cocoa was not grown on recently cleared forest; tighter enforcement raises costs and, if parts of Ghana's crop cannot be certified deforestation-free, could restrict volumes eligible for the EU, a major destination. Ghana is the world's second-largest cocoa producer. A trader should watch COCOBOD and EU statements on regulatory timelines, the share of Ghanaian beans with verified traceability, and whether compliant versus non-compliant price differentials emerge.",
+      "relevance": "Low",
+      "date": "Sat, 29 Aug 2026 11:28:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWlTUVpLdE1WR3lLeXpkaFMycUZBSW9FVUZUdWR5Qk44ZW9KLVVKY0Y1N3dTcklKb2VZV1doNVI2QmhTZjhYOGNGTEZ0QzNfSnRCY3JYWm9YR0E2N1NEeGtzQ2JEa09uSkhyaVRGRV9DX1BMS081Unp3b2xRMUZlUVktei11ZEg1TGNNal9TaTlwSVFzenRHWC1B?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Cocoa futures hit an 11-month high on West African supply concerns.",
+      "detailed_summary": "Cocoa reached an 11-month high on Aug 28 as fears over West African supply drove buying. Ivory Coast and Ghana together grow roughly 60% of the world's cocoa, so weather, disease such as black pod and swollen shoot, and input shortages during crop development feed directly into the global balance. Rallies powered by supply fears rather than confirmed data can unwind quickly. A trader should watch Ivorian port arrivals on a cumulative weekly basis versus last season, regional rainfall and Harmattan outlook, mid-crop quality reports, quarterly grind figures from Europe, North America and Asia, and ICE cocoa warehouse stocks for confirmation.",
+      "relevance": "High",
+      "date": "Fri Aug 28, 11:06AM CDT",
+      "link": "https://www.barchart.com/story/news/4323610/supply-fears-push-cocoa-prices-to-11-month-highs",
+      "commodity": "cocoa"
+    },
     {
       "source": "Business Recorder (via Google News)",
       "summary": "London cocoa futures reached a three-week high Friday while coffee futures slipped, per Business Recorder's market wrap.",
