@@ -1,6 +1,69 @@
 {
-  "run_date": "31 Aug 2026",
+  "run_date": "01 Sep 2026",
   "coffee": [
+    {
+      "source": "Retail News Asia (via Google News)",
+      "summary": "A new study argues robusta coffee is more vulnerable to heat and climate stress than commonly assumed.",
+      "detailed_summary": "Research warns that robusta's reputation for climate hardiness overstates its tolerance to temperature and rainfall extremes. This is a structural, long-horizon supply signal rather than a near-term catalyst: it bears on yield trajectories and planting decisions in Vietnam, Brazil (conilon), Indonesia and Uganda over years, not weeks. For a desk it matters mainly as background to the robusta balance and to arabica-robusta substitution assumptions used in blend costing. Watch whether the findings feed into producer-country agronomy guidance or major buyers' sourcing models; near-term prices will still be set by current-crop weather, exports and certified stocks.",
+      "relevance": "Low",
+      "date": "Tue, 01 Sep 2026 06:27:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2xPbTZXN2EtMmgwMGVtLUtHb0hsZUV4RmpYNXNwLWh3V2ozeEtkY2E0X2JBM0w0djJnYW94aGVpYkU4N1djVGlYa2JMMmphSlB3LUlCSGhyaGlxUmRjTjhIdk1tQXNoQ2s0T2RuVkxSblhVN3gxbmowR2UwNkRXTVB6QS1zdWo0a0RxOFVQVQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Barchart flags firm demand against tight coffee supply and pitches a specific trade around the move.",
+      "detailed_summary": "Barchart frames current coffee strength as a demand-versus-tight-supply story and builds a trade idea around it. For a desk, the useful content is the underlying claim rather than the recommendation: when supply is tight and offtake steady, the buffer between roaster requirements and available exportable stocks compresses, so small disruptions move futures more than they otherwise would. Confirm the premise against certified exchange stocks, origin differentials and roaster buying pace rather than the retail-facing trade structure. Broker trade ideas also hint at where positioning is crowding, which matters for liquidity and for how violently the market reacts around option expiries.",
+      "relevance": "Medium",
+      "date": "15 minutes ago",
+      "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Herald.co.zw (via Google News)",
+      "summary": "Zimbabwe coffee has reportedly cleared EU market-access and health requirements.",
+      "detailed_summary": "The EU has given Zimbabwe's coffee a clean assessment, easing access to that market. Zimbabwe is a very small producer, so the direct supply impact is negligible; the relevance is as another data point on how EU import rules, including phytosanitary standards and deforestation-regulation compliance, are shaping which origins can ship freely. Smaller African origins clearing these hurdles marginally supports export volumes and origin diversity. A trader should watch Zimbabwe's annual output and export figures and, more importantly, broader EUDR implementation news affecting large suppliers such as Brazil, Vietnam and Ethiopia, where compliance friction would have real balance-sheet consequences.",
+      "relevance": "Low",
+      "date": "Mon, 31 Aug 2026 22:10:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15QzZnbldjRGxmUFRjQmZab1M0elFmNDg5bG5aWHUxOFB0akVMeEdRMnRxTjB5M1BlU3JPcEx0NkdkeE5mdUlDemo2Ti02R1l6Rmljc04zTDRCeUFvcG8yMk9FeVRPU3BlYmFhUkxIaHg4NFVpNUFYOWQzdEs?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "stonex.com (via Google News)",
+      "summary": "StoneX says weather risk and low inventories keep the coffee market on edge even with a larger crop expected.",
+      "detailed_summary": "StoneX notes that despite expectations for a larger crop, thin inventories and weather risk are keeping coffee volatile. Low exchange-certified and pipeline stocks reduce the market's buffer, so prices stay sensitive to any Brazil or Vietnam weather scare, such as dry spells, frost risk during Brazil's winter window, or erratic monsoon rain in Vietnam, even as the headline harvest grows. A trader should watch ICE certified arabica and robusta stock levels, Brazilian weather forecasts, and Vietnamese rainfall and export flows to judge whether the buffer rebuilds. Brazil and Vietnam are the two largest producers; a big crop against thin stocks often sustains elevated volatility.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 20:53:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEd2MTYzSUR1VEJmRWVVTk9NLWpnd2JpYi1KcFlUYng4WmprWXp2dnROeWpMQW9EdEdVYkNQdkRGaC1oUUNJN09EUkVEWWhFNXotbXE3UlBnQlRUTEdodUd2dUYxRzJzM1llQ2tXMFN5ZlJteEJUNWhQTFR4S25DTmhlZ0hOV2NpdnU0M2FSeUcwZV9rdW9DMUdpMWw2d1FhRVRWcGtpWFZYUk1xVnl0dFcyZElPOVpsYV9LV3lDUQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "marketscreener.com (via Google News)",
+      "summary": "Global coffee supply is seen as ample this season, though shipments from Brazil and Colombia are running late.",
+      "detailed_summary": "The overall coffee supply outlook is described as positive, but harvest and logistics delays in Brazil and Colombia are slowing shipments. A delay affects the timing of arrivals, not the size of the crop: near-term differentials and exchange certified-stock draws can tighten while beans sit in transit, then loosen once flow catches up. Brazil is the largest arabica producer and exporter and Colombia the largest washed-arabica supplier, so their shipping cadence drives roaster coverage and exchange inventories. Watch Cecafe (Brazil) and FNC (Colombia) monthly export data, the ICE certified-stock trend, and port and vessel-logistics reports to see whether the backlog clears.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 18:41:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNlZjMGozZ3NEMTh1bUk1UXA5bWNKeGRMeHBsWWxxZUMyRFZzN1dVdE82eXpkQ1ZWSHVrOVJPS0tlYVp6bkFxaEVlbVhCMFpTYzJ5VHpRdFcwRWxWN2FxM0VLQlFCQmFpVTV1bFZjU043N0Q1UmZuWmRiU0xKOVY2eUd5ZGNsaDFKUWVyTDF3RDhiWV9BeElhX2EtOHlHbWFaNEgyM3ppaDVLemtQZEZhTXNvcWp1d1U1R0R5QXdJSmNXY1J6V3c?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "ANTARA News (via Google News)",
+      "summary": "Indonesia shipped its first batch of Tangkuban Parahu (West Java) arabica to Saudi Arabia with government support.",
+      "detailed_summary": "The Indonesian government facilitated a debut arabica shipment from the Tangkuban Parahu area of West Java to Saudi Arabia. Volumes on a first specialty consignment are small and not price-moving on their own, but the item fits a broader pattern of Indonesia pushing origin diversification and new demand outlets in the Gulf. Indonesia is a large robusta exporter with a smaller specialty-arabica segment. A trader would want to see whether this translates into recurring, scalable contracts and shows up in larger aggregate Indonesian arabica export figures before treating it as a genuine demand-side development. Track GAEKI and customs export data for follow-through.",
+      "relevance": "Low",
+      "date": "Mon, 31 Aug 2026 14:47:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaE1CdjhBSndUdXM3Sl9ZX1I3VTJNVEprcnNJOXlyVndTb1ZWYTdaNlhoWUc0Z2NGbHhOSFdnUE9YZTZoNzV5LVdXcUNTd1Jfc0pCSHB2d1kwVUJYZVJDRTBUa182ZlJzYlFhUmc5WGhvTFRPQ2M1bXFxWEE0S2d5WFZyR3llNWtIYWtVam9ZMkdfclZuX3BIM1VqVWR5Rnl5dnFFYkNOd0JheVVlcnhhbE930gGyAUFVX3lxTE9oTUJ2OEFKd1R1czdKX1lfUjdVMk1USmtyc0k5eXJWd1NvVlZhN1o2WGhZRzRnY0ZseE5IV2dQT1hlNmg3NXktV1dxQ1N3Ul9zSkJIcHZ3WTBVQlhlUkNFMFRrXzZmUnNiUWFSZzlYaG9MVE9DYzVtcXFYQTRLZ3lYVnJHeWU1a0hha1Vqb1kyR19yVm5fcEgzVWpVZHlGeXl2cUViQ053QmF5VWVyeGFsT3c?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Malay Mail (via Google News)",
+      "summary": "Heavy rain during Brazil's 2026-27 coffee harvest is reported to be cutting the share of premium-quality beans.",
+      "detailed_summary": "Heavy rains over Brazil's 2026-27 coffee harvest are said to be reducing higher-grade output. Rain during picking and drying interrupts field work and can cause beans to ferment, darken or sprout, pushing more of the crop into lower grades even if total tonnage changes little. The effect shows up in fine-cup availability and quality differentials rather than flat price alone. Brazil is the world's largest arabica producer, so a quality skew tightens the global pool of premium and washed-substitute coffee. A trader should watch Cecafe export breakdowns by grade, cooperative quality reports, and Brazilian weather through the remaining drying window.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 11:58:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVItVDZiUjAxVFVEdkNlUjUtVDlmQTJoN0RqZDBTM180SThCR183SUN4Y3lIWktidU5OdzRqa2VUMHRpazI4QVJ4NUNpVFZzQURCTDY0ak5IcXhzVVhKRFB3NndlUW0xV1R2dVA2WTROTXhOR0gzSlYtMDM1Wm9DX2ZLSmRNcnczckZMaWsydUt4M2JvVkl6Nkp0NmY3aS11V3BsbHJENzFyMjZxdWdQM0VyRml4a0hqSTlOaU1LemtkM2NKbnBzUjJwOWTSAcwBQVVfeXFMTjlSLVQ2YlIwMVRVRHZDZVI1LVQ5ZkEyaDdEamQwUzNfNEk4QkdfN0lDeGN5SFpLYnVOTnc0amtlVDB0aWsyOEFSeDVDaVRWc0FEQkw2NGpOSHF4c1VYSkRQdzZ3ZVFtMVdUdnVQNlk0Tk14TkdIM0pWLTAzNVpvQ19mS0pkTXJ3M3JGTGlrMnVLeDNib1ZJejZKdDZmN2ktdVdwbGxyRDcxcjI2cXVnUDNFckZpeGtIakk5TmlNS3prZDNjSm5wc1IycDlk?oc=5",
+      "commodity": "coffee"
+    },
     {
       "source": "Vietnam.vn (via Google News)",
       "summary": "Vietnamese domestic coffee prices stay firm on Aug 31 with steady buying interest.",
@@ -8,6 +71,15 @@
       "relevance": "Medium",
       "date": "Mon, 31 Aug 2026 05:33:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd3VvbzFfSkdTd1FoNXhwYldkSGhPQnZGZmZSRWlkOU44VUVOVkE1NGpPVXdkN0JHc28wT1VHLUd2d3J0eW5ZeTZYVllHN284aDBlSGljYnFuSXJtZHg2SVlfb19aSEVnYzFXWWlDa3FUM2QwdGUyNnBhQWVhLVhJVVNtZ2FpaGVLcFNQejF2THdLR1lId0JGWHNkLURvemVYei1GQmdLSkhIc2RMT053U2RRS1gtczJNeWhyTU54STZCcHFBcWVEM1d1M1lTOWJ1dXhuUENLazN6UVRaQk1Ec2YxY0p6X1dhRWR3OXh5WERmZDR0c1pZanFkUkN1QQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "The Japan Times (via Google News)",
+      "summary": "Some Vietnamese farmers are converting robusta coffee land to durian to serve booming Chinese demand.",
+      "detailed_summary": "Vietnamese growers are reportedly switching acreage from robusta coffee to durian, chasing higher returns from China's fast-growing demand for the fruit. Vietnam is the world's dominant robusta producer, so sustained land loss to competing crops is a structural, multi-year supply risk rather than a near-term price driver: mature coffee trees take years to establish or replace, and the shift is hard to reverse quickly. A trader should watch Vietnam's official planted-area and yield surveys, GSO monthly export volumes, and the farm-gate price spread between coffee and durian to gauge how widespread the conversion is. Tighter robusta would also raise arabica substitution in blends.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 02:36:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFNZWi16WmpLbUVQZDd4bGRiVllkZUU5UUYwVTNLdWVsT2lnamRpVHBzNEN2ZGtQcm5WWEg2MldaYVVwNTczRlMwTm8wQnRBRXRfMVYwZ09DSmExMzFlTlZTVnlSYVhzZTlMMktDa29YUFFfRzlRY1JrMnFqRVk0ajFNalpuNFRZaUxUN3pJQzM3RzlfZG9QZzZpZVlTbzlzcmpRVA?oc=5",
       "commodity": "coffee"
     },
     {
@@ -19,15 +91,6 @@
       "commodity": "coffee",
       "relevance": "Medium",
       "detailed_summary": "Vietnam is the world's largest robusta producer, so a sustained shift of farmland from coffee to durian, driven by better margins from Chinese fruit imports, bears on medium-term robusta supply. The mechanism is slow: durian trees take years to reach full yield and coffee removals are not immediately visible in export data, so the impact accrues over several seasons rather than one crop. Traders should watch Central Highlands planting surveys, replanting-versus-removal ratios, GSO area estimates, and whether elevated robusta prices slow the conversion. Confirmation would come from lower Vietnamese output forecasts from USDA or local bodies."
-    },
-    {
-      "source": "Barchart",
-      "summary": "Barchart flags firm demand against tight coffee supply and pitches a specific trade around the move.",
-      "detailed_summary": "Barchart frames current coffee strength as a demand-versus-tight-supply story and builds a trade idea around it. For a desk, the useful content is the underlying claim rather than the recommendation: when supply is tight and offtake steady, the buffer between roaster requirements and available exportable stocks compresses, so small disruptions move futures more than they otherwise would. Confirm the premise against certified exchange stocks, origin differentials and roaster buying pace rather than the retail-facing trade structure. Broker trade ideas also hint at where positioning is crowding, which matters for liquidity and for how violently the market reacts around option expiries.",
-      "relevance": "Medium",
-      "date": "15 minutes ago",
-      "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
-      "commodity": "coffee"
     },
     {
       "source": "The New Times (via Google News)",
@@ -742,15 +805,6 @@
       "detailed_summary": "Ecofin Agency reports Uganda is committing $200 million to an industrial project expanding domestic coffee processing and value-chain infrastructure. Uganda is a major robusta exporter, and building out processing capacity domestically, rather than exporting raw green beans, is aimed at capturing more value locally rather than changing near-term export volumes. This is a longer-term structural/investment story rather than an immediate supply-side catalyst. Traders should note it as a signal of Uganda's ambitions to grow its role in value-added coffee exports over time, but it is unlikely to move near-term robusta pricing."
     },
     {
-      "source": "Cecafe",
-      "summary": "Brazil exported 3.03 million bags of coffee in July, up 9.9% YoY, though revenue fell 13.2% to $903.9M.",
-      "relevance": "High",
-      "date": "July 2026",
-      "link": "https://www.cecafe.com.br/en/publications/monthly-exports-report/",
-      "commodity": "coffee",
-      "detailed_summary": "Cecafe's official data shows Brazil exported 3.03 million bags of coffee in July, a 9.9% increase year-on-year, while export revenue fell 13.2% to $903.9 million over the same period. The divergence between rising volume and falling revenue indicates average per-bag export prices declined meaningfully compared with a year earlier. As the world's largest coffee exporter, Brazil's monthly shipment data is a closely watched real-time gauge of how much supply is actually reaching the global market versus sitting in domestic stock. Traders should compare this volume growth against futures price trends over the same period to assess whether the market has already priced in the pace of Brazilian shipments."
-    },
-    {
       "source": "Coffee Geography",
       "summary": "Nestl\u00e9 is investing over $619 million to expand Nescaf\u00e9 production capacity in Thailand.",
       "detailed_summary": "Nestl\u00e9 is committing more than $619 million to expand its Nescaf\u00e9 production capacity in Thailand, per the report, which does not detail the specific timeline or added output volume. A large-scale capacity investment by a top instant-coffee buyer signals expectations of sustained robusta demand growth in Southeast Asia, a region whose importance as a robusta source has grown given volatile Vietnamese output in recent seasons. Traders should watch for follow-up details on the plant's sourcing footprint, whether it draws on Thai or Vietnamese robusta, and its start-up date, since added structural buying capacity from a major roaster can support the robusta complex over time.",
@@ -758,6 +812,15 @@
       "date": "21 Jul 2026",
       "link": "https://coffeegeography.com/2026/07/21/nestle-expands-nescafe-production-with-more-than-619-million-investment-in-thailand",
       "commodity": "coffee"
+    },
+    {
+      "source": "Cecafe",
+      "summary": "Brazil exported 3.03 million bags of coffee in July, up 9.9% YoY, though revenue fell 13.2% to $903.9M.",
+      "relevance": "High",
+      "date": "July 2026",
+      "link": "https://www.cecafe.com.br/en/publications/monthly-exports-report/",
+      "commodity": "coffee",
+      "detailed_summary": "Cecafe's official data shows Brazil exported 3.03 million bags of coffee in July, a 9.9% increase year-on-year, while export revenue fell 13.2% to $903.9 million over the same period. The divergence between rising volume and falling revenue indicates average per-bag export prices declined meaningfully compared with a year earlier. As the world's largest coffee exporter, Brazil's monthly shipment data is a closely watched real-time gauge of how much supply is actually reaching the global market versus sitting in domestic stock. Traders should compare this volume growth against futures price trends over the same period to assess whether the market has already priced in the pace of Brazilian shipments."
     },
     {
       "source": "Hedgepoint",
@@ -816,6 +879,78 @@
   ],
   "cocoa": [
     {
+      "source": "Bizcommunity (via Google News)",
+      "summary": "Ivory Coast main-crop development running late, raising doubts over early-season export volumes.",
+      "detailed_summary": "Reports say Ivory Coast's cocoa crop is developing late, prompting concern over export timing. The October-March main crop drives the bulk of annual shipments, so a slow start pushes port arrivals and bean availability into later months, delaying nearby export commitments and compressing the shipping window; that affects near-term differentials and vessel scheduling even if the full-season total is eventually met. Traders should track weekly arrivals at San Pedro and Abidjan versus year-ago, the Conseil Cafe-Cacao's forward-sale pace, and September rainfall. Ivory Coast is the world's largest cocoa producer at roughly 40% of global output, so its timing sets the tone for the season.",
+      "relevance": "High",
+      "date": "Tue, 01 Sep 2026 06:16:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNlNrTkdUSktfbVV6cUNNMEpUWEx2Nnh5U1dBNGc3RHlYanBwcVdDcXZJeUhwM1pjZDlic09oRW1qclFDR2t6OEU5NmhvQ3h4WU5PVnlwbTlscUVXTDJFVlNzQjZWWnd3ZlNMbFl0elVRSk5KOVZaTWJkNUhWS0l4Q3JyR01sVkdwMUJkR1RBd3FEODBraWF5aTUzang?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Africa Intelligence (via Google News)",
+      "summary": "Ivory Coast's new card-based cocoa-farmer payment scheme is reportedly leaving some growers out.",
+      "detailed_summary": "The Conseil Cafe-Cacao's rollout of a card-based payment system for cocoa farmers is reported to be excluding some producers. Ivory Coast is the world's largest cocoa supplier, and friction in how farmers are paid can affect their incentive and ability to deliver beans to licensed buyers, potentially slowing the flow of the new crop to ports at the start of the main-crop marketing season and encouraging side-selling or cross-border movement. A trader should watch Ivorian port arrivals data, enforcement of the fixed farm-gate price, and any Conseil Cafe-Cacao clarification on enrollment and timing to judge whether deliveries are actually disrupted.",
+      "relevance": "Medium",
+      "date": "Tue, 01 Sep 2026 04:44:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON2Jjeld0RHNFMk1BaVVGWkh1WkZfaHpvX0VLTWVCblJNMDRYb2phOUk4TkRuTGMzX1FGeTdvbG54Q1R4VklKVDR6eWxFcVNLZHhvNmZqVllKU29naWNaeUJiTDJsVXd1QnJyUm9nUjNJdkk3X2Nhay1hZnNhOG9SVTJrUHI3YWZqakNwdE54VldhcU5wTU8zMXBJREtvM2lGV0czRUluN0txNFVqdndJOVZpaFhfNlMzajlhamlVU2tXTzVtQ0hjbktWSDVCaEhxbS1VeXZnR0FqakZDQ2RZ?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Yahoo Finance (via Google News)",
+      "summary": "Cocoa futures gain as traders flag quality problems in the new West African crop.",
+      "detailed_summary": "Cocoa prices firmed on concern about the quality of beans coming out of West Africa. This matters because Ivory Coast and Ghana together supply roughly two-thirds of world cocoa, and poor bean quality (low counts, small size, high defect or mould rates) lowers the yield of usable nibs per tonne, forcing grinders to buy more beans or pay premiums for well-fermented lots and tightening effective supply even if headline tonnage holds. Watch bean-count and out-turn reports from graders, exporter rejection rates, port arrivals data, and the rainfall or disease pressure that typically drives such quality complaints during pod development.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 18:22:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajJyVWZIT1A5dUdaZ1RoZ0pfNXFUZG5JT0ZKQkRIeGhXNmtRVTczcTc5UUdtTEdrMGN4Q1c3R0kzV3pYbnN5NFRWZFlYcXBvNjBzZEhmTjlaYVZ2cmx1MXJ3cFVoNXZJRmtLY01JeFQtVW9KY3YyX1BaUlpOTFNiZG5oR1d6WkVBWjFmX2VtVjRPQ3puQ2dwdTRiaktWMUZZSnc?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "GBC Ghana Online (via Google News)",
+      "summary": "Fairtrade Africa presses cocoa buyers and grinders to close farmer living-income gaps.",
+      "detailed_summary": "Fairtrade Africa publicly urged the cocoa industry to do more to close the living-income gap for West African farmers. Advocacy and buyer commitments on farmer pay can feed through to higher living-income differentials and farmgate prices, which over time influence planting decisions, farm maintenance and the incentive to sell through official channels rather than smuggle; in the near term this is more a reputational and policy signal than a price driver. Watch whether major manufacturers announce concrete premium increases and how Ivory Coast and Ghana set the living income differential for 2026/27. The two origins jointly introduced the LID premium to lift grower earnings.",
+      "relevance": "Low",
+      "date": "Mon, 31 Aug 2026 15:21:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODdHTDM0Q3NJWldYNWhTVUltVE81RmNWcmJuTEVvcV83b2E5NjRvRHBTSW1XTVBQMmZYRlFKUEVzaVplbTRDdTJsMUk0cXpDbnNCYVI1S21qOWktdkdGM0FKX0J4a0h2UG9kdDlRUlQ2cWpOakNFUTVRZkFkRUNocVJxdThMaWVmQ0czS2c5bWRtcVJ2Z2hTdFJ5NUppa3lzSldMOVdhZzZuSnRwRFpvN2VnRkhQRGthTmRseQ?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Cocoa futures push above $6,500 as 2026/27 supply worries build.",
+      "detailed_summary": "Cocoa futures traded above 6,500 per tonne on mounting concern about the size of the 2026/27 West African crop. With stocks drawn down over prior deficit seasons, the market prices small shifts in West African production expectations aggressively, and thin certified inventory lets fund positioning and origin weather headlines drive outsized moves. Traders should watch exchange certified-stock levels, Ivory Coast and Ghana arrivals once the season opens in October, quarterly grind data from Europe, North America and Asia, and the timing of the dry Harmattan wind. The market has run repeated supply deficits recently, leaving inventories tight and prices sensitive to crop news.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 14:36:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3RSTjhORldKbjlxLTM2Vk1wRlhRWHZKUGprcGp6YngxU1FackpxX2xoU01LclRIZjRabldQdzVJZTRFeTd0OTFjMjc2cm9aYkNVSVpFRFZPVS0td1RZUUVXNy1ocTlLV1JQU3hnZTRfcEVYQUJra0o2U2pxQ28yUUVzYWdxeUVNSVN0cVNBNVJOYzNIeG5yVG1nb3NFX2hVVlhKOXg4bnNPUXJRdjRpUVZfXzZUa0E?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Cocoa futures gained on worries about the quality of the coming West African crop.",
+      "detailed_summary": "Cocoa futures rose on concerns about bean quality from West Africa. Ivory Coast and Ghana together supply the majority of world cocoa, and adverse weather or disease pressure such as black pod can lower bean count and butter content, meaning grinders need more beans per tonne of product and may push back on poor arrivals. Quality problems can widen origin differentials and support futures even when headline tonnage looks adequate. A trader should watch arrivals data at Ivorian ports, exporter grading and rejection reports, the mid-crop versus main-crop split, and the next European and North American quarterly grind figures to confirm or discount the concern.",
+      "relevance": "Medium",
+      "date": "Mon Aug 31, 1:22PM CDT",
+      "link": "https://www.barchart.com/story/news/4359547/cocoa-prices-rise-on-concern-over-west-african-cocoa-quality",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "streamlinefeed.co.ke (via Google News)",
+      "summary": "Ghana's COCOBOD reports a return to profit as cocoa revenue roughly triples.",
+      "detailed_summary": "Ghana's cocoa regulator COCOBOD swung back to profit, with cocoa revenue reported to have tripled. The jump reflects higher world prices and higher producer prices, and a healthier balance sheet affects COCOBOD's ability to raise its annual syndicated loan that pre-finances bean purchases, to pay farmers on time, and to fund input distribution and rehabilitation of disease-hit farms, all of which feed future output. Watch the size and terms of the next cocoa syndicated loan, the 2026/27 farmgate price announcement, and progress on curbing cross-border bean smuggling. Ghana is the world's second-largest producer and has faced weak output and strained finances in recent seasons.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 12:20:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDVnc0VoRy1tQlh2dVNTY3dXdzhGWndUR0ppUmE4VnpUTy1YRWFNSGlHanRaTFZ3ZjZVZmZ6N3hERFVkcHJsQmpOLUlYZFVpZnNmTXl1YmJuZWdzbzNENGJ3d0J5eWM3eTB4N051MmZhR1dKWDVITzlMUmlFaW1USGFhWkFZeVI5bW52SA?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "marketscreener.com (via Google News)",
+      "summary": "Ivory Coast grants 107 exporter licences for the 2026/27 cocoa season.",
+      "detailed_summary": "Ivory Coast's regulator issued 107 cocoa export licences for the 2026/27 season that opens in October. The licence count indicates how many exporters and local grinders are cleared to buy beans and take forward contracts with the Conseil Cafe-Cacao; a stable or higher number points to normal competition for beans at farmgate, while consolidation concentrates counterparty risk, as seen in past seasons when licensees failed to deliver against pre-sold contracts. Watch how volume allocations are split between multinationals and local operators and any subsequent contract-default news. Ivory Coast pre-sells most of its crop through this licensed-exporter system, so licence issuance is a routine but watched season marker.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 09:14:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTJJcVN2YzBfTlZhUlBoQ1N4LUw1LWFxdHpCZU1SdV9zR3ZzTnVhbDYwNHJScnFtc2NRLW83TmRYclZLN1I3dW5jWHMwNkNKbG82MTJ6Sk9fU1lxVDdJdkVfaEVHRzBZOVJFLWMzcm8xWWFyZWIxQ1VJZFpwcFV4LUlNVGgyT1haMzRSanNwV0JWdDd0bFhPUjR0VHRtVmZvZVBHLXMtZlRQbzFOLUZydkZCMUVhNzA?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "TradingView (via Google News)",
       "title": "Ivory Coast issues 107 cocoa export licences for 2026/27 season - TradingView",
       "summary": "Ivory Coast granted 107 cocoa exporter licences for the 2026/27 season opening in October.",
@@ -834,6 +969,15 @@
       "commodity": "cocoa",
       "relevance": "High",
       "detailed_summary": "Ivory Coast sets a fixed farmgate price each season, and holding it at a lowered level for 2026/27 affects grower planting and input decisions, incentives to move beans across the border with Ghana, and the pace of farmer selling. A lower guaranteed price relative to world futures widens the gap that encourages cross-border leakage and can dampen farm investment in the following cycle. The report is attributed to unnamed sources, so traders should await the official CCC announcement, compare it with Ghana's Cocobod price, and monitor arrivals and any change to the export reference price."
+    },
+    {
+      "source": "Ecofin Agency",
+      "summary": "Cocoa and cotton cultivation drove Cote d'Ivoire's fertilizer demand to a record, per Ecofin.",
+      "detailed_summary": "Ecofin reports that expanding cocoa and cotton cultivation pushed Cote d'Ivoire's fertilizer consumption to a new peak. For the cocoa desk this is a lens on input intensity and cost: heavier fertilizer use points to investment in yields but also greater farmer exposure to input prices and availability, which can shape future output and farmgate economics. Cote d'Ivoire is the world's largest cocoa producer, so its agronomic trends carry weight. Traders should watch how fertilizer costs and any subsidy programmes evolve, whether higher application actually translates into stronger main-crop yields, and the government's farmgate price decisions for the coming season.",
+      "relevance": "Low",
+      "date": "31 Aug 2026",
+      "link": "https://www.ecofinagency.com/news-agriculture/3108-58471-cocoa-and-cotton-push-cote-divoires-fertilizer-demand-to-new-peak",
+      "commodity": "cocoa"
     },
     {
       "source": "Business Recorder (via Google News)",
@@ -1523,6 +1667,159 @@
   ],
   "sugar": [
     {
+      "source": "ChiniMandi (via Google News)",
+      "summary": "Philippines weighs corn and sugarcane feedstock to support a planned E15 ethanol mandate.",
+      "detailed_summary": "The Philippines is exploring corn and additional sugarcane-based ethanol to feed a proposed shift to an E15 blend. Diverting cane juice or molasses to fuel ethanol reduces sugar available for the domestic market, so a higher mandate would tighten the local balance and could raise import requirements, while supporting cane growers' returns. Watch the final blend timetable, whether the Sugar Regulatory Administration adjusts allocation between domestic sugar and ethanol feedstock, and Philippine raw sugar import tenders. The Philippines is a modest producer that periodically imports to cover shortfalls, so policy changes here mainly affect regional trade flows rather than world price benchmarks.",
+      "relevance": "Medium",
+      "date": "Tue, 01 Sep 2026 06:55:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2NyZk0zNkNQOUhaTU9FZGxROUxGOXBlcHFVUkEtQjNLMEpHU042bHRBV2FVUFIzWEY2bUZzWTkwTmM3UGljdWFSVnpJcjBvSFJLS1pFLWpualZrRlE0RXpBUmMtR2daMld6cnBkdm5iQmdtcWE4aUxOZ3pHZ2c1SFdNUUVQUGZ3U2pTLWVQdEkweGFyNXQ2TlFFZUN5RHhuVWlETkVGMG8?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Patna Press (via Google News)",
+      "summary": "Retail sugar in Bihar reportedly near Rs 70/kg as local production runs below requirement.",
+      "detailed_summary": "Retail sugar prices in the Indian state of Bihar are reported around Rs 70 a kilogram, with local mill output said to fall short of the state's consumption. Regional price spikes like this can precede or reinforce national policy responses such as larger monthly release quotas or stock limits. Bihar is a deficit sugar state, so its prices tend to sit above the national average on freight and availability from surplus regions. Traders should watch whether similar spreads appear in other consuming states and how the central government adjusts the September and October sales quotas.",
+      "relevance": "Medium",
+      "date": "Tue, 01 Sep 2026 03:55:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWR0WnBINWRTN3hKWjNaNWd5dVdNM3p4Tktsc3BQSDRyZnpmTkMzZlNkeVh2NXRDeFVoZFBWNGMwMmpPX1p1X0VCeHllc245dkFnQmxlUGZSMjhsMEZNRUk1Zjh0S3k5YnJNaE9ueGMwM0hKRFlyb0I4bXlYbUlLQTh4R0kzRHpOMW5QSFI3R201ZENVTkN3TzNZNDhCTDBwZ0xhZHdBU1F1Zw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "India's cane sown area is down about 0.41 lakh hectares year-on-year as of August 28.",
+      "detailed_summary": "As of August 28, India's sugarcane planted area was roughly 0.41 lakh hectares (about 41,000 ha) below the prior year. Acreage is the first input to next season's cane and sugar output, but a modest early decline is not decisive: monsoon rainfall through September still drives yield, and the mix of fresh planting versus ratoon crop matters. India is the world's largest sugar consumer and swings between being a major exporter and a net importer, so its crop size shapes global surplus or deficit expectations and export-policy decisions. Watch subsequent weekly sowing updates, reservoir levels, and state-level government and ISMA output estimates.",
+      "relevance": "Medium",
+      "date": "September 1, 2026",
+      "link": "https://www.chinimandi.com/indias-sugarcane-sowing-area-dips-0-41-lakh-hectares-as-of-august-28/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Haryana farmers demand a State Advised Price of Rs 600 per quintal for sugarcane.",
+      "detailed_summary": "Farmers in Haryana are pressing the state to set the State Advised Price for cane at Rs 600 per quintal, intensifying a standoff ahead of the crushing season. The SAP sits above the central Fair and Remunerative Price and directly raises mills' input costs; higher cane costs squeeze processing margins, can delay crushing starts if mills push back, and influence how much cane farmers commit in the following year. Haryana is a smaller producer than Uttar Pradesh or Maharashtra, but SAP negotiations there often set the pattern for the rest of north India. Watch for the state's final SAP notification and any impact on crushing-start timing.",
+      "relevance": "Medium",
+      "date": "September 1, 2026",
+      "link": "https://www.chinimandi.com/cane-price-battle-intensifies-in-haryana-as-farmers-seek-rs-600-quintal-sap/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Philippine producers expect firmer millgate prices as sweetener import rules tighten.",
+      "detailed_summary": "Philippine sugar producers anticipate stronger millgate prices as the government tightens rules on imported sweeteners. Restricting substitute and imported supply shifts domestic demand toward locally produced raw sugar, supporting mill prices and planter incomes, and reduces the need for the country to draw on world-market supply. The Philippines is a modest producer and periodic importer, so the direct effect is mainly regional, but import-policy shifts there can add or remove marginal demand in Asian physical markets. Traders should watch for the Sugar Regulatory Administration's formal orders, any import-volume allocations, and whether tighter rules translate into reduced Philippine buying interest abroad.",
+      "relevance": "Medium",
+      "date": "September 1, 2026",
+      "link": "https://www.chinimandi.com/philippines-sugar-producers-expect-stronger-millgate-prices-as-sweetener-imports-face-tighter-rules/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Tamil Nadu announces measures to raise sugarcane productivity as prices climb.",
+      "detailed_summary": "Tamil Nadu's government unveiled steps to lift cane productivity, typically improved seed varieties, irrigation support and extension services, against a backdrop of rising sugar prices. Yield-focused programs generally take one to three seasons to show up in cane tonnage and sugar recovery, so the near-term supply impact is limited; the signal value is that a producing state is trying to expand output in response to firm prices. Tamil Nadu is a secondary Indian producing state constrained by water availability. Watch for actual budget allocations, farmer uptake, and whether state crushing volumes and recovery rates improve in next season's data.",
+      "relevance": "Low",
+      "date": "September 1, 2026",
+      "link": "https://www.chinimandi.com/tamil-nadu-announces-sugarcane-productivity-measures-amid-price-rise/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Philippines studies corn and sugarcane as feedstock to support an E15 ethanol blend.",
+      "detailed_summary": "The Philippines is evaluating corn and additional sugarcane as feedstocks to supply a higher E15 ethanol blend mandate. Diverting cane to ethanol competes directly with sugar production, tightening the domestic sweetener balance and supporting prices; leaning instead on corn or imported ethanol would spare cane for sugar. A firm blend increase raises structural cane demand over time. As a small producer, the Philippines matters mainly regionally, but the policy direction echoes the broader cane-to-ethanol diversion seen in India, Brazil and Thailand. Watch for the blend-mandate timeline, confirmed feedstock allocations, and any new distillery capacity announcements.",
+      "relevance": "Low",
+      "date": "September 1, 2026",
+      "link": "https://www.chinimandi.com/philippines-explores-corn-sugarcane-alternatives-to-support-e15-ethanol-blend/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Finport.am (via Google News)",
+      "summary": "Armenia's sugar imports fell, with Brazil and Russia still its main suppliers.",
+      "detailed_summary": "Armenia has reduced its sugar imports, while Brazil and Russia remain its leading sources. Armenia has little domestic production and depends on imports, so shifts here reflect local demand, stocking and re-export dynamics rather than any supply-side change; the supplier mix shows Brazilian raws and Russian white sugar competing on freight and price into the Caucasus. Watch whether Russian export duties or quotas redirect regional flows and how Black Sea logistics costs evolve. Armenia is a very small buyer, so the value of this item is as a data point on regional trade patterns and on how much sugar Russia is releasing for export, not as a driver of world prices.",
+      "relevance": "Low",
+      "date": "Mon, 31 Aug 2026 21:18:41 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3akU1THlKOGRLNzM2WFhEeG1oekNWTFRSRUdqcE5rbVNuaW9RZERNMTJwLXUxamh1eVRtWFdFWjMzMl9BN09rcS1OUDdCWno4TFZ1M1lHaHp1cDNT?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "LatestLY (via Google News)",
+      "summary": "Gujarat extends the deadline for public distribution system sugar disbursement to September 3.",
+      "detailed_summary": "Authorities in Gujarat have pushed the cutoff for distributing subsidised sugar through the public distribution system to September 3. This is a logistics and administrative item rather than a supply shift: the same tonnage is being moved to ration-card holders, just on a longer timeline, which can reflect delayed allocations or slow offtake at fair-price shops. Its market relevance is minor but it sits within a broader picture of Indian authorities managing sugar availability and affordability. Traders should focus more on the monthly free-sale quota and any changes to PDS sugar volumes than on deadline extensions like this.",
+      "relevance": "Low",
+      "date": "Mon, 31 Aug 2026 17:50:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDZxdG1xWGd1bEc0aGNrZlI2WjctQ0tyMTNlSmc4ckhMR0s5ZGljSVVKWEN3cEdQT0ZBSTBybG5kYXF3TU11UzJFNkp3OHEtSllwTFhmVXRXdk51bUFtWm41bmQ2QUNkRnpYaGVlN2hKSHQxYVpYOXIwaGFXWGRjWVNIX3lPbUJBcUNsa2NrQnBXREVYRFhITEhVdC02S21kQTQxYWxVLVowUHJNd3JDVnJpRl9FbG1KZ1NxQTdQRElDbkZ0X2VjS18tR0FjeDI00gHWAUFVX3lxTE9sb0RKc0tZTGRRaXc5c3oxZDJXSndmenlmcGh5cUpmQ1Y5dDYxQ1hycllDazl4aldxRHhuMXBfMjlSS2tERnI0dTdEMEg4SUZVbDVXQXhSQ2JHdXp2VXNhdWZpZ3hITHJjRC13N1pUc1ZYOWRFdzh4bzM0RTBhcDc3WDdTS0hUWG12MVBjMzZ6OGpaNDYxci1JUEtHOWVlZlN2aW5KSEVpdkNkdWNvcndFd19LUmFvZWtNSG1ZdjV4N1d6Q2w1MHNXV3Z2bjJVWXEwUUlaX1E?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Traders Union (via Google News)",
+      "summary": "India's available sugar supply falls even with record cane output, keeping domestic prices strained.",
+      "detailed_summary": "The report frames an apparent contradiction: India harvested a record cane crop yet marketable sugar supply has tightened, leaving prices elevated. The usual explanation is heavy diversion of cane and syrup into ethanol plus drawn-down opening stocks. For a trading desk this matters because India's exportable surplus is the residual after domestic demand and ethanol, so a tight home balance limits shipments to the world market. Watch closing-stock estimates, the ethanol diversion figure, monthly release quotas and any decision on export permits to judge whether the squeeze persists into the next season.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 17:21:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUdnbVFkLUpWd0FZVHhEZm42NTdZX0hTWnItWDgzWGtDYlByVlV3UGlVRk5tbXVqUEhhN3pCdmVZTWlqLXJJQmJFU012R0dEWFpCekZFUWdrUHhhRE51XzZqNUNWRHU0MlQxVWxSak0tWjd5c0lsUGRRY2xEbW5oMTllNGh0VUg2Y1RZdFd0YjZWNk5yYnk0VE91NA?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Whalesbook (via Google News)",
+      "summary": "India sets its September open-market sugar sales quota at 1.3 million tonnes.",
+      "detailed_summary": "The Indian government has fixed the domestic free-sale sugar quota for September at 13 lakh tonnes (1.3 million tonnes), the monthly volume mills are permitted to sell into the open market. This is the government's primary lever for managing domestic availability and prices: a larger quota loosens near-term supply, a smaller one tightens it. Comparing the figure with August's allocation and with typical festive-season demand tells a trader whether authorities are leaning toward easing prices. Watch for any mid-month top-up quota, which the government has used before when prices stayed firm, plus stock-limit announcements.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 15:47:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHp1STFPdEtFaGZJMDNkUG0tbzhMYndud3ZKc0NaSnFMNFFwR1pHdEt2MDBSeFNmZHl3NWR5eWhwUWxPUlFCNllmZzhZeVdYNEdDWnpCbnNfS25wUGU4SU5GeWw4UkQ3VGhGT3V4X2daV0s3ckVwaWZDRUhmeFNSdU9CWHFuWWdmaTdpWGhQdHdDcG9kUUV1MlJMUHRzWm1aZDBsN0lxUDBIbjdnNHFERUwzTVBUOUJob1ZqZ0NsUlpZcUtfR1E?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "thehindubusinessline.com (via Google News)",
+      "summary": "India sets a 1.3 million-tonne sugar sale quota for the first half of September.",
+      "detailed_summary": "India allocated 13 lakh tonnes (1.3 million tonnes) of sugar for domestic sale in the first fortnight of September 2026. The government uses fortnightly and monthly release quotas to manage domestic prices: a larger release adds near-term supply for mills' buyers and can soften ex-mill prices, while a smaller one tightens the market. Traders should compare this figure with the prior fortnight and the year-ago allocation, watch subsequent ex-mill price prints, and check whether the Centre adds a mid-cycle top-up. The release mechanism is India's principal short-term lever on domestic prices, working alongside its separate export and ethanol-diversion policies.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 15:21:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHpid3NuX211VUlUa3JhektQMks5Zkh0YTB3VTc4T1B3WVFHNmtpOFlDWGhGVm9TMVNTT2JJemY1bEVwZHF4dTNwWDdsdjZ4Zi1JSHlEemdMWmtmQmVHVDdjVWI4N2RrT014ZU5qMW5YZXlIMlAzUmFkQk5LNjZSRGNLMG9LZTNkcnNiWVBVWE5Zb0t2RUc3R2c2RXB6Q1M2ajctVGUxOW04c05xR09BWGxxUE1UYXZIMmZ4VUJMQ21HRUJzSDI0NXIyQVNiNVFQX0dZeC1NTzNsX3VmUHUwYktOX19ibzZhMzNB0gHyAUFVX3lxTE03RURRSUoySXBSZFZyeWNaZFJtT3Y5S2pjampiWjJpTlE3S1RMZmhyTjVhMi1lZGQ4SU9MQTdOS1c5VWhRZ2FCMWFFcEVpUGlFZm5PSlN1Yk1DZzUwU3kzUWpidVU1UTdzbmRmM3J0WGpWT3MzdlNnVmVWZ2xFRUtRdS1HZkRCbDVnUVdVVDlxN2RMU0ZndGhWU1IwY1Mwb0xkQTRQODBaLWF4Zmpya1dZSGlrdGE3VFVCOHZUeWszdVJRMU1MZXU0ejY5eFVNMnZkTXUyNF9kS1B1YnRUcXJYLUpxVVF4clZIS0gzZnVRc2l3?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Devdiscourse (via Google News)",
+      "summary": "Tight domestic sugar supply may sharpen India's choice between food use and ethanol.",
+      "detailed_summary": "Commentary argues a tight sugar market could force India into a harder trade-off between diverting cane to ethanol and keeping sugar affordable. India caps how much sucrose mills may route to distilleries; if stocks stay low, the government may trim the ethanol diversion allowance or restrict exports to protect domestic supply, both of which change the volume reaching the world market. Traders should watch the ethanol blending target set for the next supply year, any revision to the diversion cap, and export-quota announcements. India's export stance is a recurring swing factor for global raw and white sugar prices, so signals on this balance matter well beyond the domestic market.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 12:34:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOFpaQUJxMFpSaVN0bW9hcW1MWkZTSlU2Mmp6MEtHZVAtTkY4Smh2Q2kzY0hfd3p2WTJ4WmNvZmVyWGo2ZE1lWFF5ZWIzNDktRXF3aG5ieWw1Z1dPYkpXVUhMcDBadi1oeUhtLXMzdUxsQmNEbENVMGpUSkE4dW5PamtINm1WQ0E5bFo0MnVNcW9KRFpVWnBpSHpaZ3drSjExWVNSVWJiQlB5UWpRZHI2NmJUVmJqbjdFNVcwZXV6alBpRXc5VjlNatIBzgFBVV95cUxOeVNuV0JXcUh2MmFDRUZhQmZPVndYNkdxWmFvVFJjcWZUaEdpejZsN1JuTXdmLS05dmY0Y2JMcUpycExvaThNZjhRTEtaTFdYaHd0UjMyX2ZqRnhFQUJuUDVIUHhxb1g5MWdCT0dReFdNbExRMVZ6a1VBMTB0czBGZy1fRHBlUVZOTGpvQ1NGSklPYjdGeDUwRkhxMnZUQ1hSaG9jdUxuTmM2SnlrZkFqeVc2dk5QNVZ2UWJJMldlcXJoQzJCWEFQZlcyZ08zUQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "etvbharat.com (via Google News)",
+      "summary": "Crisil: Indian consumers may wait longer for sugar prices to ease.",
+      "detailed_summary": "A Crisil Intelligence director said sugar prices in India are likely to stay elevated for some time before easing. Prices are being held up by low carry-in stocks and strong diversion of cane to ethanol; meaningful relief typically arrives only once the new crushing season delivers fresh supply from around November and government fortnightly release quotas loosen. Traders should track the pace of the 2026/27 crush, monthly stock-release orders, monsoon impact on cane in Maharashtra, Karnataka and Uttar Pradesh, and any import or stock-holding-limit measures. Sugar is politically sensitive in India around festival demand, so the risk of further policy intervention is elevated.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 12:29:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEdGWkdIUFd1ZjJ6WUlsNi0zLVU3NWVJTVAwYzhpbVNsM2libGhXZHRlRnBlTjJaenZNLWdwdHQ0cmdUVzBPVFFzTXo1SHVxekNLaU93SHNiQ0Uxc0ZkVi10c1lMZGJvREI2S2RIZWJfX2pxYkV1WThwTi1SdXZYMDVUYmFON1pNZ192NDFwY2FGYTBWNjRoYmNlVEJRdXNkbmN2bGRYcUhqTW15ZnfSAbMBQVVfeXFMUHVLZkY0UVBtVXIwQWotWHZEaGxlYThtdnRXeXlzMTlBcWVaSHBNZ25tRzlvcm5LY2V2d25nNUxoNVZLNkhrMEdIYVBaRVQ3T0FyOVI2TkdGUEVXenotUTh2VnVidnlDWkRqajV0STF4N2lBWjE3VWNwSElvekczVmRuek5VMHkzNTZ5ZG5KcmM1Y3ltM0FodEpBNjNMTEdHSXlpREM4Qkh0OGxFVjRFY1Z3UGM?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Barchart",
+      "summary": "Sugar futures firmed as analysts pointed to expectations of a global production deficit this season.",
+      "detailed_summary": "Sugar futures drew support from analyst projections that global output will fall short of demand this season. A deficit narrative tightens the nearby physical market and tends to show up first in cash premiums and front-month spreads rather than in headline flat price. The balance is driven by Brazil's Center-South cane crush and its sugar-versus-ethanol production mix, plus output and export-policy choices in India and Thailand. To confirm or fade the story, watch UNICA's fortnightly crush reports, any Indian export-quota decision, and updated Thai cane estimates. Brazil, India and Thailand together account for the bulk of world sugar exports.",
+      "relevance": "Medium",
+      "date": "Mon Aug 31, 11:24AM CDT",
+      "link": "https://www.barchart.com/story/news/4358000/sugar-prices-supported-by-the-outlook-for-a-global-deficit",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Business Viewpoint Magazine (via Google News)",
+      "summary": "Global sugar prices ease as weak Indian domestic prices reduce India's appetite for imports.",
+      "detailed_summary": "This item ties softer global sugar futures to subdued Indian domestic prices, which lower the incentive for Indian refiners or traders to bring in foreign raws. India occasionally imports when its home market runs hot, so the absence of that pull removes a marginal source of world demand. For a trading desk the key question is whether India stays out of the import market and whether it instead permits exports, either of which shifts the global balance. Watch Indian import parity calculations, any import-duty commentary, and Brazil and Thailand shipment pace for confirmation of the demand picture.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 10:28:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTMlNzSjJMd1p2Y2hITU1lZTRMd19RZ2lsOThSeTBHNExYdVRVZHVYVGR0b21YalpQU2Zwa1hLVW1OWUMtdDlpa0FqNXVZVlhSVGpTcmsxOS1pNHhtQkxwMERDUTczSDBzMEFCX0YxU3hnQzRlMXpMLQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Whalesbook (via Google News)",
+      "summary": "Report says Indian sugar prices dropped about 30% to near Rs 47 as tighter supply rules took effect.",
+      "detailed_summary": "According to this report, some Indian sugar prices have fallen roughly 30% to around Rs 47 per kg after the government tightened supply-side rules, likely via larger release quotas or stock-holding limits on mills and traders. The mechanism is that forcing more sugar onto the market within a set window lifts near-term availability and pressures spot quotes. This sits against other reports of firm retail prices, so a trader should reconcile which reference market and timeframe is being described. Watch official quota notifications, mill dispatch compliance and mandi price series to see whether the decline broadens or reverses.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 10:27:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX2o5ODYwS040SUVrMzdubG9oRmNhSWlfSlBiMzVRTUhFNVdFZVBad0QxR2RWYXMxNllBSURGRVBqV3BfenhVU0JDODc0ZkhuaVduRHVlM1d5ZzdBOXJEUXE4S1BQZ1FrWExhbmJIb19pdjdGR1l2R1g5V3N3aHYtaG9pbU5jNjhZcS1GYzljbGFfeF9TOHlNazVqRE9HbTloWjJaUS1EUFpfcmE1VmR6SFVzT1NXcHlOOVVsMUxTbXlLWnR4cERITnY5S3V5NVBnYktYNEI1S2JOekE1aE9URUpZY3N3QzA?oc=5",
+      "commodity": "sugar"
+    },
+    {
       "source": "Business Standard (via Google News)",
       "title": "Ex-mill sugar prices fall 30% to \u20b947 per kg but retail rates yet to decline - Business Standard",
       "summary": "Indian ex-mill sugar prices fell about 30% to \u20b947/kg after supply rules tightened; retail prices still lagging.",
@@ -1533,6 +1830,24 @@
       "detailed_summary": "Ex-mill prices in India falling roughly 30% to about \u20b947 per kg points to looser near-term domestic availability, likely tied to changes in monthly release quotas or stockholding rules that push mills to sell. India is the world's largest sugar consumer and a major producer, so domestic price and policy shifts feed into decisions on export allowances and ethanol diversion. Retail prices have not yet followed, a normal lag through the distribution chain. Traders should watch for government moves on export quotas for 2026/27, revised monthly sale quotas, and mill dispatch data to gauge whether the softness persists."
     },
     {
+      "source": "Business Standard (via Google News)",
+      "summary": "Indian ex-mill sugar prices drop about 30% to \u20b947/kg, but retail prices lag.",
+      "detailed_summary": "Ex-mill (wholesale) sugar prices in India fell roughly 30% to around \u20b947 per kg, while retail prices have not yet come down. Government steps such as larger release quotas and stock-holding limits act first on the wholesale tier; retail adjusts more slowly because of trade margins and existing higher-cost inventory, so the pass-through lag is normal. Traders should watch whether retail follows over the coming weeks, the next fortnightly release quota, and any move on stock limits or import duty. Domestic price trends feed directly into the government's stance on sugar exports and ethanol diversion, which is where the read-through for the world market lies.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 10:01:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd01UTzJTMXBkSk9jbVBHLXVFQ0RHS2V1YjE5THNiamZ1VEhLUlM5Y29Na1VXRHlfZEVRY1NRMTY4cHhjcVJneVRwc0daTU9NazJWMXZwam9tN0ZVYmk3R3pPdFgzRHFYVjhKXzIzTGlqOEZjcndlREVKTlE2WkNYWlMzM2Y0aXFDSEJlZTlGZ2lPdXUyUEREOHd3RWo5MkJ6bVhsUk9pcl9XYTVQMU9kN0s5X3g1a3FSOWhnM0JSaVVYY3BIQlRuQWRKYXlmSlhBUTlwenFfZmdoR3fSAdsBQVVfeXFMTndNVE8yUzFwZEpPY21QRy11RUNER0tldWIxOUxzYmpmdVRIS1JTOWNvTWtVV0R5X2RFUWNTUTE2OHB4Y3FSZ3lUcHNHWk1PTWsyVjF2cGpvbTdGVWJpN0d6T3RYM0RxWFY4Sl8yM0xpajhGY3J3ZURFSk5RNlpDWFpTMzNmNGlxQ0hCZWU5RmdpT3V1MlBERDh3d0VqOTJCem1YbFJPaXJfV2E1UDFPZDdLOV94NWtxUjloZzNCUmlVWGNwSEJUbkFkSmF5ZkpYQVE5cHpxX2ZnaEd3?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Tribune (via Google News)",
+      "summary": "DAM Capital sees low inventories and El Nino keeping sugar tight through FY27.",
+      "detailed_summary": "Brokerage DAM Capital expects India's sugar market to stay tight through FY27, citing low inventories and El Nino weather risk. Depleted opening stocks leave little buffer, and an El Nino pattern tends to suppress India's monsoon rainfall and can cut cane yields and sugar recovery in Maharashtra and Karnataka, further limiting exportable surplus. Traders should follow IMD monsoon updates and reservoir levels, first estimates of 2026/27 cane area and yield, and mill-level recovery rates once crushing begins. India and Thailand are the main swing suppliers to the world market and both are exposed to El Nino-driven drought, so this outlook has global reach.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 08:03:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdzBOZ1czNmM0U0RrS29wbk8xZG1yeHRXQlJfbm1FS2FsM2hiS29oelVfbVlMTnZTRFdtQzJ5b3ctX1VUUjNPQ3M5VWlzcFRNSXVWaDNiS1llRzJSWEp5UVZqa1dCc2E5NXVjWEVocFFaYXZaZTY1Wm9LM2FBWkpBdVhfSjAxUWxkM01nNEp6SlB5Y1VkaHVjTWg5MWpRaXJSQXBZRG5fSGtuRTFrdXc5Xzhqc2IwSmREZTFDNkNTRllWYkxnMTZvaFVmbjZFNzVHQm1DdHFIc0RHMjjSAdsBQVVfeXFMT3cwTmdXMzZjNFNEa0tvcG5PMWRtcnh0V0JSX25tRUthbDNoYktvaHpVX21ZTE52U0RXbUMyeW93LV9VVFIzT0NzOVVpc3BUTUl1VmgzYktZZUcyUlhKeVFWamtXQnNhOTV1Y1hFaHBRWmF2WmU2NVpvSzNhQVpKQXVYX0owMVFsZDNNZzRKekpQeWNVZGh1Y01oOTFqUWlyUkFwWURuX0hrbkUxa3V3OV84anNiMEpkRGUxQzZDU0ZZVmJMZzE2b2hVZm42RTc1R0JtQ3RxSHNERzI4?oc=5",
+      "commodity": "sugar"
+    },
+    {
       "source": "Forbes India (via Google News)",
       "title": "Sugar Squeeze: Why record cane output failed to curb prices - Forbes India",
       "summary": "Analysis: record Indian cane output has not lowered sugar prices, attributed to ethanol diversion and release rules.",
@@ -1541,6 +1856,24 @@
       "commodity": "sugar",
       "relevance": "Medium",
       "detailed_summary": "The piece examines why elevated Indian cane and sugar production has not translated into lower prices, pointing to sugar diverted to ethanol under the blending programme, tight opening stocks, and regulated monthly release quotas that limit supply reaching the market. India's balance matters globally because its exportable surplus swings world availability behind Brazil. Traders should watch the government's stance on cane juice and B-heavy molasses diversion for 2026/27, the size of the ethanol allocation, closing-stock estimates from ISMA and the food ministry, and any decision on export quotas, which together determine how much Indian sugar reaches the world market."
+    },
+    {
+      "source": "forbesindia.com (via Google News)",
+      "summary": "Analysis: India's record cane crop has not translated into lower sugar prices.",
+      "detailed_summary": "The piece examines why record Indian sugarcane output has failed to bring down sugar prices. Large cane tonnage does not mean large sugar output when a rising share of sucrose is diverted to ethanol and opening stocks are low; tight physical availability plus firm minimum prices keep the market elevated. Traders should watch the government's monthly release quotas, ethanol diversion figures for the season, any change to export policy, and cane-crush start dates in Maharashtra and Uttar Pradesh. India is the world's largest sugar consumer and second-largest producer, so how much sugar its domestic balance leaves for export is a swing factor for global prices.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 06:56:57 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczJ1d3VzNzVCRkp5TkF5U0hzNGQwSzhndFAxLTZrZ1ZHSnVOV2FOUTN0cFVHMzA2VjZ5Y3V5bXNPWTA5MF9HWDU3NXVKQ0EyaVVkM2xQMF9OMG1uNlNyODRHY3F0ZjZZVExoRFJBNnAta1JrMVdiNk9fZEV1TFlCQ2Z5SXBuTGJ4Y3lsdWVfMWtsOXhaR0lTX0VBa3RsTnU3YVg5cjJ3NnBRbk15TWhoR1E4ZTZHa01ERjRn0gHAAUFVX3lxTFB6MGs3aWJwUUloMFQwcDRaUjNqYTdicXdWMHRCel82ZkNFeFN1RHNfZ0Y1b2RPc3A5STJseGtNODVWVl9lR2U1bmJjRDAtaDU2cHJGSkkzdUVFbFBoWHkyenlDNmZZbEtvdjA2cVdpc1JvdUFzNXZoa3N4b2Rnbng3N3A4cGlEUEJzUW5WdHRxZUdWcHU4akNQS2F4Z2ItMEJPZ2thd0tpeWJKX3lRaGhTT0UyejRCX2NxLXh1OWt4dw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "lokmattimes.com (via Google News)",
+      "summary": "Brokerage DAM Capital expects low stocks and El Nino risk to keep the sugar market tight through FY27.",
+      "detailed_summary": "DAM Capital projects that depleted opening inventories combined with El Nino-related weather risk will keep India's sugar market tight through fiscal 2027. Low carry-in stocks leave little buffer if monsoon rainfall disappoints and cane yields in Maharashtra and Karnataka come in weak. For a trading desk the read-through is on India's exportable surplus and its willingness to authorise shipments. Analyst forecasts are not policy, so watch actual monsoon distribution, reservoir levels in the western cane belt, ISMA's first production estimate for the new season, and the government's export and ethanol decisions to confirm or fade the call.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 06:50:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMHd6YlNpek1jZlZnOEhJaXhMS2RsU1NBekZ0dDFsaUM3RTdVLXM4NmhPUTNaNDc5V2dCb0pMNFRHeFFjaGJxMXlqczQxa1dGbk5TOXpxRkJwbWFzcnhkSlFKT19BS1c5MTZ4ZVdDaERtZm1LczJNNERmYUg0dmpKRFU3a1RVcl9MRldEeEdnTDdiTjNsbDZQNVQxRjd4cTNZcHcxSWRJd3hGMGVGbzA4NmpSWdIBuAFBVV95cUxNRmhhNDhCWVJCa0M5Mm9Fc1UwbXVLNERRQndnVjQ4RzJyblkxOWFLNFg1NXdSUFk4b0pma0tKdm42VU9zQW1tOTZONjlGLVBQYmxzbnVnR0loaWRCREV3QmxqRnBQYzEwTlZYa3F3bC1WXzJJTi1ERDUtZVlhajI1N3NzdnpfTVAyaHFLTDBCY29vRVpZS1dlcUtiVkRTaWlKWTkzdnB0Yk9QZU9kczV6ZjRsaFRNc2RE?oc=5",
+      "commodity": "sugar"
     },
     {
       "source": "Vajiram & Ravi (via Google News)",
@@ -1613,6 +1946,24 @@
       "detailed_summary": "An Odisha state minister publicly blamed diversion of sugarcane to ethanol for the recent surge in Indian sugar prices. India routes a large share of cane juice and B-heavy molasses into ethanol under its blending programme, which mechanically reduces sugar output; when domestic prices spike, political pressure builds to cap diversion or release stocks. For a trading desk the signal is policy risk: a cut to ethanol allocations would raise sugar availability and free up exports, while the status quo keeps the domestic balance tight. Watch statements from the central food and petroleum ministries and any revision to ethanol procurement prices or diversion caps."
     },
     {
+      "source": "ChiniMandi",
+      "summary": "Maharashtra sets up a panel to review sugar mills' crushing capacity and financial viability.",
+      "detailed_summary": "Maharashtra's state government formed a committee to assess the crushing capacity and financial health of its sugar mills. Maharashtra is one of India's largest cane-producing states, and mill capacity plus balance-sheet strength determine how much cane can be processed each season and how promptly farmers are paid, which in turn feeds back into planting decisions. A capacity review can precede licensing changes, consolidation, or curbs on new units. Traders should watch for the panel's recommendations, any caps on fresh capacity, the timing of its report relative to the coming season, and how its findings interact with cane availability and the state's crushing start date.",
+      "relevance": "Medium",
+      "date": "August 31, 2026",
+      "link": "https://www.chinimandi.com/maharashtra-forms-panel-to-assess-sugar-mills-crushing-capacity-and-viability/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Bihar's cane output may fall on lower acreage, adverse weather and pest pressure.",
+      "detailed_summary": "Bihar's sugarcane production is projected to decline this season, attributed to reduced acreage, unfavorable weather, and pest infestation. Lower area caps potential tonnage, while weather stress and pests such as top borer reduce both cane weight and sucrose recovery, cutting sugar output per tonne crushed. Bihar is a mid-sized Indian cane state, so the national impact is limited unless similar problems emerge in Uttar Pradesh or Maharashtra. For a desk, the value is as an early data point in the wider mosaic of India's total crop. Watch for state cane commissioner estimates, recovery-rate trends, and confirmation from ISMA in coming weeks.",
+      "relevance": "Medium",
+      "date": "August 31, 2026",
+      "link": "https://www.chinimandi.com/bihar-sugarcane-output-may-decline-amid-lower-acreage-weather-and-pest-concerns/",
+      "commodity": "sugar"
+    },
+    {
       "source": "The Sunday Guardian (via Google News)",
       "title": "Sugar Price Today in India: Why Sugar Is Still Costly Despite Duty-Free Imports and Government Action \u2013 Check Delhi, Mumbai, Chennai and Ranchi Prices - The Sunday Guardian",
       "summary": "Sugar Price Today in India: Why Sugar Is Still Costly Despite Duty-Free Imports and Government Action \u2013 Check Delhi, Mumbai, Chennai and Ranchi Prices",
@@ -1633,6 +1984,15 @@
       "detailed_summary": "Business Standard's data feature shows retail sugar prices surging across Indian cities, widely reported above Rs 60/kg, even after government steps, attributing the move to tighter domestic supply. Measures in play or under discussion include stockholding limits on mills and traders, monitoring of hoarding, possible duty-free imports, and constraints on ethanol diversion. India is the world's second-largest producer and top consumer, so a tight domestic balance lowers the odds of fresh export quotas. Watch official monthly stock and production data, the size of any import tender, and festive-season demand, which typically peaks into October."
     },
     {
+      "source": "orissapost.com (via Google News)",
+      "summary": "Indian minister attributes rising domestic sugar prices to cane and sugar diverted into ethanol production.",
+      "detailed_summary": "A government minister has publicly linked the climb in domestic sugar prices to the volume of cane juice and sugar being channelled into India's ethanol blending programme rather than the food market. The mechanism matters because every tonne diverted to distilleries is a tonne removed from domestic sugar supply and from potential exports. India is a top-three global producer, so its diversion policy directly shapes how much sugar reaches the world market. Traders should watch for any official cap or revision to ethanol diversion targets, distillery offtake figures, and the government's stance ahead of the new crushing season.",
+      "relevance": "Medium",
+      "date": "Sun, 30 Aug 2026 17:12:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGswN0g0U2tLX0xDWVY2R0wzYk5VQUJ6MkxLdWdkd1YxbVAxaG5QT21xVTh5cEJ1VVpkdjVvNE16SXZQT0JmVmtmVDVnLWN1eGtLV1ZDeDR3VnlMbDR1Z050T0xDeGJjaUtkc0trNTVIdHlza0h0b1g1Rk95c1lKSWNLNWpDSEFTU1dZ0gGLAUFVX3lxTE40azA3SDRTa0tfTENZVjZHTDNiTlVBQnoyTEt1Z2R3VjFtUDFoblBPbXFVOHlwQnVVWmR2NW80TXpJdlBPQmZWa2ZUNWctY3V4a0tXVkN4NHdWeUxsNHVnTnRPTEN4YmNpS2RzS2s1NUh0eXNrSHRvWDVGT3lzWUpJY0s1akNIQVNTV1k?oc=5",
+      "commodity": "sugar"
+    },
+    {
       "source": "financialexpress.com (via Google News)",
       "title": "Food vs fuel: Time to recalibrate - financialexpress.com",
       "summary": "Opinion piece argues India should recalibrate its ethanol blending push as food-versus-fuel trade-offs sharpen.",
@@ -1641,6 +2001,51 @@
       "commodity": "sugar",
       "relevance": "Medium",
       "detailed_summary": "A financialexpress commentary calls for rethinking the pace of India's ethanol programme, framing current food-price pressure in sugar and grain diverted to distilleries as a cost of aggressive blending targets. India reached E20 blending ahead of schedule, pulling cane and grain into fuel, and sugar's domestic tightness is partly attributed to this diversion. A trading desk cares because any formal recalibration, such as lower diversion caps or changed ethanol pricing, would add sugar supply and improve export prospects. Watch whether this reflects live policy discussion, for example follow-up from NITI Aayog or the food ministry, versus isolated commentary."
+    },
+    {
+      "source": "Press Trust of India (via Google News)",
+      "summary": "Indian retail sugar prices hold firm despite government measures to cap them.",
+      "detailed_summary": "Retail sugar prices across India stayed firm, holding above \u20b960/kg in many markets, despite Centre interventions such as bigger stock releases and price monitoring. Sticky retail prices suggest tight physical supply and low mill stocks are outweighing administrative steps in the near term; persistent high prices raise the odds of firmer action such as stock-holding limits, an import duty cut or curbs on ethanol diversion. Traders should watch for any announcement on sugar imports, stock limits or a change to the ethanol blending mandate, plus the next release quota. India restricts sugar exports when domestic prices run hot, which withdraws supply from the world market.",
+      "relevance": "Medium",
+      "date": "Sun, 30 Aug 2026 14:02:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY25WcEFlLVJxZnl1STVHZEJsLVI5OGhLSXRaNXpmVTREZ01hQkpqLXZqVjdQTWlDOWY5TDNqN2R6a1QyNjR1WmoycXI0UU5zeEFGNlpORmRrZndna2JSTnBQTlZUZHJjckx5RVE0X0ZLSDlJX2Y3QVFjMkY2T1NTZm1qUWJCOEFsSTRjRXNnc0UxYVp3WFFqOC1QaDlGeUZKUFg3SE9kYUFPMHZmcXBiZWNBTUpVdWFjakZLcA?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "thehindubusinessline.com (via Google News)",
+      "summary": "Indian domestic sugar prices stay elevated despite government steps aimed at cooling the market.",
+      "detailed_summary": "Retail and wholesale sugar prices across India are holding firm even after the government rolled out measures intended to restrain the rise. For a trading desk the signal is that administrative tools, such as monthly release quotas or stock limits, are so far not loosening physical availability enough to reset domestic sentiment. India is the world's largest sugar consumer and a swing exporter, so a tight, high-priced home market reduces the surplus available for export and raises the odds of further policy tightening. Watch the next monthly quota, any stock-holding limits, and mill dispatch data to confirm whether prices ease.",
+      "relevance": "Medium",
+      "date": "Sun, 30 Aug 2026 13:21:57 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUzZsSTZHaENVSjdOdzd1MGJZdkZ2ekF3b3FxRUh4QlUtdl9GSVZvR1VNYUVNS3o5SzhaT2toM2JSakFETm1wekhic2ZPMUxJVFVRWVgxTUVQRHJ3Y1dnZUtUeDFXZnlncmFnLXFuOS1fcEE2cHZ0MHZ1Yk9yM0d0SWJ0bFU1WUNIRnJ6b2NMcmdtRnNVeFFYanNZUmM3VW5GeUQ2aUZNb2NiNFRXalRHSFFIOHd3bWowbFppMnV3MUZac0JVY0tGMFI3T0xBOE1lWlhxMlI3SV9SMEdXeFVWU2JLRHdxbjTSAe4BQVVfeXFMTldoLXBxaTY4S0RuSWRZd3N0d2RkSW5JX2pPbGdYZ3NCaHZqMk1ja2ZnN0NhUlBRZjNiVHF5a3pxR3ZGRl9xbU44YndVcjUtN2lfMkt0YzdNWktMdS1OS3JuQ3ZIUThMaWhBTG95QUFLaHlIUnFBaUVPWmpRM2k1Y0N0YVhBelBpUzNndXZtQzgwOWlQb3RxWllyQTlqZV84MEo1aVY2aFpKcEhnbnhkMTliUU1oRjRiZWptZU80YWp5c1pDOGhhMTBsdWFFNFJjd3FVVHVMbU9ldmdFY3dTbHdyQ0RZa0tDbExocE55UQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Newstrack English (via Google News)",
+      "summary": "Explainer on India's sugar price rise and whether festive-season demand adds further pressure.",
+      "detailed_summary": "This explainer walks through the drivers behind India's higher sugar prices and flags the approaching festive season as a demand catalyst. Mechanically, the Diwali and wedding period lifts bulk buying by sweet makers and beverage firms from roughly September to November, tightening an already firm market and often prompting the government to release extra quota. For a trader the piece is context rather than fresh news, but the festive-demand calendar is a genuine seasonal factor. Watch monthly quota decisions, wholesale mandi prices through the festival run-up, and any additional stock limits on bulk consumers and traders.",
+      "relevance": "Low",
+      "date": "Sun, 30 Aug 2026 12:14:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONl9BZGphVEt5eE5HZXVMaGV1cXBDTjkyMW1FeVhHVHdxSGFWSHhtVGdERTlZeEVHNzJDbUhpbkEzeS1JUllOV0hkQWViY1dEVGlDTldVUFpVRTZSUzVuT0E5UFp0UlA5bW0xTG1vYVlTaTRvVFJtY1JWcU1TREtzVGpQVjNIZW_SAYwBQVVfeXFMUGtwTlFTNVR6RWFJVm54bm5lR3hVZm9XczlOaERzbDlxR2syOXdRdmZBZ3R5bGdyVi00bHRVbXBCZVVVVlhQWmVfempvVVVya1N1V0hEZk5GZ182V1htRm8xR1Z1OTZzNnk4MzlSZmE0TE9YQkx3M1NmazNlS292cng5WWItNl9RTHpnMlc?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "scanx.trade (via Google News)",
+      "summary": "Balrampur Chini reports higher sugarcane crushing volumes for the 2025-26 sugar season.",
+      "detailed_summary": "Balrampur Chini Mills, one of India's larger sugar producers, has reported an increase in cane crushed during the 2025-26 season versus the prior year. Single-company crush data is a partial read on the national picture but can hint at cane availability and recovery rates in Uttar Pradesh, India's biggest sugar state. Higher crushing points to more cane throughput, though sugar output also depends on how much juice is diverted to ethanol. Traders should treat this as one data point and wait for ISMA or government aggregate crush, production and recovery numbers to gauge the full season balance.",
+      "relevance": "Low",
+      "date": "Sun, 30 Aug 2026 09:00:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY09VZ0Iyb19xbmFSLTNiUmdZRmpUeFRGaFJ6anEwU2UwY3dKWTFqaE1EaV84VUFrZV9JNm94dW9DaXZVT1dGMWpPS1dVTVdKeDgza29IM04wdjVMLTlkX05LcjVtMWNSbnJHWWthZUg5YkFEcm5Vd1duWmFpazVDQVMxUE5nOXRTV251TlFIWm9FLUNRMDJ6UERKZEpqY1Y5aERMLUxTaEdxejFzMzJnckctYkRRZG9lc3dZT1VJRGtfX2NZOGtjYnp0cEhNVHdYN3c?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "India sets a 13 lakh tonne domestic sugar sale quota for the first half of September.",
+      "detailed_summary": "India's government allotted 13 lakh metric tonnes (1.3 million tonnes) of sugar for mills to sell in the domestic market during the first fortnight of September 2026. The fortnightly release quota is New Delhi's main tool to manage domestic availability and retail prices: a larger allocation loosens near-term supply while a smaller one tightens it, without changing the size of the underlying crop, and it also affects mill cash flow and cane-payment capacity. Compare the 13 LMT figure with recent fortnightly allotments and typical festival-season demand, and watch for any parallel moves on exports or stock-holding limits.",
+      "relevance": "Medium",
+      "date": "August 30, 2026",
+      "link": "https://www.chinimandi.com/13-lmt-sugar-quota-fixed-for-first-fortnight-of-september-2026/",
+      "commodity": "sugar"
     },
     {
       "source": "AD HOC NEWS (via Google News)",
@@ -1681,6 +2086,15 @@
       "commodity": "sugar",
       "relevance": "Low",
       "detailed_summary": "Maharashtra minister Hasan Mushrif said hoarding and lax enforcement of stock limits, rather than ethanol diversion, are driving up sugar prices. The distinction matters for the policy response: accepting the hoarding thesis points to stockholding limits, raids and disclosure rules that release existing sugar quickly, while accepting the ethanol thesis points to cutting diversion, which adds supply over the season. Both paths loosen the domestic balance but on different timelines. Watch for enforcement actions on traders and mills, revised stock-limit orders, and central clarification on ethanol allocation for the coming year."
+    },
+    {
+      "source": "Ecofin Agency",
+      "summary": "South Africa's sugar industry secured a favourable ruling in its push for stronger import protection.",
+      "detailed_summary": "Ecofin reports South Africa's sugar producers won a round in their campaign against imports, suggesting movement toward higher tariff protection or a raised dutiable reference price. Import barriers matter because they reshape trade flows: tighter access to the South African market can divert lower-cost sugar toward other destinations and support local prices. South Africa is a mid-sized producer and the anchor of the Southern African Customs Union. Traders should watch for the specific tariff or dollar-based reference price decision, its effective date, importer and refiner reaction, and any regional response within the customs union.",
+      "relevance": "Medium",
+      "date": "29 Aug 2026",
+      "link": "https://www.ecofinagency.com/news-agriculture/2908-58444-south-africa-s-sugar-industry-wins-a-round-in-its-fight-against-imports",
+      "commodity": "sugar"
     },
     {
       "source": "Barchart",
@@ -1725,6 +2139,186 @@
   ],
   "cotton": [
     {
+      "source": "Knitting Industry (via Google News)",
+      "summary": "Brazil posts a record cotton export volume, reinforcing its position as a top global supplier.",
+      "detailed_summary": "Brazil has set a new cotton export record, underscoring its rise to rival the United States as the world's largest cotton exporter. Record Brazilian shipments increase competition for the same buyers, particularly in Asia, and can weigh on US export commitments and basis. The background is several years of expanding Brazilian planted area in Mato Grosso and Bahia plus strong yields and a competitive currency. Traders should watch the monthly export tally versus last year, Brazilian port line-ups, the ANEC or Secex data, and how CONAB frames remaining exportable stocks against the new crop.",
+      "relevance": "High",
+      "date": "Tue, 01 Sep 2026 07:08:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wUVo5RVFtZC1aX3g1NHR2bEVVOU1rak1SSFA3MjJtYm1ONEx6UWFFQ0QwcDZzMmo4MS1YQVljTXRWMUdzNndxWEp1cmlONXN4YlBMWVUzZk0taXQ2TlRoQU9veWRZSUVjRzZkQnFPWQ?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "Pakistan cotton arrivals running about 25% above year-ago levels, but local prices seen rising further.",
+      "detailed_summary": "Reports put Pakistan's seed cotton arrivals roughly 25% higher than a year earlier, yet domestic lint prices are still expected to climb. The apparent contradiction usually reflects strong mill demand, thin carryover stocks, or quality concerns pulling buyers toward available lint despite the larger flow. Pakistan is a major consumer and importer of cotton, so firm local prices often pull in more imported bales from the US, Brazil and Afghanistan. Traders should watch weekly PCGA arrivals data, spinning-mill buying behaviour, the local-versus-import price spread, and any government intervention price to judge whether the strength persists.",
+      "relevance": "Medium",
+      "date": "Tue, 01 Sep 2026 06:34:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeG5yakNFZFdaekRxZE9RT2hhQXQ4Y2RRZTF6aHF0OHVFUS1mT2RSSm1rTGticGp0eExvdmN6b3ctbUpNVTNGWVY0TGRmb2YzLU5Cd2RLYWJpVkdkU1pydTNlS1FnVDY1RDZCRDNCRWMzVkN2eU94LXprU0c2RFoySVhPWHZpNTdyYzZOd2ZWUEhrVUx2NWJuYUVGVjFEMWtoWXFTRFJqTkgwZml6VGk3WDlEVjE5enZleFRfZVhzQmhEeVhf?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "IndexBox (via Google News)",
+      "summary": "CONAB data shows Brazilian domestic cotton prices surged in late August 2026.",
+      "detailed_summary": "CONAB figures cited here show Brazilian internal cotton prices jumped in the second half of August 2026. Firmer domestic prices in a major exporter can signal tight local availability, strong export demand pulling on supply, or currency moves, and they influence the price at which Brazilian cotton competes on the world market. Since Brazil is now a dominant exporter, its internal price trend feeds through to global benchmarks and to US export prospects. Traders should check whether the move reflects an old-crop spot squeeze ahead of the new harvest, follow the real exchange rate, and compare with ICE futures and Brazilian export premiums.",
+      "relevance": "Medium",
+      "date": "Tue, 01 Sep 2026 04:41:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZE9nTUw1dnZsa3ZJLXVQM2VrVGV3dWctYmtOaWlXRG44NVR1RnhSUlFKZGprUTFEQVZuV0dzbmdTbVpmajFiUXFiTFNnNFNZTGtaenFGREU3SlBEa19jS00wMkIxZEEtbFJ1cXJLckVUaU1taHBVRUx2RTJ4WExIZVliM3p2YjlIdVlNVlFQaHI?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Sunsirs (via Google News)",
+      "summary": "Weather-driven speculation pushed cotton futures to year-to-date highs, per Sunsirs.",
+      "detailed_summary": "Sunsirs attributes a move to year-to-date highs in cotton prices to weather-related speculation. Weather premium builds when forecasts threaten yield or quality during boll development and harvest in key growing regions, prompting funds to add length before damage is confirmed. Such rallies can unwind quickly if conditions improve, since the driver is anticipated rather than realised loss. Sunsirs is a Chinese commodity data provider, so the focus is likely China's market. Traders should identify exactly which region and risk is in play, track updated forecasts and any official crop-condition or damage assessments, monitor Zhengzhou and ICE positioning, and watch state-reserve or import-quota signals from China.",
+      "relevance": "High",
+      "date": "Tue, 01 Sep 2026 03:53:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03UGctSk9xUjd6bGctV245NjNUQk9oZm41MzA4Xzl0RDdjRXJrZUJ2NFNMb1FreWdaa3M0aHNoem9QNk8zSGpqTUg5bnBTMzFNU3pNaFlJcWdrNnBYN0E?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Ecofin Agency",
+      "summary": "Ghana is moving to rebuild domestic cotton production as its textile sector recovers.",
+      "detailed_summary": "Ecofin reports Ghana is taking steps to revive cotton growing, linked to renewed momentum in its textile industry. Ghana is a small player in global cotton, so the near-term supply impact is limited, but West Africa collectively is a major export origin and country-level revival efforts show where new supply could emerge over several seasons. Such programmes usually involve input support, guaranteed prices and ginning investment. Traders should watch for concrete area and output targets, funding follow-through, and whether neighbouring Francophone producers pursue similar expansion, which matters more for the regional export total that competes with US and Brazilian cotton.",
+      "relevance": "Low",
+      "date": "01 Sep 2026",
+      "link": "https://www.ecofinagency.com/news-agriculture/0109-58492-ghana-moves-to-revive-cotton-production-as-textile-industry-regains-momentum",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion",
+      "summary": "ICE cotton futures rallied sharply on supply-side concerns.",
+      "detailed_summary": "ICE cotton futures posted a strong rally driven by worries about available supply. The ICE No. 2 contract is the global price benchmark, and supply concerns of this kind typically originate in US crop conditions, dryness in West Texas, or downgrades to USDA production and export estimates. The US is among the top exporters and the largest presence in world cotton trade, so its balance sheet sets the tone for global availability. Traders should watch the next USDA WASDE and weekly crop condition reports, the pace of weekly export sales, growing-region weather, and speculative positioning to judge whether this reflects a genuine balance-sheet shift or short-covering.",
+      "relevance": "High",
+      "date": "Sep 01, 2026",
+      "link": "https://www.fibre2fashion.com/news/cotton-news/ice-cotton-witnesses-powerful-rally-on-supply-concerns-313102-newsdetails.htm",
+      "commodity": "cotton"
+    },
+    {
+      "source": "IndexBox (via Google News)",
+      "summary": "USDA weekly crop progress report covers US cotton condition and development as of August 31.",
+      "detailed_summary": "The August 31 USDA crop progress report includes updated US cotton condition ratings and crop development stages alongside corn and soybeans. Weekly progress data is the market's most frequent read on how the US crop is tracking versus normal: good/excellent percentages, bolls opening, and boll-setting pace all inform yield expectations ahead of harvest. Deterioration or a lag against the five-year average can tighten the US balance sheet, while improvement does the opposite. Traders should compare the condition score with prior weeks and last year, note regional splits between Texas and the Delta and Southeast, and line it up against the next WASDE.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 21:40:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSjdPS0REQ29ZSG5xSmphdUFNXzNFM2ZSZ2VmazlubFJmanRTeTZkVjJ5bFNyYVhxRXVDRHNkdnFQUng2ZFpWS1FubXNwQ1E3TXpWNHc0SzlYMUg0RU5EZWlQRklXZWVmZUpjSFYzRGdKZGlQWVdVWXZadzBQQW1rVThtaU9PSXR1Z0JVVk5EeTF1RWplMDVCOEtHQk93M3NKWTZURzhUdTREcWdVOVhSeVVtQ1ZzQTlZWFY1MjlMRmw?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Oklahoma Farm Report (via Google News)",
+      "summary": "Oklahoma crop progress update reports declining pasture conditions and mixed results for row crops.",
+      "detailed_summary": "The weekly crop progress update for Oklahoma describes continued deterioration in pasture and range conditions alongside mixed ratings for row crops. Oklahoma is a cotton-producing state, mainly in the southwest, so its condition ratings and any drought stress feed into USDA's national cotton crop assessment and abandonment expectations, which matter for the US balance sheet. On its own this is a low-intensity data point. Traders should look to the USDA national cotton condition and progress figures, the Texas High Plains situation that dominates US production, and Drought Monitor trends across the Southern Plains.",
+      "relevance": "Low",
+      "date": "Mon, 31 Aug 2026 20:47:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb2RrMXZDU05xYkQtam5OcW1EZ2U3bENpejU2aTNOS1BPTXlXYnlWMEE4cTVXWnRPNnVYMnpSLWxUTnhSYThoQ1ZsY1h6aWRmUk9vRHpwVFZsdi1RcEVTekNXb0xmSzJzMVI0S0I5SlVjb2V4bERaYVU5cERqNjNkZVc0X3ZOSC1ERVFvM0c3VmVGV0V0S0Q2MDBaUlRYX0RJZk5lRGlxb2VhbkpmMVBXaTdkWDNqdzhJUy1WTnpEZzZ0M0tJSlgxM2hSVExaNnM4ZEE?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "DatamarNews (via Google News)",
+      "summary": "Anea lifts its Brazil cotton production forecast to 4.18 million tonnes.",
+      "detailed_summary": "Anea, Brazil's cotton exporters association, has raised its national production estimate to 4.18 million tonnes. Brazil is now the world's largest cotton exporter and among the top producers, so upward revisions there feed directly into global exportable supply expectations and shift competitive pressure onto US and West African origins. A larger crop typically points to heavier shipment volumes in the following months and more aggressive export offers. Traders should watch subsequent CONAB and USDA figures for confirmation, monitor Brazilian port line-ups and export registrations, and track basis levels in Bahia and Mato Grosso for signs the extra bales are actually moving.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 19:42:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWJjUGszU20wbXdrWlQ3RDYxUU9aaUluUWRPUzNtMW1SVU5yTG8wa2doTGJEeFFHYmk2dVVNRmo1MkZrckZSSUJJZzZ5X1NvRGVPMzFIUGxrOXFYR01XOHF2YmxBMm1lSnR4TXBSRlBBXzk2UlJOQlFkeUJtTFg2RkRfXzM2UmdITm5qRWNhMTlYLTBFZEllTm14eno1UnUxbmc?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "USDA data shows US cotton export sales and shipments both fell sharply in the latest week.",
+      "detailed_summary": "The latest USDA export sales report shows a sharp drop in both new US cotton export commitments and physical shipments. Weekly export data is the most timely demand gauge for US cotton, and back-to-back weak prints raise questions about the pace needed to hit USDA's full marketing-year export forecast. Softer US sales often coincide with strong competition from Brazil and Australia and with cautious buying by Chinese and other Asian mills. Traders should watch whether this is a one-week lull or a developing trend, track outstanding sales versus the USDA target, and monitor cancellations.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 19:25:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGJGTEdyaDlZaVpQR0pCZzZPLXNfQWltUEN0bXY5Ty1sY2NOUWxtZWpMQi1lOU1tU0ZEUEcwNjJxRUd4NlZkaS1ELVRKc2UtczBFM0t6cUhCdTdXUklJdTkxcFgxSUVRUF9zM1FMamJlWVhDRE1ZNXFtdGFxVEY0b0o3UFdyTjdkalBLRWtGWDdndXo3VlI5OWdyYkJjY1lQWjVVWGV3MUU2WlpkY2RwS2JzbzNwazVtX2E1enBhWk5hdXEzRk1wVg?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Pro Farmer (via Google News)",
+      "summary": "Cotton futures extended gains, according to Pro Farmer's crop market analysis.",
+      "detailed_summary": "Pro Farmer's market analysis notes ICE cotton futures continued to climb, adding to a recent run of gains into the end of August. Daily price recaps like this reflect the net of the session's news, including US crop condition concerns, export competition and broader commodity flows, but carry little fresh fundamental information on their own. For a trading desk the value is in tracking momentum and positioning. Watch the next CFTC commitments data for spec length, upcoming USDA crop condition and WASDE supply-demand updates, and weekly export sales to see whether fundamentals support the move.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 19:00:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFBWUnJab0hZa1NfYng2anhjdDFSeXhoNmRIRGdWdlhLZWdEb01MMmRCcUpfRUpMYnBENW1IUkpNZkdDV19jMHZMa2xEclJ2aFpUZFpFbkRNdVhua3RHd3ppYm1sUWkwX0VGM1E1Zl9NTF9BMGlSN3ZYamlnUHFZekJqYzg2SG1qRy1MM2hmazM0U3pJdWhQLTZBZkluYW12cDZkcGRKQQ?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "News On AIR (via Google News)",
+      "summary": "India's cabinet approved a roughly Rs 5,600 crore Cotton Productivity Mission aimed at raising yields.",
+      "detailed_summary": "India's central government has cleared a roughly Rs 5,600 crore Cotton Productivity Mission focused on lifting farm yields, alongside unrelated semiconductor approvals. Indian cotton yields have lagged global averages for years, so a funded push on seed, agronomy and pest management could gradually expand output and reduce import needs from a major consumer. The impact is multi-season, not immediate, and depends on execution and grower adoption. Traders should watch for implementation detail, whether it addresses seed technology and pink bollworm, area and yield trends in coming years, and any parallel changes to the support price, import duty or export policy that would act faster.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 18:44:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMU5aQk1LNFFSdTRDV1dacV8xWW9jV1dEb2F1dnNkaDVHVzBtVUdWWldKMXNCRVBGRXJXbFc0UFRpLVNGbGhSVXNPcUpfaTdVM190SWkyazJPMjA1Z1l0ZUtIQnBzNU54TnlmUll4blcxcFRaRzg5QnM3ZTQwbUJPV1ZlZkx1Um5KU0RxNEVaRmVxUm94eUxxaHhhV25fMlVWdDM5U1AyRjJGQjRMRnJEenR4SmhqZWVXajJaVmk3UFpQX00tdm9NYTZ1aw?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "North Indian cotton yarn prices firmed as new-season cotton began arriving in Haryana.",
+      "detailed_summary": "Yarn prices in north India rose even as the first new-crop cotton started reaching markets in Haryana. Early arrivals normally pressure lint prices as supply builds, so firmer yarn quotes suggest steady spinning demand or limited initial volumes and moisture-related quality variability in the earliest picked cotton. Haryana, Punjab and Rajasthan form India's north cotton zone, and the pace and quality of their arrivals set the tone for domestic prices before the larger central and southern crops come in. Traders should watch daily arrival tonnage, mandi prices versus the minimum support price, ginning offtake, and CAI crop commentary.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 18:28:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOVNjdGc4ZlBHZllNTmtnNDZVRlkyRHdGdkpEN0hhaElmc2JDTFVmWlc3Z3JGNk9nOHNrbmVfZW10X1JHSm1fUS0tRlBFY0dDSjN3cnhYdWxtQVpzZ0YzNHBrMTRIaGY4Ymx2OWt5OENGb2pOTDdkRDN1Y3BmaG81MW1BVjlwNlVpOUVsQW9oOWVadzdhejctZXBkeUt3cXNnc3oxanZaNEJIeE04UmRscHZVemhLWTRFM1ZmdG9jWHpJRVZoaVp4WHAxQy1vS3Y5UUo0?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Barchart",
+      "summary": "ICE cotton futures closed higher on August 31, the final session of the month, extending a late-August recovery.",
+      "detailed_summary": "ICE cotton futures pushed higher on August 31, the last trading day of the month, adding to a late-August bounce. Month-end and quarter-positioning flows can exaggerate such moves, so durability matters more than the single print: watch whether prices hold over the next few sessions and whether open interest rises (fresh buying) or falls (short-covering). Key confirmation points are the weekly US export sales report, USDA crop-condition and harvest-progress updates for the Texas-led US crop, dollar direction, and mill demand from China and Vietnam. The US is the world's top cotton exporter, so its shipping pace and balance sheet anchor global pricing.",
+      "relevance": "Medium",
+      "date": "Mon Aug 31, 5:11PM CDT",
+      "link": "https://www.barchart.com/story/news/4363386/cotton-rallies-to-close-august",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Minute Mirror (via Google News)",
+      "summary": "Pakistan's cotton output squeezed further as per-acre yields fall sharply.",
+      "detailed_summary": "Minute Mirror describes a deepening crisis in Pakistan's cotton sector as yields plunge, pointing to a smaller crop. Persistent problems include water stress, pest damage, seed quality, and farmers switching to competing crops such as sugarcane and maize. A weaker Pakistani crop widens the country's import requirement, adding demand for foreign lint and supporting global balances at the margin. Traders should look for hard numbers from the Pakistan Cotton Ginners Association on arrivals and area, official production estimates, the scale of expected imports, and any support-price or input-subsidy measures aimed at reversing the acreage decline.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 16:56:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeV9XRmFETUVOcGlhOHN4NmJMcVp3amFjSWVCWVQwQk5maURMVjdPM21ORzBxZzhmU3kzN0thTktiUnQ1TWpLY2FSVEFUVXliRm1IMEExbjNjRmZJNkJ2cFUxY2V6VWRpbGxFYjFZdWVtMFpsYVVUM0hiRmpETmZqSkw2UU04U0N1TmdZMw?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "IndexBox (via Google News)",
+      "summary": "Analysis: Bangladesh and Vietnam gain textile export share while cotton loses ground to competing fibres.",
+      "detailed_summary": "An IndexBox review of 2025 textile trade notes rising apparel export share for Bangladesh and Vietnam and continued substitution away from cotton toward polyester and other man-made fibres. This matters to the cotton desk on the demand side: mill consumption ultimately depends on where garments are made and what fibre blend they use, and a structural drift toward synthetics caps cotton offtake even when end demand grows. The effect is slow-moving rather than a price catalyst. Traders should track the cotton-polyester price gap, global mill-use estimates in USDA and ICAC data, and retail apparel demand in the major importing markets.",
+      "relevance": "Low",
+      "date": "Mon, 31 Aug 2026 15:10:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnk1YXlaOS0tUWs1dXdEOEhEd2kwREJBUUVra0ZocVNtb3I3aDdOUDN1WXhfeUlfTXdONzNuaTRZaE8tS0o1ZG5CV0pqTmQ4RkJXVk1iYnB5c0dxTnh1VWxKYVhPVHdfMXJxeGZ2eVU5M2tWWjFZRWh4Z3BHNk5RQ2xyNDJMQzBiMVE5cERhQjk2aC1Fc2YwN01jdUptS2pkSk42eHQ5cnFqRnc?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "China's imports of Uzbek cotton yarn reportedly up 339%, accelerating Uzbekistan's shift from lint exporter to yarn producer.",
+      "detailed_summary": "Fibre2Fashion reports a 339% jump in China's purchases of Uzbek cotton yarn, underscoring Uzbekistan's move up the value chain. This is relevant to raw cotton because Uzbekistan, once a large lint exporter, now spins most of its crop domestically, steadily removing that origin from the international lint market and narrowing options for buyers who historically sourced Central Asian cotton. The shift is gradual and policy-driven. Traders should watch Uzbek and wider Central Asian lint export volumes, Chinese yarn import trends as a proxy for its own spinning margins and cotton demand, and whether other regional producers follow the same integration path.",
+      "relevance": "Low",
+      "date": "Mon, 31 Aug 2026 14:13:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRl9Yc3Myd2MzU1dGZ0sxcENhQWpRNE1PWFhaX0pXMDJ1S2wxeHdkb09DYy1FU0I5VHQ2RDFRQndTMk1keC1CTjVxYzhLbkgyNS1ZckR2NEhZT3IyM0JNY2hGd0JiUmE3ckd5Rl9ycUQzUF8ycHFxV0U3NUdzUkM5akVlMGtnaWVXLS0tQXo0RzBKYzNfU3hfaVo0dlM2XzF5T3l6dU5rQ3dhR0gtQTYzcW1BUG8yS1VqbDZ4bWVDRENaWTN6cnN0NV9lbl9hMWxlQmQwZi1BS3dVdVE?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "Pakistan BCI-certified cotton prices rose about 2.70%, adding to regional yarn production costs.",
+      "detailed_summary": "Better Cotton certified lint prices in Pakistan climbed roughly 2.70%, which feeds through to spinning costs for mills that need sustainably sourced fibre for export orders. Certified-cotton premiums and availability matter because a growing share of Western retail programmes require it, so tightness in that segment can bind even when conventional cotton is adequate. Pakistan is a major spinning hub, so higher input costs there ripple into regional yarn quotes. Traders should watch the certified-versus-conventional spread, Pakistani mill buying and margins, the arrival pace of the new crop, and whether the move tracks or diverges from ICE futures.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 12:52:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmNJMmQ0cjJTQ05nV1RpTkZwVndOa19TNjQyaHI5OU9jczBIN2FxVWZ1bXVFZmpLd3lWd0M0cDFKdEtERmFET2V6anYwZ1hxWkM4VV9WNVQ4MkFTQnQtUE1QZ3hwY0FoTURqZEFVOXFvU2pZaXBKaEFOeVNTbDdIX3VOSFFVZHBHOWlRNGZEOF9qTlVlRE5jY2xxN1RTd1oyTUJEbVhaZ2JucGVjNW1vNnhvYVdMVnBGWTc3dVpRbGg1X0h1NENxRmtZTXRsQTNTMGpCUnJBWDV4aXU0WHc?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "ICE cotton futures rebounded in Monday morning trade, recovering recent losses.",
+      "detailed_summary": "ICE cotton futures were trading higher Monday morning, described as a rally back after prior weakness. Day-to-day futures moves are the desk's baseline reference for mark-to-market and hedging, and a bounce often reflects short-covering, spillover from other row crops, weather headlines, or currency moves rather than a fundamental shift. Without volume and open-interest detail the durability is unclear. Traders should check whether the move holds into the close, watch the nearby and December contracts and their spreads, cross-check against outside markets and the US crop weather outlook, and look to the next USDA export sales and WASDE for a fundamental anchor.",
+      "relevance": "Medium",
+      "date": "Mon, 31 Aug 2026 12:30:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjQzYVdqbW5TTVkzR2FyQmZ4TkpJeG92VlhtZTZpYnJldG9EV0dORzJJU1R0UkQ4S0FkS2xQcTAyYmlQWTFrT3ZLeGRVZXRHZUMxc1JCXzhnU2p6cjJxWElZa1BXc1ZMNUdVQjNUbHlvSnNOXzlybkExcEtEVFh1VVhvd211UVpBMnc?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "BigMint (via Google News)",
+      "summary": "India's 2026/27 cotton output forecast at 24.5 million bales, per BigMint.",
+      "detailed_summary": "BigMint reports an India cotton production forecast of 24.5 million bales for the 2026/27 season. India is one of the world's largest producers and consumers, so its crop size heavily influences whether it imports or exports and how much pressure falls on other origins. Early forecasts hinge on acreage shifts, monsoon distribution and pest pressure, and typically get revised as arrivals begin. Traders should compare this figure with CAI, USDA and Cotton Corporation of India estimates, watch sowing and rainfall data, monitor the domestic price relative to the minimum support price and world prices, and track any government procurement or trade-policy response.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 10:42:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFFvRndzRldvcGhLMkFRamlKRWhTbkhJX2N6emZpTGlYT2w4NmZmYU0xQ3BTR1BsQW9NT2JJM0M2VEdrdEIxU19oelo1eTR0akJvSnl2UllHUGpaaTYtR281SnFrRlByejdMOVJ4a2RVTkYyUFZPbzVVTkJWeGpUZm1kc0VSNGhIMi1jaDJCb3FfZWdnT1l5bWJCTW45dHA2ZUJvZllqYzZiSVI1X2lUSA?oc=5",
+      "commodity": "cotton"
+    },
+    {
       "source": "GujaratSamachar English (via Google News)",
       "title": "12 Gujarat Districts Hit India\u2019s Top 25 Rain Deficit List a\u2026 - GujaratSamachar English",
       "summary": "Twelve Gujarat districts rank among India's 25 most rain-deficient this monsoon, pressuring the state's cotton belt.",
@@ -1763,6 +2357,24 @@
       "commodity": "cotton",
       "relevance": "High",
       "detailed_summary": "Business Recorder's weekly review reports a sharp rise in Pakistani domestic cotton prices, driven by what it calls panic buying from textile mills. Aggressive mill purchasing typically reflects fears of a short crop, thin ginnery arrivals or expectations of costlier imports, and it pulls forward demand, amplifying near-term price moves beyond the underlying balance. Traders should confirm whether the spike is sustained by checking the Karachi Cotton Association spot rate, weekly arrivals data, import registrations, and the local-versus-ICE price gap. Pakistan's crop shortfalls usually translate into additional import demand from the US, Brazil and Central Asia, linking local squeezes to world prices."
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Pakistan's weekly cotton market saw sharp price gains as textile mills rushed to buy.",
+      "detailed_summary": "Business Recorder's weekly review reports a sharp rise in Pakistani cotton prices driven by what it calls panic buying from textile mills. Bunched mill purchasing typically signals fear of scarcity or further price rises, often tied to a disappointing local crop and the need to secure spinning cover before importing. Pakistan is a leading yarn producer and a major cotton importer, so domestic tightness usually translates into additional import demand for US, Brazilian and Afghan cotton. Traders should watch PCGA arrival and ginning figures, the spot rate set by the Karachi Cotton Association, import registrations, and mill operating rates.",
+      "relevance": "High",
+      "date": "Mon, 31 Aug 2026 00:26:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aa0hwTDVYN0ZXbE5MLTlGb0RlNWhjQ0FoVU1SNjhicjFNSGduOXZsSzdkTTQ3V2lKb01ETF9LWmpST0plUnNsSnlaMFRELUZZ0gFWQVVfeXFMT1JFbjJYRjF6ZFlXaVJZeFlrVzNndDFnLTRERTd3d2kzSGwzU1pGcEVUcEtLNEp2dnFOWnMtODFpLXJGQXB0NGwwTzdqeTY1ZVhqQzM3RXc?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion",
+      "summary": "USDA data show US cotton export sales and shipments fell sharply.",
+      "detailed_summary": "USDA's weekly export report showed a sharp drop in both new US cotton export commitments and physical shipments. Weekly export sales are the highest-frequency read on foreign demand for US fiber; sustained weakness lifts projected ending stocks and pressures the domestic balance sheet, while slow shipments can reflect port and logistics bottlenecks or buyer cancellations rather than lost demand. The US is the largest exporter in world trade, so its shipping pace shapes global availability. Watch subsequent weekly reports for whether the decline persists, any net cancellations from China, Vietnam or Pakistan, and whether the cumulative export pace is tracking USDA's annual forecast.",
+      "relevance": "High",
+      "date": "Aug 31, 2026",
+      "link": "https://www.fibre2fashion.com/news/cotton-news/us-cotton-exports-see-sharp-decline-shipment-also-down-usda-313071-newsdetails.htm",
+      "commodity": "cotton"
     },
     {
       "source": "The Financial Express (via Google News)",
@@ -1885,6 +2497,15 @@
       "detailed_summary": "Barchart's end-of-week wrap notes ICE cotton futures closed Friday, August 28 under pressure as traders booked profits following a preceding rally, with no new fundamental driver cited. The move reads as positioning rather than a genuine shift in supply-demand. For a desk, weekly closes matter for chart levels and for managed-money flow that shows up in the CFTC Commitments of Traders report. Watch the coming week's US export sales, crop condition ratings and any weather change across the Texas and southeastern belt to see whether the pullback extends or the prior uptrend resumes."
     },
     {
+      "source": "Ecofin Agency",
+      "summary": "Afreximbank says higher cotton prices give African exporters a window to lift export revenues.",
+      "detailed_summary": "Afreximbank, cited by Ecofin, notes that the recent rise in international cotton prices offers African producing countries a chance to boost export earnings. Francophone West Africa, including Benin, Mali, Burkina Faso, Cote d'Ivoire and Chad, accounts for a significant share of global raw cotton exports, and higher world prices raise farmgate returns, incentivise area, and can pull forward selling of accumulated stocks. This is more macro commentary than a discrete catalyst. Traders should watch West African ginners' export pace and pricing, whether the price signal lifts next season's plantings, currency effects on farmgate incentives, and shipment flows through Cotonou, Lome and Abidjan.",
+      "relevance": "Medium",
+      "date": "28 Aug 2026",
+      "link": "https://www.ecofinagency.com/news-agriculture/2808-58402-rising-cotton-prices-give-african-exporters-new-window-to-boost-revenues-afreximbank",
+      "commodity": "cotton"
+    },
+    {
       "source": "Fibre2Fashion",
       "title": "ICE cotton bounces back on weather concerns, commodity rise",
       "summary": "ICE cotton rebounded on August 27 amid crop weather concerns and a broader commodity rally.",
@@ -1983,6 +2604,15 @@
       "commodity": "cotton",
       "relevance": "Medium",
       "detailed_summary": "The report says the latest US tariff adjustments keep upward pressure on apparel import costs and, by extension, cotton sourcing decisions for garment producers. Mechanism: higher duties on finished goods from certain countries shift sourcing patterns and can dampen mill demand for cotton in affected exporters while boosting it elsewhere, reshaping trade flows more than total consumption in the near term. For a desk, the read-through is to cotton demand by origin. Watch official US tariff schedules, importer sourcing shifts toward lower-tariff countries, and mill operating rates in Vietnam, Bangladesh and India."
+    },
+    {
+      "source": "Fibre2Fashion",
+      "summary": "ICE cotton eased as traders booked profits and upward momentum faded.",
+      "detailed_summary": "ICE cotton futures slipped as participants took profits following a prior advance and technical momentum stalled. Profit-taking pullbacks are position-driven rather than fundamental, so they often say more about speculative length and chart levels than about the underlying supply-demand balance. For a trading desk the question is whether the dip attracts mill price-fixing and fresh buying or instead triggers further long liquidation. Watch daily volume and open interest, the managed-money net position in the CFTC commitments data, weekly US export sales, and crop weather in key regions for signs the move is a pause within a trend or the start of a reversal.",
+      "relevance": "Medium",
+      "date": "Aug 14, 2026",
+      "link": "https://www.fibre2fashion.com/news/cotton-news/ice-cotton-lowers-on-profit-booking-loss-of-momentum-312655-newsdetails.htm",
+      "commodity": "cotton"
     },
     {
       "source": "Fibre2Fashion",
