@@ -85,7 +85,7 @@ SECTION_TEMPLATE = """
   <div class="commodity-label">{label}</div>
   <div class="table-wrap">
     <table class="wire">
-      <thead><tr><th>Source</th><th>Summary</th><th>Detailed Summary</th><th>Relevance</th><th>Date</th><th>Link</th></tr></thead>
+      <thead><tr><th>Source</th><th>Link</th><th>Date</th><th>Relevance</th><th>Summary</th><th>Detailed Summary</th></tr></thead>
       <tbody>
 {rows}
       </tbody>
@@ -96,11 +96,11 @@ SECTION_TEMPLATE = """
 
 ROW_TEMPLATE = """        <tr>
           <td class="source-cell">{source}</td>
+          <td class="link-cell"><a href="{link}" target="_blank" rel="noopener">Open &#8599;</a></td>
+          <td class="date-cell">{date}</td>
+          <td><span class="relevance {relevance_class}">{relevance}</span></td>
           <td>{summary}</td>
           <td>{detailed_summary}</td>
-          <td><span class="relevance {relevance_class}">{relevance}</span></td>
-          <td class="date-cell">{date}</td>
-          <td class="link-cell"><a href="{link}" target="_blank" rel="noopener">Open &#8599;</a></td>
         </tr>"""
 
 

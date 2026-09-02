@@ -141,11 +141,11 @@ def render_table(items, relevance_filter):
         rows.append(
             f"""<tr>
                 <td style="font-weight:600;color:#2563a8;white-space:nowrap;">{item['source']}</td>
+                <td style="white-space:nowrap;"><a class="wire-link" href="{item.get('link', '#')}" target="_blank">Open &#8599;</a></td>
+                <td style="font-family:ui-monospace,monospace;font-size:0.78rem;color:#6b7280;white-space:nowrap;">{item.get('date', '')}</td>
+                <td><span class="relevance-pill {pill_class}">{item.get('relevance', 'Medium')}</span></td>
                 <td style="min-width:220px;">{item['summary']}</td>
                 <td style="min-width:340px;color:#3a4150;">{detailed}</td>
-                <td><span class="relevance-pill {pill_class}">{item.get('relevance', 'Medium')}</span></td>
-                <td style="font-family:ui-monospace,monospace;font-size:0.78rem;color:#6b7280;white-space:nowrap;">{item.get('date', '')}</td>
-                <td><a class="wire-link" href="{item.get('link', '#')}" target="_blank">Open &#8599;</a></td>
             </tr>"""
         )
 
@@ -155,11 +155,11 @@ def render_table(items, relevance_filter):
         <thead>
             <tr style="border-bottom:2px solid #d8dce3;">
                 <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Source</th>
+                <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Link</th>
+                <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Date</th>
+                <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Relevance</th>
                 <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Summary</th>
                 <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Detailed Summary</th>
-                <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Relevance</th>
-                <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Date</th>
-                <th style="text-align:left;padding:8px 10px;color:#6b7280;font-size:0.72rem;letter-spacing:0.06em;text-transform:uppercase;">Link</th>
             </tr>
         </thead>
         <tbody>
