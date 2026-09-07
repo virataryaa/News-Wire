@@ -1,13 +1,67 @@
 {
-  "run_date": "04 Sep 2026",
+  "run_date": "07 Sep 2026",
   "coffee": [
     {
-      "source": "Vietnam.vn (via Google News)",
-      "summary": "Global coffee prices fell sharply while the crop outlook was described as favourable; Vietnam issued new commodity exchange rules.",
-      "detailed_summary": "The regulatory change touches how Vietnamese physical and futures trade is intermediated domestically \u2014 watch for knock-on effects on local liquidity and price discovery.",
+      "source": "Kilimo News (via Google News)",
+      "summary": "Rising Chinese coffee consumption is opening an export opening for Kenyan growers.",
+      "detailed_summary": "China shifting from tea toward coffee is a structural demand story; relevant to long-run East African specialty flows rather than this week's prices.",
       "relevance": "Medium",
-      "date": "Fri, 04 Sep 2026 05:35:56 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOci05SlJSYTZqU3hoQnZWT3dCUzd3WGxKaWxBQlVDNENPbm8wLUF0b215cElWcktqUThLRWRrU2t0X2ZDOXpUeEhkN2c5RnhrTVZ5dnY1RTc2cHR1anBvMm5PYlhzNWxzZHFHYnk2OW1YSkZtQlRSTE0xeVE5SzNQY0pVWWNvd3d4OXZSSlJ1NkVCNWxodHFsTWcxbUNGdFhGWkxlMWVZTjBSWkhKMDFNeGQzajZhaU42Nk5Zelg2eEhoLUI5VUp0eFhOZEZzN1NYdHBqSTNuUGxnbjV1eXpOQkxvSTQtdmdoSW1qYTg0OEFNQzlNNzZ2d1hrSXhFd1VTWmJ3?oc=5",
+      "date": "Mon, 07 Sep 2026 07:13:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTBFOTF1dmpwZUNBaTBoNmp6clItcE45bWt6dlhvRk1Wc2lvc0xnbHUxOUkwYnlYNmI4WUdmS2REUWpSak5VTmNyTVBNOVpPcDZqWnE5V2lsRXlVbWlkZ1g3SlZ6VDFhMVl4M2N5dnd1U1FPTkdVNkZnNWVRbGxyQVhsdFM4QkVNWEpiZXp1Vm5mNXg1cWlTdE5KY1lwNE00SGg0SGJrZ3o4dw?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Laodong.vn (via Google News)",
+      "summary": "Vietnamese domestic coffee prices posted unexpected moves in the 7 September cash market.",
+      "detailed_summary": "Daily upcountry quote roundup. Divergence between local cash levels and London robusta is the usual tell on farmer selling versus holding.",
+      "relevance": "Medium",
+      "date": "Mon, 07 Sep 2026 06:05:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTJyYnlRN1ZkVXY2Nm9kNmt0am1zcU1wUFZCZUFjd3VkRE9jeUdQc1NnUWktRDZvSklhS2lHYTBiQnJacm9hdU4yYW11Um9oWlNLR0xLSnM1ZUluTk5aWHpkYnlaMEZIMlZ5QklpRG8tZk5Ea21RMVlnSElUYVZVRUtlV0dkMVd5UWlid1NZZw?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "devdiscourse.com (via Google News)",
+      "summary": "Uganda's coffee exports have fallen steeply.",
+      "detailed_summary": "Headline carries no volume detail. Uganda is a leading African robusta origin, so a sustained shortfall tightens supply reaching European buyers.",
+      "relevance": "High",
+      "date": "Mon, 07 Sep 2026 05:59:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1FIbUVqd2ZCT05ybGJCQ0g1Q0tWdlBGcDZpSjk5a19oR241UmFucWU4RmVMS0diY1FRdmpCTm15anF5ZHlsTTlsRm5KNUxKeXZNbkhPNUF6TnF2QlZLNU5zZFRXOHhyc2pNLXQtS21yelYzeEJ2NFBUWFpSQkx1MzFvM1YtNWNNbnFmd1ZZYzRpXzJxcTc5YktRZExHZ3J20gGgAUFVX3lxTE1rUUhtRWp3ZkJPTnJsYkJDSDVDS1Z2UEZwNmlKOTlrX2hHbjVSYW5xZThGZUxLR2JjUVF2akJObXlqcXlkeWxNOWxGbko1TEp5dk1uSE81QXpOcXZCVks1TnNkVFc4eHJzak0tdC1LbXJ6VjN4QnY0UFRYWlJCTHUzMW8zVi01Y01ucWZ3VlljNGlfMnFxNzliS1FkTEdncnY?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "streamlinefeed.co.ke (via Google News)",
+      "summary": "Tanzania's Coffee Board has mandated sector-wide conversion of coffee waste to raise export values.",
+      "detailed_summary": "A processing and compliance rule, not a supply shock; watch for added costs or throughput delays at Tanzanian mills during the export season.",
+      "relevance": "Low",
+      "date": "Mon, 07 Sep 2026 05:38:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTd0WEpxSFNYU040RDVoT3dudWFtX3ZBZ3F5dmxLQkxSVVJBSFVJMFBzV013Rzhpckl6Q3Jkb21YbUYyTDBCWHBpY3JIYms4MmJNcmEyYl9MdlJwZWcwb1c1c0lNbmNBVmZJeURmbF9JaGpLWHE0VUZTbUdyeGJ6eVNNX2ZObHExR0NCYlBtNDd4QURpcEdoXzZSY3g0Q1NMeV82WW5pZG9xMnhoMWppbjNRQQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "B\u00e1o VietNamNet (via Google News)",
+      "summary": "Vietnamese coffee exports are expected to finish the year strongly.",
+      "detailed_summary": "Watch Q4 shipment pace and remaining carry-over stocks in Vietnam; robusta availability into year-end shapes differentials ahead of the new harvest.",
+      "relevance": "High",
+      "date": "Mon, 07 Sep 2026 05:12:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEswZXVzdXo0NzhacXVCSzZVbTlTSDdhbl9qcDVfRm1pell4WjZmZFhvVGdYWE5QNVpIQXo0SjhMaDZpc1N4QzV2eC04dE5abGFGVlp5MFhVb2JYRl9tcFhQY2JTZDZsOWd3SlcySVRUUkNPd1VkWjJ0NTA2ZXdpRFV0SFNkdDQtWUZLNkpZdXlHNVFYN3BqNWhTQlUtN2E5YzhpWHRVNA?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Vietnam.vn (via Google News)",
+      "summary": "Export coffee prices under significant pressure; Brazilian shipments running slower, per the 7 September Asian farm-price roundup.",
+      "detailed_summary": "Same roundup notes Thai agricultural goods expanding into China. Slower Brazilian loadings are the line to track for near-term physical differentials.",
+      "relevance": "Medium",
+      "date": "Mon, 07 Sep 2026 04:04:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYmNtZEZrUzgxUm9YeGdSREliSkFBTlVIZGxDdXJOa3dPR0ZoWi1HREpRQlNWMGd6dm9LQ0pDTkpNX3pUOTAyblB3eWNDTDlLeTRIQktfT21FdkhmSVB3Ym9VT01yX3c2eTBKMVF5cFJDSVdNUU8wZ3BFYWkySlh4YTBOWHFjSTg3cGowZFhNaks3Z0VubWlpWHlsdFNoaXFoSjZycGJzRER0ZHRZMU1vOGdhaGVXbUlRTU5yRWhWZVJxNVNpT05Na0IwbVNRWm9kTDJUMVd1UFJMVGVvZ254ZFBuM3Y5bk5HbHJjUW85VGVJdkNsZGo4?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Daily FT (via Google News)",
+      "summary": "Sri Lanka has launched its first dedicated coffee dry mill.",
+      "detailed_summary": "Post-harvest processing capacity is the usual bottleneck for small origins; volumes remain negligible against world trade, so treat as origin-building, not supply.",
+      "relevance": "Low",
+      "date": "Mon, 07 Sep 2026 03:03:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3lzblV2OEdzaDhZVklOX3NXU3RHZndpUWhiWUU3T3hRX29zVC1hMjl0WXJ6VlBPVEM3MWdHUDRtakdWNDNkWnJ2eFlWZnJvT09WZTN4MFhPT2NsLVpVS0IyTWtxWnJtVm9hemg0cE1lOXBudDFhZDZxR2RIT19ZZ0FpV19HaTNMd1hDSU1oOWVxcWZN?oc=5",
       "commodity": "coffee"
     },
     {
@@ -17,6 +71,42 @@
       "relevance": "Medium",
       "date": "15 minutes ago",
       "link": "https://www.barchart.com/story/news/4023986/increased-demand-and-tight-supplies-are-lifting-coffee-prices-1-trade-to-make-now",
+      "commodity": "coffee"
+    },
+    {
+      "source": "dailyforex.com (via Google News)",
+      "summary": "Arabica futures have returned to a key chart zone entering the 7\u201311 September week.",
+      "detailed_summary": "Retail technical commentary rather than fundamentals; its only desk use is flagging where chart-driven flows and stops may cluster.",
+      "relevance": "Low",
+      "date": "Sun, 06 Sep 2026 09:02:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSVRSeHFMZ2Qxd09PaUROcnM3aFR3a1I1S0VGakZNT3h2UHJCcXdZd0hURmFUQkF0QU9RRlNNRktMVlpmanlHeV9Qd0daR0RfeUFOcHhxM2lBcWJDU3o3X1AwWE9LdjJYSld1TkxTTFVJb3JaS2lOM1JWMDJCS3FkVXdQa1AtLXJORkFtUGhfR052YmVWS0txUFplbW02UHBGVEU2ak1uVXFsejEwWkg0VDdmTVNQUmxmd01fNm1WSWttbVczN2s0d24xX3FySG1qdmpsenNxRQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Business Standard (via Google News)",
+      "summary": "India is weighing FDI liberalisation to bring additional crops under its plantation sector rules.",
+      "detailed_summary": "Plantation classification governs foreign ownership of estates; watch the final notification for whether coffee-growing operations see changed investment limits.",
+      "relevance": "Low",
+      "date": "Sun, 06 Sep 2026 07:02:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRkhaUlJHck1hYWZDMEdZT0x5S1pSNFFyMDc5bnd3akE5SmsxT2dyWnpFNkQzVU1jQnAwZVYwdmtKUkJlaDk5cVNMUTlnWTA4Wm5wdVJtc0hfalVrYURQWjFONERpUldOZzJHZE9GQ3FIT0haNE80RmJ0WjdwRDBQWEJqSFY2RzV4akRtdU9CdnVmRkVhV0N4VzVRS1NnYXB2WGJCZi1FLTctNXJSeks1Qk5NOVBMMGMxQUlvcndYaXFfQU5FaFdtejVvbWg4NHpGdXY5NTJWM1pQdUlC?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Raw sugar moved back toward a 16-month peak while coffee recovered.",
+      "detailed_summary": "Session wrap across softs. Worth watching whether the parallel moves reflect broad fund flows into the complex rather than coffee-specific supply news.",
+      "relevance": "High",
+      "date": "Sat, 05 Sep 2026 21:30:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sVnNITnJVMzM4THc0dklra3puVXd5RVJDSVBBelk1RDRSRXRVMGdtb3JDeWNPZ0ZGSnRUZ29QZlZua0VORFlfYllDMEN0endIU1M3VlNR0gFWQVVfeXFMT2xWc0hOclUzMzhMdzR2SWtrem5Vd3lFUkNJUEF6WTVENFJFdFUwZ21vckN5Y09nRkZKdFRnb1BmVm5rRU5EWV9iWUMwQ3R6d0hTUzdWU1E?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Vietnam.vn (via Google News)",
+      "summary": "Global coffee prices fell sharply while the crop outlook was described as favourable; Vietnam issued new commodity exchange rules.",
+      "detailed_summary": "The regulatory change touches how Vietnamese physical and futures trade is intermediated domestically \u2014 watch for knock-on effects on local liquidity and price discovery.",
+      "relevance": "Medium",
+      "date": "Fri, 04 Sep 2026 05:35:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOci05SlJSYTZqU3hoQnZWT3dCUzd3WGxKaWxBQlVDNENPbm8wLUF0b215cElWcktqUThLRWRrU2t0X2ZDOXpUeEhkN2c5RnhrTVZ5dnY1RTc2cHR1anBvMm5PYlhzNWxzZHFHYnk2OW1YSkZtQlRSTE0xeVE5SzNQY0pVWWNvd3d4OXZSSlJ1NkVCNWxodHFsTWcxbUNGdFhGWkxlMWVZTjBSWkhKMDFNeGQzajZhaU42Nk5Zelg2eEhoLUI5VUp0eFhOZEZzN1NYdHBqSTNuUGxnbjV1eXpOQkxvSTQtdmdoSW1qYTg0OEFNQzlNNzZ2d1hrSXhFd1VTWmJ3?oc=5",
       "commodity": "coffee"
     },
     {
@@ -920,6 +1010,24 @@
   ],
   "cocoa": [
     {
+      "source": "Moneyweb (via Google News)",
+      "summary": "El Ni\u00f1o conditions and crop disease are again threatening West Africa's cocoa harvest.",
+      "detailed_summary": "West Africa supplies the bulk of world cocoa, so the read-through runs through pod counts and disease reports; watch main-crop arrivals for confirmation of losses.",
+      "relevance": "High",
+      "date": "Sun, 06 Sep 2026 02:00:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYUtIRzA3d2wtVmR6d1o3NGZqWVYtWXl4YXpZMUI1S19sTTlXM0dRZHJTSzd1RTNveGpuX3Z3c196aVd4S2c3akhWM09Tbm1EOUxJeGRhSk95SDFVcXVkSDM2VW16Y1l2UFB6WUdETkVnbnhabXRWbkVVR3RYX3FRd25YZEFhZHFJVk9pd3VFMXpTdGZRd2VkZnEwWnlidlJHOGFHQ2tqZE5RVjRUYkR4bFBiX0Zmalc4b0ZCY2FyWjMzWmFsYUp3?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Asaase Radio (via Google News)",
+      "summary": "Ivory Coast has frozen the cocoa farmgate price, leaving farmers disappointed.",
+      "detailed_summary": "A held farmgate price widens the gap to world prices, shaping farmer delivery behaviour and cross-border flows into Ghana; watch arrivals data at Ivorian ports.",
+      "relevance": "High",
+      "date": "Sat, 05 Sep 2026 17:03:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSmVQYWZyckVTcXBxeDVPV2J4NUY1QjMxRHMxcktRdENWbV9TS3E3TDNCOUhqZ1FPazZ4emx0U25YdjFQR1dWRThMSGJrSURpdVMzS09Xb0lVWV9QWldoRzlES1pCTW1JcThyS2NMaHprMmNyVU9pUEtEWGFmUEQ3RXJDYkVDbllzcHVnZERrT2FnSXM?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "Table.Briefings (via Google News)",
       "summary": "Kenya is warned of heavy El Ni\u00f1o-related rainfall beginning in October.",
       "detailed_summary": "Not a cocoa-growing region, but confirmation of an active El Ni\u00f1o pattern is the key input for West African rainfall risk through the main crop.",
@@ -1518,6 +1626,15 @@
     },
     {
       "source": "ConfectioneryNews",
+      "summary": "Nestle's move into cocoa-free chocolate is framed as a test case for the alternatives category.",
+      "detailed_summary": "Substitution by a major manufacturer is a slow-burn demand risk for cocoa; scale-up economics and consumer acceptance are what determine whether it matters.",
+      "relevance": "Low",
+      "date": "01 Apr 2026",
+      "link": "https://www.confectionerynews.com/Article/2026/04/01/nestles-alt-chocolate-bet-is-make-or-break-for-cocoa-free",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "ConfectioneryNews",
       "summary": "Barry Callebaut, Ferrero, Hershey and Tony's Chocolonely joined a UK cocoa coalition backing growers.",
       "relevance": "Low",
       "date": "26 Mar 2026",
@@ -1699,6 +1816,240 @@
   ],
   "sugar": [
     {
+      "source": "Bloom Pakistan (via Google News)",
+      "summary": "Pakistan has opened an international tender to export more than 107,000 tonnes of sugar.",
+      "detailed_summary": "State-directed export offers add to regional white sugar availability; the award price and shipment window are the next things to watch.",
+      "relevance": "High",
+      "date": "Mon, 07 Sep 2026 07:12:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUtwVHQwTzJsSWhfOFVJWHJfMkJtd3V0a1phRlNkNDVOdzZpc0c1QjlCM2xkaVNGbDVTOWZtWUxEYUJLRjFwOWxqQkJ3YVllcGY3V0lQeFJVQ1E1V3A2TEdPS0M0X29yaE4xTlhkcjFTZmNMZEFjcjczZHFGc2tTWHVzOEkyRFFYSW9QbmxLaWhWUkpsdmVvc3pfRDl2dHAwVE4xcEJkSzY?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Economic Times (via Google News)",
+      "summary": "Elevated sugar prices put Indian festive-season mithai, chocolate and biscuit output at risk of price rises.",
+      "detailed_summary": "Confectioners face input-cost pressure into peak seasonal demand; persistent domestic strength raises the chance of stock-release or trade-policy action in India.",
+      "relevance": "Medium",
+      "date": "Mon, 07 Sep 2026 06:58:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQMUhzSXVxUWxWdEY4YldpYy1PRUJ3M3VBZ2NqR0N4a0VPaDFpQ0g3SmxZUnNHcURlQjNrRG1NR1gwRVNjQUZfVWxtNVhKeXBFTDlfVkV4dEZZVW9vTm41OWNVQzJUcG1RVUFOYV9jeDVVemd6RWhsbXRpaU1UaG9lOXJlczdQNTRvZzlCZlF6UXBHeVJkUXJ0S1FGT3o3enVmWFluN2lYYnpHelQ3ZlhpZ0swQ3BGY2N5WVVGaHJ4QVk4cnYzZzJwdjZkR2F5dXdKLWlDR2xiRDAxM0hBenQzY3JweTBNb3dzR1lIa05VRlNWVDVCNy1ZWWR0UDVMaF9WZEJkUEFkcENuaUVQbDNTQzBVUTJHai1E0gGeAkFVX3lxTFBvVUxWU24xSEI5Q3Z4YnlvNE5XQnZyMnBpMldxRXBkZXEyU0VlTFk1Qk1yeHUweTJuOGticlc1SUFRdlc2OHF0VTFRbUhZT24xTHI2N2NVVkhYQlY3NDI0UG5LRjJxS3lzRTRYdGRXSzkxcGhxUllyd212d2FXTEV0TVE4cnpFWUc1QzNiaW5pQ29tWGpjOU5EcUc4bEpTeGtSR3REREc1SmdSYW1Oc1hYemotUTJsNDNaWEVOQmwyaUhYQWFLRnZ3MUNUVDZpR3M5UDl6V01mVW5Na3p6alZpSnNOanRTUzI5WU95SU5oamdsakRzRkhmc0VLWnUyTXdSc3JacjUzaTFRT21nODRJSERydUYtbjJJT3JoYVE?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Pakistan issued a tender to export 107,739 tonnes of sugar, traders said.",
+      "detailed_summary": "The volume is sugar imported last year being pushed back out; award levels will signal regional demand and Pakistan's swing between buyer and seller.",
+      "relevance": "High",
+      "date": "Mon, 07 Sep 2026 05:34:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQTRCWE5pLWxHTWVYRDlYOUZWUGI4TkZ6ZUdFM0xkZDk5eFFSNFIwV1FRQ3VPaFdCV0d5VVVMa3owVDFDMi1WZHZyOVlEaFl6S0tFempXOGV6MVRPMUJxOTJBOHBOY0pkREpaQmFyb2VZa3JEWVk2R2ltOS0xYkxsOExfMEtWWVhwaU9qclhIa0VpTVhsZVNYUEFTYWhiMWFHZHlqMtIBVkFVX3lxTE1BWHdzNENCNklUQVFkR1g0N2pSRjcweWNFSXdQcEJOZDFsMlQtUmZsZm15UGlHU2ZfemZmRUE4Rk5yYlVkdzh6YV94RXB5M0N2ZFZVNC13?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Indian Cooperative (via Google News)",
+      "summary": "India is directing Rs 10,005 crore to 56 cooperative sugar mills to build out ethanol capacity.",
+      "detailed_summary": "The mechanism that matters for the balance sheet: cane routed to ethanol at these mills is cane not crushed for sugar, trimming exportable output.",
+      "relevance": "Medium",
+      "date": "Mon, 07 Sep 2026 03:14:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXdPRkl3N0hnWXgteWFkYUZKUUpUZklmc2xic1hRT0E0c1dvMXhid1BlVmNYUnZNanZBaVp4eVd3aFF6dXoxVnBmVkJPXzVTeGJMRzI5ajFhSVRadmpIbC1TaXQ3ZUJhVkZBQXg5ZW1IeHNsbURsb1hncVFaVVJhT3NqaEdFTHZnVWtNaU5xSjlueXNJMkdJWUMxR04yWnEyblZETU1fcW9MZmRrTF9MWEFMeXhUd2c?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Sindh growers are demanding sugarcane price support, citing rising input costs.",
+      "detailed_summary": "Cane pricing decisions taken before the crush shape planting intentions and mill procurement costs, and are typically contested between growers and millers each season.",
+      "relevance": "Medium",
+      "date": "September 7, 2026",
+      "link": "https://www.chinimandi.com/pakistan-sindh-farmers-demand-sugarcane-price-support-as-input-costs-rise/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Kenya's sugar sector is split over a proposed agricultural fund overhaul in the Crops Laws Amendment Bill.",
+      "detailed_summary": "Funding for cane development is what is at stake; Kenya is a marginal participant in world trade, so effects are largely domestic.",
+      "relevance": "Low",
+      "date": "September 7, 2026",
+      "link": "https://www.chinimandi.com/kenyas-sugar-sector-divided-over-proposed-agricultural-fund-overhaul-under-crops-laws-amendment-bill/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Maharashtra Deputy CM Sunetra Pawar urged sugar cooperatives to modernise and diversify beyond sugar.",
+      "detailed_summary": "Diversification steers cooperatives toward ethanol and co-products, which over time lowers the sugar yielded per tonne of cane crushed.",
+      "relevance": "Low",
+      "date": "September 7, 2026",
+      "link": "https://www.chinimandi.com/maharashtra-deputy-cm-sunetra-pawar-urges-sugar-cooperatives-to-modernise-and-diversify-beyond-sugar-production/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Fiji's sugar industry is being urged to phase out unapproved cane varieties.",
+      "detailed_summary": "Variety control feeds through to yield and sugar recovery rates, though Fiji's small production base keeps the impact local rather than market-moving.",
+      "relevance": "Low",
+      "date": "September 7, 2026",
+      "link": "https://www.chinimandi.com/fiji-sugar-industry-urged-to-phase-out-unapproved-cane-varieties/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Dawn (via Google News)",
+      "summary": "Analysis of Pakistan's repeated cycle of sugar imports and exports and the policy decisions behind it.",
+      "detailed_summary": "Policy-driven trade swings make Pakistan an erratic participant in regional white sugar flows; relevant to physical premiums and freight in the Gulf and South Asia.",
+      "relevance": "Medium",
+      "date": "Sun, 06 Sep 2026 23:29:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zdXJ0elZETTdkeWg5R3VWSVotaUVkMjNuTllKR1RVQWZHVWpzYUtwMEt6OUJ4ZFNVS05ZaENmS1J2TzB1RzZvMtIBTkFVX3lxTE9KYU5QazQ5VldFMDVpd3k0Nll1QmZUYUxiNi1lRDdrM1ZNVlpOUHpvUTRXeXg5TlhNeV9zbHRqbjRfMDREeUkwYUNld1g3UQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Pluang (via Google News)",
+      "summary": "Sugar prices rose 21.5% in August to the highest since 2010, on supply cuts and El Ni\u00f1o fears.",
+      "detailed_summary": "The gain led the broader FAO food price index higher; sustained index strength typically pulls forward importer buying and government price interventions.",
+      "relevance": "High",
+      "date": "Sun, 06 Sep 2026 13:05:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWRNa3pyUTMxb2pRQzhtZjVTYy1la1VoNFRvRXZrR1N0MHFfcUNOWTg2cWl2T1RiMi1sbXM0djloTkowRWZPRVNTeTNPNWF4UlZnNjZjQ05TSEtnZ3psTUlvbWpxNXptNE1NQzBWdWhBLXUyX3MxMEZ4YjJqMzFLdWRFbzE5VHlObnBTUEZn?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "CNBC (via Google News)",
+      "summary": "Sugar has outperformed the stock market year-to-date; piece reviews drivers and the outlook.",
+      "detailed_summary": "Broad financial-media coverage of a softs rally tends to attract non-commercial flow; watch positioning reports for whether speculative length is still building.",
+      "relevance": "Medium",
+      "date": "Sun, 06 Sep 2026 12:48:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTZpMGdtdWNoRTdJR3ZEWGJibDlWMXE0bHAxbUp0UVBHQWNCU0sxZGJBTk10OFRncnhiYkpyOGpTVWZnWXJtN1RtT0pEcndWN2NqWkEyLUdHZ0tIaWRtWHhVWFUwQkRHNGpjUkhLQWlKaGRtQ0tKU252SkZNV0tOUzhCeWpjMGFjNHBPWjBOVW5sNktmbmZLMV90ekRjRXY0cVZhNEo0V18zcHPSAasBQVVfeXFMUHE2aTBnbXVjaEU3SUd2RFhiYmw5VjFxNGxwMW1KdFFQR0FjQlNLMWRiQU5NdDhUZ3J4YmJKcjhqU1VmZ1lybTdUbU9KRHJ3VjdjalpBMi1HR2dLSGlkbVh4VVhVMEJERzRqY1JIS0FpSmhkbUNLSlNudkpGTVdLTlM4QnlqYzBhYzRwT1owTlVubDZLZm5mSzFfdHpEY0V2NHFWYTRKNFdfM3Bz?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Briefs Finance (via Google News)",
+      "summary": "Sugar prices climbed on heat damage, El Ni\u00f1o risk and Indian import demand.",
+      "detailed_summary": "India buying rather than shipping removes a swing exporter from world balances; watch Indian import tenders and cane-belt rainfall for the next leg.",
+      "relevance": "High",
+      "date": "Sun, 06 Sep 2026 10:05:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVQtY2h1N29Vd2xqbmNMUUdCdGdsMVRyWlFtRndxYk0tYzlyVVhkUmhlMXJqT0hNSk5Yb0gyR2xIWkVDb1lfS2p1N1RHU2R0eUdKQWozeWNnOGViS1VMMHAyWmJXVmt0aTVnUVNaaFpyMEM3UWRoN2l0djFvWDdNVUNORmUtYUNtNk1MMkc5LUEzdw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Pakistan Observer (via Google News)",
+      "summary": "Commentary criticising the handling of Pakistan's sugar policy.",
+      "detailed_summary": "Signals domestic pushback against alternating import and export decisions, a recurring source of unpredictability in Pakistani sugar trade flows.",
+      "relevance": "Low",
+      "date": "Sun, 06 Sep 2026 02:16:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ISDRSekVzYS1TWVJDZW1Ra09DaGlfbG5qTkpHa2RuOEhLM1FxWFdkTE1NdTVJOGxQcXVpSDMwODk2REY2c1Q3NmFrZXg3U1A2R181ZA?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Maharashtra cane growers want crushing licences withheld from mills that have defaulted.",
+      "detailed_summary": "Licence denial would delay or block season starts at the affected mills, so state licensing decisions ahead of the crush are the operative variable.",
+      "relevance": "Medium",
+      "date": "September 6, 2026",
+      "link": "https://www.chinimandi.com/maharashtra-sugarcane-farmers-demand-withholding-of-crushing-licenses-for-defaulting-mills/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Raw sugar traded back toward a 16-month peak, while coffee recovered.",
+      "detailed_summary": "Sugar is leading the softs complex; the prior 16-month high becomes the reference level traders will watch on any retest.",
+      "relevance": "High",
+      "date": "Sat, 05 Sep 2026 21:30:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sVnNITnJVMzM4THc0dklra3puVXd5RVJDSVBBelk1RDRSRXRVMGdtb3JDeWNPZ0ZGSnRUZ29QZlZua0VORFlfYllDMEN0endIU1M3VlNR0gFWQVVfeXFMT2xWc0hOclUzMzhMdzR2SWtrem5Vd3lFUkNJUEF6WTVENFJFdFUwZ21vckN5Y09nRkZKdFRnb1BmVm5rRU5EWV9iWUMwQ3R6d0hTUzdWU1E?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Statesman (via Google News)",
+      "summary": "Uttar Pradesh's first multi-unit ethanol and sugar plant is to be built at Chhata, Mathura.",
+      "detailed_summary": "Capacity expansion in India's largest cane state, but construction timelines mean no effect on this season's supply balance.",
+      "relevance": "Low",
+      "date": "Sat, 05 Sep 2026 13:58:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQjc4UkdOWkVUdHdnMU5qaUxFbmxVWEJyUFpOZHVPUFdXaDdqcFFPdzkzQUxyN0lGdGtPUFRFOGViblRFaTRybmRFdlZKb0YyTXhzaGMwVHdCX3hrRkJQbnlHaktDMW1nWVRvWEoyNDlOUklhekhtX2tIc3JiY1lKaDFDT09mWHBncW94cGtYdFpjV2xMQmVKemlRVnd6TUdtUUFSUHhrZlR5enI2X0tfWmZlenNibTQ5a2FqcnBVRUphMHBDNlpldFF2R0JZMDFM0gHWAUFVX3lxTFBJbnlTTi1jVEl2ZHJZaVJMSW90SjRnOWRaV25Ya0VWVGdRSXJlMm1PN3VoV3VuQ0xTZDcxUmdXcGZmOE5UaTdGd2kwQXE4OE9HOUEtN1A3cnlfekhFM3p6Qjlkai15V1BqZFZmdDZMU01kdV9rWkxCMWg4enN3alJTZTJXVzNvZlhBb09jWEwxaVhsTERmM3QyX3ZzY1ZlUExZdUxPWjNTQmZqUlg0TFJWODd3WmRyVEdNUkZhQkc1UFV5Y3NsQkpNdGFBVGxFTlBtZnNrbHc?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Tribune (via Google News)",
+      "summary": "An indefinite sugar mill workers' strike at Naraingarh has left cane farmers anxious before the crushing season.",
+      "detailed_summary": "Labour action ahead of the crush risks delaying cane intake locally; only matters more widely if the stoppage spreads to other mills.",
+      "relevance": "Low",
+      "date": "Sat, 05 Sep 2026 13:56:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORTEzUFc1QnNGdnJtV0xuMTRUeXd1bXNWOW9fN2FPcUZ0U0k5NnhseG1rT1BXMGxFREtDb1VtM0tpd1V1Tkhpd2RmYjlEc3JoZzM1cHJ0VU1OX0xiZENVM0lKUXQ0T2pqTDY0VlRqNTRueTJ1UW45MXk1WWlhenZVQmNIaVZHcmpISC1ibmlKS1lQYVdwLU9RNXUyY1FCT0V4VmVDYVB5eGMzUUFiSjhON3ZxVGF5NkZzZFIxMXpReGJiaHA0QmdaamtiNGpQalpWOXRaZWoydXI3MHPSAd8BQVVfeXFMUC1qWnNQTDFUNUZIZ0UyYmZyVWZ1cmFJcWdPVVM0TEZCejYxblI3WDZ5QmN1TnAzWWN5N1JzSXduQngyancyYTFMcjk0RW12a1Fnd3RqenczX2VKZWpaR0FwU1hhNmE0T2hXNXZ3V1l0eklMMlFCaElQTzQzQ3NHVUVQbzJ2OUtTR1hNQzNKc2lrTTNqWFVCajVwNVlmcjZnUmcwRGVoRWZmalJqZlFKSlltR1REcnlBQ2JWMk5JbWF2cFU3d1VwWnFJcDFzRzkxeVBFaTVER01oSEhyRkltdw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi (via Google News)",
+      "summary": "Mill body WISMA has submitted its demands to authorities ahead of Maharashtra's 2026-27 sugar season.",
+      "detailed_summary": "Maharashtra is India's largest cane-producing state; the terms agreed influence crush start dates and mill willingness to buy cane.",
+      "relevance": "Medium",
+      "date": "Sat, 05 Sep 2026 12:42:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSk4tMFVQNlJTNjk1cjM2MXlrQ2NUR2JpWTlYc1N1SDRraWt3cG5IWThkeE5ocF9mVm85ZGU1QnZSOGlWOEtBdkd3eUR5b1FGUTRQdTFzSFB4M0ZtdGFrbWZldUpfYmQwZ09MZTZkY0V5aFUwN09kXzdJem9MM0FUUVZLYktCZG9hT1JSRDBRMWpiVWd2MVNTM1FTLXY?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi (via Google News)",
+      "summary": "Egypt has allowed sugar exports as producers contend with rising stocks and a domestic surplus.",
+      "detailed_summary": "Adds an incremental seller into regional and Mediterranean markets; watch whether volumes are capped and how quickly cargoes are offered.",
+      "relevance": "Medium",
+      "date": "Sat, 05 Sep 2026 12:04:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0FRdGtPeENUYmxwN1E5c3dTUlRDcHhITVlHWjEybG9VZXZPdUItWGhMQl9ScWJrQndyei1SY0RGS1QzTkoyRmpac0pLY3VtcHNKbV9RUGd1MkNfaXpJU2tKTjg2Qk02Tm1iVUQ0N3VFTjNtV3hQeS0wamEyYUo1VGtvX1pqeGRIWEN6bkIzY1g3Y0EzSmI1Z1Q5aV9BR1ZEV2taNktJMXBnQjVMYm9FZQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "BioEnergy Times (via Google News)",
+      "summary": "Ethanol demand is driving interest in building new sugar mills in Karnataka.",
+      "detailed_summary": "Added crushing and distillation capacity diverts more cane juice to ethanol, which over time trims India's exportable sugar surplus.",
+      "relevance": "Medium",
+      "date": "Sat, 05 Sep 2026 09:18:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDR2WjY4NXFwZ01Ud1hTb1pmY0oyLUlfV3JwNEtoZDdhYjhmeDZDdUxSUzcwSVBRME9PVGltUGZlb2NYTU16TlhSbHlScWhlRDNjTTBDSmxtV1VvMElEUUkzSG1kVEZ1elBZcldXMWpVRm83SlNpS2VId2ZsdjBzb3BlZHdHai1ZTHpFVlBuUGxqNHQtVjJpZDd0OGY3NWVxaFAw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Profit by Pakistan Today (via Google News)",
+      "summary": "A Pakistani farmers' body is pressing the government to export one million tonnes of sugar before the crushing season.",
+      "detailed_summary": "The ask is about timing: clearing old stock before new-crop cane arrives frees mill storage and cash, and would size Pakistan as a seller ahead of the season.",
+      "relevance": "Medium",
+      "date": "Sat, 05 Sep 2026 08:02:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRk5tcTRfQWlienJJMlVMb3dnNzJTZUJzZ1V0VnNYTVlqN3lyNmkxNW1uRUwxZlF4YzJwVS1ON3pHS21pa3JscXFGa3Y0ZDZsMk93S1pjdjZKYnV5cm1CU3FyXzZhSldkdWxXbHkyUVZBc1BHamdmQ3lxRnFmRlRVb3ZIOTBVM1prT00tSzZ0NDl5RnZneW9hTEVWOEs1VVhMbXlqS2RsWFpnaHR4QURJdFphRDhPTUttTloxcXQtS25CODJpNXNKcA?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Zee News (via Google News)",
+      "summary": "Global sugar prices have risen 11.9%, attributed to adverse weather and reduced Brazilian production.",
+      "detailed_summary": "India's duty-free import drive is cited alongside the supply shortfall; watch whether Indian import demand persists once domestic crushing begins.",
+      "relevance": "High",
+      "date": "Sat, 05 Sep 2026 07:46:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSVhha0pmWG9jNGs1MGFLbmZkRk1Pak1TX3E2d0Q2OXozbkZwNWZjVUZzQzFiN3lidmEwM1VrT0V5cm9NbzFMcTB3dU40X1hPNmdYU09qUDJVelo4T0xyOXZ1UDNjbUtVMWhCUDRncXFDam51TjRiTXVjQzNLSWExcll5amE5Si1TNnplT3pqX0c1YzNpTWN1UU8wbWszZVc3Vm8za0NGYlZHZkNTT0NjRFZhVkt0LWVTWUxfbHctSExmQjdhNmZKeHlJTWdZWk1fcGg5VUlLeldRbHhJS1RTRFRhRkZfeHfSAewBQVVfeXFMTnA3bGZYUWdxN0txVWd5WWtuQmJLSnd3dm9nTEt6ZHEzV2JaeWlWa1M4bFJvTWhpbkJySkg1TFQ0MlhTSHAtdVBDVTRtaW1xRlFxd3F4cGd3bTc1TGN5MUZTdTVZUlpJa3VwSHJsMlcyMUpxeDVTOG1mVmUzdmtlUmVpWFY0aEs5RTF4ZGk0SGl5Ni1TWWJYRWxKcVVLNzZSN2tvMmVNQ3RGSnhzOVlTeVNDX2FMU0EwcHl6MW1PdHlBWXZPWkV6UTd5UTI0Nmh3RGlSSkpzdS1RSUxlTnpqbWdwTW80MlZZRlBYOWE?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "India's central government is pressing for an earlier start to cane crushing; mills are requesting a special subsidy.",
+      "detailed_summary": "An earlier crush start shifts the timing of first-quarter output and ethanol diversion; whether the subsidy request is granted is the next thing to watch.",
+      "relevance": "High",
+      "date": "September 5, 2026",
+      "link": "https://www.chinimandi.com/centre-pushes-for-early-sugarcane-crushing-as-mills-seek-special-subsidy/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Cane farmers in South Gujarat are switching to other crops as margins shrink.",
+      "detailed_summary": "Acreage loss accumulates slowly but persists across seasons; the read-through is regional cane availability for mills in the coming crush.",
+      "relevance": "Medium",
+      "date": "September 5, 2026",
+      "link": "https://www.chinimandi.com/south-gujarat-sugarcane-farmers-shift-crops-amid-shrinking-profits/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Ethanol economics are driving a rush of new sugar mill projects in Karnataka.",
+      "detailed_summary": "Capacity built around ethanol increases cane diverted away from sugar as plants commission; approval and build-out pace determines when that shows up in output.",
+      "relevance": "Medium",
+      "date": "September 5, 2026",
+      "link": "https://www.chinimandi.com/ethanol-opportunity-drives-rush-to-set-up-new-sugar-mills-in-karnataka/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Andhra Pradesh's drug control authority is seeking withdrawal of the exemption for ethanol-based hand sanitisers.",
+      "detailed_summary": "This touches a minor ethanol offtake channel only; no meaningful transmission to cane crushing or the sugar balance sheet.",
+      "relevance": "Low",
+      "date": "September 5, 2026",
+      "link": "https://www.chinimandi.com/andhra-pradesh-dca-seeks-withdrawal-of-exemption-for-ethanol-based-hand-sanitisers/",
+      "commodity": "sugar"
+    },
+    {
       "source": "Whalesbook (via Google News)",
       "summary": "Sugar futures retreated from a 17-month high after India moved to ease domestic supply tightness.",
       "detailed_summary": "Indian supply-side measures are the driver; whether the pullback holds depends on how fast additional volumes actually reach the market.",
@@ -1750,6 +2101,15 @@
       "relevance": "Low",
       "date": "September 4, 2026",
       "link": "https://www.chinimandi.com/cag-flags-haryanas-sugar-mill-loans-urges-review-of-lending-policy-amid-poor-recoveries/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "FAO food price index rose in August, with sugar the leading contributor.",
+      "detailed_summary": "A tighter 2026-27 supply outlook was cited as the driver; the monthly FAO index is watched as confirmation of shifts in the global balance sheet.",
+      "relevance": "High",
+      "date": "September 4, 2026",
+      "link": "https://www.chinimandi.com/sugar-leads-fao-food-price-index-higher-in-august-on-tighter-2026-27-supply-outlook/",
       "commodity": "sugar"
     },
     {
@@ -2744,6 +3104,482 @@
     }
   ],
   "cotton": [
+    {
+      "source": "HDFC Sky (via Google News)",
+      "title": "Greaves Cotton Unveils 750 HP Fire-Fighting Engine; Shares Fall 0.39% - HDFC Sky",
+      "summary": "Greaves Cotton Unveils 750 HP Fire-Fighting Engine; Shares Fall 0.39% - HDFC Sky",
+      "date": "Mon, 07 Sep 2026 06:57:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjZyNTh5R1RtTDluTGJuS2NmeXhQVUptcW1tTFg0MC1RUHp0S0FUXzI4TDZMTElBazRBdDBGTzlmSmtwU2JybXNYbGVBdWtZblhCTlJZWV9QZE9Jemg0c29paFZOZGNOdHlCb2xUaWw0U1FNX1o0SExuYUpzX0Q1OA?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Greaves Cotton Unveils 750 HP Fire-Fighting Engine; Shares Fall 0.39% - HDFC Sky"
+    },
+    {
+      "source": "scanx.trade (via Google News)",
+      "title": "Greaves Cotton unveils 750 HP fire fighting engine at FSIE Expo 2026 - scanx.trade",
+      "summary": "Greaves Cotton unveils 750 HP fire fighting engine at FSIE Expo 2026 - scanx.trade",
+      "date": "Mon, 07 Sep 2026 06:29:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGNBYXlXTUtFbmRmTlplZ2lfUEdzeHFtT0JWNEFGRGVPNzl3LVhRLUt5WWFEMDQxbl83a0pZQnNHbkNwdEJVWjlack50bE5RNWdtcVh5MHBUam1SMFpkMTI4YW91SDlPVlF6S09DMUV4a3RpZnp2U2NzMjU3VkRXblhOXzhETGtWVDNEeGx0NXUzNVpCb0cxZGh5OUV0RnlBdHM3LUxxbkRoZXhhdzAwZUxDejVrVDdHQm85QTY1OEc?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Greaves Cotton unveils 750 HP fire fighting engine at FSIE Expo 2026 - scanx.trade"
+    },
+    {
+      "source": "The Siasat Daily (via Google News)",
+      "title": "Rain deficit forces Telangana farmers to resow crops thrice - The Siasat Daily",
+      "summary": "Rain deficit forces Telangana farmers to resow crops thrice - The Siasat Daily",
+      "date": "Mon, 07 Sep 2026 05:27:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0dOQ185QlNJLUJTQ1RzaEVhY0VObF9paUttM1BsTWtqaW9ra1FfTVhueUNBRTRpUXR4VU9FdkJxRnJDSlJsTklhcnhVQTFnZGdqaEM1ZXllYlVXeGVLYzI5UUVaTnlYN19DVmd2ajhhTHg0UUF2MkFhRTFLRk9feTJ0UGRXaWhXamNteTBpNzNNN2YzQjVMSTA4b9IBmwFBVV95cUxQM0dOQ185QlNJLUJTQ1RzaEVhY0VObF9paUttM1BsTWtqaW9ra1FfTVhueUNBRTRpUXR4VU9FdkJxRnJDSlJsTklhcnhVQTFnZGdqaEM1ZXllYlVXeGVLYzI5UUVaTnlYN19DVmd2ajhhTHg0UUF2MkFhRTFLRk9feTJ0UGRXaWhXamNteTBpNzNNN2YzQjVMSTA4bw?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "Rain deficit forces Telangana farmers to resow crops thrice - The Siasat Daily"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "India's 13-point GST gap on polyester is being questioned as a possible barrier for the textile sector.",
+      "detailed_summary": "Relative tax treatment of man-made fibre versus cotton influences mill blend economics, and therefore domestic raw cotton offtake.",
+      "relevance": "Low",
+      "date": "Mon, 07 Sep 2026 05:15:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHU5WjJERXVpQXNIX24xUFNnRFl5TnRwQnRZWC1uOWh5aGVSMXB4TkJGOGFPa25tYnhac19ITXIydUFOZlAxUU9MOUtNQzRHMkRDMUNoT0QwZGZyZm1XMGh0VzB1a2FjLWUycVc3UnFwRVppa1B0VHZnZWlUQV9xN0d0aGVpRE83R0hNYjQ0UkpLOVNrX2tXZ29DMkt4ZTZIN2pKOWZCRUt0NU5zY2N3ZVRiaWRmajJQRVZYdldVdjhOaHpQU1A3aHV1eVRIS2FMUzg1Y21KUDlneENhdnJZZDI3WQ?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "TipRanks (via Google News)",
+      "title": "Suryalakshmi Cotton Files Newspaper Notices With No Direct Business Impact - TipRanks",
+      "summary": "Suryalakshmi Cotton Files Newspaper Notices With No Direct Business Impact - TipRanks",
+      "date": "Mon, 07 Sep 2026 02:18:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORW5TRFNPeVBmeGZianJ2QUhKM0hmS0VBeGtiNk11aFB1WVk3SHRBSGlKS0NxQV9SUUNhYWpCSGg1WENfSm0zZF9RMXdoUldLWTdYbjJ3Q2J1cHI5RXVNa0FtbTl1MTZ3d2E1UUI4N2gybnZDT0d2OUJzdDFiV01hRTJPZHBRaTRHUk1FVnlMVkZEbHFBaHFjMWN2MTRUNEtZSmdLVUVzcW1JbW5TMVpZcFN5RGIyX3ppeXZmbVdBUTN1dHBX?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Suryalakshmi Cotton Files Newspaper Notices With No Direct Business Impact - TipRanks"
+    },
+    {
+      "source": "the-star.co.ke (via Google News)",
+      "title": "Kenya\u2019s cotton leftovers are finding new value - the-star.co.ke",
+      "summary": "Kenya\u2019s cotton leftovers are finding new value - the-star.co.ke",
+      "date": "Mon, 07 Sep 2026 01:50:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNVRjejF2cTQxYlhScFBuaWFnZVNRNVljZkZ1aFQ1UnVOMHZsMTZSVkNUTEdlbWtjWHROQVhfaTlUU3JYSUpGUUdXQTluQXdmRVA0YUV0b1NQSl9wWjRVOWNxZGVRaDdBZE9jTURvVzl6aEZMSE9GZTl5cEdJcGlIMTFzTW1XTElYWk8zYzVLSV9ieU14TXRRNDRpSXg1Zw?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Kenya\u2019s cotton leftovers are finding new value - the-star.co.ke"
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Pakistan's cotton production is up 27% year-on-year at 1.7 million bales, according to the weekly review.",
+      "detailed_summary": "Arrivals running well ahead of last season point to a materially larger domestic crop; watch the weekly pace and ginner buying against mill demand.",
+      "relevance": "High",
+      "date": "Sun, 06 Sep 2026 23:49:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmb2h1WWNlbTNxbTh0MmlmdzJEa3hKbFlTUlhScjJlckYxaHVSLWtINHpfUU1IN0laY1kxNG5yTHgzMEV5bkYxOFhhOF82bFNoemhySTZ30gFWQVVfeXFMUGZvaHVZY2VtM3FtOHQyaWZ3MkRreEpsWVNSWFJyMmVyRjFodVIta0g0el9RTUg3SVpjWTE0bnJMeDMwRXluRjE4WGE4XzZsU2h6aHJJNnc?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "UA.NEWS (via Google News)",
+      "title": "CSIRO develops plan to revive spinning mills in Australia - UA.NEWS",
+      "summary": "CSIRO develops plan to revive spinning mills in Australia - UA.NEWS",
+      "date": "Sun, 06 Sep 2026 23:20:41 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalNWbTh6VG4ydEVxU3d0R3JWUHA5amtYZnpnZE9neDRaYmU4bUdzRzNzWW9rZDFYcEg2cE9VZHlZUWpRQTRuY3VRNHV6TUNUTmFEOWVTN3dpOGV6cF9yTGRGWUJ4TkhBOF9ROGtEZmx1OVItNW1kWDM5STJkXzlURk1KbEhPa1FaTWowV2U1OHMyZ09fLW9J?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "CSIRO develops plan to revive spinning mills in Australia - UA.NEWS"
+    },
+    {
+      "source": "AgroSpectrum India (via Google News)",
+      "summary": "Indian cotton yarn producers' revenue is seen rising 9-11% on stronger exports and better realisations.",
+      "detailed_summary": "Improved spinner margins usually translate into more aggressive raw cotton buying; yarn export volumes are the leading indicator to track here.",
+      "relevance": "Medium",
+      "date": "Sun, 06 Sep 2026 21:34:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3ZtSERYbUlVSWh6M0g2djRlUElJelAzcU50eURSM2xLanhvSE0xbUd3azZvSml6RHNLU3hIRC01NVVlZEJRRE0xVVdSZXh6d0RTdXZ0bjhJYTJjM2I5SnJHUmRreWJmblkycDVsWjJOeThnN0RqNFJQX2hVZ0EwTE5NOGhwN0IxNjFVTFR2QlZUVEFTd05WcmMwcXMwbFJObURwQkUydTdTaDhvakZkcktKQkZZaFkteWhINnVINWI?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Sada Elbalad english (via Google News)",
+      "title": "Egyptian Cotton Prices Diverge in Global Markets, with Some Varieties Rising - Sada Elbalad english",
+      "summary": "Egyptian Cotton Prices Diverge in Global Markets, with Some Varieties Rising - Sada Elbalad english",
+      "date": "Sun, 06 Sep 2026 21:32:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdTFveVY4N04yckxNdFRPSGpNUDRHVGNsa21HcHd4eEZrbUU0d0x1LW9mWHBITm5aaWUzMzFUUnlvbjUwNUNwd1hQb0lkZjB4WHdrMGpHWVRoZVYyVWVyN3BRSU54dDhPVmlXenloM0dlVTlyZmNuSWlNdXFwUUJ0eHlsdmRnUm5XRFFyTXFVSTZaYVpMTjhF?oc=5",
+      "commodity": "cotton",
+      "relevance": "Medium",
+      "detailed_summary": "Egyptian Cotton Prices Diverge in Global Markets, with Some Varieties Rising - Sada Elbalad english"
+    },
+    {
+      "source": "The Daily Star (via Google News)",
+      "title": "Imports from India rise, exports remain almost unchanged - The Daily Star",
+      "summary": "Imports from India rise, exports remain almost unchanged - The Daily Star",
+      "date": "Sun, 06 Sep 2026 20:18:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDY0TUV5WTFtMHpaQlRuVEhmSTJJT1Fsc3IwR01DRkxWU3Fkb0sxTjNadVBJa18xWnE4M1ZvX1ltZENOMll3VTRaUG9aS0ViU0FhNVM4M1pyeGtCUWFXMUZHdHc0Y19vek92UXBzMHpEZ0JmYjZENDhQTTVDYklMSWMtQUF1Qmo0TlZYYkh1UDBLSG9XbjJ4Mk1obHlWc0RwMFNkeFprTzJ4V3pDSnc?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "Imports from India rise, exports remain almost unchanged - The Daily Star"
+    },
+    {
+      "source": "The Times of India (via Google News)",
+      "summary": "Farmers in Yavatmal fear crop losses after rainfall failed to arrive.",
+      "detailed_summary": "Yavatmal sits in Maharashtra's largely rain-fed cotton belt, where a dry spell at this stage of the season threatens boll development and final yields.",
+      "relevance": "Medium",
+      "date": "Sun, 06 Sep 2026 18:56:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGdjOTdpM0I1d2lEUWl4Y1R6c0lYSnN1S0N4ZHZ2VHJmUFVjZ0RDYy1DVTJGWjBIRWVOME5RRWFxajZvTVAwRHhMdkNUWTVENjJrZ0xnWElHcjEyUTdVYjlWOVl4OC1NVDhjVWdtU3oybHdXRm92Z25UWTJKMzdtZktYck5Pc3VBWGdPRjY2THZpZHlsNUZoSXpad01ZTHQ5eHJlQWZSYTV4SGVYMm1wSmpueTg5VkFmdWfSAb8BQVVfeXFMT0M2STdlZUtBTFdHOHV1Q3RtNmF2Q0p2YV8zN0hoWWpNVC1pTVlNdmhPcldfNmlGNlpybnV3dTVaYVcwRFFvdlhqdzkwYTdieUtpWDB3NlNJSXBOXzE0aldTTzZGNEhxRi1LUWxQTVBkbmVxUHJCX0h6TkpqUHVuSjJOSlFfdkZlREdkbkNReW8wMEJHdUh5b3pfeTJsbTNWN2FZRW0xeTNVWjR2WXRnOUJHYnI0NXIxbVB1ZGNtaU0?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Deccan Chronicle (via Google News)",
+      "title": "High Heat: Mercury Levels Touch 38.7 Degrees In Anantapur - Deccan Chronicle",
+      "summary": "High Heat: Mercury Levels Touch 38.7 Degrees In Anantapur - Deccan Chronicle",
+      "date": "Sun, 06 Sep 2026 18:21:48 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmtXWFNjNmxEMFAtSGxPbFRVSko0ejloOXNSaFctTjVGTlBVd2lUZ0xvU0xrVm1MWkc5Y19yQXlHQTBDOG9zZi1DWVIyWTZlWUpIOGM0QVVsMWFrdUgtXzNnMHEwVS1EYWFweTJkUGZoYjFCdnUzLS1LcnJrcHVDejRHX0VVcTNndFY3cVpMVEhad1l2eHNxRmp3ZVVCMjBQOVVfZU9sSWowRk9POEpERGV1UnlsV1lzUkt2cUF3WUtOQkxIRndrTlhR0gHKAUFVX3lxTE9Ka1dYU2M2bEQwUC1IbE9sVFVKSjR6OWg5c1JoVy1ONUZOUFV3aVRnTG9TTGtWbUxaRzljX3JBeUdBMEM4b3NmLUNZUjJZNmVZSkg4YzRBVWwxYWt1SC1fM2cwcTBVLURhYXB5MmRQZmhiMUJ2dTMtLUtycmtwdUN6NEdfRVVxM2d0VjdxWkxUSFp3WXZ4c3FGandlVUIyMFA5VV9lT2xJajBGT084SkREZXVSeWxXWXNSS3ZxQXdZS05CTEhGd2tOWFE?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "High Heat: Mercury Levels Touch 38.7 Degrees In Anantapur - Deccan Chronicle"
+    },
+    {
+      "source": "newsonair.gov.in (via Google News)",
+      "title": "Union Cabinet approves Small Hydro Power Development Scheme to boost clean energy initiatives in remote and rural areas | Akashvani News - newsonair.gov.in",
+      "summary": "Union Cabinet approves Small Hydro Power Development Scheme to boost clean energy initiatives in remote and rural areas | Akashvani News - newsonair.g",
+      "date": "Sun, 06 Sep 2026 15:32:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOajRkcGRNa0lpTFp3eGlGS3YtT0ZCeDVLRG1YOWJVeDI1YTFLSWI5YTZhVlgxZVlzcnpPRVp1ZU9kTWV3QnlKa29FUmV4UUpJQlRjdWZuWDdGUjlfc05fRUZwNW93Tmd6ME1YbzdlUHk2U09Lc2QxV2tRR3djVFhpa3BSd1A4a0VndmpVTFlpcHVUQW9Bbk5pUDBaV1BieGZ3aDI4UjBVVzlBWFhEa0Y2YU5hZFB4dGJqWmFGalNaUmxmT0FTTnBlRWNoUDRlSnF3QUl0SGIybjQ4S2hHWGc?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Union Cabinet approves Small Hydro Power Development Scheme to boost clean energy initiatives in remote and rural areas | Akashvani News - newsonair.gov.in"
+    },
+    {
+      "source": "allAfrica.com (via Google News)",
+      "summary": "A cotton farming revival in Busia is constrained by small plots, dry spells and an idle ginnery.",
+      "detailed_summary": "Unused ginning capacity caps how much seed cotton can be processed locally, limiting any near-term addition to lint supply.",
+      "relevance": "Low",
+      "date": "Sun, 06 Sep 2026 14:57:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRjJwbXNnVGZ4N1c1OHVLTE9TTVliLUlOVC1uY2pQNWlJYjlFN09FeGtpYnJiVUZJQkxuN29oUjRkeUJzTmdlem12WUl5STU4VDFncnRkQ01RUjQ?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "The Hindu (via Google News)",
+      "title": "Declare drought emergency in Andhra Pradesh, demands YSRCP leader - The Hindu",
+      "summary": "Declare drought emergency in Andhra Pradesh, demands YSRCP leader - The Hindu",
+      "date": "Sun, 06 Sep 2026 14:53:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMHhOaHFCU3N5NjVmbGVSREVlSjhTekxCTkY3Sm5vRkVxbzNJcXZhRDR6V2FFeHRHQXlsUGRmLXROc0JQR3llb0ExaXdLQ0R6dkZJZmVHYlRKTERWaFl3TnpwTWFfYkFpUTdVLS1pR0Y0RDVfVHZvTG5HSXh4M0VzNHBUZHBZYXpnOEF5UUN4aTd6M2x0VkJOOGotODJWXzJaV0ZvY294Z1dITlQwRmtENERrMW5STGdqZUYybVN6UG93QldOZzFUbnNTT2tSWmR3b2tYeXdwZTZOTjTSAdsBQVVfeXFMTzB4TmhxQlNzeTY1ZmxlUkRFZUo4U3pMQk5GN0pub0ZFcW8zSXF2YUQ0eldhRXh0R0F5bFBkZi10TnNCUEd5ZW9BMWl3S0NEenZGSWZlR2JUSkxEVmhZd056cE1hX2JBaVE3VS0taUdGNEQ1X1R2b0xuR0l4eDNFczRwVGRwWWF6ZzhBeVFDeGk3ejNsdFZCTjhqLTgyVl8yWldGb2NveGdXSE5UMEZrRDREazFuUkxnamVGMm1TelBvd0JXTmcxVG5zU09rUlpkd29rWHl3cGU2Tk40?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "Declare drought emergency in Andhra Pradesh, demands YSRCP leader - The Hindu"
+    },
+    {
+      "source": "indiagazette.com (via Google News)",
+      "title": "China's assimilation campaign faces growing international pushback as World Uyghur Congress calls for action - indiagazette.com",
+      "summary": "China's assimilation campaign faces growing international pushback as World Uyghur Congress calls for action - indiagazette.com",
+      "date": "Sun, 06 Sep 2026 13:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRW5zM1JENF9hZklDaV9qSUcyc3B3ZFpPLV9NQlYtVHpkUlhodU51Y0lrVzczb0xqanRuc2VMZVJNeHBxRWZpejhCaUxibEdaMlRiOFBxbVlqQlRGOGV5QkxseXRHMlhReFRuellIWnVqWXUwZWZLTU85aktuVzFSOGtrMEx5S2h3NUJUT28zZjB0QTVkR3YxSmVBRGlGNERoUzFBOHhiSmVSenVWekVZRFRzUVZvb1VVYTluVzZSSXozbTZXN19aMjNIRklXZlRDMEJSZ0lqSlpRZTZfVWtEX0RHNXc?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "China's assimilation campaign faces growing international pushback as World Uyghur Congress calls for action - indiagazette.com"
+    },
+    {
+      "source": "UzDaily.uz (via Google News)",
+      "summary": "Uzbekistan's Namangan region is targeting 254,500 tonnes of cotton in 2026.",
+      "detailed_summary": "Regional plan figures aggregate into the national crop estimate; harvest progress reports against the target are the useful follow-up.",
+      "relevance": "Low",
+      "date": "Sun, 06 Sep 2026 12:15:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaEVIQ3c3cEE1Wm1TWGJ4U3p0ZWJua3JyTkRsY0VTejNkZ0JsckJpdV9EVjNwZ3d3aS02WDE0S2V0RTAzYjdnNG9pNFhGY3A4bVJMZ0tIVGR6bDlrUDd6RUtVVzd5eWcweU4wdGhoVktfUnhGaFlUY0FxbHNGX3ZsekNqV0o0ZG8?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "financialexpress.com (via Google News)",
+      "title": "Bayer bets big on climate-resilient crops - financialexpress.com",
+      "summary": "Bayer bets big on climate-resilient crops - financialexpress.com",
+      "date": "Sun, 06 Sep 2026 12:04:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2VYN1JjNWhibGlSeWU5Mzc3aHFQc1FsUmg2c1NLcmp6UmVOU0NDZzZ0cjl6WFdOY0dlb2htb3JGcmlPck1RLUd0Q2Q5Yk4zYWFGdWF3czE5ZjY1WTdyc0N0ZUhyWWZ6cTAxTGh6UWhvOHI3M2FYNllOMHc0R09PR2lKYWpnRENRdlMwSzk0Njh1NjZ6N2cwSHpxbXbSAaMBQVVfeXFMT1NhRlNWZFdBSDVXVzJ6Q2JsX0ZEbGxLbEFGTE5JZ0NrSVFlVE5WVG0yU0ZldmVNcnd3dGpZX3FmXzhkUEVSSF9fazJQWlBPaFBMODZqZEFiZ2hGdEhPdzNXQkMzblZjVDFhbnAtMlY3OUF1dk5GektDNXBmNEp5LXpNMGFjeHRjZHZVSkdfbTJ4aV9HZVdhMGxqS080em05Q0prSQ?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "Bayer bets big on climate-resilient crops - financialexpress.com"
+    },
+    {
+      "source": "Free Press Journal (via Google News)",
+      "title": "Crop Losses Mount In Beed; Farmers Plan Protest - Free Press Journal",
+      "summary": "Crop Losses Mount In Beed; Farmers Plan Protest - Free Press Journal",
+      "date": "Sun, 06 Sep 2026 11:23:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnBEMk1FeVZmWW9JTm1BUHFiNmZWMnpSeEkzMUZlQlJJZDhuYnhBOWZ4SEdxRFBJa0NoMXhFZVpHUFlxcEFEd1BqZW1Sc3pLeUEyNHZqdE9na0JpZ0hvLVFaWXUzWXBEbGFHYzBwSFcybHVhZ2RZWUlkb2FpaV9Kak9ocEFoSzdWalZn0gGQAUFVX3lxTE5aNjNzZmRreV9SSTgwZlpxQjdyS2p5dVppVFBCYzlDMkpsU3FvRnZrcmtyQUdMdGFaWkoySFU1b05RdV94eUJyLThTdnNyejZuZmdnREEycy13czZxWTVHQU5jaXJFSXJpdVRnTU5CNnVJWE1rODc3cl9XMEc1and3YzdaaXhVVVhaNkhVMi1VMQ?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "Crop Losses Mount In Beed; Farmers Plan Protest - Free Press Journal"
+    },
+    {
+      "source": "RuralVoice (via Google News)",
+      "title": "India Produces 500 MT+ Crop Residues, But Much of Their Feed Potential Remains Untapped - RuralVoice",
+      "summary": "India Produces 500 MT+ Crop Residues, But Much of Their Feed Potential Remains Untapped - RuralVoice",
+      "date": "Sun, 06 Sep 2026 09:46:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRlhvajZMT1ViNGdiX005RWFuNjFlU1Q3NjJUbVI2aWhhZ01NSDFHRDUyYjRRZzV5Rk5IdXJZRklDLU5HLWpaWm54VjVrRTVLUWttYmJ4Ri1XMjZXcUxxblFfRV94cDZ6NUtDZHZHSHltbzZBcl92M3FtaW83Qm5DNW54NlFaVEJqTENxa3FPRUhTNkR6VFA3R1VUeUtVLS1IMER2Qm82SlY3QmlLVGQwQnZLY19obTJvVjZMcnhn0gHDAUFVX3lxTFA1RzN6dnhpTHpnNGZ6aGkwdGtJeDFZdWdiNEdjay1FZnRjN0RRbHdZWEhwV3Z4aV9iVWFiMnF2MGVZc3VsT2JTanpMeHdPcWxaTVA4d2d1TWo2X015c2FBZ0llem8yV1Z6c0Q1cWluUnBIN3l1SXd1TXpDbWlrWjRMRGFoMjhESGVBNHJrVkp2bWlUeXJqZ2xyNERMMlBRdG8xYmdZSy1WX0l3dUlBc3dOVGlMSW9kQngzdW1HejhnelpLWQ?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "India Produces 500 MT+ Crop Residues, But Much of Their Feed Potential Remains Untapped - RuralVoice"
+    },
+    {
+      "source": "Jagran Josh (via Google News)",
+      "title": "Which District Produces the Most Wheat in India? - Jagran Josh",
+      "summary": "Which District Produces the Most Wheat in India? - Jagran Josh",
+      "date": "Sun, 06 Sep 2026 09:40:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVF1MHUyTnNoRnVoQURVajRMX0hDWkxQazAtcHRoY1h2WjB5QldZYUxqM0lFYzJyX2VLWFdBS3dyVHMySG9kUGY0TnhlOUhaRFJ1SzVXdkx3Q3NWaVpNTEY1bHFfNldSZkZjVUVwbllGWUcxX0R1SGpHbURXYWxJeV95azIxdkVFckwtS3ktTlMtZGxLVUc1NkZqeHdFZkVpU1pmYmdwVVIzakZUVno40gGvAUFVX3lxTE9ZUXUwdTJOc2hGdWhBRFVqNExfSENaTFBrMC1wdGhjWHZaMHlCV1lhTGozSUVjMnJfZUtYV0FLd3JUczJIb2RQZjROeGU5SFpEUnVLNVd2THdDc1ZpWk1MRjVscV82V1JmRmNVRXBuWUZZRzFfRHVIakdtRFdhbEl5X3lrMjF2RUVyTC1LeS1OUy1kbEtVRzU2Rmp4d0VmRWlTWmZiZ3BVUjNqRlRWejg?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Which District Produces the Most Wheat in India? - Jagran Josh"
+    },
+    {
+      "source": "scanx.trade (via Google News)",
+      "title": "Godrej Agrovet sales rise 10% in Q1 FY27; appoints Ravishankar A. as CFO - scanx.trade",
+      "summary": "Godrej Agrovet sales rise 10% in Q1 FY27; appoints Ravishankar A. as CFO - scanx.trade",
+      "date": "Sun, 06 Sep 2026 08:21:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0wxQkJubUhMRE5idGQ4R2hnQUdwWXc0Wmh1UzNiNDNTV2JmaG1mVmZGc3pfSGtWMm1DODRkMjAwSFlvYURSczVYalVYRzkwdk9lRXI4eVZxaVcwbkZUcXV3TkRwRU1obnMwYkg1NWFNbkhJQ0NYU0tpTHdPWTVtMmE1cTF5M2haaG8wMmFTUmxoOTNkQ2hBaHZab0FSdXpzOExIUS14aUJPdFlvR3NvNHBGclVFVWgySEFZaWs1MzEzTGtyNHpaYVFGRU0?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Godrej Agrovet sales rise 10% in Q1 FY27; appoints Ravishankar A. as CFO - scanx.trade"
+    },
+    {
+      "source": "newsonair.gov.in (via Google News)",
+      "title": "Cabinet approves New Era of Industrial Development through Bharat Audyogik Vikas Yojna - newsonair.gov.in",
+      "summary": "Cabinet approves New Era of Industrial Development through Bharat Audyogik Vikas Yojna - newsonair.gov.in",
+      "date": "Sun, 06 Sep 2026 08:03:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGJxbUhaTFFzNVBPTnFCSlNkNmJFc1B5Z3FqWUY0WWZuSmVucWVFaHBCQURpR3AydXZTaFd6R29xUmpya3NtUXlEUlhaRng0d0RqY0dhSnQ4UG5FN2hlaEt1RE03ZUN0LTAwdlBmakkyeHdYX3VqYjZzWTV0V3ljOEYyWE45cTdGREt1MjRVNzYwVHotX2lsRUh0VjBJa1ZxNlBoUDJDUGc4SHBYUmc1Q1BR?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Cabinet approves New Era of Industrial Development through Bharat Audyogik Vikas Yojna - newsonair.gov.in"
+    },
+    {
+      "source": "RuralVoice (via Google News)",
+      "title": "FAO Cuts 2026 Global Cereal Output Forecast by 3.4 MT; Production to Fall 2 Percent From Last Year - RuralVoice",
+      "summary": "FAO Cuts 2026 Global Cereal Output Forecast by 3.4 MT; Production to Fall 2 Percent From Last Year - RuralVoice",
+      "date": "Sun, 06 Sep 2026 06:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTXhDbWhZUS1jbEZQYm1md1MxYmpRWV9ITUJiaXhmby1ONnB5ZHJpZ3hSaXBrOHpDZjlkb2tQRmxPTmI4UXBSU29wcEdXWVZ6Zk0xMUNWOWhFTkhGbENoMEdNVEtuOG1GTUo4MGNMdERnYWFQSjNacjk3SWpwS3J5OFg1MWdtOWY5cXdCMjVta00yaWNvX0lwM3dGSDk5VmRsRnN2TXJ2eG1KLXpzSWNlcGtPSnktdENxNHlEcXFQcmJBVnRHT3M5Wk9hOFFXTWZ1cWZrdktoRmNVZ9IB3wFBVV95cUxPRkpjMmF3MEpIUzdtdUxRN0FxNklPNHg5MFhVQjBXOVptQlV5TG9VZm9HRWhFRzVxWG9zZnhLSzFGd2E0VUJMN0x2Z3dQbUlCYXZIZ2NRdGl5ckk1UUZGMWFiQ3RlcGp2TmpWU2M2Tm9QTU0zQzB0OUU4X01jNFNCVmFTSkxDRTZ0eUdmbVYySmZiRWd4aGxwT1FOUUNrd1JtUldlRmJCYmpFMmJ6MzlmdVczT2FRd01hRk9Nb05qQXktekdfQmJ6b05tOTBnTWRId2FGWl91R2prMXNGanZ3?oc=5",
+      "commodity": "cotton",
+      "relevance": "Medium",
+      "detailed_summary": "FAO Cuts 2026 Global Cereal Output Forecast by 3.4 MT; Production to Fall 2 Percent From Last Year - RuralVoice"
+    },
+    {
+      "source": "tbsnews.net (via Google News)",
+      "summary": "Bangladesh has launched its first digital raw cotton marketplace linking domestic mills with US farmers.",
+      "detailed_summary": "A direct-sourcing platform shortens the buying chain for Bangladeshi spinners and could lift US origin share in one of the largest import markets.",
+      "relevance": "Medium",
+      "date": "Sun, 06 Sep 2026 05:52:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGktbHF2Yl9YcDlPN09xUWUzSng5SzlCN3VOLXE1bWhJTFZ3X1JCenI4UVBpakJXZW5jRmdINkM4Q0tXOHpScWtRcER4WUI4S0ZsSmRJUWpLMG5YaTBpWmlyV2NJczFQa1E0Q2lJSHFzV24tYnc4VlA2VGZ5NE1yYXpKV2d4VWdYWUp0Q0lIU055Ui1ibWw5TVRxVVdNd0xZcXloeUJ4OXlWWWFUemfSAbMBQVVfeXFMTTNvR29ONlA3eTlCSXY5Nk5RNzN3YWtnSDBYTzdFVUlrSExBTmR6QlJYdl90SWlSQTRmQ3hPVmFyS2dqOVVMVEh4Y1JnY3RfQ1Rhc2FQVFh1NlMxV2lqdDRCQlV4cHlwUjBjb2ZtX09ZUDZmT21VMHJpVTZTSzdKME45ZXVHaG01Vkl5NkI2TG13VkNXYVExSEhHYml3N2NqXy1nUGFuRzdKMkxmSUhzdjVnR28?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "title": "Why Central Asia is One of the Fastest Growing Textile Regions in the World - Fibre2Fashion",
+      "summary": "Why Central Asia is One of the Fastest Growing Textile Regions in the World - Fibre2Fashion",
+      "date": "Sun, 06 Sep 2026 03:54:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSGhySDFibUlEdUtBMlpoRFNDWHFSdmNxZmFUQ3VuN1N2RS03MERER0Y1TmVFWkl1bm9lQVRvamtyUnN1QU96ZkRPNEc2WkhjVHpGbkdfQmxZc0VHeFR4cnB2NXE1ZklpUHRiOWxWUk9mZjJwTjktb0lhMzFXY2p3bWQ1bm4yVmYweVIyaXE1anFVTUFWSm05VDNVdG9uSVFNeHZYT01aTmw4WkpoUmtBaGlWTXVId0pQZHE3c1VB?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Why Central Asia is One of the Fastest Growing Textile Regions in the World - Fibre2Fashion"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "title": "| Jordan's clothing exports rise 1.8% to $1.19 bn in H1 2026 - Fibre2Fashion",
+      "summary": "| Jordan's clothing exports rise 1.8% to $1.19 bn in H1 2026 - Fibre2Fashion",
+      "date": "Sun, 06 Sep 2026 03:35:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkM5Q3F0a20yRE9hc2JKczEwNm5LUkgtMnNQMGxacS1vZ0R6a25ZMTR1VUJuMU56ejROSTFMaFFNQW5QbGJmNXJ6UGQzejVuR29NbjJrYmdkUEVjZ0diaEd6ZF9yQkxDTE5lMElBX0pwR21Ka19BOE91eW5RcGRjb1l1UXlkTUc3cG9zWF91aVo3MjZVc1RNM1NnR2F4N2pCZjZHbTFIck9kaU5QbXFnUVBwU1lpZkFQY3hGXzkyRDBHdDRaWmJPa2FmNVowTmllM2c?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "| Jordan's clothing exports rise 1.8% to $1.19 bn in H1 2026 - Fibre2Fashion"
+    },
+    {
+      "source": "scanx.trade (via Google News)",
+      "title": "Axita Cotton FY26 Results: Net profit rises 74% to \u20b91.9 crore - scanx.trade",
+      "summary": "Axita Cotton FY26 Results: Net profit rises 74% to \u20b91.9 crore - scanx.trade",
+      "date": "Sat, 05 Sep 2026 23:14:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS21Ic3FQLWJKVzc5SG5Id001am9vT2pFN3QzeUF1VS13eVU3RzYtcG1MQ3AzbGs3NlhjbkRGMklvQ084WUpEVnNXMTJpS0hNZC13UjF4NlBzOTZnbUR0OEttSkNudnV1aU9IeFBDRFp5OXNidEl5Y2MwZHhDTGJCai1KVm1vVld2aVhLREtPNElkVGJSUHR5czFIVE4tMVg0VkFDcTRoT2dMUzFhQXc3TGN3?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Axita Cotton FY26 Results: Net profit rises 74% to \u20b91.9 crore - scanx.trade"
+    },
+    {
+      "source": "Dawn (via Google News)",
+      "summary": "Pakistan has unveiled a digital model for pesticide regulation.",
+      "detailed_summary": "Pesticide quality is a direct input into cotton yields; the effect on the crop depends entirely on how quickly the system is implemented and enforced.",
+      "relevance": "Low",
+      "date": "Sat, 05 Sep 2026 23:09:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JY3g3VEdablNwTWRRR1h6SEVmUDVxSE5DTHJyQVE1MXRnaUJLdUxlN2I5MjVoWkJoWk11ZmxBZU9od2h1aEZwOdIBTkFVX3lxTE9tOGVXTDdhUW5UUVpVdHVqVzhZZFh2MjJsV2o0b3REdVlrUm15UXc2Qk9lNTlNclk1NmJsdk54R3VucnJxYjZBaGdyQVppQQ?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Dawn (via Google News)",
+      "summary": "Higher cotton output in Sindh is bringing relief to growers and ginners.",
+      "detailed_summary": "Sindh's crop is harvested ahead of Punjab's, so this regional gain is what shows up first in Pakistan's national arrival figures.",
+      "relevance": "Medium",
+      "date": "Sat, 05 Sep 2026 23:08:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtX3kzdWtNQWdndW5BanpKOGt6UEpoSGg0emlLQ3JqY280N2ZkVERqRGhKTDh4NFBjR1lWTlFaOFNSbVg3dG1iUNIBTkFVX3lxTE5oaHFPcHo5d1NyN2xWbEQ4c2Q0Q1JQaEtsbUQxVnBWcmFmb1ItN3FHMDNHUmZpSTJZZ19zdFRhQXN0MkZKVmc3MHpfVWxrZw?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "TipRanks (via Google News)",
+      "title": "Axita Cotton Sets AGM to Approve FY26 Results, Dividend and New Auditor - TipRanks",
+      "summary": "Axita Cotton Sets AGM to Approve FY26 Results, Dividend and New Auditor - TipRanks",
+      "date": "Sat, 05 Sep 2026 21:38:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0lFVFZqR05oZ2Jjek05UUVmQmNfdndneVdGZWt0QzcyMk9aYXYycVlXNU9QdmxSSjBJZmY2QTRqZmEwa0NrODVOT3d4bWxLLXhURmZpak52TEpVU2Vwb0FqQlMzXzQ2em5DREY1Ym4wcXM3V2xXU0hMSEVyWGRzY2otemNCT05XLVRVTDRJenBXUnpFQTlQUzFMVEY0UlBibV96RFJOdV82MERvUmlCRlowTTZvZDJ6d05qbmNwbw?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Axita Cotton Sets AGM to Approve FY26 Results, Dividend and New Auditor - TipRanks"
+    },
+    {
+      "source": "TipRanks (via Google News)",
+      "title": "Axita Cotton Sets Record Date for FY 2026 Final Dividend - TipRanks",
+      "summary": "Axita Cotton Sets Record Date for FY 2026 Final Dividend - TipRanks",
+      "date": "Sat, 05 Sep 2026 21:38:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0wwNmQ0T2tXTXZ5Zkh3SWFRWVlVdnpxM3RQb215ZjlXdWxRcnJOZzBOSk5WX3o3QU1IT3lJcUVzV1Zqd09JaHA0bS1tNVhzb3FBWHUxUUlsc0hBd25RXzFRZDJuUWtadTBIczlLY0VGLW5QNVptaFhHTW5wVXNqaTFtd3Nwazc5b1RZMjlUS1BCRlU5eXNWMzY0WU1Wa3pJRV9TX1ppMDhwXzRQ?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Axita Cotton Sets Record Date for FY 2026 Final Dividend - TipRanks"
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "title": "Reengineering Pakistan\u2019s cotton future - Business Recorder",
+      "summary": "Reengineering Pakistan\u2019s cotton future - Business Recorder",
+      "date": "Sat, 05 Sep 2026 21:30:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXNSMkE0LUYzYndFSk9zWmpyYXk2MTYyM0NGb2pkcjl1ZHNLeFk0aDhMSmc4M0g2NEoyLS1VcDBsWjFVSTh1Ym5UcFBOY3g1RWJVR1pycW5rQ0dRQUdrSWVXU3hnRUsxdjJ2VnFlUlFxVUhiQzBleGZ1SDFHMEc3R0puZ9IBVkFVX3lxTE9vcTlUWkFNUkdOdGNCM0FsYmx5XzFZMDQ3Z1hDVG1kRU0wQjdNWnZvYUZnLUU3T0MwUVktaGliNlBEUlRHWTREanQ3bHBPSlExR2ZNS1dn?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Reengineering Pakistan\u2019s cotton future - Business Recorder"
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "title": "Subdued business on cotton market - Business Recorder",
+      "summary": "Subdued business on cotton market - Business Recorder",
+      "date": "Sat, 05 Sep 2026 21:30:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaWhkc2VaRU1oTFk0MVhtdzh1eDlhcXNtUHVaZUZ0aGcwV3o2Q1Itd3M1aEVYWnhfczA0b3VHdlU2Vk5VTXQzNjhzZEhjQk1vRzBMdVZYXy3SAVZBVV95cUxOVzNqR2N3WEJXT2JkVGp1Ry1mZTJ0Q1o4OEphelZDVUJDUGpQZVVmMU52dktnNDhGanNUQXBmOWFQNTNxMkN6S05wZUhZNE9sMUd2UlU4Zw?oc=5",
+      "commodity": "cotton",
+      "relevance": "Medium",
+      "detailed_summary": "Subdued business on cotton market - Business Recorder"
+    },
+    {
+      "source": "finance.biggo.com (via Google News)",
+      "summary": "BrasilAgro swung to a BRL90 million loss, with sugarcane and cotton dragging on results.",
+      "detailed_summary": "Producer-level losses point to squeezed planting economics in Brazil; watch whether the company shifts area allocation for the next cycle.",
+      "relevance": "Low",
+      "date": "Sat, 05 Sep 2026 18:16:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PcjM3WTM5UFpYYkZiX2JxcUhhNDJXRVFJYXprZUozS0lJNWVLdlhyNnk2OV9LaTJSTEhfNFZFbjhEd0hUajhKLU4wYnpSa2l4UEgzeVRSSHViampaRnBhZWYwang1ZjNoN3UyX0dpVXV6Mm5QUFE?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "The Times of India (via Google News)",
+      "summary": "Farm group KVM has warned Punjab against HT-Bt cotton, saying it risks trading one agricultural crisis for another.",
+      "detailed_summary": "Seed technology decisions feed directly into acreage and yield expectations for coming seasons; the state regulatory response is what to watch.",
+      "relevance": "Medium",
+      "date": "Sat, 05 Sep 2026 17:20:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMnZHV2h5RXltSGhicjhybm1LNXZtMTRXODdBQXJtWWFWZ3AzOXZjaDZlT0Z5WFJpQlBnVXhxNTExeFcxNkItUERZM2dXWkdwQmZIOUFiamQtZVNoLWhEaGNqemlRb0w4NFBpVkdMc1hTTmhZT3AtbVFRX0xzME9LMHJhMkJhZkdRRFhydU5RdDFuX1Y3R3l5dlVZNkhDb1pwYlVGeGdsWWVBX2xORGZjTUVKLVh2NGRFY2U1eDFvdDlDaU5QUjQxU1BBZURuVjljc0FJNjhsV0ZGdk1qU0xhLS12NGhkeGpHa0tJblhZZlZJZDFE0gH6AUFVX3lxTE1VV2dzNUtGY2NVa1k5QU5kQWI3UnJXTld5OGJ0bHU5akFOeGlxMGFjZXZNZG5BaHprR1paUFFlZUFrSk5tSExXSWhRRXpfWGN6X2t1SUlMWThVT0dWdU9TTXdyb09kdnliT21SU3FKa05oXy1GV2xmcHVWem52dTNfeVc2UDBsUTNXU2Z4cnRQWE12cTBCcjVnRXZDMTAzRTNoNkZWdVc5QzZLSzdOSlRzZFRYM1ppLVZCeEdsS2h0UmlJVUo5UTVHeVphaEw5YlhKQjRZRkZsNmlmS0VJUUJoc21FZV94UHFLbGFTVUNBd2h5WGhxbk1KX2c?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fast Food Club (via Google News)",
+      "title": "This Quaint South Carolina Peach Farm Is Worth Driving Hours To Visit At Harvest Time - Fast Food Club",
+      "summary": "This Quaint South Carolina Peach Farm Is Worth Driving Hours To Visit At Harvest Time - Fast Food Club",
+      "date": "Sat, 05 Sep 2026 15:22:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2tJYWE0UnItUFBKNURzRUF2REFFdjJHV0FjbXZJX2xWcllQWDc1SFktSzVMYXlmaWpzYzRxZ3JmaHZRSEpUa3ZkNExfSThRLUhhWG5jakJ1MC1KM2FNQmEtZGhqaFotWHVUVHU1Y3FFUXRpRENXa09uTlctaGJlTXVxVUlNNEN2R0hmUF9mTVRkbkd4Z3U2cmF6eUpnZmh3MVQ1Z285RnF1a2xTNHJxeWNqMlNKdXdKd0FYSWdhZw?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "This Quaint South Carolina Peach Farm Is Worth Driving Hours To Visit At Harvest Time - Fast Food Club"
+    },
+    {
+      "source": "Scroll.in (via Google News)",
+      "title": "Has El Ni\u00f1o\u2019s monsoon effect hit India\u2019s kharif crops? - Scroll.in",
+      "summary": "Has El Ni\u00f1o\u2019s monsoon effect hit India\u2019s kharif crops? - Scroll.in",
+      "date": "Sat, 05 Sep 2026 14:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3RxcGlrTGR5SW8tWTJvalVSVFJwZUZvdWhoWDZwZlBwZmdWTS1OVi1PY2lCLVdqYzJBMlhIeE4wQmxOUkk1c1A3Nzc1aUtvbERVTlVGZ0xTSmJXT0ZlUGdiWDQ4Ni01WmJUbjVOZFc4ZGxjUW4zU1FiYVFVQUVCbWNSN3hPby1aQzFlZExFUmo4NlHSAZMBQVVfeXFMT0t0cXBpa0xkeUlvLVkyb2pVUlRScGVGb3VoaFg2cGZQcGZnVk0tTlYtT2NpQi1XamMyQTJYSHhOMEJsTlJJNXNQNzc3NWlLb2xEVU5VRmdMU0piV09GZVBnYlg0ODYtNVpiVG41TmRXOGRsY1FuM1NRYmFRVUFFQm1jUjd4T28tWkMxZWRMRVJqODZR?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "Has El Ni\u00f1o\u2019s monsoon effect hit India\u2019s kharif crops? - Scroll.in"
+    },
+    {
+      "source": "AgroSpectrum India (via Google News)",
+      "summary": "Cotton and jute are leading gains in India's agricultural export basket.",
+      "detailed_summary": "Heavier outbound cotton shipments tighten domestic mill availability; monthly export data will show whether the pace carries into the new crop.",
+      "relevance": "Medium",
+      "date": "Sat, 05 Sep 2026 13:51:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdDJVeXFzS2Z5b3hJYy1jUlFUZlpMcmM4QmFYcWZKLWRCTzdCRFdpNklsTFRGWVBxQnV0WHJzM0VocHhzeVd2Zkl3NDNVSnRDUElGbWtvSXp1SUw4MHVCRVNiYjBDTEk5YmptenFBRUlHeDRhWW54S0FzYmNMeTJ0YkdhcGx2WGhPZzVpMUNNbkVqUzBQclIyajg1S1lqeGk4MEdxR1BYek55RkRkREZ0Nk9n?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Textile Today (via Google News)",
+      "title": "Budget 2026-27 and Bangladesh's apparel industry: Key expectations - Textile Today",
+      "summary": "Budget 2026-27 and Bangladesh's apparel industry: Key expectations - Textile Today",
+      "date": "Sat, 05 Sep 2026 13:40:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdmQ0WnlFVEhPd2pVZUFIT1NJWkRNWkE4ODdDMXlmSHNaZ0xETEg3bTRWd0RESzhTS0U5NmxzcFozZTdkaDlrZXJJQXNwRW8xRlpDUXZZRUQzUzZNaHdGYnN2VjM2RE1jdjN3MF95UkFiV0stNWRrRVdMbjY3WThTQ2FBUUFLYU9Ib3lCRE1wSUIwTFg1UE44YloxOV8?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Budget 2026-27 and Bangladesh's apparel industry: Key expectations - Textile Today"
+    },
+    {
+      "source": "Vicksburg Post (via Google News)",
+      "title": "Old Post Files: A look back over the last 100 years on Sep. 5, 2026 - Vicksburg Post",
+      "summary": "Old Post Files: A look back over the last 100 years on Sep. 5, 2026 - Vicksburg Post",
+      "date": "Sat, 05 Sep 2026 13:03:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGx5ZUNxd1NYWEo3RnZyR29pV0ZIQTQ0NDhoa3M0VFVqS3c4OFlWTERkR0V4c3JjNkRmZ0JVMm1GLW5WSWcwc0ZGeWg5Mkg5WXZnMVRPbkZyQ3V6cmRacTUwNUVTdjU4bmFxTV9LRTlMRXNkMXlXel9ocGVZMzQ0c0NGb0htUDlGWFhuZ0NQUDVGQTdfVjVFVUVJRF9oOERCREZ4eW5HMGIteHNCZmhLdEprM1NNTG5MSS0yRENR?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Old Post Files: A look back over the last 100 years on Sep. 5, 2026 - Vicksburg Post"
+    },
+    {
+      "source": "pib.gov.in (via Google News)",
+      "title": "MFL Organizes Kisan Sangoshthi under PM-PRANAM at M/s Sri Mounika Traders, Godkondla (Mall) Village - pib.gov.in",
+      "summary": "MFL Organizes Kisan Sangoshthi under PM-PRANAM at M/s Sri Mounika Traders, Godkondla (Mall) Village - pib.gov.in",
+      "date": "Sat, 05 Sep 2026 12:57:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02M1NCc2kwVkVFLUR6ZXBiT0ZNWm50UjZfczJZY2tPRUpzMkZaTlduMmZLUzctMC1YVUhhSmJYXzRueGdUZVYxY2RkVjByUFE3Tlg2bUg1ZVJ0aTdBZ1pQQ1VOdUpTbDhM?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "MFL Organizes Kisan Sangoshthi under PM-PRANAM at M/s Sri Mounika Traders, Godkondla (Mall) Village - pib.gov.in"
+    },
+    {
+      "source": "allAfrica.com (via Google News)",
+      "title": "Africa: The Continent Has the Capital - It Needs the Alignment. - allAfrica.com",
+      "summary": "Africa: The Continent Has the Capital - It Needs the Alignment. - allAfrica.com",
+      "date": "Sat, 05 Sep 2026 12:19:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXNUNONHNzN1ZFZUZrU1JwNmtFWEFYTFBaRVJvQVZaSHpQQ3FmN1V4NjJnOUxhQTNYTUpKUV9hMTIzRXYtbmo2MEZiRmJlY19Na0M3RnRoT1F5bTQ?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Africa: The Continent Has the Capital - It Needs the Alignment. - allAfrica.com"
+    },
+    {
+      "source": "instyle.com (via Google News)",
+      "title": "Shopping Sales This Weekend? Editors Are Jumping on These Quiet (and Luxe) Fall Fashion Deals From $12 Apiece - instyle.com",
+      "summary": "Shopping Sales This Weekend? Editors Are Jumping on These Quiet (and Luxe) Fall Fashion Deals From $12 Apiece - instyle.com",
+      "date": "Sat, 05 Sep 2026 12:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ25sYXhTR2dMSDdBbkVOX0U5ekZKbDN2MU84LVU0dDAxbVhHNFZPaHZpemNZV1pzcURiQWVQdF8xOVVvOEZsVVItTkdTdWhPVW1MYnV6VUF6TUJnRlo1Z3VfRnp0VHd1ZElIMVJ2Z201bi1jZnRCRjRpbllDZFBVeHhfVQ?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Shopping Sales This Weekend? Editors Are Jumping on These Quiet (and Luxe) Fall Fashion Deals From $12 Apiece - instyle.com"
+    },
+    {
+      "source": "DD News (via Google News)",
+      "summary": "India has set a $100 billion textile export target in a push for global leadership in the sector.",
+      "detailed_summary": "Export ambitions of this size imply continued policy support for spinning capacity; watch for accompanying duty, subsidy or fibre-availability measures.",
+      "relevance": "Low",
+      "date": "Sat, 05 Sep 2026 10:36:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1BkME16c2xpT29TdTZiU1JNMXdqVkRFYUFHZzg4YzgzbXhHcWczdGhNakw1X0tLYVVqZ3ZmTVNScE5TSFZiaGRtZjQ0SWFETXRsYmo4TFhmT2o5TmVxZG5TM2xZdzRnMHVDSzVjb2RDSldISExPSGpMSVBoMHZTdzJkZ2taTy1mSEdhdS1TOXcwSE03V1pjZ05LallhNFBW?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "RuralVoice (via Google News)",
+      "title": "Kharif Sowing Gap Narrows to 1.60 percent, but Paddy Acreage Deficit Widens to 3.74 percent - RuralVoice",
+      "summary": "Kharif Sowing Gap Narrows to 1.60 percent, but Paddy Acreage Deficit Widens to 3.74 percent - RuralVoice",
+      "date": "Sat, 05 Sep 2026 08:28:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDNvdXBqQ0dQbkJKaUJKbUswTGs1a2s0NmhwVl94Y2FpYW5feTlKdWFVRzNDOEJfdjJNMFlqbHBKQUtseDNfMVdlMVJiaGk2ZkZYYWlRZGJhNnQwTFFHOW1ISmpNaG05YW1LX3JFTDNiek5idnJWS3ZkSU1ZeXFtUVdjd3gwdWNGSmwycmU2Z2xWTDlPeW9EVmdSZWhLcERwb1pRd2FkMW9pSWFyM0YzanJBRDlWUUdfWDhMVnVIQ185WUNCbXhaak530gHPAUFVX3lxTE16VTRvTnFHT2dac0J4OFNpeE4wZ0UyamtHeUM1UzN4ekxidkRZal9uX1djeC1fcDQybGRoWW1pN2wwTDVWNnlGNDR4Wl9kTXZzMGk2Y0NwXzU0TWdXdkFXaEdtT3NaWFdYeUZaRmsxcjlsSGZLOHB0UUNMWUxUWHI5M0Z2NkFjNTZvazgtNFNkTFYybE9PNHR5eTFJOWk0N1NONVd3ZkVzNVA4V3QyazNCU044eVNSTVNJY3lfRjNibk12VTVOOEE2YUcxRHl3Yw?oc=5",
+      "commodity": "cotton",
+      "relevance": "Medium",
+      "detailed_summary": "Kharif Sowing Gap Narrows to 1.60 percent, but Paddy Acreage Deficit Widens to 3.74 percent - RuralVoice"
+    },
+    {
+      "source": "Textile Today (via Google News)",
+      "summary": "Bangladesh has become the world's second-largest apparel exporter.",
+      "detailed_summary": "Apparel export scale underpins Bangladeshi mill demand for imported raw cotton, making it one of the more important destinations to track.",
+      "relevance": "Low",
+      "date": "Sat, 05 Sep 2026 08:10:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREVYT0xiYUIxRUZfWVpMU3VJU0k4UEZSekFVaEpNdDVwZndWNHB2d0JkS2FwR3hvQ1oxV0ZHaWZDSng4MzdZRXIzazNKeU9VbEs1bHFjM191djd2cVJYdnRpRnlUaGI3Q2FSVjJWNUhtOU1ac0RnTzB3Zm92VTl2ZjRLV3ZWaURWNklTRDNUZ09DOHZ4TWow?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Real Simple (via Google News)",
+      "title": "Quince Put Designer-Level Handbags, Dresses, and More on Sale for the Long Weekend\u2014Here Are the 10 Best Deals - Real Simple",
+      "summary": "Quince Put Designer-Level Handbags, Dresses, and More on Sale for the Long Weekend\u2014Here Are the 10 Best Deals - Real Simple",
+      "date": "Sat, 05 Sep 2026 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSNHRoU1VTTWRic2xFWDE4d3JTVFY1c1RmT3UtSUszc01mTVpKNFVGU1FOSk1QSXJiUGZGWjhxMXd1MU4xMThMYVhoLWpZSDlLMDg4WmdkZXItYUhkQmhfRFJQZkIwaDBud2ZDNXh1cHJiWk8wSWtGM0RYRQ?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "Quince Put Designer-Level Handbags, Dresses, and More on Sale for the Long Weekend\u2014Here Are the 10 Best Deals - Real Simple"
+    },
     {
       "source": "fibre2fashion.com (via Google News)",
       "summary": "ICE cotton futures extended their decline on weak export demand and continued selling pressure.",
