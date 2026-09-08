@@ -115,7 +115,10 @@ def load_data():
         return json.load(f)
 
 
-def sort_key(item):
+def parse_date(item):
+    """Every source formats its date differently (some don't even include a
+    time), this is the one place that turns whatever raw string a source
+    gives us into an actual datetime, for both sorting and display."""
     import datetime
     try:
         parsed = dateparser.parse(item.get("date", ""), fuzzy=True)
@@ -124,6 +127,22 @@ def sort_key(item):
         return parsed
     except (ValueError, TypeError, OverflowError):
         return datetime.datetime.min
+
+
+def sort_key(item):
+    return parse_date(item)
+
+
+def format_date(item):
+    import datetime
+    parsed = parse_date(item)
+    if parsed == datetime.datetime.min:
+        return item.get("date", "")
+    # Sources that only give a date (no time) parse to midnight, showing
+    # "00:00" there would be a fake precision, so drop the time in that case.
+    if parsed.hour == 0 and parsed.minute == 0:
+        return parsed.strftime("%d %b %Y")
+    return parsed.strftime("%d %b %Y %H:%M")
 
 
 def render_table(items, relevance_filter):
@@ -142,7 +161,7 @@ def render_table(items, relevance_filter):
             f"""<tr>
                 <td style="font-weight:600;color:#2563a8;white-space:nowrap;">{item['source']}</td>
                 <td style="white-space:nowrap;"><a class="wire-link" href="{item.get('link', '#')}" target="_blank">Open &#8599;</a></td>
-                <td style="font-family:ui-monospace,monospace;font-size:0.78rem;color:#6b7280;white-space:nowrap;">{item.get('date', '')}</td>
+                <td style="font-family:ui-monospace,monospace;font-size:0.78rem;color:#6b7280;white-space:nowrap;">{format_date(item)}</td>
                 <td><span class="relevance-pill {pill_class}">{item.get('relevance', 'Medium')}</span></td>
                 <td style="min-width:220px;">{item['summary']}</td>
                 <td style="min-width:340px;color:#3a4150;">{detailed}</td>

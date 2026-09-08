@@ -1,4 +1,23 @@
 """Renders the ranked items into the same table design used for the sample."""
+import datetime
+
+from dateutil import parser as dateparser
+
+
+def format_date(raw_date):
+    """Every source formats its date differently, unify to one short display
+    format. Drops the time when a source only gave a date (parses to
+    midnight), so we don't show a fake "00:00"."""
+    try:
+        parsed = dateparser.parse(raw_date or "", fuzzy=True)
+        if parsed.tzinfo is not None:
+            parsed = parsed.replace(tzinfo=None)
+    except (ValueError, TypeError, OverflowError):
+        return raw_date or ""
+
+    if parsed.hour == 0 and parsed.minute == 0:
+        return parsed.strftime("%d %b %Y")
+    return parsed.strftime("%d %b %Y %H:%M")
 
 PAGE_TEMPLATE = """<!doctype html>
 <html lang="en">
@@ -117,7 +136,7 @@ def render(commodity_items, run_date):
                 detailed_summary=item.get("detailed_summary", item["summary"]),
                 relevance=item.get("relevance", "Medium"),
                 relevance_class=item.get("relevance", "Medium").lower(),
-                date=item.get("date", ""),
+                date=format_date(item.get("date", "")),
                 link=item.get("link", "#"),
             )
             for item in items

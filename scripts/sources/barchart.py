@@ -1,8 +1,34 @@
 """Barchart softs news feed: the news list ships as a JSON blob in the page HTML."""
+import datetime
 import html
 import json
 import re
 import requests
+
+RELATIVE_PATTERN = re.compile(
+    r"^(?:(\d+)\s*(minute|hour|day)s?\s*ago|(yesterday))$", re.I
+)
+
+
+def _resolve_published(raw):
+    """Barchart gives absolute timestamps for older items but relative ones
+    ("15 minutes ago", "Yesterday") for very fresh items. A relative string
+    goes stale the instant it's stored, so resolve it to an absolute
+    timestamp right now, at fetch time, while "now" is still accurate."""
+    match = RELATIVE_PATTERN.match(raw.strip())
+    if not match:
+        return raw
+
+    amount, unit, yesterday = match.groups()
+    now = datetime.datetime.now()
+    if yesterday:
+        resolved = now - datetime.timedelta(days=1)
+    else:
+        amount = int(amount)
+        delta = {"minute": "minutes", "hour": "hours", "day": "days"}[unit.lower()]
+        resolved = now - datetime.timedelta(**{delta: amount})
+
+    return resolved.strftime("%d %b %Y %H:%M")
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
@@ -54,7 +80,7 @@ def fetch():
                 "source": "Barchart",
                 "title": title,
                 "summary": title,
-                "date": entry.get("published", ""),
+                "date": _resolve_published(entry.get("published", "")),
                 "link": f"https://www.barchart.com/story/news/{entry['id']}/{entry['slug']}",
                 "commodity": commodity,
             })
