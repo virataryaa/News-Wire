@@ -1,19 +1,26 @@
-"""Ranks/dedupes headlines using the Claude Code CLI (uses your Claude Pro
-subscription login, not the paid API) via `claude -p`, run headlessly.
+"""Ranks/dedupes headlines. Three tiers, in order:
 
-Falls back to a simple rule-based filter (keyword junk-drop + near-duplicate
-collapse, no AI) if the CLI isn't installed/authenticated, so the pipeline
-still runs either way.
+1. Ollama (qwen2.5:14b), running fully local on this machine, free, no
+   subscription/API usage at all. Primary path now.
+2. Claude Code CLI (`claude -p`), uses your Claude Pro subscription login,
+   not the paid API. Falls back here only if Ollama isn't running/installed
+   or fails on a given chunk.
+3. Rule-based filter (keyword junk-drop + near-duplicate collapse, no AI).
+   Final safety net so the pipeline always produces something.
 """
 import json
 import re
 import shutil
 import subprocess
 
+import requests
+
 CLAUDE_BIN = shutil.which("claude") or r"C:\Users\virat.arya\.local\bin\claude.exe"
+OLLAMA_URL = "http://localhost:11434/api/generate"
+OLLAMA_MODEL = "qwen2.5:14b"
 
 SYSTEM_PROMPT = """You are curating a daily fundamentals news wire for a soft commodities \
-trading desk covering coffee, cocoa, sugar, and cotton. You'll be given a JSON list of raw \
+trading desk covering coffee, cocoa, sugar, and cotton. You'll be given a JSON array of raw \
 headline items (source, title, summary, date, link, commodity), the "commodity" field tells \
 you which of the four each item is about, use it, don't second-guess it. Do the following:
 
@@ -40,23 +47,46 @@ for the one added point in "detailed_summary" instead.
 matter to a trading desk, not on how interesting it is generally.
 4. Do not editorialize about direction (never say bullish/bearish).
 
-Reply with ONLY a JSON array, no other text, no markdown fences, where each element has: \
-source, summary, detailed_summary, relevance, date, link, commodity. Preserve the original \
-link and date fields exactly."""
+You MUST process every item in the input array, one output item per surviving input item, \
+dropping only the ones filtered out in step 1. Reply with a JSON object of exactly this \
+shape: {"items": [ <one object per surviving item> ]}, never a single bare object, always \
+the "items" array, even if only one item survives, even if none do (empty array). Each \
+object needs: source, summary, detailed_summary, relevance, date, link, commodity. Preserve \
+the original link and date fields exactly, no other text, no markdown fences."""
 
 
-def _extract_json_array(text):
+def _extract_items(text):
     text = text.strip()
     if text.startswith("```"):
         text = text.split("\n", 1)[1].rsplit("```", 1)[0]
-    match = re.search(r"\[.*\]", text, re.S)
+    match = re.search(r"\{.*\}", text, re.S)
     if not match:
-        raise ValueError("No JSON array found in CLI output")
-    return json.loads(match.group(0))
+        raise ValueError("No JSON object found in model output")
+    parsed = json.loads(match.group(0))
+    if "items" not in parsed or not isinstance(parsed["items"], list):
+        raise ValueError("Model output JSON has no 'items' array")
+    return parsed["items"]
 
 
-def _via_cli(raw_items):
-    prompt = SYSTEM_PROMPT + "\n\nHere is the JSON list:\n" + json.dumps(raw_items)
+def _via_ollama(raw_items):
+    prompt = SYSTEM_PROMPT + "\n\nInput array:\n" + json.dumps(raw_items)
+    resp = requests.post(
+        OLLAMA_URL,
+        json={
+            "model": OLLAMA_MODEL,
+            "prompt": prompt,
+            "stream": False,
+            "format": "json",
+            "options": {"temperature": 0.2},
+        },
+        timeout=900,
+    )
+    resp.raise_for_status()
+    return _extract_items(resp.json().get("response", ""))
+
+
+def _via_claude(raw_items):
+    prompt = SYSTEM_PROMPT + "\n\nInput array:\n" + json.dumps(raw_items)
     result = subprocess.run(
         [CLAUDE_BIN, "-p", "--tools="],
         input=prompt,
@@ -67,7 +97,7 @@ def _via_cli(raw_items):
     )
     if result.returncode != 0:
         raise RuntimeError(f"claude CLI exited {result.returncode}: {result.stderr[:500]}")
-    return _extract_json_array(result.stdout)
+    return _extract_items(result.stdout)
 
 
 def _via_rules(raw_items):
@@ -75,10 +105,23 @@ def _via_rules(raw_items):
     return rules_summarize(raw_items)
 
 
-# ~5s/item observed for the CLI call, keep each chunk comfortably under the
-# per-call timeout so a big backlog (e.g. onboarding a new source) can't
-# time out and fall back to the less precise rule-based filter for everything.
-CHUNK_SIZE = 35
+# Ollama on CPU runs noticeably slower per item than the Claude CLI, so it
+# gets a smaller chunk size to stay well under its own (longer) timeout.
+OLLAMA_CHUNK_SIZE = 15
+CLAUDE_CHUNK_SIZE = 35
+
+
+def _summarize_chunk(chunk, chunk_label):
+    try:
+        return _via_ollama(chunk)
+    except Exception as exc:
+        print(f"Ollama summarize failed on {chunk_label} ({exc}), trying Claude CLI")
+    try:
+        return _via_claude(chunk)
+    except Exception as exc:
+        print(f"Claude CLI summarize also failed on {chunk_label} ({exc}), "
+              f"falling back to rule-based filter for this chunk only")
+        return _via_rules(chunk)
 
 
 def summarize(raw_items):
@@ -86,14 +129,9 @@ def summarize(raw_items):
         return []
 
     results = []
-    for i in range(0, len(raw_items), CHUNK_SIZE):
-        chunk = raw_items[i:i + CHUNK_SIZE]
-        try:
-            results.extend(_via_cli(chunk))
-        except Exception as exc:
-            print(f"Claude CLI summarize failed on chunk {i}-{i + len(chunk)} ({exc}), "
-                  f"falling back to rule-based filter for this chunk only")
-            results.extend(_via_rules(chunk))
+    for i in range(0, len(raw_items), OLLAMA_CHUNK_SIZE):
+        chunk = raw_items[i:i + OLLAMA_CHUNK_SIZE]
+        results.extend(_summarize_chunk(chunk, f"chunk {i}-{i + len(chunk)}"))
 
     return results
 
@@ -101,6 +139,6 @@ def summarize(raw_items):
 if __name__ == "__main__":
     sample = [{
         "source": "Test", "title": "Test headline", "summary": "Test summary",
-        "date": "Aug 12, 2026", "link": "https://example.com", "commodity": "coffee",
+        "date": "Sep 10, 2026", "link": "https://example.com", "commodity": "coffee",
     }]
     print(json.dumps(summarize(sample), indent=2))

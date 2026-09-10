@@ -53,6 +53,52 @@ def load_history():
     return {c: data.get(c, []) for c in COMMODITIES}
 
 
+def _item_date(item):
+    from dateutil import parser as dateparser
+    try:
+        parsed = dateparser.parse(item.get("date", ""), fuzzy=True)
+        if parsed.tzinfo is not None:
+            parsed = parsed.replace(tzinfo=None)
+        return parsed
+    except (ValueError, TypeError, OverflowError):
+        return None
+
+
+# If the automation was off for a few days, "genuinely new" can balloon into
+# a multi-day backlog that takes a long time to summarize. Cap it to roughly
+# the latest day's worth so a run stays quick; the rest just get picked up
+# whenever the source still lists them on a later run (most do, for a while).
+RECENCY_WINDOW = datetime.timedelta(hours=36)
+MAX_NEW_ITEMS_PER_RUN = 20
+
+
+def _limit_to_latest_day(new_items, log):
+    dated = [(i, _item_date(i)) for i in new_items]
+    known_dates = [d for _, d in dated if d is not None]
+    if not known_dates:
+        return new_items
+
+    cutoff = max(known_dates) - RECENCY_WINDOW
+    kept = [i for i, d in dated if d is None or d >= cutoff]
+    dropped = len(new_items) - len(kept)
+    if dropped:
+        log(f"Dropped {dropped} backlog items older than ~36h before the newest one "
+            f"(kept {len(kept)}), they'll be picked up later if their source still lists them")
+
+    # Hard cap regardless of how big the backlog is, keeps a single run fast.
+    if len(kept) > MAX_NEW_ITEMS_PER_RUN:
+        kept_dated = sorted(
+            ((i, d) for i, d in dated if i in kept),
+            key=lambda pair: pair[1] or datetime.datetime.min,
+            reverse=True,
+        )
+        kept = [i for i, _ in kept_dated[:MAX_NEW_ITEMS_PER_RUN]]
+        log(f"Backlog still large after the recency window, capped to the newest "
+            f"{MAX_NEW_ITEMS_PER_RUN} items")
+
+    return kept
+
+
 def trim(items):
     """Keeps the newest MAX_HISTORY_PER_COMMODITY items so the file doesn't grow forever."""
     from dateutil import parser as dateparser
@@ -71,6 +117,15 @@ def trim(items):
 
 
 def main():
+    try:
+        _run()
+    except Exception:
+        log("main() crashed, nothing was pushed. Full traceback:")
+        log(traceback.format_exc())
+        raise
+
+
+def _run():
     raw_items = []
     for module in SOURCES:
         name = module.__name__.rsplit(".", 1)[-1]
@@ -90,6 +145,7 @@ def main():
     known_links = {i["link"] for items in history.values() for i in items}
     new_items = [i for i in raw_items if i["link"] not in known_links]
     log(f"{len(new_items)} genuinely new items out of {len(raw_items)} fetched (rest already seen)")
+    new_items = _limit_to_latest_day(new_items, log)
 
     if not new_items:
         log("Nothing new since last run, skipping email/output/push.")
