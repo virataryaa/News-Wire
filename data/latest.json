@@ -1146,6 +1146,15 @@
   ],
   "cocoa": [
     {
+      "source": "Traders Union (via Google News)",
+      "summary": "Chart-based note says cocoa support at $4,639 is under pressure.",
+      "detailed_summary": "The cited level refers to dollar-quoted cocoa futures; the piece rests on technical levels rather than any change in origin supply or grind data.",
+      "relevance": "Low",
+      "date": "Thu, 10 Sep 2026 12:19:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFBGYkZZWEVtY1VEMDRKb09sRk04cDhscXVjTjNDZTFveWZySlRTQS15dHRvejFseU1hQlVLVGpVUE1UWFZMSFBQRUFwa19FN1FkU181NTRzWmpXQVVkS05Fa25lRWlaQTdoeUVmakRlemZhaGFLQTktZEt6c2YzNzBjVTFPYzdxYkd5Y1VhMW9sZw?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "TradingKey (via Google News)",
       "summary": "US cocoa futures fell 2.04% on 10 September.",
       "detailed_summary": "A single-session decline of this size in cocoa; check whether it is accompanied by volume and origin arrivals data before reading it as a trend.",
@@ -2087,6 +2096,24 @@
   ],
   "sugar": [
     {
+      "source": "The Edge Malaysia (via Google News)",
+      "summary": "Sugar futures hit a 17-month high, attributed to Indian import demand and Brazilian weather.",
+      "detailed_summary": "India, normally one of the largest producers, buying from the world market is atypical, while Brazil's cane belt supplies the bulk of globally traded raw sugar.",
+      "relevance": "High",
+      "date": "Thu, 10 Sep 2026 12:31:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3eEV0cEJRaFFVbk9Ca1h2TzVydGdoZE9lQzR2bEt2anVHR1B2dUd2b05fZkhuZGE0SmhUMUdJTUVEdTV0aUVRZ09TMWx3ZjlJ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Unique Times Magazine (via Google News)",
+      "summary": "India urged sugar mills to maintain supplies and hold prices steady through the festival period.",
+      "detailed_summary": "India is the world's largest sugar consumer and festival months are its heaviest demand stretch; directives on domestic release interact with volumes left available for export.",
+      "relevance": "Medium",
+      "date": "Thu, 10 Sep 2026 12:00:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWlFbEdFSGtDSUJOb1JzTVR5WVR6Uk94YkVnVXpBUlRBOThRbzVUVmZCR05FWUlFNGZlb0pEQWVRMTN5RXhFeGdYVkJPYlphMlM2NG5PcmUzanAzNDRoX2VGbWNzOTVCZmZ6WUlHUDRjUFJrZzRHb0lHZkh4Nkc5c203UllXbzZUWjZCOWxETksydnZ5TjRSdkVqYjU?oc=5",
+      "commodity": "sugar"
+    },
+    {
       "source": "ChiniMandi (via Google News)",
       "summary": "Bihar's 2026 policy offers incentives to attract investment in sugar, ethanol and compressed biogas capacity, according to official Vedwrath Kumar.",
       "detailed_summary": "New capacity in an eastern state outside the main cane belt would add competing demand for cane and byproducts; watch approvals and actual project follow-through.",
@@ -2120,6 +2147,15 @@
       "relevance": "Low",
       "date": "Thu, 10 Sep 2026 11:20:32 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHZ1aFM5M2REYmhDSmdOZnBOQ0MxRDN4MTNpNElWVFVLald1M2l1Q2FVeklQRVRhc016NE5DanRDbWJSR2Z5VE15VTdQRXQ0d055eXVDWV9JaHRYdlZVODNWOUI3SzhtYzdYeUg1QWpVT2wwZEpodlBNRU5MLXhlaDQwdXF5Mm03U01VT3lQUUNXWTMwX0lib3FwLUpWQUJxTDBsbkJEQzNaT0tCUlEyWA?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "GujaratSamachar English (via Google News)",
+      "summary": "India's FSSAI proposed red warning labels on packaged foods high in fat, sugar and salt.",
+      "detailed_summary": "FSSAI is India's food safety regulator; front-of-pack warning schemes apply to packaged goods in the world's largest sugar-consuming market and act on demand rather than supply.",
+      "relevance": "Low",
+      "date": "Thu, 10 Sep 2026 11:03:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW5fTi0wb3pLaEdsbDd4d0hfTkMyNXlIVHpOOG9JMzlJbHpWS0kxVmJiTVZTYmlzUmloUUxsSDM1QUVfbHZ2ZTQwR01US3NtNXZ2SFFLaVlCaElrUHJjWFRlMnZPLWR6b1BYRnhSMzVuS1lXdnlINDNLNy1oQ1A5X0RYSEdRUWVBWTN1VDEtdTYzcExSc1I4UHlmejVqYV91MUZWRVdENnpIN0Vja1ZPdkF6QUpLWU0?oc=5",
       "commodity": "sugar"
     },
     {
@@ -2201,6 +2237,15 @@
       "relevance": "Low",
       "date": "Thu, 10 Sep 2026 07:15:08 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUt6NFZLMFo1S3l3Q3VDdzhlbnlRUmMwWE9pYXduMEs1M25mWGxmS2RUMWwwemNfd1B6MWpoWVU2UWxsQ0ppd0t5V0NMYjI3NWtZQ001Q2Rud1duSzhYTnBxRnV2R2ZJVlhJWlI4TVBNOFExcnJZb0pjZVpiUk9nMUtHN3FFWnA1NXZ5RmdLRUdKNV9UTVhCM3V1MS01NnN3MENvc2Z1RnB5VU1GTmFPLXlR0gGyAUFVX3lxTE51S3o0VkswWjVLeXdDdUN3OGVueVFSYzBYT2lhd24wSzUzbmZYbGZLZFQxbDB6Y193UHoxamhZVTZRbGxDSml3S3lXQ0xiMjc1a1lDTTVDZG53V25LOFhOcHFGdXZHZklWWElaUjhNUE04UTFycllvSmNlWmJST2cxS0c3cUVacDU1dnlGZ0tFR0o1X1RNWEIzdXUxLTU2c3cwQ29zZnVGcHlVTUZOYU8teVE?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "NewsX (via Google News)",
+      "summary": "Davangere Sugar targets 110 KLPD ethanol capacity following a $100 million FCCB raise.",
+      "detailed_summary": "FCCBs are foreign currency convertible bonds; added distillery capacity channels cane juice or molasses into fuel ethanol instead of crystal sugar under India's blending programme.",
+      "relevance": "Low",
+      "date": "Thu, 10 Sep 2026 07:15:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVlVBTWhqVk9HdWZzdGVjWjBYbkpXZkpSV2VCZkQ3QVBVVnhBS0dxUWQtUktoclNyUnFON2lNOF8tRF80a0RmSkVlQTU2bnp6bTdXaFpXYmgxdm91SVNydnl0c0xIbHNVQWdaSlZrMWhDWGxZZHd2RU9rVFY5UFVvNVQzSHF4ajV1QlpUYzZBOVU4WjdRUGFXajhJUllCa296ZGpKUm41UGhMVWxW0gGyAUFVX3lxTE51S3o0VkswWjVLeXdDdUN3OGVueVFSYzBYT2lhd24wSzUzbmZYbGZLZFQxbDB6Y193UHoxamhZVTZRbGxDSml3S3lXQ0xiMjc1a1lDTTVDZG53V25LOFhOcHFGdXZHZklWWElaUjhNUE04UTFycllvSmNlWmJST2cxS0c3cUVacDU1dnlGZ0tFR0o1X1RNWEIzdXUxLTU2c3cwQ29zZnVGcHlVTUZOYU8teVE?oc=5",
       "commodity": "sugar"
     },
     {
@@ -2343,6 +2388,51 @@
       "relevance": "Low",
       "date": "September 10, 2026",
       "link": "https://www.chinimandi.com/us-soybean-oil-imports-surge-as-biofuel-demand-strains-domestic-supply/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "India tightens sugar stock retention and dealer registration rules for mills.",
+      "detailed_summary": "The Indian government has tightened regulations on sugar stock retention and dealer registration for sugar mills to ensure better market control and stability.",
+      "relevance": "High",
+      "date": "September 10, 2026",
+      "link": "https://www.chinimandi.com/centre-tightens-sugar-stock-retention-dealer-registration-rules-for-mills/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Sugar industry urged to diversify for wider bioeconomy growth.",
+      "detailed_summary": "Ashwini Srivastava suggests the Indian sugar industry should diversify beyond sugar and ethanol to create an integrated value chain.",
+      "relevance": "Medium",
+      "date": "September 10, 2026",
+      "link": "https://www.chinimandi.com/india-sugar-sector-needs-to-move-beyond-sugar-and-ethanol-to-integrated-value-creation-ashwini-srivastava/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Khare advises sugar mills to build biorefineries.",
+      "detailed_summary": "Dilip Kumar Khare recommends sugar mills to construct integrated biorefineries to maximize value from waste and byproducts.",
+      "relevance": "Medium",
+      "date": "September 10, 2026",
+      "link": "https://www.chinimandi.com/sugar-mills-should-build-integrated-biorefineries-to-maximise-value-from-waste-and-byproducts-dilip-kumar-khare/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Srivastava: Sugarcane can aid chemical security through biorefineries.",
+      "detailed_summary": "Dr Sangeeta Srivastava highlights the potential of sugarcane in building chemical security through the development of biorefineries.",
+      "relevance": "Medium",
+      "date": "September 10, 2026",
+      "link": "https://www.chinimandi.com/sugarcane-can-help-india-build-chemical-security-through-biorefineries-dr-sangeeta-srivastava/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "siam.in (via Google News)",
+      "summary": "Dalmia Bharat Sugar stock slips 3.85% to \u20b9433.",
+      "detailed_summary": "Dalmia Bharat Sugar stock declined by 3.85% to \u20b9433, but remains above key support levels in a cup and handle formation.",
+      "relevance": "High",
+      "date": "Wed, 09 Sep 2026 22:41:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVMwd3IxMjRLRnNpLS1yRzI1c3JvUWl2UXZyRFdleS1IdFNxWlR2YUlOcW9oOVZBR0EtU1VLYVdHTXU4RktuSVF2UjRPM3R3TjZOLXlTTF81WkY3VmFBNnk3WXNqTUJaV3JDRjhMWkI1Tm0zWGxNQWtPa29pNXZTSG90TzZEMDl3NEpBMDdTbE9GWUZvRm15eFNjanVvWVJhRmlWTkdtY0RMR3FySlpzMW1jeVZRY2s?oc=5",
       "commodity": "sugar"
     },
     {
@@ -3824,12 +3914,30 @@
   ],
   "cotton": [
     {
+      "source": "Apparel Views (via Google News)",
+      "summary": "India's textile sector is seen entering multi-year export growth, though the shift to man-made fibres remains a challenge.",
+      "detailed_summary": "India is both a large cotton grower and mill consumer; a structural move toward synthetics would erode cotton's share of domestic spinning demand over time.",
+      "relevance": "Low",
+      "date": "Thu, 10 Sep 2026 12:21:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaE1XUUFaNldOZ3hJWXNibC1uZ0RpQkFvU1NXTFFDTVdUYjJFTUItVVM4aTVyNGNZN1dZOGZQdTFkem9weUxMc1E2X2tRMFRfX1pyMmFCbDFyQlB1MDlaOEc4WlZhWjYxWExBVEpjRG9HVXozMVRIaVlhOGl1a0xDVWFsR21Xdmt4cUJ3c2VtRF9XVkF4bndENzZYQXhKOC1NNkQ3bnhxZ1E2dFJ6UUhGbE1LVFRLWm9KaFFuM1RnSGJWVnRWZlgzcnczWjJkbHdqNXNEVnZ3?oc=5",
+      "commodity": "cotton"
+    },
+    {
       "source": "fibre2fashion.com (via Google News)",
       "summary": "North India cotton yarn prices held steady as buyer demand remained cautious.",
       "detailed_summary": "Flat yarn quotes with hesitant downstream buying limit mills' ability to pass on raw cotton costs; watch whether caution persists into restocking.",
       "relevance": "Medium",
       "date": "Thu, 10 Sep 2026 11:09:25 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXFtcFZaWkx6MlRYVVNOQk90TU5WNUcyblFCQTRsaVk3cHkwUnhYSDJ2LVNic0FEZzFOOEhIbEc1aXk2X2RKaFF2Vjg4aEZIdzJaNktqODJoS1hrd2ZrU190c1JMZ0ZrVFduczVpOGtHc3JyYnowQVpiQ2lBanYzQ0w5ZUdKWWpwUjBDSDlfOFpSN0JkSzlud3JlWE5tazBLczI0VklWNm5yRE5MUi1vdV9CSG9Td3lNXzRFdE9RM3VwVEYt?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "North India cotton yarn prices held flat as buying interest stayed cautious.",
+      "detailed_summary": "Yarn is the first processed stage after ginning, so subdued spinner offtake in northern Indian hubs reflects hesitant downstream order flow rather than fibre availability.",
+      "relevance": "Medium",
+      "date": "Thu, 10 Sep 2026 11:09:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbVFCMjJpRFQyR2lEUW9kMmtJVl9pWGkzY25lZnJKWVI4Q25GcUxhdzdoRWdySy1JNGtxY1gyeHlMUFNEMVVMX3drTEJqS3REdlpuTVlSWi1WcTg0SnZtSDlJOWVydXlaTkVXVWRNVENBaE5kUUp4WUlkaG5QLXREMXdveU9TWDlTRXA0a0FRU2VBNUhVY2pvMDU2c1ZkZXB3QUlKWGtqVllEY2I2UDM1VkswTTZ2RTEyZmEwUzJfOEs1eTgtUnJ4VUhsQzFUWXFpQkpIbTItVQ?oc=5",
       "commodity": "cotton"
     },
     {
