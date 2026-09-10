@@ -36,13 +36,16 @@ have very little raw material, that's expected, work with it as follows:
    - "summary": a terse one-line version, no more than ~25 words, for quick scanning. Just \
 the facts, no added context.
    - "detailed_summary": also short, average around 25 words (a bit shorter or longer is \
-fine), but MUST still say something "summary" doesn't, never a near-duplicate of it. Since \
-there's little room, pick the single most useful addition: either one added concrete fact \
-if the source has one to spare, or one line of trading-desk context (the mechanism behind \
-why this matters, or what to watch next). Do not invent specific facts (numbers, dates, \
-named events) that are not in the source material. If "summary" and "detailed_summary" \
-would end up saying essentially the same thing, cut something from "summary" to make room \
-for the one added point in "detailed_summary" instead.
+fine), but MUST still say something "summary" doesn't, never a near-duplicate of it. Add \
+factual detail and context only: additional concrete facts from the source (numbers, \
+dates, named parties) if there are any to spare, plus relevant background that explains the \
+story (e.g. why rain during harvest affects quality/timing, what role this country/company \
+normally plays in the market, how this compares to the prior period). Do NOT tell the \
+reader what to watch for, monitor, or confirm, and do NOT suggest or imply any trading \
+action or recommendation, purely descriptive, additional information only. Do not invent \
+specific facts (numbers, dates, named events) that are not in the source material. If \
+"summary" and "detailed_summary" would end up saying essentially the same thing, cut \
+something from "summary" to make room for the one added point in "detailed_summary" instead.
 3. Rate relevance as "High", "Medium", or "Low" based on how likely it is to move price or \
 matter to a trading desk, not on how interesting it is generally.
 4. Do not editorialize about direction (never say bullish/bearish).
