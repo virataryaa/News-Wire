@@ -77,7 +77,10 @@ def _via_ollama(raw_items):
             "prompt": prompt,
             "stream": False,
             "format": "json",
-            "options": {"temperature": 0.2},
+            # num_gpu: 0 forces CPU inference for this call specifically, this
+            # is more reliable than CUDA_VISIBLE_DEVICES at the process/env
+            # level, which has drifted back to GPU on its own after restarts.
+            "options": {"temperature": 0.2, "num_gpu": 0},
         },
         timeout=900,
     )
