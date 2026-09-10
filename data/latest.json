@@ -1,6 +1,25 @@
 {
-  "run_date": "08 Sep 2026",
+  "run_date": "10 Sep 2026",
   "coffee": [
+    {
+      "source": "The Times (via Google News)",
+      "summary": "Trade sources report high-quality coffee is increasingly difficult to source.",
+      "detailed_summary": "Scarcity at the specialty end usually shows up first in physical differentials rather than the futures board.",
+      "relevance": "Low",
+      "date": "Thu, 10 Sep 2026 05:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUV9JdnVDVnlSZWZhOGdraTB0aERKSmdpYk9sZFJ0YjhEU2xzbjNJcldEVmxrcWxHbEdCUGhCZmZnYnBMajU0ZGNZRzhTS3FLT0p3UHhYaTctb2Fkd2JmUjkxMTFFSDN3TEd5dWxxc0hKeUhoMFhoOHlBNXBEbjJZQ0NxQ0NZM2NXMHZFLTRaN2dLUzZudjBHanE2Z1FiUzE0VkF0X0VmVE9iN3FDaFNjRjFUVQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Vietnam.vn (via Google News)",
+      "title": "Agricultural product prices today, September 10, 2026: Domestic coffee prices are positive, with pressure from the upcoming harvest; A shock could push oil prices above $120/barrel. - Vietnam.vn",
+      "summary": "Agricultural product prices today, September 10, 2026: Domestic coffee prices are positive, with pressure from the upcoming harvest; A shock could pus",
+      "date": "Thu, 10 Sep 2026 04:46:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOczVrenpYZUJDMDloRnBiTFNReEhDYnFsWnU5Z1UxRG1hRDN4OU5aQ25nQWFyV05VOHhXN1dxMjhjaS1QX2tEbjdGZG1jUHBhbE1PS1FseHgxUzFYb0ZOaXFZUW9DMWFJUm9HQW05My01UjV4TDRmSkxCMEcwTTh1aWZMOWhnUVJHQlV2NkNPM0l5REdMNWNFQjNMQldIaHZnajR4NHdma09jbk1pTGE4Q3ZXelkxaUZ5YmdZMk1zUkt5LXItdElrTlpKRllrVFVUZXpOTnFleXpNS0lBRHRHUXYwQ0k1bWp0cV9VejB5UVRYQlU?oc=5",
+      "commodity": "coffee",
+      "relevance": "High",
+      "detailed_summary": "Agricultural product prices today, September 10, 2026: Domestic coffee prices are positive, with pressure from the upcoming harvest; A shock could push oil prices above $120/barrel. - Vietnam.vn"
+    },
     {
       "source": "Malawi24 (via Google News)",
       "summary": "Malawi coffee growers report shrinking returns as prices decline.",
@@ -1987,6 +2006,130 @@
   ],
   "sugar": [
     {
+      "source": "GujaratSamachar English (via Google News)",
+      "summary": "India weighs raising the ethanol blend rate in petrol even as domestic sugar supply tightens.",
+      "detailed_summary": "Higher blending targets divert more cane juice and syrup away from sugar production, tightening the exportable surplus. Watch for any diversion caps.",
+      "relevance": "High",
+      "date": "Thu, 10 Sep 2026 07:45:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeEtoMkJha3BTdkZBV2JkYTctM0tZUEFmNC03RGhxVUxjRW5YUGNOSGVDNjdFTHkzZzRMUFVkWkJST3VDRHJMYUY2M2dVVDhoZlNvcEdBMjk4S3g0REM3eDlaX1RGaXNnYkV6amhSejFxNk5fbmc3ZFYydzJ4VVkzUm4ydVpoZmpQV0ZBU3NrekE2cDYyazFnQlU0WUx0b1FncEZRNTZ3aHdPTjc4eXVvbXJmSlQ5TnJrOXR0RVdROWsydWRtd0tCb2laWQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "NewsX (via Google News)",
+      "summary": "Davangere Sugar targets 110 KLPD ethanol capacity following a $100 million FCCB raise.",
+      "detailed_summary": "Incremental distillery build-out is one more claim on cane feedstock; aggregate capacity additions shape how much cane reaches the sugar side.",
+      "relevance": "Low",
+      "date": "Thu, 10 Sep 2026 07:15:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVlVBTWhqVk9HdWZzdGVjWjBYbkpXZkpSV2VCZkQ3QVBVVnhBS0dxUWQtUktoclNyUnFON2lNOF8tRF80a0RmSkVlQTU2bnp6bTdXaFpXYmgxdm91SVNydnl0c0xIbHNVQWdaSlZrMWhDWGxZZHd2RU9rVFY5UFVvNVQzSHF4ajV1QlpUYzZBOVU4WjdRUGFXajhJUllCa296ZGpKUm41UGhMVWxW?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi (via Google News)",
+      "summary": "India's cane output outlook stays cautious as acreage falls in Maharashtra and Karnataka, per Deepak Ballani.",
+      "detailed_summary": "Those two states dominate national cane crush; lower planted area constrains the surplus available for exports or ethanol diversion.",
+      "relevance": "High",
+      "date": "Thu, 10 Sep 2026 07:09:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeVdIRXA2SXNuUEtfSVFRNThkWGExTTVueGUtVGtDaWYxbDZnc2FMM0RaZDNHMGwwVjF1TmRsazlKR0o1MlNhdWlwcHNyLVllRXVlVDRsc3RrYUx6SjNqdlprV2JtcV85UUdrSngxZG9GcVVfN01uWTB3NnYzbWpEeWU4Sk5zS3ppTGIxaVBZMVhmWHFhYlpKX05HX2JFakVSR2pWM1AwZmlRaS1BcnFmNnNfU0ZkaVIwdTNkRlRyUEUyU3U1dUlCSEpZWEs?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi (via Google News)",
+      "summary": "Indian official Ashwini Srivastava urged the sugar sector to diversify beyond sugar and ethanol into integrated value creation.",
+      "detailed_summary": "Policy signalling on by-product streams; a broader diversification push would change how mills allocate cane over coming seasons.",
+      "relevance": "Low",
+      "date": "Thu, 10 Sep 2026 06:51:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWxxQUdQTmZ5OEt3Qmc1eDN2cWI2ZEh6djFTVG5vVVNVMjg5TVgzVE5WZDFUYjNiZE1yWWkyc1J4TmFiR0k4ZWlPTjdzZWRmSWc3aWxrVlJzZ0lHQ0lEU0dMR0k5aGoySEExeTFQMVFSY1g2Y1J2V1RtUFY5OWlkSWNPQUhKaEE1VjFLalNrb2JXRWttMldUdDdOMWc1VVRpNzg2dy1UdERNOVRINTM0enB6eVpqcEJiWTVGMVlOS2x5a2g1VVpUQXpONjVFdw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Reuters (via Google News)",
+      "summary": "India directed sugar mills to ensure adequate domestic supplies and stable prices through the festival season.",
+      "detailed_summary": "Such directives typically precede tighter monthly release quotas, which restrain domestic availability and any export allowance.",
+      "relevance": "Medium",
+      "date": "Thu, 10 Sep 2026 06:33:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcF9aZzBGVTZtakNYTTZPbE9zSmFCMjFFY2F1d1Q4YUtSbjhVTUV0WF9jY2JpUkU0UVYyZDlteUVuSFhpaGlsaHFaSG9pSmtXc0VJUVVZZ0pJUlVoXy1rVjhSUkhqLWcwa3E2enJHdUtDdFlleWYwa0M4QmdtTlF6S1czdDZrWnNwQklXdjU0WWNNcHh2cmkyUlpGUWpXbV9zclRYVDE0SFFyaDRuUEtoVk9TRkJ4bzhKNlZ4NndUVE56UQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi (via Google News)",
+      "summary": "Australia has challenged India's sugarcane support measures under WTO rules.",
+      "detailed_summary": "WTO pressure on cane price support and export subsidies has previously forced India to alter its export policy settings.",
+      "relevance": "Medium",
+      "date": "Thu, 10 Sep 2026 05:19:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3Q4LTBnUlA0WkZQYUgwRnVKV2NsWV9XV0tfSF9raGFwcFJaWWpJN2hRWTBMdTZLQzFmSXZqOWdFN3FEbFRQZEJ6YW9kR2g1bkI4Z2lTdVBsQnNsSm5JWGE2dVhlQ0hjcjJrRzBRc2tpdGZmZUtqbFM3UU1UNWZicEpzb3RZelJxTjRUQ0tianVjUQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Statesman (via Google News)",
+      "title": "Flexible approach to sugarcane needed - The Statesman",
+      "summary": "Flexible approach to sugarcane needed - The Statesman",
+      "date": "Thu, 10 Sep 2026 04:05:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZk9ZaEpXNmhVMDFUaFVpaU1WN2RZWjA1b3ozSnIxVEZPXzByUmVDbnZlb1NIa185SGxJOTRnRXI4QU5XVC1SeU1LdGZueWRiMDkxTE1jR1F3YUpGRXVtV1h6VTRIUElMTVdGckl3aGVxN1dmejFacDRCblk1WUxXdnFGY3JRMElNVWNBMkxueXpOcy1t0gGaAUFVX3lxTFB3bVZfRm5QakNUWDc0NEgwWm5wTTdUSWpTelBqMGplWjRBdW9GXzFDcU5XQ01UTk9kSFJBaUpMUlh4eVdSNUNURWZNQS1ydFMtS2VxQ1ZpRGdEU0dTVV9wakpDaUdCLWExeVNkbnRPUzFsNm03QzZucW9QUnUyT1VWWTNFX09RcVNSRDdMYXNGS0U0d1dvSFJ4cHc?oc=5",
+      "commodity": "sugar",
+      "relevance": "Low",
+      "detailed_summary": "Flexible approach to sugarcane needed - The Statesman"
+    },
+    {
+      "source": "indiagazette.com (via Google News)",
+      "title": "Sugar prices cool, but crop outlook uncertain as ISMA awaits six-week rainfall pattern - indiagazette.com",
+      "summary": "Sugar prices cool, but crop outlook uncertain as ISMA awaits six-week rainfall pattern - indiagazette.com",
+      "date": "Thu, 10 Sep 2026 02:59:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTlk1RVE1T1ctdlZfRTNEUG83UFdKV3B0eFZ0SkszdzJfaFQyQ01FTEdrbE5MQ0lyNnVhMnA3UUxNRlpSWUM2SExxWFh2WVF2ODBUMVJfcUdERXMzTkM0OUtoUW03SDQxUDBBRk1NN0xnWHA4NldNX2Ryby03d0pORkNRcXl4N0tjbkNNUTJnWTRVSFV2ZXBRaVZEdEdNdHJkeE1xRUtPSkdwT1E1RWJyQktNMURhVEdEcTFxREU4S0s1NjB3V3pHaQ?oc=5",
+      "commodity": "sugar",
+      "relevance": "High",
+      "detailed_summary": "Sugar prices cool, but crop outlook uncertain as ISMA awaits six-week rainfall pattern - indiagazette.com"
+    },
+    {
+      "source": "InDaily Queensland (via Google News)",
+      "title": "Ethanol vs Petroleum: leading body calls for a public debate - InDaily Queensland",
+      "summary": "Ethanol vs Petroleum: leading body calls for a public debate - InDaily Queensland",
+      "date": "Thu, 10 Sep 2026 02:05:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmpudjJTSnRtcUlHZzljTGlYSzBRc3ljb0ZoakMzbkoxRGZ4NUxiSU1iQzFITDNvcTNMbThnVVYxTXZLNUVxX3FKZ0xKcG1wUzhPTXlTODNrWDZIY2NOeVhCSnBWcWRHWnAzTHlwekstNTd3ZndYTUVTNEZOdEx3cS1BcnhWNkJCTEY4R01PNjFkd1B0N0dFMG1xS0prblVuOXpfOW54b3M0VWJBOW00Q1B6NA?oc=5",
+      "commodity": "sugar",
+      "relevance": "Low",
+      "detailed_summary": "Ethanol vs Petroleum: leading body calls for a public debate - InDaily Queensland"
+    },
+    {
+      "source": "Pakistan Observer (via Google News)",
+      "title": "Pakistan Approves 250,000-Ton Sugar Export Amid Price Concerns - Pakistan Observer",
+      "summary": "Pakistan Approves 250,000-Ton Sugar Export Amid Price Concerns - Pakistan Observer",
+      "date": "Thu, 10 Sep 2026 01:40:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDhwRUlFU0wwVFMxUF96S0dNZy04TG9JOHFRa3JDMjRWbW4teWFQNjd5SFF0WXVvNG9lU2hjMkRiMXc5T1FfTUtQUzRxU2Q0MjhKUTVtWnN3ZGFONWNEUUxkTFJoaUNzOFl1SVZPdmV4YVF5VmFCTDFmTWNiWkJmMFd1b055SGhQWkNmMTRHUQ?oc=5",
+      "commodity": "sugar",
+      "relevance": "High",
+      "detailed_summary": "Pakistan Approves 250,000-Ton Sugar Export Amid Price Concerns - Pakistan Observer"
+    },
+    {
+      "source": "ChiniMandi",
+      "title": "Ethanol output surpasses E20 blending needs, government explores new uses: Tarun Kapoor",
+      "summary": "Ethanol output surpasses E20 blending needs, government explores new uses: Tarun Kapoor",
+      "date": "September 10, 2026",
+      "link": "https://www.chinimandi.com/ethanol-output-surpasses-e20-blending-needs-government-explores-new-uses-tarun-kapoor/",
+      "commodity": "sugar",
+      "relevance": "Low",
+      "detailed_summary": "Ethanol output surpasses E20 blending needs, government explores new uses: Tarun Kapoor"
+    },
+    {
+      "source": "ChiniMandi",
+      "title": "Australia questions India's sugarcane support under WTO rules",
+      "summary": "Australia questions India's sugarcane support under WTO rules",
+      "date": "September 10, 2026",
+      "link": "https://www.chinimandi.com/australia-questions-indias-sugarcane-support-under-wto-rules/",
+      "commodity": "sugar",
+      "relevance": "High",
+      "detailed_summary": "Australia questions India's sugarcane support under WTO rules"
+    },
+    {
+      "source": "ChiniMandi",
+      "title": "ISMA refines crop assessment model, awaits Sept-Oct rainfall before finalising 2026-27 estimate: Deepak Ballani",
+      "summary": "ISMA refines crop assessment model, awaits Sept-Oct rainfall before finalising 2026-27 estimate: Deepak Ballani",
+      "date": "September 10, 2026",
+      "link": "https://www.chinimandi.com/india-sugarcane-output-outlook-remains-cautious-as-maharashtra-karnataka-acreage-declines-deepak-ballani/",
+      "commodity": "sugar",
+      "relevance": "High",
+      "detailed_summary": "ISMA refines crop assessment model, awaits Sept-Oct rainfall before finalising 2026-27 estimate: Deepak Ballani"
+    },
+    {
       "source": "streamlinefeed.co.ke (via Google News)",
       "summary": "An Indonesian palm sugar microenterprise won a 30-tonne export order.",
       "detailed_summary": "Palm sugar sits outside the cane/beet balance sheet and the volume is negligible; no read-across to raws or whites pricing.",
@@ -3464,6 +3607,44 @@
     }
   ],
   "cotton": [
+    {
+      "source": "fibre2fashion.com (via Google News)",
+      "summary": "Pakistan textile exports grew 3.2%, but gains concentrated in low value-added segments rather than the wider value chain.",
+      "detailed_summary": "Pakistan's mill demand drives raw cotton import needs; weak value-chain upgrading caps sustained yarn and lint offtake growth.",
+      "relevance": "Low",
+      "date": "Thu, 10 Sep 2026 08:46:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3hLOVNxN3VSQ0JUcHdoankzMEpIekV4dlpQNFk0cksxNkhYaU1ZSEZsbzJYaGdsM1daZ0YyMmE1cVFib3VDYVBZRzlqN3JsSzFCdEt0TkVOVmVqMEo4YTYzMHZMNUdxQVgwVmo2NkxqbFN4Z0tVZjFPeE4wSno3X0J4YXpiVVhqamMzb0xZYVNhSFBaXzlBMEdtQ0gwLUFLTDRLSFlIa0pQXzlNcHJWQ19zVHM4UmZZMTlDS3IwbWZGVHNLeDNwVjJVYzV3Sm8?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "fibre2fashion.com (via Google News)",
+      "summary": "ICE cotton futures firmed on supply concerns as traders positioned ahead of the USDA WASDE report.",
+      "detailed_summary": "WASDE resets US production, export and ending-stock balances; pre-report positioning often unwinds sharply once the numbers print.",
+      "relevance": "High",
+      "date": "Thu, 10 Sep 2026 07:10:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlJpQlBRb2E1c0hSa3BkeGVWV2dpNjlPam83aS0xUUFGWExBQ1o4azNxbzY5UWdzWFlodzRDU3d5S1E5R3M5b2tob25KaERaZEdUSzdwbi1sZ0dFSk4wYm9vVElkTGZkNklBTzBvYVNkdDJhSWtMcTBTdjRjVmc2dmYyOWpPWFRBUzBpVXctR3plMHlIbkRPdTlQTUtfU0xaTUpjYzM2dEw2X1BpVUIzdGZLR291aGh5dzV4ZTlvUGZwaG9WbGxkUnBiTUk0eGZnM3dEa0Iy?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Big News Network.com (via Google News)",
+      "title": "China's Xinjiang pivots to smart agriculture amid national digital push - Big News Network.com",
+      "summary": "China's Xinjiang pivots to smart agriculture amid national digital push - Big News Network.com",
+      "date": "Thu, 10 Sep 2026 04:45:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXh1cGFOUUtudXpVblRfbHMySnpxWTdDNWtSUHU5T1NlMUJMYnA5M3B4N0tQeENNX3BRUWpsdnZsMmZ6RmVvWFI0U1lVZGVYcjN2cHRORWVKYkFyaVNYVWgyVVNYcmdHMFVWaTVSbmQ2S2tjREJYbHBFT3FCMVBmdHVZZElOVFdfU1o0ZzlaZ1NidUpCeGR1a1RWeWFvbTVvZWRva29oZWNtSTZ2MmlZVzFsWEhpdw?oc=5",
+      "commodity": "cotton",
+      "relevance": "Low",
+      "detailed_summary": "China's Xinjiang pivots to smart agriculture amid national digital push - Big News Network.com"
+    },
+    {
+      "source": "Arzuw news (via Google News)",
+      "title": "Cotton harvesting season launched in Turkmenistan - Arzuw news",
+      "summary": "Cotton harvesting season launched in Turkmenistan - Arzuw news",
+      "date": "Thu, 10 Sep 2026 04:23:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54bnZubktQZk5pVVI2YjBvTksyNG5PdE9UY0o4cjNuSUR1VHJnTFR4cWRCUXE4SjZpSGxmTm5HejgyYllIVmlnMFdQZDM4TlRrR0F1YS1qdlBmcXNMYUhqbUxKVkYweTd3MlZLTHItem1xNnVlUVFMbjRiYw?oc=5",
+      "commodity": "cotton",
+      "relevance": "High",
+      "detailed_summary": "Cotton harvesting season launched in Turkmenistan - Arzuw news"
+    },
     {
       "source": "Munsif News 24x7 (via Google News)",
       "summary": "An Indian cotton farmer died by suicide after water shortage destroyed the crop.",
