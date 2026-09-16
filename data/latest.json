@@ -1,6 +1,24 @@
 {
-  "run_date": "10 Sep 2026",
+  "run_date": "16 Sep 2026",
   "coffee": [
+    {
+      "source": "stonex.com (via Google News)",
+      "summary": "Logistics remain a major challenge for global coffee sector.",
+      "detailed_summary": "The report highlights persistent supply chain bottlenecks, port congestion, and rising freight costs affecting coffee distribution worldwide.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 05:21:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGxiV3NKbU43R2hCcV9tdEF5MS00M0Zwa3ZTTGJSak5oQ05TZ0JXdGhCdl9nZkpxRnNNa01mM1lyWFd2VldPRzZheHVnTHN4UkgwcVhMSE96dWdkOTlZRG1vWklnYlpKM3kyUUxHY2NRM3NPNUVWX2RjQnhQbXpYN3RDNXgzb0RWWFJVUkpQVkdOMXg5NzZicQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Vietnam.vn (via Google News)",
+      "summary": "Domestic coffee prices in Vietnam struggle to maintain recovery momentum.",
+      "detailed_summary": "Vietnam's coffee prices remain weak despite a rebound, while the US cautiously responds to Canadian retaliatory tariffs.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 05:06:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaWpBMkxYMi16UkFOTkhUYUNqaXlyNlNXd0w2a1NRUmZFVG45WjU3MXF5bmlLaG9NMTlBRU9aamhURXd0RTZhc2k4VGNUY2VIODZ0Y3VOeXNsbWJZQ3Blc09ZWGZ2YUNJMGE3REJ3N0RkRDEyenRXaVpGNmhpN2VxUEFxcU1CT0t1a1Fsa3NkWC1wSXFWeW8wLUh3X3g2WGVXOU1EMW5EYUtTTm5lbzRfRmpKMHp4TmJFQVJCUVRMOUR3c1FQc1hTLVhaWGd3bm1FUExWUUdmWU5mTUdIRmVaaFB0ZVJickF6Vmc?oc=5",
+      "commodity": "coffee"
+    },
     {
       "source": "Sada Elbalad english (via Google News)",
       "summary": "Egypt is seeking investment from Aqua Brown to build out domestic coffee manufacturing capacity.",
@@ -2096,6 +2114,33 @@
   ],
   "sugar": [
     {
+      "source": "Profit by Pakistan Today (via Google News)",
+      "summary": "Pakistan sugar mills ordered to pay cane growers promptly.",
+      "detailed_summary": "The Pakistan Sugar Mills Association instructed mills to settle payments to cane growers on time, aiming to improve cash flow and maintain supply chain stability.",
+      "relevance": "Medium",
+      "date": "Wed, 16 Sep 2026 08:32:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjlmdVFaR3ZXNE5lZ0FsMXJBY2J2OEdpQmpsNXBGaTJQUHVnR1F4MnJMQVBqYk40dVJLVnd2SFVHMkxTV1JJNFNRUEZKc1A1UEl1SGRocGZHc2lGUm9ON3FKRHVBeHBzTnZEdjhMS0h3aFdoZ3hndmUxcEhKOUkwUVRkV1lmUG1oelIwMTNPWnNoeS1rUUIwUWR0TjhCRXlmYlRCdEU0WE9majhpeTZjS29n?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "simplywall.st (via Google News)",
+      "summary": "Three Indian sugar stocks with ethanol exposure rise as sugar prices climb.",
+      "detailed_summary": "Three Indian sugar companies with ethanol exposure are benefiting from rising sugar prices, reflecting increased demand and higher margins in the sector.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 07:29:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOGh1NDBfVW9sUWtDazdOT1NDUVloTlRYTXpfbXFkU2pJZi1zWktMY2ZkM3pMdWVNczRJSFdOUWJhbWpTSWJNbHg3UWxxV3NLRzNaZDlWc2djei1KRnZnOFFWZ1ladXVCUnNvcDFjMm5tMExyTERYRVRWUGlzRW9LdjMzdVUzek1EQk4xV1VHZWxyNzdYcmlkcllOUklqTjVjbWFCNXhSS2hkQTM5X0FxYTlxanRxc0pfNTBZOHhCTDdXOUt2WGJ0UVgySmZGUWlFOEF5ZGpqb2VRMGRPSE1EVXN1UExJUjQwc2FVNGkwb2NlN29LcW9NNU0zTW91UXdE0gGGAkFVX3lxTFB6Q3VhQ1p2MjNpS3Awcm1mNUUxQXZ6aUlsbFNwam1BemgzMEhQdzhCaG81bEdWUXFfeWxiSnJoMjd0S3Q4bm1qUmlQSDRrEWktY2NjUnRoaHl3QTFPV1RPUllqVm91RkxIekVpNzZpWjg1TmZyWHNpRVNWcUtDZU43WklnYXNnMmFQRnF0NHRXTVhhRlNFalRYdlltVGt5UGRSOTlmMHhTZWswQWxCalRrcl9fX1NfSElzLVFSR05BN3RPVlRfcUppS21BLTdScGNyaWFRZVFMbTdZR2dzZklkMUdqc0ZuSE4xVkNCOVkzbk9wb3BZeUMtaVJscmZYLTdXbWY1b3c?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "West Bengal government expects sugar prices to fall to Rs 50/kg before festival.",
+      "detailed_summary": "The state government anticipates a price decline to Rs 50 per kilogram as the festive season approaches, following recent market trends.",
+      "relevance": "High",
+      "date": "September 16, 2026",
+      "link": "https://www.chinimandi.com/west-bengal-govt-expects-sugar-prices-to-ease-to-rs-50-kg-ahead-of-festive-season/",
+      "commodity": "sugar"
+    },
+    {
       "source": "The Edge Malaysia (via Google News)",
       "summary": "Sugar futures hit a 17-month high, attributed to Indian import demand and Brazilian weather.",
       "detailed_summary": "India, normally one of the largest producers, buying from the world market is atypical, while Brazil's cane belt supplies the bulk of globally traded raw sugar.",
@@ -3913,6 +3958,15 @@
     }
   ],
   "cotton": [
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "ICE cotton futures fall further amid weak demand and seasonal pressure.",
+      "detailed_summary": "ICE cotton prices dropped as market participants cited weak demand and seasonal supply pressures, continuing a downward trend in the cotton market.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 07:07:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzZSUVZJc0FpQzB1cEZqQ2cybTNBZE0zX0hNR3FpQnBvRU5QTHgzUVFVSXRBbnpRbjlwNzlOWXNzaGdXMzlORWJtaWg1cFdJbTk5TzVTdHBhSU1CSE9icjBBNGZHWVRKSk9VT3VTVjZWMkJEc3Ria05jMHhwaGR6eW5YTzV5R01Md1AzdVB4U0pTOTRFc0xoalItWlprbkxVQUY0ZXdnUENVVnpCMzE3WEZLN0tZaldXRnhJUE5Wc1AtXzdSVUZ3dExRU2xQS3ZoazVfR2VB?oc=5",
+      "commodity": "cotton"
+    },
     {
       "source": "Apparel Views (via Google News)",
       "summary": "India's textile sector is seen entering multi-year export growth, though the shift to man-made fibres remains a challenge.",
