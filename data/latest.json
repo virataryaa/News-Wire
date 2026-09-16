@@ -20,6 +20,51 @@
       "commodity": "coffee"
     },
     {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Arabica coffee prices ease on strong Brazil exports.",
+      "detailed_summary": "Arabica coffee prices declined due to robust exports from Brazil, the world's largest coffee exporter.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 02:01:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Y3ZVWmpRTmZUdFBxOFBqcHQwUUFZYUVVSlVzeVR4RFVRV3lYMUpCME41RnFTUEJnOWFmcmdzM2gtYlRrS3V0NTBSN2J3dm9I0gFWQVVfeXFMTy1jRkZPUUZXQ2k2b1RGS2NhdnN4MkNRTDR6ZmRvRHhDV2pnWkdobzJ5dm5TeWFhVnRCUXYxQTZwSDExbEZmb044bjhhQ1lBQ2htZTFHZ1E?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "stonex.com (via Google News)",
+      "summary": "Vietnam's coffee outlook hampered by extreme weather, irrigation issues, and rising El Ni\u00f1o risks.",
+      "detailed_summary": "Vietnam's coffee sector faces drought, flooding, and irrigation shortages, with El Ni\u00f1o expected to worsen conditions, potentially reducing yields.",
+      "relevance": "High",
+      "date": "Tue, 15 Sep 2026 23:50:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUkV2U3RmN3BpVENDNHNJeGRzWFE3WnU0bGQ1aFlwVjU3Rk5sOVFOcWl4U0l2SDVEcl9DbkR1SzFiR2hsQTI1MU1hRWlscFFvWHppZEtoay1IWGhVOU92MHNIZk1zMm9zdHY3SjNFOHFwYc0TXBubDd6anZHZnBKWTBzWEdySEJzaGpTUlhPdmh0dzExMXJuYndHQUw2dzFKYS16bzNkc21GdHpXNjhXREluWXVFRF9oVVdhVXd6dGNOTU1ucnVLMG1ocUk0WHdQWjZjdlVrWQ",
+      "commodity": "coffee"
+    },
+    {
+      "source": "stonex.com (via Google News)",
+      "summary": "Colombia exporters advised to shift to Caribbean ports as earthquake recovery continues.",
+      "detailed_summary": "Following the recent earthquake, Colombian coffee exporters are encouraged to use Caribbean ports to mitigate disrupted logistics and maintain export flow.",
+      "relevance": "Medium",
+      "date": "Tue, 15 Sep 2026 23:50:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdU1LdjNxd3NVQ0YzeGFoMS00Ylhla2o5ZFYwUjNFMVJteVRkNlNWZ2RYU2tyLVNNQlBnZFFSNjhsSVRoOVZ0Y3drMTA1UjREYllJUUxmemxZSHRFajhDRy04RVo3cUN2NVVXSjRhTXZmQlk5anIzUXhmTlhYRHpBeV9NLXRyN2J2azIwcmRnMGp6dVMyekFETjhFdW84Q3dTYTB0WUh5ZXU1M0l0LUMzSktrcDE1cDk2V2VOdQ",
+      "commodity": "coffee"
+    },
+    {
+      "source": "stonex.com (via Google News)",
+      "summary": "Colombia resumes coffee transport to Pacific ports after earthquake disrupted ports and roads.",
+      "detailed_summary": "The earthquake damaged port infrastructure and road networks, causing delays; transport is now gradually resuming, potentially easing supply constraints.",
+      "relevance": "High",
+      "date": "Tue, 15 Sep 2026 21:46:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS09KWXQ4dnpEY21IMXdEel9Vd2xpZUhteHZyNFZYa0lXZXVNTkw3c0t3VFVZZ2o0N2dMSG9jMVBQVDg0RFpFajJQZHVoRk03ZjhxNjlIY2Q1SVBKb0VIRFBZN1ktZWtVOUxkbWdZYlRnVFhHZlJWaUlNcUtELWxFSHA4bjRCWEVFRW1nN3FsM3RGbVl3U1Y1eVpfYzdjOWpfWkVJdGpSOVRiajV2bTkwUC1qb1JjekF1TkVwckVvREVVZHJPWE9DTWNyZk9vNmo3MGFPcXh4Uy01MmJKOTNCRklpSQ?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Yahoo Finance (via Google News)",
+      "summary": "Coffee prices retreat due to ideal weather",
+      "detailed_summary": "Coffee prices decline as ideal growing conditions in Brazil and Vietnam support crop yields and quality.",
+      "relevance": "High",
+      "date": "Tue, 15 Sep 2026 18:30:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHZLeW10SE8tTnpZb3FyMG5fNEdEUFlIdEpiN0NZSVhjTVZfOW9kMzkwWTN3NzVKalMzNEtwNWh6MnRBV2pRVk1vbW9XX1piMnJuLTJ4RXhiR01qZVotcnJuWkhrR0NwczFBNGVMNGlsOWtLRVdycHRqMVBOWENpUzBfZjE2VVRwc05yYjJIODB5QlRHMDJ4OVU3MGFJUkM0ZkVYZDBxWFI?oc=5",
+      "commodity": "coffee"
+    },
+    {
       "source": "Sada Elbalad english (via Google News)",
       "summary": "Egypt is seeking investment from Aqua Brown to build out domestic coffee manufacturing capacity.",
       "detailed_summary": "Processing-side investment in a net-importing market; the thing to watch is whether it shifts Egyptian buying toward green beans over finished product.",
@@ -2132,12 +2177,75 @@
       "commodity": "sugar"
     },
     {
+      "source": "simplywall.st (via Google News)",
+      "summary": "Indian sugar stocks with ethanol exposure see gains as sugar prices climb.",
+      "detailed_summary": "The stocks benefit from rising sugar prices, driven by supply constraints and increased demand.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 07:29:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOGh1NDBfVW9sUWtDazdOT1NDUVloTlRYTXpfbXFkU2pJZi1zWktMY2ZkM3pMdWVNczRJSFdOUWJhbWpTSWJNbHg3UWxxV3NLRzNaZDlWc2djei1KRnZnOFFWZ1ladXVCUnNvcDFjMm5tMExyTERYRVRWUGlzRW9LdjMzdVUzek1EQk4xV1VHZWxyNzdYcmlkcllOUklqTjVjbWFCNXhSS2hkQTM5X0FxYTlxanRxc0pfNTBZOHhCTDdXOUt2WGJ0UVgySmZGUWlFOEF5ZGpqb2VRMGRPSE1EVXN1UExJUjQwc2FVNGkwb2NlN29LcW9NNU0zTW91UXdE0gGGAkFVX3lxTFB6Q3VhQ1p2MjNpS3Awcm1mNUUxQXZ6aUlsbFNwam1BemgzMEhQdzhCaG81bEdWUXFfeWxiSnJoMjd0S3Q4bm1qUmlQSDRrRWktY2NjUnRoaHl3QTFPV1RPUllqVm91RkxIekVpNzZpWjg1TmZyWHNpRVNWcUtDZU43WklnYXNnMmFQRnF0NHRXTVhhRlNFalRYdlltVGt5UGRSOTlmMHhTZWswQWxCalRrcl9fX1NfSElzLVFSR05BN3RPVlRfcUppS21BLTdScGNyaWFRZVFMbTdZR2dzZklkMUdqc0ZuSE4xVkNCOVkzbk9wb3BZeUMtaVJscmZYLTdXbWY1b3c?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Dawn (via Google News)",
+      "summary": "PAC halts sugar export despite green light from advisory board.",
+      "detailed_summary": "Pakistan's Pakistan Agricultural Corporation (PAC) has halted sugar exports despite approval from the advisory board.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 01:49:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DSzhMamM1UWN2WDh4Snh3c21mZmtkX2lkanBOUll5VVBGbFBpdkJ2T0lwQXZhMFVqckx5b19EN203Qy1HeG1LY9IBTkFVX3lxTFB1NEVoNzhXR0pLTGZEUWFWbnk1ZndrYjhDZmFEN2ZTVjNlMWdXOUIwRHNPNXctN3ptZUR4clhjS0pFQnRpc0JqLVBLVHlwZw?oc=5",
+      "commodity": "sugar"
+    },
+    {
       "source": "ChiniMandi",
       "summary": "West Bengal government expects sugar prices to fall to Rs 50/kg before festival.",
       "detailed_summary": "The state government anticipates a price decline to Rs 50 per kilogram as the festive season approaches, following recent market trends.",
       "relevance": "High",
       "date": "September 16, 2026",
       "link": "https://www.chinimandi.com/west-bengal-govt-expects-sugar-prices-to-ease-to-rs-50-kg-ahead-of-festive-season/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Social News XYZ (via Google News)",
+      "summary": "Pakistan's decision to restrict sugar exports threatens domestic supply and price stability.",
+      "detailed_summary": "The export ban aims to protect local consumers but may raise domestic prices and affect food security amid rising global demand.",
+      "relevance": "High",
+      "date": "Tue, 15 Sep 2026 22:25:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWG1GcjA3VE5sVm1JTWFwZlhQRG44TlktUklPM0R4Q3doMmVqSjYyTkk0V3N3Y2JKdVNLdG5XQVA5S2dNT0J0R2dKeVN5TUpidGV2V0d1RHJvbnZHYTljVWU1Sy02c0tWYllZV0lsMWpzTUpwYk1CaFBiOWRyQzJ1MHlXcmVyNjVRcldsOE8xaVBrUlFoTkIwQVdpTVdqUHpCLVB1ZXZLc3hzZVVib0gxNG1SOHVrMTg?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "DatamarNews (via Google News)",
+      "summary": "Argentina allocates U.S. raw sugar export quota for 2026/2027 season.",
+      "detailed_summary": "Argentina's Ministry of Agriculture has assigned a specific U.S. raw sugar export quota for the 2026/2027 season, impacting U.S. sugar market supply.",
+      "relevance": "High",
+      "date": "Tue, 15 Sep 2026 20:56:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHlVX3pSQ2VFaDlMa296U05sWjRUNDhYOTJsZ0hUaWxvblp2YjdhZFM5ZHNja0Z0cWNCMWhmbm9LNm5wWl9CQzVxMFFKUnBKaGQyLXVWVEFMN1BPVzhTaEh3akFLQnFjeGJZN2lab3V2SGpxdHhEaVNxaEZqT2tKR3FRM0FuRFViRWhlZ2kwb1lKcUZVSUhFWlpERmw1R2JrVXE0?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Dunya News (via Google News)",
+      "summary": "Pakistan plans to export 200,000 tonnes of sugar after stock review.",
+      "detailed_summary": "Pakistan's government, following a review of domestic sugar stocks, has decided to export 200,000 tonnes, potentially affecting global sugar supply.",
+      "relevance": "High",
+      "date": "Tue, 15 Sep 2026 20:33:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0dUTHg3RU1GX043X3loZTJxVEY0eUtORE9zdXdQby1WRjl3eldLOU5GeWEwVUFCZjMzNmFLMHlKbjJvVUZKWlV5Vjk5Zm5hVE5lV3FnMTVpcVNSZ25CangtRjBrUl9DczgxV3k4cHE3VUpUWlBUSHRzRDZpQXF0cjkxZGpRdGVaSUwtUGsyWGI4LXF2N3VJLURZTFFmX0NsY2ExUDVGONIBVkFVX3lxTE5qWmZLUU1QcGFMdHFERzBnNkdUZkZTRzZMdmE4emtwaE5zR0lua1lUZktrWDVxcVY5ZWN1c1hHVGdUTVdxMWVHUDRYZ0d1ZjAyVGQ0Mmx3?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "inkl (via Google News)",
+      "summary": "Sugar prices decline due to dollar strength",
+      "detailed_summary": "Sugar prices are falling as the strength of the US dollar prompts long liquidation in the market.",
+      "relevance": "High",
+      "date": "Tue, 15 Sep 2026 18:31:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1kyY2Nnc0czOUo5ejJ4NGQtb3c0MHhGTUE4UDNjS2NSeTBKbm9CbW1uSWduWTNMNXZhaWc1VGNadHlqQ0tBdGE5Y0hjMzhhVHBibmdLMHRUNW5SRWdKelJJZlJSa2gtZlhzd1ZmS19DNFIxMUx2Z29paDItbGhuTkJlV3lmSG5EMjNpQjFhUGE3UQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "BusinessLine (via Google News)",
+      "summary": "India extends sugar import quota deadline",
+      "detailed_summary": "India extends the deadline for surrendering the sugar import quota, providing more flexibility for importers.",
+      "relevance": "Medium",
+      "date": "Tue, 15 Sep 2026 16:44:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRjRLYW01MkM1eXNNSTBPV2JUaGZmNjNrSjRFRmdjUl9XVk1NY3JRZjNfdmRGYUlwMFRNRTJySGlienRQMEZKeVBZZW1KWVp6Y2dPeTAtZXBqNURpUFVMM2s5SnJSbG10MXFjZkxMMnI3OWJoZTY0YlRXYlZ3R0Fxc2lsU3UxZDQ2cno1OEF6elVObmhjZDFrakJLaTV3ekZucGJ0VG1TVU1mYjhhbEJjMktmU1lBbVMyVVRzeWtKRU9NRnBGbmNFNkJYWdIB0gFBVV95cUxNQVZoVC1oVGc1bS1KY2ltRFRpZUlZSzNmbEZwYnRxSmtROVppaFRrdjJVelh1OFBHeFpSZEx2cExLSXZ1WjFVMDhKWU1YTVBJM3BueDhkOWhiOTNBb1hHUlBSdmh1cDR4RWE3eFFSTHFfc2pIVXdVXzZCZFkwUUk2cC1ROWNOdlI1Z2hFem9qNFV4UnpNNkZJMnVCQ3VGcjkwbTZSXzVQVzQ4cUlUZEp3NXBnTkZTa2VONlFwcVFXbzJMMnAzTzh4QnQ4TXBzZlh6Znc?oc=5",
       "commodity": "sugar"
     },
     {
@@ -3965,6 +4073,42 @@
       "relevance": "High",
       "date": "Wed, 16 Sep 2026 07:07:30 GMT",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzZSUVZJc0FpQzB1cEZqQ2cybTNBZE0zX0hNR3FpQnBvRU5QTHgzUVFVSXRBbnpRbjlwNzlOWXNzaGdXMzlORWJtaWg1cFdJbTk5TzVTdHBhSU1CSE9icjBBNGZHWVRKSk9VT3VTVjZWMkJEc3Ria05jMHhwaGR6eW5YTzV5R01Md1AzdVB4U0pTOTRFc0xoalItWlprbkxVQUY0ZXdnUENVVnpCMzE3WEZLN0tZaldXRnhJUE5Wc1AtXzdSVUZ3dExRU2xQS3ZoazVfR2VB?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "The New Indian Express (via Google News)",
+      "summary": "Rain deficit dries up Telangana's farmer hopes.",
+      "detailed_summary": "A significant rain deficit in Telangana is causing concern among farmers, impacting cotton crop prospects.",
+      "relevance": "Medium",
+      "date": "Wed, 16 Sep 2026 01:53:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1hLc1ZxbXdYbzhQSmJtVW1DVGwzbjBZUDhCbllpWmhWY1ZuLWpyQjZrUktfVEdLZFJHNl9heWdiZ2JDUW10U0RNeXI0WDU1ek1CclJ1bUllY0JkNG5DZ2lZYW1wUTlEazJUeW1PdnlfcUR5TzM1MVZBdFRPR2JscEIyZ1NLX0Z0dXQtNGlOREg4aU5Fa0hLR3QxOUd4OGhLUW1VVnBPaDZTaDjSAbgBQVVfeXFMTlMzQS1ibWF4dU8xTU1KcGczTFdKUWRJNTcyTDZ6NUplYW0tdXNwZmtHT0RsVkIzdXNKU1kyR0VnMWttbVJJeVBWNWs2WFB0ZEo0cFpLQTViQjM2elRTRHkxaXk0ZDYwT2dndEhTam0xUXBJYWNZRWs3bW9ULWI1OE9nZ3l4Y3FSckdUd1ZvMWstVjhsc1JDRHl4SWU4cWhtVWhZamY0UWVvY2dMbXlELTZtZmRqTGFfYw?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "AgriLife Today (via Google News)",
+      "summary": "Texas summer crops face severe drought and heat, threatening yields.",
+      "detailed_summary": "The drought and extreme temperatures are expected to reduce cotton and other summer crop yields in Texas, a key U.S. cotton producer.",
+      "relevance": "High",
+      "date": "Tue, 15 Sep 2026 23:05:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkZYTlZxQnB5T01xc0lQbExrN1FpSzFJZld2NENjUjhoQlBkQ3NFRENZcFQyc0ZUV3M0dmNrUVExcnBNcnFlZTRMRGpjejNjQzBKNlRURERVZFFzWHpkWEtyR2NRc2FXNHBrNERBbWZRMzZMQTNHZE4xVVdEd242OVN6dzFfUm5xbDlOeERKcjVLa1pvWDBTWFZhOXY3VjZWUlRXMGhiZ1pPTmw4b0ZMZDZn?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "inkl (via Google News)",
+      "summary": "Cotton prices weaken on Tuesday",
+      "detailed_summary": "Cotton prices are declining on Tuesday due to market dynamics and supply-demand factors.",
+      "relevance": "Medium",
+      "date": "Tue, 15 Sep 2026 17:22:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEdDBBdHM5a2ZBdnZXakpic2kyRFNyTXJ1Qi1tZUhGem5VU0RYNnpuYUFVeEI0NERqcVVLTzlOTko4bk1FVFRISFE3Yy1vaE9VSlpCckdPUGFyekR2ZFh3X2JRTHB6eW04V3NUWHpyanhId3M?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "The Hindu (via Google News)",
+      "summary": "Tamil Nadu textile mills demand raw material security.",
+      "detailed_summary": "Smaller textile mills in Tamil Nadu are demanding raw material security, a move that could affect cotton supply chains and logistics.",
+      "relevance": "Medium",
+      "date": "Tue, 15 Sep 2026 16:35:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3Jiam1aaEIyTXhUd3htZWh1blNNcUJlOHR4ekVtLWxQRlNTYUtQWmsyS2tOVFh3SjlSQ1M3Z1BhNDY1VHRPMEtsVWRTT0FvdDd0TjNobzYzQzdIQTlIRENlRDY1ZVRVSmNSOU4yZll2MHBYa1NPdnJJRG52WTR0c2x5Vi0xZ1E4SUs2NFJHN2t1V3JTa2wzaG5yTUREWFV4OGxHWnBOUXM0RWtxUWVXdVk5VXJESG5CM1Z2SWs0TTJ1TVhRLXFuNXByejc3U1duM3Bv0gHTAUFVX3lxTE1XcmJqbVpoQjJNeFR3eG1laHVuU01xQmU4dHh6RW0tbFBGU1NhS1BaazJLa05UWHdKOVJDUzdnUGE0NjVUdE8wS2xVZFNPQW90N3ROM2hvNjNDN0hBOUhEQ2VENjVlVFVKY1I5TjJmWXYwcFhrU092cklEbnZZNHRzbHlWLTFnUThJSzY0Ukc3a3VXclNrbDNobnJNRERYVXg4bEdacE5RczRFa3FRZVd1WTlVckRIbkIzVnZJazRNMnVNWFEtcW41cHJ6NzdTV24zcG8?oc=5",
       "commodity": "cotton"
     },
     {
