@@ -1,14 +1,18 @@
-"""Ranks/dedupes headlines. Three tiers, in order:
+"""Ranks/dedupes headlines. Four tiers, in order:
 
-1. Ollama (qwen2.5:14b), running fully local on this machine, free, no
-   subscription/API usage at all. Primary path now.
-2. Claude Code CLI (`claude -p`), uses your Claude Pro subscription login,
-   not the paid API. Falls back here only if Ollama isn't running/installed
-   or fails on a given chunk.
-3. Rule-based filter (keyword junk-drop + near-duplicate collapse, no AI).
+1. Groq (openai/gpt-oss-20b), free-tier cloud API, dedicated fast inference
+   hardware, ~1-2s per chunk. Primary path now. Needs GROQ_API_KEY in the
+   local .env file (gitignored, this repo is public, never commit that key).
+2. Ollama (qwen2.5:14b), running fully local on this machine, free, no
+   subscription/API usage at all. Falls back here if Groq is down/rate-limited
+   or the key isn't configured.
+3. Claude Code CLI (`claude -p`), uses your Claude Pro subscription login,
+   not the paid API. Falls back here only if both of the above fail.
+4. Rule-based filter (keyword junk-drop + near-duplicate collapse, no AI).
    Final safety net so the pipeline always produces something.
 """
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -18,6 +22,21 @@ import requests
 CLAUDE_BIN = shutil.which("claude") or r"C:\Users\virat.arya\.local\bin\claude.exe"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "qwen2.5:14b"
+GROQ_MODEL = "openai/gpt-oss-20b"
+
+ENV_PATH = os.path.join(os.path.dirname(__file__), "..", ".env")
+
+
+def _load_env_var(name):
+    if name in os.environ:
+        return os.environ[name]
+    if os.path.exists(ENV_PATH):
+        with open(ENV_PATH, encoding="utf-8") as f:
+            for line in f:
+                if line.startswith(f"{name}="):
+                    return line.strip().split("=", 1)[1]
+    return None
+
 
 SYSTEM_PROMPT = """You are curating a daily fundamentals news wire for a soft commodities \
 trading desk covering coffee, cocoa, sugar, and cotton. You'll be given a JSON array of raw \
@@ -71,6 +90,25 @@ def _extract_items(text):
     return parsed["items"]
 
 
+def _via_groq(raw_items):
+    api_key = _load_env_var("GROQ_API_KEY")
+    if not api_key:
+        raise RuntimeError("GROQ_API_KEY not set (checked env and .env)")
+
+    from groq import Groq
+    client = Groq(api_key=api_key)
+    resp = client.chat.completions.create(
+        model=GROQ_MODEL,
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": "Input array:\n" + json.dumps(raw_items)},
+        ],
+        temperature=0.2,
+        response_format={"type": "json_object"},
+    )
+    return _extract_items(resp.choices[0].message.content)
+
+
 def _via_ollama(raw_items):
     prompt = SYSTEM_PROMPT + "\n\nInput array:\n" + json.dumps(raw_items)
     resp = requests.post(
@@ -111,17 +149,20 @@ def _via_rules(raw_items):
     return rules_summarize(raw_items)
 
 
-# Ollama on CPU runs noticeably slower per item than the Claude CLI, so it
-# gets a smaller chunk size to stay well under its own (longer) timeout.
-OLLAMA_CHUNK_SIZE = 15
-CLAUDE_CHUNK_SIZE = 35
+# Small enough to stay comfortably under Groq's free-tier 6,000 tokens/minute
+# limit per request (a chunk this size runs ~1,500-2,000 tokens all in).
+CHUNK_SIZE = 8
 
 
 def _summarize_chunk(chunk, chunk_label):
     try:
+        return _via_groq(chunk)
+    except Exception as exc:
+        print(f"Groq summarize failed on {chunk_label} ({exc}), trying Ollama")
+    try:
         return _via_ollama(chunk)
     except Exception as exc:
-        print(f"Ollama summarize failed on {chunk_label} ({exc}), trying Claude CLI")
+        print(f"Ollama summarize also failed on {chunk_label} ({exc}), trying Claude CLI")
     try:
         return _via_claude(chunk)
     except Exception as exc:
@@ -135,8 +176,8 @@ def summarize(raw_items):
         return []
 
     results = []
-    for i in range(0, len(raw_items), OLLAMA_CHUNK_SIZE):
-        chunk = raw_items[i:i + OLLAMA_CHUNK_SIZE]
+    for i in range(0, len(raw_items), CHUNK_SIZE):
+        chunk = raw_items[i:i + CHUNK_SIZE]
         results.extend(_summarize_chunk(chunk, f"chunk {i}-{i + len(chunk)}"))
 
     return results
@@ -145,6 +186,6 @@ def summarize(raw_items):
 if __name__ == "__main__":
     sample = [{
         "source": "Test", "title": "Test headline", "summary": "Test summary",
-        "date": "Sep 10, 2026", "link": "https://example.com", "commodity": "coffee",
+        "date": "Sep 16, 2026", "link": "https://example.com", "commodity": "coffee",
     }]
     print(json.dumps(summarize(sample), indent=2))
