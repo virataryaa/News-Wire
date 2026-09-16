@@ -69,7 +69,7 @@ def _item_date(item):
 # the latest day's worth so a run stays quick; the rest just get picked up
 # whenever the source still lists them on a later run (most do, for a while).
 RECENCY_WINDOW = datetime.timedelta(hours=36)
-MAX_NEW_ITEMS_PER_RUN = 20
+MAX_NEW_ITEMS_PER_RUN = 50
 
 
 def _limit_to_latest_day(new_items, log):
