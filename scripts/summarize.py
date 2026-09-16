@@ -90,23 +90,53 @@ def _extract_items(text):
     return parsed["items"]
 
 
+GROQ_MAX_RETRIES = 5
+
+
 def _via_groq(raw_items):
     api_key = _load_env_var("GROQ_API_KEY")
     if not api_key:
         raise RuntimeError("GROQ_API_KEY not set (checked env and .env)")
 
-    from groq import Groq
+    import re as _re
+    import time as _time
+    from groq import Groq, RateLimitError
+
     client = Groq(api_key=api_key)
-    resp = client.chat.completions.create(
-        model=GROQ_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": "Input array:\n" + json.dumps(raw_items)},
-        ],
-        temperature=0.2,
-        response_format={"type": "json_object"},
-    )
-    return _extract_items(resp.choices[0].message.content)
+
+    for attempt in range(GROQ_MAX_RETRIES):
+        try:
+            resp = client.chat.completions.create(
+                model=GROQ_MODEL,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": "Input array:\n" + json.dumps(raw_items)},
+                ],
+                temperature=0.2,
+                response_format={"type": "json_object"},
+            )
+            return _extract_items(resp.choices[0].message.content)
+        except RateLimitError as exc:
+            # Free-tier per-minute limits are tight but reset fast (seconds,
+            # not minutes), a short wait-and-retry beats falling back to a
+            # slower/heavier tier for what's usually a transient hiccup.
+            retry_after = None
+            header_val = exc.response.headers.get("retry-after") if exc.response else None
+            if header_val:
+                try:
+                    retry_after = float(header_val)
+                except ValueError:
+                    pass
+            if retry_after is None:
+                match = _re.search(r"try again in ([\d.]+)s", str(exc))
+                retry_after = float(match.group(1)) if match else 10.0
+
+            wait = retry_after + 0.5
+            print(f"Groq rate-limited, waiting {wait:.1f}s and retrying "
+                  f"(attempt {attempt + 1}/{GROQ_MAX_RETRIES})")
+            _time.sleep(wait)
+
+    raise RuntimeError(f"Groq still rate-limited after {GROQ_MAX_RETRIES} retries")
 
 
 def _via_ollama(raw_items):
