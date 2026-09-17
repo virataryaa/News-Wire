@@ -1,6 +1,51 @@
 {
-  "run_date": "16 Sep 2026",
+  "run_date": "17 Sep 2026",
   "coffee": [
+    {
+      "source": "Vietnam.vn (via Google News)",
+      "summary": "Coffee prices fluctuate amid oversupply; Thailand faces potential US tariff risk.",
+      "detailed_summary": "Oversupply pressures coffee prices, while Thailand considers avoiding increased US tariffs that could affect its coffee exports.",
+      "relevance": "High",
+      "date": "Thu, 17 Sep 2026 04:44:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaU5HbFl4QnZxWldqVi1aZFhHbko4bTVzeXNyVXVpZlVMTW5ONm02bko1ZS16TlgtYnhYeFFoYzhaYjktSVBmZGlTSENxZmxfMGh6bXN5aVk3OGUxSjN0WXhRNGlkelFKUVNuT3hoRGpQQ3pNSGJ3dzg2RUVjQy02c19laW1Ob1NhQ1VaemxZVHhyNzE3X0xiVkdSQWNpQzNTaFc1bVN3eEFZcVJmMWtwelVRUUxRQk5xbmJyOG1yNVdXYnZESEhURkVsemtuZVd5Z0UtVzdUTXdBQVh3bFdrTmVR?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "stonex.com (via Google News)",
+      "summary": "Colombian coffee exporters urged to use Caribbean ports post-earthquake.",
+      "detailed_summary": "Colombian coffee exporters are advised to utilize Caribbean ports to aid in the recovery from recent earthquakes, affecting logistics.",
+      "relevance": "High",
+      "date": "Thu, 17 Sep 2026 00:27:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzBWMktlLWVqQUN3OEw1NTN0NnRVSkZWcENfMFRzUGQwclFaRXZWQXdMclN2N1NtWjIyNWpmajlvZDd2aDJvYXNKRURXM2hsZGFIejF6eVVPOE5MbnVxdkdHVDg4QzcxeW5WbG1pSzA0VHd4V2pjNFBKd0ctWEZOM19QQ1BnVjJBbXNJc2VEREpwQ3FRRWVPTkFJYkpybFBzbmczTGNPMEpvMmZZeHNzd2l6bDdzQ283?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Arabica coffee futures fell to a fresh 10-week low.",
+      "detailed_summary": "Arabica, the higher-grade washed bean that sets the ICE benchmark, is at its weakest in roughly two and a half months, with the word \"fresh\" implying successive lows.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 21:47:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iMGdBUmVMM2RPUXJDeWJLNzhfdkpVa3I4Wm9HYWNMbkc0cEZ3clNBeV84am1BTXlzMjFNcDIxNDUzOE1EZmtUR0tkd2JpdUxRYi1WXy1n0gFWQVVfeXFMT2IwZ0FSZUwzZE9RckN5Yks3OF92SlVrcjhab0dhY0xuRzRwRndyU0F5XzhqbUFNeXMyMU1wMjE0NTM4TURma1RHS2R3Yml1TFFiLVZfLWc?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "TradingView (via Google News)",
+      "summary": "Coffee prices decline due to supply.",
+      "detailed_summary": "Coffee prices are declining as global supplies show signs of improvement, affecting market sentiment.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 18:28:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGhPMk0zTURSMVJTUU1xRXFRaXlmcDNmVGpkOTA0cWNObU95Mjl0bnAtWkl3UXlWSW5aU1llNkhFYVhIWnA4cWQ1T2N2dko0SkNtbGNyQVNBYXJIbFU5UnNqTnQwWl8xYXk3ZWlQWlBzNENyMVBFcjF1R1RTZEk5SXo5b280TlRHRDdENkFkMlJUWTRySW9ZSDNaQmVkeVFQOXNjNURHbWNkRTlaazBBY0RBM0tOWXc?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Investing.com (via Google News)",
+      "summary": "Arabica coffee futures fell to a 10-week low on Brazilian weather and export flows.",
+      "detailed_summary": "Brazil is the largest arabica producer and exporter; its rainfall shapes flowering and the following crop, while shipment pace sets near-term availability of exportable supply.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 15:55:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmhUa2psSTE4SG1vaFRtX2U2cUdjSUJaTU5LVEE3dEIzdXhvSUJYRmFOczRjdDZ3S01WRnF4YkFwUHlxWTczelB5aHh3MzhSazlVRGY0cHlPaUw1bElTQl91V3UycmIwY0tZbUxiX0FhT3JwcXJxczdXUGlkcnZqZU9jVUJUdy1iR01fdHdDV0luQmZjZXNMa3VOY1dVLWJCRmdFMkR3U2pNc3ZNZ2JTWDhhUUQzaTJmYTVlMlZJaw?oc=5",
+      "commodity": "coffee"
+    },
     {
       "source": "stonex.com (via Google News)",
       "summary": "Logistics remain a major challenge for global coffee sector.",
@@ -1209,6 +1254,51 @@
   ],
   "cocoa": [
     {
+      "source": "NST Online (via Google News)",
+      "summary": "Mondelez strengthens Malaysia supply chain due to cocoa price surge.",
+      "detailed_summary": "Mondelez International is enhancing its supply chain in Malaysia to cope with rising cocoa prices, securing stable supply.",
+      "relevance": "High",
+      "date": "Thu, 17 Sep 2026 00:13:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNncybFdNZGw2Tk5HV1drbGZCN2N6UndnYm1DMlJPaEJ6Yjl4R0ljYURIc3VkWV8xTWtodnRhbmgyRzRKN0Z5d1JPR2RHVm5EeUVnSjVZNkdkeTlLNnliZDNSLXpGWU5HNXdSeGlRLWhBSE5YaUpObWZMMHhzdUJwYlBtRFBiMnp3SnhmRlBvZTBPVG51ZHlmbkpTUkhqT01hVUQ0dklLZFFQLXZHNDE1NzBaSzdWVFZa?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "CNBC Africa (via Google News)",
+      "summary": "Ghanaian cocoa buyers are chasing unpaid debts and warning of a funding gap ahead of the new season.",
+      "detailed_summary": "Reporting puts the amount owed to licensed buying companies near GH\u00a24 billion; these firms purchase beans from farmers on Cocobod financing in the world's second-largest cocoa producer.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 19:39:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOFpQUzBEdC14dzJjdFVaNHFJVEJ1Z1ZpM0t5WFg3YjloYXdQWFYtVDVPQW1QOTlTdUhhc3J6VDgzLWswcXJmY0hXQk1GVjBXQmFkdF83aEExS2k3MmNmRkVwZ0hZX1JFalpSUXdBOG0ycjdBOW1pbWxZSDRXQUdoUHdySW9TY2M3ZXNfWUJ2aDlVR2k5ZldwY2NTU2hqT2dwVktBSXc1WHM2RTQ?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "MyJoyOnline (via Google News)",
+      "summary": "Ghana is struggling to raise local funds for a delayed cocoa season as investors demand higher returns.",
+      "detailed_summary": "Ghana has leaned on domestic borrowing rather than offshore syndicated loans to finance crop purchases, so steeper yields demanded by local investors raise the cost of buying beans from farmers.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 19:31:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWF9PRDQxUHZ5M3dpN2pzOEp6RDFkRGwxVVF1VXctTDNEVUwtdTNRSWFWV21wZ3ItdEp3QTJjTVYyak0wZkNNVFZ1RHo3VHItS1pza2w3X0RWNlJDQUtuekVHZWMyc1hGUmJhNTZOMXBOa0ZhM19sVWJPV1c1c2NLWFFCYW5ETVBEZnpfVDRHQjdlbjc5ZWw2RFNSNllXM3AzcTlLcDlhTjZyZ3dkdVQ5S1JtX2NKZGNNcEJ6R2dpYzFURjQ?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "TradingView (via Google News)",
+      "summary": "Cocoa prices consolidate.",
+      "detailed_summary": "Cocoa prices are consolidating below their 11.5-month high levels, indicating a period of stability.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 18:29:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDlZZWtKM0dEVHJZbWlEb1F6MFJJeHp6UENZd1hWbmV1Tnc5X0RiMUhnMWY4Tk5PVXQ4bE5SaTk3LThtRElTTk9GQkxqLXhUeUozd21qUnBvQlJ1WDdrQjc4Y3lKZWZWQW5oMnUxenpyZjNPVnpnR2twUTBjbWlzOW9fS2hzNlpWTGM3UFFfcnFMT0tON3VTVFlkcUlZRmVCSEE2X0NIYlFDdw?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Modern Ghana (via Google News)",
+      "summary": "COCOBOD's GHS4\u202fbillion debt risks cutting financing for the 2026/27 cocoa season.",
+      "detailed_summary": "The Ghanaian cocoa board's debt of 4\u202fbillion Ghanaian cedis could limit its ability to fund the upcoming 2026/27 season, potentially reducing production and affecting market supply.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 15:10:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTGtfSmdaZlZ6RnoxVDd1X0J5bjcydXItS1Q3YXF3NENfNUhzaV9kVEdGbWF1dXY3QzlZWVVJMHdsSmhZRGhaaTRwTThHYjdHTXRxSEhqdVhSSVVwRS02VEtqRm3SAVxBVV95cUxQbTQ5RHVNbUhMR01iTy1wUG9tTjdnX3c2TGt2eEpxS2thTU1udFh0V2dYbEMwM0ZSVTFtM1dpM0FiNDFBbWh0NWJnTWlEMk1IRGhvSUNfZ0hYX1VlRg?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "Traders Union (via Google News)",
       "summary": "Chart-based note says cocoa support at $4,639 is under pressure.",
       "detailed_summary": "The cited level refers to dollar-quoted cocoa futures; the piece rests on technical levels rather than any change in origin supply or grind data.",
@@ -2158,6 +2248,123 @@
     }
   ],
   "sugar": [
+    {
+      "source": "Dawn (via Google News)",
+      "summary": "PSMA warns of sugar glut threatening crushing season.",
+      "detailed_summary": "PSMA warns that a sugar glut could disrupt the upcoming crushing season, impacting supply and demand dynamics.",
+      "relevance": "High",
+      "date": "Thu, 17 Sep 2026 02:04:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0VraXR1Rzd1dTlHcm52M3FDa2gxUTg2d29MM3NYdzlQN2M4QnVTNzFrc3FNYlRNeTg5Q3VybVFXczF6b1o3dGpXTXdEel9IdVh1WmxCbGl3eFdoa0lENm4xdW5zWXdTcFI2Y2xWeHpnMDBrN1VSTjhPaTBWQ0h0amVwN0tzVGZK0gFOQVVfeXFMT29DTmlPTkZkMVdKQnVEWVlVblk5Y1JWcEI4b3FiNjl3alYyY1cxOWJTMTZPNFNodF94WWtjWFVWZkRadFhVcmRieFRlc1hn?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Nigeria proposes sugar-sweetened beverage tax, impacting FMCG sector.",
+      "detailed_summary": "Nigeria's proposed tax on sugar-sweetened beverages may raise costs and affect the FMCG sector, influencing sugar demand.",
+      "relevance": "Medium",
+      "date": "September 17, 2026",
+      "link": "https://www.chinimandi.com/nigerias-proposed-sugar-sweetened-beverage-tax-could-raise-costs-squeeze-fmcg-sector/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Cane acreage in key UP districts fell 1.6%, potentially tightening 2026\u201127 sugar supply.",
+      "detailed_summary": "The decline follows a 2.3% drop in total UP acreage, raising concerns for the upcoming harvest season.",
+      "relevance": "High",
+      "date": "September 17, 2026",
+      "link": "https://www.chinimandi.com/1-6-fall-in-cane-acreage-across-major-up-sugar-districts-may-tighten-2026-27-supply/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Kenyan millers demand more control over import timing and volumes.",
+      "detailed_summary": "The request follows a 15% increase in imports last year, prompting concerns over domestic supply.",
+      "relevance": "High",
+      "date": "September 17, 2026",
+      "link": "https://www.chinimandi.com/kenya-sugar-millers-seek-greater-say-in-timing-and-volume-of-sugar-imports/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Indonesia plans 2\u202fmillion ha sugarcane expansion for E20 ethanol.",
+      "detailed_summary": "The expansion aims to boost domestic ethanol production, aligning with the country's renewable fuel targets.",
+      "relevance": "Medium",
+      "date": "September 17, 2026",
+      "link": "https://www.chinimandi.com/indonesia-targets-2-million-ha-sugarcane-plantation-to-support-e20-ethanol-programme/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "US ethanol exports hit record high, up 12% through June 2026.",
+      "detailed_summary": "The surge reflects growing global demand, with shipments reaching 1.2\u202fmillion barrels, the highest since 2019.",
+      "relevance": "High",
+      "date": "September 17, 2026",
+      "link": "https://www.chinimandi.com/us-ethanol-exports-hit-fresh-record-high-as-shipments-rise-12-through-june-2026-on-global-demand/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Free Press Journal (via Google News)",
+      "summary": "Uttar Pradesh reports 102 sugar mills have fully paid cane growers, with 94.86% of 2025-26 dues cleared.",
+      "detailed_summary": "Uttar Pradesh is India's largest cane-growing state, and mill arrears to farmers shape grower cash flow and planting decisions; the figures cover the 2025-26 crushing season.",
+      "relevance": "Medium",
+      "date": "Wed, 16 Sep 2026 21:37:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN2J2WnZEVUQ3c2RjZDlGTW15Z3RGbGhGanBkUXRadnJLN1lhSXlNWXFUUnpZWVI4LXd5LW1aSzB4eDhXRmlVeXRVbElkdTFEOUhfY19oWFVHek9iNlJCM3RZa2JoaUVQU2c4bW0wc1AzWWlza3lDYzhUTWNiZnM5TXBYNThaNktXNmVPLVprY2NrcmR6NDBhaG9pdndHQ3E4bDA3dzBxQ2NFT2VlR1JmcXctcXA5SjRZOEVKRUlsM1E1b1lwTTh2QU1QMXp3WnhVdWJidWEwWXZNd9IB3wFBVV95cUxPTy1sX1B5UV9sU1RRTjNtY2wwZUhNV3VMR3JyUjBTN00wYVdJUWlrM3FlcUE4QXN4X2tYa2NBUzdySmRSWm5XRmNwWVdleHNPSHU5TTl0RktDT1oxZzlKU3J5WjZWX3dpSU9CdkFnV1FjSHZRYTNDV1ltSU9hMzJKVWlpYUVlNk1seThqM1FVWFZxRldIOUx1NTZLcXNhODk1UFo2MEpWVDFCdnF1U0V5WXlLVWE3ekFCcWhyd2pqRGZ2cE1EaWRaaHpOLVVuR0FPdFhibG9ySkNuTC1SZThJ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Express Tribune (via Google News)",
+      "summary": "Pakistani sugar millers are seeking approval to export one million tonnes.",
+      "detailed_summary": "Export permissions in Pakistan are a government decision, and a million tonnes would be a substantial outward flow from a market that has typically channelled output to domestic consumption.",
+      "relevance": "Medium",
+      "date": "Wed, 16 Sep 2026 21:12:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZS1OUVNydUxfbmR4Q2NiSmx1bU9RX2xBbm43Ym44SUo2cWdSVWRXQU9EWHd5dUlfNDFWNHRMb3hPLXVTcjc4LVg0TWRCSk41LVlrZ1M5VGcwZkJSNk52Mm8yLVNLM3FNb09OSlNacl9vWmNFWTh5VDNqU3ZHWEptYzd3cTLSAYwBQVVfeXFMTUJzclhHSzU4WFBUZ1JHWEpHaGZrOV9pMDRMUDdTaXdqamdXMnBxd1V3RlM3TEs3NVZWa0lLUnllLU40NzBJQUNvUGh3bnNIMlY5bXljTVpUTmg5Y2l5U2paZjNSMXEtUlpDWm1FV2hoVlFzdURfdEszUEZ5MnVtZS0xc01keHVlYmloUjI?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The News Pakistan (via Google News)",
+      "summary": "Sugar mills may delay crushing.",
+      "detailed_summary": "Sugar mills in Pakistan hint at a potential delay in the crushing season, impacting sugar production timelines.",
+      "relevance": "Medium",
+      "date": "Wed, 16 Sep 2026 19:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lSDQwVUdkdThyZDVlMlpzbWN5NjE4RjJURUg2bVdmbFFtcWcwbndxS3ppZnZtc0lKLVBKRi1yYlE4XzFiNklJaGRjamYzT1lsUEQ1NXZfWXZLbDVTMVlWc2FvQS05LWJJYmw0Ri1SamZGU0doazRKN0pkb2lONWM?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Whalesbook (via Google News)",
+      "summary": "Uttar Pradesh cane acreage is down 1.6%, putting the state's sugar output at risk.",
+      "detailed_summary": "Uttar Pradesh is India's largest cane-growing state, so acreage shifts there feed directly into national production totals and the volume available for ethanol diversion or export.",
+      "relevance": "Medium",
+      "date": "Wed, 16 Sep 2026 16:50:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRVE5RXNqUk5VRDJMMldlSnV5aUlWVGMxMkNoeGFGbWRFa1pERkNRMDZYWnUxSWV4bzh3QlJ6SGEyakhlbi1zOFJ2NTZPTzU0ekVtV0l5d0ZHOG4xV3hsNTBJNlpOS09XMENWVHhGNjk4M1hScGFsR29FVkljQ1hRQmxTaklLTF9LRlhxMzZuSml0djJIQUUxZExzYWNxcG9BOTRiZUQ2QmNxUy1UWUNZdENsNXc3Q2NIVk9xUE9JMFNSNlMxYWRCN2RtMUJMT0JWRERpRDVtOUY?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "| Associated Press Of Pakistan (via Google News)",
+      "summary": "The Pakistan Sugar Mills Association is demanding approval to export 1.25 million tonnes of sugar.",
+      "detailed_summary": "Pakistan is a swing participant in world sugar trade whose shipments require government clearance; mill bodies typically press for export permission when domestic stocks exceed local consumption needs.",
+      "relevance": "Medium",
+      "date": "Wed, 16 Sep 2026 16:23:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XZXdEdVlWa0ZUd0lSUHVOLUxMSXNuOF9Ha0dWMmRFX2xMaTdkOFFRclVHX0RRcVItUndkeURzZTRKeEhPaWZ0UmlNempHNXNmNzJGUlViNUtIaURWRHJoTGtubmJfcENfb1FlQkpsSWZwVWl3dXFuaHRETQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "inkl (via Google News)",
+      "summary": "Sugar prices came under pressure as demand indicators softened.",
+      "detailed_summary": "The move is being driven by consumption-side signals rather than supply news; sugar demand is read through refiner buying, importer tenders and physical market premiums.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 16:17:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14NVd3WWZBM1pPaTY0U1FxaFlFbWhhdy1YaUJqUnR3QXVSTkRfRWYydVJxY1YybkczM3ZhWkE3VGNjcTI3cURyUVJLd2EzWVlhbE11NGlYZlFwcUN4NTdYRm9zbEhLeTdsNGY5bU5tY3FpWkRPNnlV?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "VOI.ID (via Google News)",
+      "summary": "Indonesia's government will rely on sugarcane for E20 ethanol, sidelining corn and cassava.",
+      "detailed_summary": "The policy shift prioritizes sugarcane as the main feedstock for E20 ethanol, potentially boosting domestic sugarcane demand and influencing sugar market dynamics.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 15:10:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JaXZYakEwNElNamJxUjVOTnRtNVBmZ25neHlHd0wzNEdnRnl6UXlTYkZWcFJLMmkyUWFsaDdmSTVXbkFRWVFN0gFCQVVfeXFMTTdVSGJDd2czend1am52ZU44elUzNkVfcE9nM182aEFnS3Uxb0JzNEJ3dWg1OERFVW0zZFR4NDZFNXdn?oc=5",
+      "commodity": "sugar"
+    },
     {
       "source": "Profit by Pakistan Today (via Google News)",
       "summary": "Pakistan sugar mills ordered to pay cane growers promptly.",
@@ -4066,6 +4273,69 @@
     }
   ],
   "cotton": [
+    {
+      "source": "menafn.com (via Google News)",
+      "summary": "India revamps cotton testing labs to support its push for a global cotton and textile hub.",
+      "detailed_summary": "The overhaul of testing facilities aims to improve quality standards for cotton exports, aligning with India's strategy to become a global textile hub.",
+      "relevance": "Medium",
+      "date": "Thu, 17 Sep 2026 06:00:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFhXZnNqWUtIZzJQN2xYMjVuLW44d3o2RnI4RzU0a0N3WXozSURINkdJY2ZXMGJSdU83cmR5cm9tOVoyekhqekRsM0JqQlZuYzM1bmR1dFZydzAwemlFb1dmTzFmY3JQUmdHc3YtNzcycjEwSUFEQTRMSHNuMEtnVG1nOUlsY0l4cy1wN0pkQ2EyVEFLTlNUZGVzR3RydW5vS0NPTGJpTkU3N3RnbFVFZG1BOA?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "| Associated Press Of Pakistan (via Google News)",
+      "summary": "Pakistan shifts cotton revival focus from labs to fields, emphasizing seed quality.",
+      "detailed_summary": "The move highlights the importance of seed quality in boosting cotton yields and export competitiveness in Pakistan's cotton sector.",
+      "relevance": "Medium",
+      "date": "Thu, 17 Sep 2026 05:28:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObVI1TjNIZW5uT2FZVC1VTk9BNllVR29kNFhpQTkwR1NQaDBPM0JxWDYxSTRocFZsY19ma0s1VTg2bVpUbHN2Z0h4cG9YR3FBcm9TaE9LSjMtaC1mcDhMSzZjaWx0SDZ0blhaNEkxcG04a0YyamxhOUpKM1ItV0ZVTXhmV1VmNF9yVE1OSGwyRnROV0pyWWZpYmFXeENCZS1zdU1qQ2pMTVNRbVFJSWp1ZlJJOFlvVHhDS1JOUTNmWE1SbkhkMjg4ZDhpYnA?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "IndexBox (via Google News)",
+      "summary": "USDA reports on cotton crop progress.",
+      "detailed_summary": "USDA Crop Progress Report indicates current conditions for cotton, alongside corn and soybeans, as of September 14, 2026.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 19:20:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNklKNFduV2tjOW82UmJiZUJCVENITkhMRTZqYVdoNGZLSzZPME5walJHSjRfd2RtbThTWVdLeS1pLUEtMkpYRVIyU2J2cVdUbm5OVjNtWnVtdjBOMjgzRDZWNWNRNWwtNVFxcS1lX1F5cmc5ZGc1N3pnVWZ4NndHNDQ2WTQ?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "TradingView (via Google News)",
+      "summary": "Cotton sees mixed trading.",
+      "detailed_summary": "Cotton prices are experiencing mixed trading on Wednesday, reflecting varied market conditions.",
+      "relevance": "High",
+      "date": "Wed, 16 Sep 2026 17:28:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXVZX0RjbEdRNlNVUUNRRy1meFJOcGtLdHVPM1o5aURWSWhhY1BOUGNWMHowQU8tZUIyRGdqdDhBMi1NTFFkOTRySmRqYzZWNFF3eEplNDJpMHEzYmJRYnIzQ2tmWDU2SFR0TkhGdzVLSTd0SkZQdFRTRENqZWg4dVRodkFLQlBySzVZc1pJWUJoZm5QZVRLN2RWUQ?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Profit by Pakistan Today (via Google News)",
+      "summary": "APTMA seeks a controlling role in Pakistan's cotton research committee as the government considers raising the cotton cess.",
+      "detailed_summary": "The cess is a levy on cotton that funds crop research; APTMA represents Pakistan's spinning mills, among the largest buyers of both domestic lint and imported cotton.",
+      "relevance": "Low",
+      "date": "Wed, 16 Sep 2026 17:19:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmMwTUVYWXZPUzl6bjVDWkt6QjRoVzRZdW0zNG44MWF5c05FSlFEMFR1SEFRaG1SMFpUb3ZoUndvcWJZQ1F4c1lLbUM5RmJqdGFJVHl2VDNVWDJMV2dsRTE4QXltNVl0Y21XMHlNeHVtcFdLQ0MxdDVJS1dnTnFKSE9STjJLMFlkZHFJdkVQZzlpdk82cVI5c0w0WFdEWUxrSWlQT2VjTzJzN3lPY1AwOGNrQWpqcUN3YUdMcUpxbkRwNlNS?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Oklahoma Farm Report (via Google News)",
+      "summary": "Oklahoma cotton is under heat and drought stress with pest pressure emerging, per an update from Jenny Dudak.",
+      "detailed_summary": "Late-season heat and moisture deficits can reduce boll retention and fiber quality; Oklahoma is a secondary US cotton state bordering the much larger Texas High Plains belt.",
+      "relevance": "Medium",
+      "date": "Wed, 16 Sep 2026 16:10:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTkVWLW1DOVphSWlKT3djdnZDTFdkam50dlV3LUxtUFotSXZEWW9LNEhHdktoNHhTeWd2NHBMalh1NkhkajBTeEV6Q1Q2WmEyWllxazdmOEdsajNpM3VfTS03S0NQNjRKLTZ2UFFPQllzbUw3cUI5Qi1jUlJXSm1uaEFzM3Y2Ykg2Y3UxNENQYnpSZ1NHeUREN21OT0hJTjRkV0pyYXR1OWVZTTBhM1pieGhTZWVJTnMwWEwxTkRkLWk0ZXR1eFpwYnBQRVJxU0xvbFdyMEZOdw?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "thechiefleader.com (via Google News)",
+      "summary": "Benin is investing in domestic textile manufacturing to turn its cotton crop into finished clothing at home.",
+      "detailed_summary": "Benin ranks among Africa's leading cotton producers and has historically exported nearly all of its lint unprocessed; local spinning retains volume that would otherwise reach world markets.",
+      "relevance": "Low",
+      "date": "Wed, 16 Sep 2026 15:52:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTJXeERjcUJhaFFzdzBfSjhzSnNkVU5lbU5Fam1iSFNuQTIzSV8wTmN0SmdKQ1lnc0JhQ09QaFpoaDZlcWYydzFZaWVsR3V4c01vNzV1TXAtSy1TSXkxWEdBT0RCMjJZSGotYmJUejYyOVJSeHRwNUREVFo3QVFISTJlaHFWLVZ0N2hyaW1UeFpES0FCZGc2eUlGc2E0UTQ?oc=5",
+      "commodity": "cotton"
+    },
     {
       "source": "Fibre2Fashion (via Google News)",
       "summary": "ICE cotton futures fall further amid weak demand and seasonal pressure.",
