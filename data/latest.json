@@ -1,6 +1,33 @@
 {
-  "run_date": "21 Sep 2026",
+  "run_date": "22 Sep 2026",
   "coffee": [
+    {
+      "source": "ESM Magazine (via Google News)",
+      "summary": "Brazil coffee early flowering may signal an early crop.",
+      "detailed_summary": "Early flowering of Brazilian coffee plants suggests the 2026 crop could mature sooner than usual, potentially affecting supply timelines.",
+      "relevance": "Medium",
+      "date": "Tue, 22 Sep 2026 06:30:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ21SSW0zbzh5UVBqZEpaVFYwcVdJZnpwU0VNNXV0akR4Wnh0aGRQeVV6NTBMUGh4Sm9lS1RXb0duQ0I0bU5hSmE1eXNsellla0loUUd2bWhZQUlZUC1DVllKdFhQdFhVeXFIREt3ai1HWXNUcmt4VjRQREFrSzFxUEtNYUpoOV9KdHI0UjZ6R2VuWDZaR0t6TFhaTlF5M2VRcTB1MkZoT3c?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Colombian premium coffee beans arriving in the U.S. market.",
+      "detailed_summary": "Colombian premium coffee beans are scheduled to enter the U.S. market, potentially influencing domestic coffee supply and pricing dynamics.",
+      "relevance": "High",
+      "date": "Mon, 21 Sep 2026 21:51:41 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzFLSWk2RUI0Rm9uVnNzNVMteC04SXYtQzl6dlpTcGU2d1pISEI5N3l3VU5TSG1Qb29vaHlLbDRRNDN4TE9HdEQ1UHl0QzBwTFJrODJSTF9pRGVkc2xFNkd2SmFsMHhLUm1TblBxcGtKcjUtWEVzU1ZDd3dEelhyQlBDODFmRFJuaGduc0o2WTNiX2JROG5EZHNDMnNaWlVsUGc?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Brazil rain and excess supply are pushing coffee prices lower.",
+      "detailed_summary": "Heavy rains in Brazil's key coffee-growing regions and a larger-than-expected supply are weighing on global coffee prices, according to Barchart.com.",
+      "relevance": "High",
+      "date": "Mon, 21 Sep 2026 15:45:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3RsYUJaM3NreTZxN2IzZ1ZmTldxdVlvcHZLM21nb1FuSGFuaE1MVng0Yldha3gtTnBlNVFjMmJ0M0prV1U3S25mM2Mtc1FOM0IwaTJiTnRtMUh6eGpQc2h1YWZOMVdWMVltbndKMkoxb0VRUy1DN01HRUwyTkZ0anNGUy1hdFliUkNsYU5LQm11TXA4ZkJ2ZkJSa0dDeldKUUJZ?oc=5",
+      "commodity": "coffee"
+    },
     {
       "source": "Vietnam.vn (via Google News)",
       "summary": "Domestic coffee prices move against global trends, market under pressure.",
@@ -1251,15 +1278,6 @@
       "detailed_summary": "Greater local processing would gradually shift Uganda's export mix away from green beans, though any change to exportable supply is a multi-year effect."
     },
     {
-      "source": "Coffee Geography",
-      "summary": "Nestl\u00e9 is investing more than $619 million to expand Nescaf\u00e9 production capacity in Thailand.",
-      "detailed_summary": "Added soluble-coffee capacity in Asia signals sustained manufacturer demand for the robusta-heavy grind that feeds instant production.",
-      "relevance": "Low",
-      "date": "21 Jul 2026",
-      "link": "https://coffeegeography.com/2026/07/21/nestle-expands-nescafe-production-with-more-than-619-million-investment-in-thailand",
-      "commodity": "coffee"
-    },
-    {
       "source": "Cecafe",
       "summary": "Brazil exported 3.03 million bags of coffee in July, up 9.9% year on year.",
       "relevance": "High",
@@ -1267,6 +1285,15 @@
       "link": "https://www.cecafe.com.br/en/publications/monthly-exports-report/",
       "commodity": "coffee",
       "detailed_summary": "Export revenue fell 13.2% to $903.9 million despite the larger volume, implying materially lower realised prices than a year earlier."
+    },
+    {
+      "source": "Coffee Geography",
+      "summary": "Nestl\u00e9 is investing more than $619 million to expand Nescaf\u00e9 production capacity in Thailand.",
+      "detailed_summary": "Added soluble-coffee capacity in Asia signals sustained manufacturer demand for the robusta-heavy grind that feeds instant production.",
+      "relevance": "Low",
+      "date": "21 Jul 2026",
+      "link": "https://coffeegeography.com/2026/07/21/nestle-expands-nescafe-production-with-more-than-619-million-investment-in-thailand",
+      "commodity": "coffee"
     },
     {
       "source": "Hedgepoint",
@@ -2346,6 +2373,69 @@
     }
   ],
   "sugar": [
+    {
+      "source": "ChiniMandi (via Google News)",
+      "summary": "South African sugar sales fall as buyers allegedly ignore local sourcing pact.",
+      "detailed_summary": "South African sugar industry reports declining sales after buyers allegedly flouted a local sourcing agreement, potentially impacting domestic market dynamics.",
+      "relevance": "High",
+      "date": "Tue, 22 Sep 2026 07:14:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGt3RTJwRi1QSWxMWE8wSERZSjN6Q2hrRTQ2MVJmRzVxMXZBd3pua3pZaTdkTUhuT3RabU13T2NzVzE4c2cyVkk1aEpXZ29CeVhjSHlzNF85blV1cDZKMTZYY181b3lKN1I0bWpteEM5VVhrdlBlZHVnMXVtOVFpRnZtU0Fzc0Z4M1hOeVRQajdJRnBTMW1hNWFFbmZ5NFdabHJFUmpOczZ3bDQyUHNQRVZUVHUzbVZqMVA3SXZzcw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "studycafe.in (via Google News)",
+      "summary": "India\u2019s DGFT bans sugar exports until September 2026, moving from restricted to prohibited status.",
+      "detailed_summary": "The ban, effective until September 2026, replaces a previous restricted export regime, tightening India\u2019s sugar export controls and potentially tightening global supply.",
+      "relevance": "High",
+      "date": "Tue, 22 Sep 2026 03:05:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWJxRjVhUkpQeExrWWlERDFpUUNtdWNnWEQydlFHQ1ZZXzBTbklLSnZWRlZkRHJNQ3BjVmlqbDNmblJXTjlOejBOS05qR3BJWHhTcmctNThmaEhaRkJkNTZrQnVXZXdZeURKX0NsX3VFdFh1NkE1UXlRbEdjV1kxVE5WRDdGc0VJT19uV3ljNjRjaVNJTTdmbGVwS3BpS280c3MzYjhqT1NybjR4d296OEVCdm1LNVJqVlBTc0d3?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "UP excise exports up 45.4%, boosting sugarcane export chain.",
+      "detailed_summary": "The rise reflects higher demand from downstream sugar mills and may influence export volumes for the season.",
+      "relevance": "Medium",
+      "date": "September 22, 2026",
+      "link": "https://www.chinimandi.com/up-excise-exports-rise-45-4-strengthening-sugarcane-linked-export-chain/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Fiji\u2019s Sugar Research Institute names Shalendra Prasad as CEO.",
+      "detailed_summary": "Prasad will oversee research initiatives aimed at improving sugarcane yields and processing efficiency in Fiji.",
+      "relevance": "Low",
+      "date": "September 22, 2026",
+      "link": "https://www.chinimandi.com/shalendra-prasad-appointed-ceo-of-fijis-sugar-research-institute/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Pakistan may keep sugarcane price deregulated for third year.",
+      "detailed_summary": "The decision follows a push to deregulate and could affect domestic sugar pricing and export competitiveness.",
+      "relevance": "Medium",
+      "date": "September 22, 2026",
+      "link": "https://www.chinimandi.com/pakistan-may-not-fix-sugarcane-price-for-third-consecutive-year-amid-deregulation-push/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "DatamarNews (via Google News)",
+      "summary": "Raw sugar prices reach highest since March 2025 due to India demand and Brazil delays.",
+      "detailed_summary": "India\u2019s increased demand and Brazil\u2019s production delays have pushed prices up, marking a significant rise in the global market.",
+      "relevance": "High",
+      "date": "Mon, 21 Sep 2026 22:11:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZG9NQnhaQWE0c01Dc0V6UnVITEtidWhvRFFrOHYybXozdy1VZUppU0NTbTVOXzFIRTFFSFQ0TU1aTlkwSTNSRTdYaGVDM1J6dnktbXFUTmEzanlIM3dweFpoU1FCWTQ1bTNDZ3RiNnpfc1ZxdGNIQlh2RVAwQ29RRjF1QVF0Zk1jTlpXcS1UZHozQ3RMSURJNXZvemsxdjJ2MWZ1R3NITkt4VTRSbnc?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Gallinews (via Google News)",
+      "summary": "Sugar mill protest in Chhata may affect local sugar supply.",
+      "detailed_summary": "Farmers in Mathura protested against a 200 crore ethanol plant, demanding the reopening of the Chhata sugar mill, which could impact regional sugar output.",
+      "relevance": "Medium",
+      "date": "Mon, 21 Sep 2026 15:14:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUU1wRHZTZkhZbV9XRF9EY1luSEF0OXBoU1YyU2p2M1d3VmdRUXRjMzJFOU9yZjRFcmNXRXF3S1UtcjJxRV9MWnQ0Z3J3NkQtM0QwUDc4UU93cEI3OV9lMFN4aTIxTDFmVEtGc09wTEJZRW80em1fSkRSZ1pMaXhDTkdIVGFjbk00aERmdmJPRWh2WTBmekxlQUVaLXg2UWJhMVozRGw1eHdyS1N5NnROaVA5TXlBMkNteUNyb3NhemNxdjJRemVRa0ZQdFRPOFRVV1Y5Zjc4VzY?oc=5",
+      "commodity": "sugar"
+    },
     {
       "source": "Moneycontrol.com (via Google News)",
       "summary": "FSSAI to introduce warning labels on high\u2011fat, salt, and sugar foods, tightening e\u2011commerce scrutiny.",
@@ -4522,6 +4612,42 @@
     }
   ],
   "cotton": [
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Cotton futures rally ahead of Trump/Xi meeting.",
+      "detailed_summary": "The rally reflects market anticipation of potential policy discussions between the U.S. and China that could impact cotton trade flows.",
+      "relevance": "Medium",
+      "date": "Mon, 21 Sep 2026 21:57:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUVZbnVSWlQyalpnOTBrLTFUT3l1MmNram52b1duZVBOMVJHM3ktR3FNRUpkbDNOQjdlV2NLOWdhUXRBXzlSd2JyZ3JOQVJwUG9rWTI3bXlsTjBZOEVwZ3V3YzRkRXpmOFZpLU5yR21hRXRfVnR4aWZMVmRKa2VBbEZSQzRRVC1KT1NJMk5jaUNrUVdGUExrdy1n?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Brownfield Ag News (via Google News)",
+      "summary": "China's agricultural purchase commitment unclear amid U.S. talks.",
+      "detailed_summary": "The lack of clarity could affect commodity demand, especially cotton, as China is a major importer during U.S. trade negotiations.",
+      "relevance": "Medium",
+      "date": "Mon, 21 Sep 2026 17:36:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzU1VXllQ082d3hMRjl1SDk2bEdkb0ZaWU0tSVNteUtzOGs0UXBjSzhYV3lGUDlEZVQzMHB6cmQ0WWNMX3hEV0R0bjJtNWZ5Z0s5SjN1UUl3RzZtcm9OVHZWdVpibXdzZ3phSFNLQzFhU0NXaHF3cFlzVDRSYnhKTjRXMnM0MDZPcWxUal9DcERFN0w5U2ZYenNCWnpxR2c?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "RFD-TV (via Google News)",
+      "summary": "Oklahoma cotton crop is declining due to drought and extreme heat.",
+      "detailed_summary": "Oklahoma's cotton acreage and yields are falling as prolonged drought and record heat damage the crop, per RFD-TV's Harvest26 report.",
+      "relevance": "High",
+      "date": "Mon, 21 Sep 2026 15:40:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXQtVkJ3aHg4dk9PQjYzdUVXZGZYNFp1aHdTbWIxbHFubkQ5cVNhRVFmanc1NmtwQUZ3X3UwbmJBVWViemJXSy1RYXlMNzNHNnhXN0tPS3VVMEF0WjA5TWEzSUdKWVFfX3dubkUycmRRblBja2ZKS1BmUFpSM0k3ZVRIVnVGSmliaTFTOVlzSl92a3Z5dFRQeDY5Vnc?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "RFD-TV (via Google News)",
+      "summary": "Weekly crop progress and livestock production update released on September 21, 2026, covering cotton.",
+      "detailed_summary": "The update includes U.S. cotton crop progress, livestock production data, and other agricultural statistics.",
+      "relevance": "Medium",
+      "date": "Mon, 21 Sep 2026 14:35:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnh0MWlsZEItdzJJb1U0am5Db0dnOHg4MUpFZ21pbHNVbVROemdTSlIwcW5ST3hQd3NzSnZraWwxSy1CaTVOZnNvSnZnLTRwZFBQcldhc09uTmxtS0pXUmJSSzhlWjg0OWJmSkVwQzl6U1diX2FkZlB2Tkktd09yMTRnal9abnFvTXJQVDVXZGlOOXVrc1liRmh1Wmt6aFFHU0xKSw?oc=5",
+      "commodity": "cotton"
+    },
     {
       "source": "AG INFORMATION NETWORK OF THE WEST (via Google News)",
       "summary": "Cotton and peanuts experiencing price squeeze.",
