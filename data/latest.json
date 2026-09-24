@@ -1,6 +1,51 @@
 {
-  "run_date": "22 Sep 2026",
+  "run_date": "24 Sep 2026",
   "coffee": [
+    {
+      "source": "Business Recorder (via Google News)",
+      "summary": "Arabica coffee prices hit three-month low.",
+      "detailed_summary": "Arabica coffee prices fell to their lowest point in three months, with sugar and cocoa also experiencing declines.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 00:47:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52Y2VvM1l5dW5pWU1yWVdJbzR3VTB4NFBBQUgwalppNTN6UXpLT0FlMkM0VmpSOUtfbmtUV01lNF9JNUJSN0N4UDFYMXpQbE5vdml5ekhR0gFWQVVfeXFMTnZjZW8zWXl1bmlZTXJZV0lvNHdVMHg0UEFBSDBqWmk1M3pRektPQWUyQzRWalI5S19ua1RXTWU0X0k1QlI3Q3hQMVgxelBsTm92aXl6SFE?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "DatamarNews (via Google News)",
+      "summary": "Coffee exports through Port of Vit\u00f3ria hit record levels due to conilon shipments surge.",
+      "detailed_summary": "Coffee exports through the Port of Vit\u00f3ria in Brazil hit record levels, driven by a surge in conilon shipments, indicating strong demand for robusta coffee.",
+      "relevance": "High",
+      "date": "Wed, 23 Sep 2026 21:15:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSV8xS3Myb0Z3LU5Oa3dha3psMzQ5Y0pEUWduaW91TmVXeVctZkNxTUo3d05pVHUyWndXYjVJU0VxVWFMSjFteDROWmhteWlub1VJakVBODdrWVc0N0RoTHZrLV93UW9lRHZRN181VlN2bk9JUnBmVjFabGtubjNIczBFeDg1bWJS?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "TradingView (via Google News)",
+      "summary": "Coffee futures closed higher as funds covered short positions.",
+      "detailed_summary": "Funds covering short positions pushed coffee futures up, reflecting increased demand from institutional traders.",
+      "relevance": "High",
+      "date": "Wed, 23 Sep 2026 18:30:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0Q2N3J5NVN5MjhxWm9aZGNjb3paRGhtZVRrbkMzTEJvdkpfOVpwdWctWjkyejluZVd5SktMNkY2WXdQYWNkX3JzRFE3NC1jSUpZZExMN3BlLW1tTjJPSENwcDlLYk45UEJBVXMydmZqRkhEMG9QNDg1WUpacjU1Q2h3TEdodFNuaC1qa2NvaFl3bVQwUm5EckJmeGxXc281Tk9KM2JqSWVTTHZSdXc?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "The AgriBiz (via Google News)",
+      "summary": "Brazilian coffee consumption rises while retail prices fall, per Abic.",
+      "detailed_summary": "Abic reports higher domestic coffee consumption in Brazil amid falling retail prices, indicating stronger local demand.",
+      "relevance": "Medium",
+      "date": "Wed, 23 Sep 2026 18:23:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOHdiYXVQUncxTFF0YTNwZXJoQmRmUzFEUldEa0lWZE50bWZMTzZTeDREWFhyLWxHTlhZZVhZVGhWeU0zQ1NyREpWcHZmOFFKN2YzMG9OWWw4STY0Z05rNzV3bEhPdGNFeUY4aVhNcXFYcG14NUpGSjUwZncwQ0lQemx1eXRnQ0JjQlNEcTBsdE0yVjNLUHFPaUhrMXNpQTFaTXVkcnRnejI?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "The AgriBiz (via Google News)",
+      "summary": "Robusta coffee gains foothold in Brazil's specialty market.",
+      "detailed_summary": "Robusta beans are increasingly used in Brazil's specialty coffee segment, challenging traditional arabica dominance.",
+      "relevance": "Medium",
+      "date": "Wed, 23 Sep 2026 18:15:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHhQMDQ3cU93bmxIbjZjd2Utb0x1OHhKODV3TS1KWGlEZHotbXp5enprYm1ZRWJmZXZtMVFZV2dNeTN4ODNTV2c5NTNyN0M5LVMyRjlJT19oYl9sLXNnbXVyeE9pdFhxQzhyUU5mU0VLR29CdWZkS3ZVUUE1dVc2S2s0Mm0zanZuWlBETzh4ZWNMQV9ZZzNHTg?oc=5",
+      "commodity": "coffee"
+    },
     {
       "source": "ESM Magazine (via Google News)",
       "summary": "Brazil coffee early flowering may signal an early crop.",
@@ -1352,6 +1397,24 @@
   ],
   "cocoa": [
     {
+      "source": "africa.businessinsider.com (via Google News)",
+      "summary": "Second\u2011largest cocoa producer seeks $1.4\u202fbillion domestically after long\u2011running foreign loan model collapses.",
+      "detailed_summary": "The country is looking to raise the funds internally following the collapse of a 30\u2011year foreign loan scheme that had financed cocoa production.",
+      "relevance": "Medium",
+      "date": "Thu, 24 Sep 2026 07:18:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQUwxTGtYQUdCYWxCSm8xSkxBc09rcVJxcnlXeUJJOUlCSGluUEphYkhSTDd6T1JpWWxOX2cxRFlJbEdNZ2Q4UEV2Um0xTjJJVEI4UEtFVEZaWlRQR3FpWHQyVVNKQnhoYXVheHZPN1ZaUGw0M0RZakdMN1NaOHZabkRmb1Rvb2c2MFFZWVZSNXc5a20yN01PSGNYNjVPTWRDLW9sZTFDLS1IZUtNdnh6aW9ZdkNndTJncnJFZlZFUm5jZFpRdjRtWmNFbkt6LU9WN3c?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Cocoa Prices Sharply Higher on Tepid Rains in the Ivory Coast.",
+      "detailed_summary": "Cocoa prices have risen sharply due to tepid rains in the Ivory Coast, affecting the quality and yield of cocoa beans.",
+      "relevance": "High",
+      "date": "Wed, 23 Sep 2026 18:31:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXzZBQUdHWXA4OU9xRmlHaG9YYkpXb042TzBzS01Wb2xzWXNHeUlmWGx1dEZ2dDVhYUlVazBmT1ZRYmlUN1BFMDBjUDEzS2hyR0FueksxdDFqRC1SN3lhYjU5LTZ0MmdWR1pfdGE0d2pBWERJbXNxX3lCc3RsSDRXRGJLanZwdkR0VmkxbVo2aVdMbE5helRQbk03cTJQNDdXTFBQSWZ4ZGg?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "MyJoyOnline (via Google News)",
       "summary": "Afarinick and Meiji strengthen partnership to promote sustainable cocoa production.",
       "detailed_summary": "The collaboration aims to expand sustainable cocoa cultivation, likely involving joint research and supply chain initiatives, potentially impacting cocoa supply in key producing regions.",
@@ -2373,6 +2436,96 @@
     }
   ],
   "sugar": [
+    {
+      "source": "Manila Bulletin (via Google News)",
+      "summary": "Philippines gains 9,151\u2011MT additional US sugar export quota.",
+      "detailed_summary": "The Philippines has secured an extra 9,151 metric tons of US export quota, boosting its sugar export capacity.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 06:23:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbURyYTdFN1I2Y3IwM1RjZDRPcHJLS3NaVnhDWHVVUHpTc3MzenZzSHFOZW90d0thVUJCMV9xdWl6MDRPSE5nNEZQcXZ1c09CYzYtbG9zbnBYN0x0RWsyMXJpeHg4YjlldTBSRl9aRmZMUXJqUk9ZTl9OaHd2QTlkazY3emdXRUZmUEVxaVExYVlzNDg?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Economic Times (via Google News)",
+      "summary": "Transport minister Nitin Gadkari says plain sugar's future is not bright after E20; he wants sugar mills to ...",
+      "detailed_summary": "The statement was made by India's transport minister, indicating concerns about the future of plain sugar following the E20 policy.",
+      "relevance": "Medium",
+      "date": "Thu, 24 Sep 2026 03:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOM244YlZsbXQxRmlsb09jWk1HZDdGNkJnaGFuYi1hRTN2ZW1VaWVkZmRYb1BJZlRyRno2NVVsUXg2X0x4Zzc2SHNITFNncXgzYXpocElfdnREcDllVFpvYkZSNndOQzdFWjVsVmZhYmRBQURkNl9sMzRrTlBIaGlINHlxRU50NUhsbjF0MmJfZEdUY1R5NEJSUzF4TWx3MTNlQ29zUTFRd09rVnZMYWJPWjBBNWtEdVctUEpwS1lZRVZFbFQtRUZqOWo1QThiekRFM3hmaU9vYm5reFE4dl9wNXVEUmFxVlRBU1QtdzNHa0N3U2JaUDhwVVFwTDEtbnNYZXEzTTJMNzVGMHJYVEVHSmphaFN3RGdXcnZxZC1DQmlwdFRoLVlYVG5SVTRvZzZmclJyQVQ4RWdYV21fTGFYY0xUT3NabDdlSlFWelFMZ0JzWkRvR2h3SjBSZHE1U3ZqQ0Y1SlNqNGtYQ1NDeUk4ZjNfRVLSAfQCQVVfeXFMTjNuOGJWbG10MUZpbG9PY1pNR2Q3RjZCZ2hhbmItYUUzdmVtVWllZGZkWG9QSWZUckZ6NjVVbFF4Nl9MeGc3NkhzSExTZ3F4M2F6aHBJX3Z0RHA5ZVRab2JGUjZ3TkM3RVo1bFZmYWJkQUFEZDZfbDM0a05QSGhpSDR5cUVOdDVIbG4xdDJiX2RHVGNUeTRCUlMxeE1sdzEzZUNvc1ExUXdPa1Z2TGFiT1owQTVrRHVXLVBKcEtZWUVWRWxULUVGajlqNUE4YnpERTN4ZmlPb2Jua3hROHZfcDV1RFJhcVZUQVNULXczR2tDd1NiWlA4cFVRcEwxLW5zWGVxM00yTDc1RjByWFRFR0pqYWhTd0RnV3J2cWQtQ0JpcHRUaC1ZWFRuUlU0b2c2ZnJSckFUOEVnWFdtX0xhWGNMVE9zWmw3ZUpRVnpRTGdCc1pEb0dod0owUmRxNVN2akNGNUpTajRrWENTQ3lJOGYzX0VS",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Bannari Amman Sugars approves Rs 12.50 final dividend.",
+      "detailed_summary": "Bannari Amman Sugars' shareholders approved a Rs 12.50 final dividend for the fiscal year 2025-2026.",
+      "relevance": "Medium",
+      "date": "September 24, 2026",
+      "link": "https://www.chinimandi.com/bannari-amman-sugars-shareholders-approve-rs-12-50-final-dividend-for-fiscal-2025-2026/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Karnataka farmers demand Rs 5,500 per tonne for sugarcane.",
+      "detailed_summary": "Karnataka farmers are demanding Rs 5,500 per tonne for sugarcane, reflecting a significant increase in their expectations.",
+      "relevance": "High",
+      "date": "September 24, 2026",
+      "link": "https://www.chinimandi.com/karnataka-farmers-demand-rs-5500-per-tonne-for-sugarcane/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Bihar Cabinet approves new sugar mill.",
+      "detailed_summary": "The Bihar Cabinet has approved the establishment of a new sugar mill in Warisaliganj to boost local production.",
+      "relevance": "Medium",
+      "date": "September 24, 2026",
+      "link": "https://www.chinimandi.com/bihar-cabinet-approves-new-sugar-mill-at-warisaliganj/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "American Sugar Alliance calls for tariff changes.",
+      "detailed_summary": "The American Sugar Alliance is advocating for changes to import tariffs to address concerns about subsidized foreign sugar.",
+      "relevance": "High",
+      "date": "September 24, 2026",
+      "link": "https://www.chinimandi.com/american-sugar-alliance-calls-for-overhaul-of-import-tariffs-amid-concerns-over-subsidised-foreign-sugar/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "Karnataka cane growers set FRP hike deadline.",
+      "detailed_summary": "Karnataka cane growers have set an October 10 deadline for a hike in the Fair and Remunerative Price (FRP).",
+      "relevance": "High",
+      "date": "September 24, 2026",
+      "link": "https://www.chinimandi.com/karnataka-cane-growers-set-october-10-deadline-for-frp-hike/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Times of India (via Google News)",
+      "summary": "Shetti urges sugar mills to defer crushing season due to cane immaturity.",
+      "detailed_summary": "Shetti, a prominent figure, urges sugar mills to defer the crushing season until after October 15th, as sugar cane will not be fully mature by then.",
+      "relevance": "Medium",
+      "date": "Wed, 23 Sep 2026 18:54:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQOHdfUXNWYzk1aHJRQWF1ajRKbHdSWmtfSEdfUXVEMTlZTEYtNi14T2pSUUZGLWtjVHNSM2tsWlRDX0pGbXEwTkE1MDZEakNZQ0tvRGtjWjh5MHo5bk1DUzV2NkV4MnV1S3Jjdl9MYUYzeW1qMGg2REsydURfWVViRVNUekZKbTlzbVd1UU1iNnFyS041dXp6YUQ0akt4MGRER21uXzFqMEVHWW1ucFVDTmhOeGdyTVowdFM4UnFQR2h6TG5xMC1KbVhZeUgtbjk2YS1KLTFFckEtUTV4X0xCeUxMTHQ0Z2RoVi1IRHFTSFd6bGpsYzFzLXdhLU9lQVhkd3RSX201N3RoRkVZOHl2VjVvcjhWNjNrc1hQS2RYNTVqcUs0U1hIclFJdHU2TVNfWnlOd0p30gG2AkFVX3lxTFA4d19Rc1ZjOTVoclFBYXVqNEpsd1Jaa19IR19RdUQxOVlMRi02LXhPalJRRkYta2NUc1Iza2xaRENfSkZtcTBOQTUwNkRqQ1lDS29Ea2NaOHkwejluTUNTNXY2RXgydXVLcmN2X0xhRjN5bWowaDZESzJ1RF9ZVWJFU1R6RkptOXNtV3VRTWI2cXJLTjV1enphRDRqS3gwZERHbW5fMWowRUdZbW5wVUNOaE54Z3JNWjB0UzhScVBHaHpMbnEwLUptWFl5SC1uOTZhLUotMUVyQS1RNXhfTEJ5TExMdDRnZGhWLUhEcVNIV3psamxjMXMtd2EtT2VBWGR3dFJfbTU3cmhGRVk4eXZWNW9yOFY2M2tzWFBLZFg1NWpxSzRTWEhyUUl0dTZNU19aeU53Snc?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Yahoo Finance (via Google News)",
+      "summary": "NY Sugar Prices Rise as Rain Delays Brazil Harvest.",
+      "detailed_summary": "New York sugar prices have risen due to heavy rain in Brazil, which has delayed the sugar cane harvest.",
+      "relevance": "High",
+      "date": "Wed, 23 Sep 2026 18:33:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVNyOEpZUjltWTlOdV84QVlCMy1VWndWdE93Z3Jab0d6N2N2dHZfdXRST1U1UWpURE0tU1N4T0NDZ1EzcDk0bjg3VGVkemRLMUFsblV2UmVZVThfcDBmOXdiWU5JZ3ZOd0dWbTdmMGlzYTBTS0RvR3FHaTliMEVyVi05MFJLLW9Ta0hLRVV4OXhqWDVpTFNEb05OYw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Brazil weather concerns lift sugar prices",
+      "detailed_summary": "Brazil's weather worries, such as drought or rainfall, are driving up sugar prices, affecting global supply expectations and export outlooks.",
+      "relevance": "High",
+      "date": "Wed, 23 Sep 2026 16:27:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOektqdXQtZ0lnTW5KM1U5b3dlaDZFNFVmVFNjeWdadm9yZHZ4cE9hd2Vfb1lkemtIWDYwRzNEVWRoQzJ2RkVsYkxnczQ4SktMRVRteVpnY2RTMHJ0OWk2dTdBVm5EdEJrU1U1Qk1la0RhbFM5TUFrN0llblNBV3lPVzIxSXJOZjBYMDdHdjZ0XzNBejRlMFVN?oc=5",
+      "commodity": "sugar"
+    },
     {
       "source": "ChiniMandi (via Google News)",
       "summary": "South African sugar sales fall as buyers allegedly ignore local sourcing pact.",
@@ -4612,6 +4765,24 @@
     }
   ],
   "cotton": [
+    {
+      "source": "Farm Progress (via Google News)",
+      "summary": "Cotton prices climb in 2026 due to tight supply.",
+      "detailed_summary": "Prices have increased as global cotton supply remains constrained, pushing up market rates for the year.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 07:02:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rQ0dwRi1kWTBxZE9oYldYWjlySm5STmJpZDlTR1RSc0VmS2RZWVRSY0hWVS1ZbWhFOUpMNHR0dSU5ZHhLcGdYbG1sTFd2RnpWTnZOLWlXZU9tTTFxTDcyelNYbHF0UnpQbEYtcDBxRkJKY2RjWGpDZWJn?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "Brazil's cotton exports surge reshaping Asian trade flows",
+      "detailed_summary": "Brazil's cotton export boom is drawing more Asian buyers, shifting trade patterns and potentially altering price dynamics.",
+      "relevance": "High",
+      "date": "Wed, 23 Sep 2026 17:03:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVY3SU02enpTdzQwMFNTWEhrQ19xTEdUZkNHUDU5dkpyVXdmWGtaX1BIUk1NNFlJOXRGeUExMHlXU2tPSFVXOTg0UVlKQ2ZfX3J2TWVSemNzaEVHQkk4d0JhUjQxT1A2WjZEM1BJTDhzdDM4TXRjM0NsTFVKanRMbmFFekpRU1g5a0JvNkltLWtIWVJrYVkyeUFsWDg3dUxYY0FaQ2VpS2pUVGRCUXpkMHJMbHBnY0s1OWttdlZkZVZyQjhqQXplUXJRSGJ2M2xQYXlN?oc=5",
+      "commodity": "cotton"
+    },
     {
       "source": "Barchart.com (via Google News)",
       "summary": "Cotton futures rally ahead of Trump/Xi meeting.",
