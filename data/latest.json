@@ -1,6 +1,24 @@
 {
-  "run_date": "24 Sep 2026",
+  "run_date": "25 Sep 2026",
   "coffee": [
+    {
+      "source": "Vietnam.vn (via Google News)",
+      "summary": "Coffee prices in Vietnam show promise of strong recovery; pepper stable; US-China trade agreement reached.",
+      "detailed_summary": "Vietnam.vn reports coffee prices are poised for a robust rebound, pepper remains steady, and a new US-China trade pact was signed.",
+      "relevance": "High",
+      "date": "Fri, 25 Sep 2026 03:53:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdmE1eFpYOTlWX3FRNUNpMGFkTmNDRnhjd3k1Y1N2ZndwVW9NRHZzOVV4cWFseGoxOE5hanVKQ2dKWHUyd1IwZWNmT21VRFhYcW1JY20xR3RoVUMyR0gzWnNsRUREaFU0LXcyeWxvbFNOUHk2T2RvMnQ0NGhlNTVfZHpYQzdIMzBZdm8yQS1GTDRkRzlHa2xNNElwdUltcHNCS0pPMGNYbTZQdzRvT0sxQVhUUldWWE1TRFBwT1V4QWtwZW4yLWJFaGhuamNCd3hSZVBONExEbmxHRzl1YVdiR1JlcVRfV29nNFNwNXBFZ1E3U28?oc=5",
+      "commodity": "coffee"
+    },
+    {
+      "source": "Barchart.com (via Google News)",
+      "summary": "Coffee prices fall due to higher Brazil production estimate.",
+      "detailed_summary": "Coffee prices declined as Brazil's Conab raised its production forecast, potentially affecting global supply.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 15:49:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0NOblM5SF8wSF9ka3p4NmpvNnZkWUw4eS1iYWpIa2R0Y05yQTktVXFvNXMxTm1fMHRCUDAyNk1YYzRRMmxyRjRtLXM0S244UHFYT1dfY0dRS3RfWkt6eUdTUjFmTlRRbmhYbms4WHBRMGhfZG12a1NxSjhxZnpPTnJ5MjFQQ0R1T1IwUFVoNHkzb1NfOENabEpVazY1VWVXRFh1TEtlSFpmbXpHMU55RnlnMnRpcXM?oc=5",
+      "commodity": "coffee"
+    },
     {
       "source": "Business Recorder (via Google News)",
       "summary": "Arabica coffee prices hit three-month low.",
@@ -1397,6 +1415,24 @@
   ],
   "cocoa": [
     {
+      "source": "Adomonline.com (via Google News)",
+      "summary": "Government will announce new cocoa producer price today.",
+      "detailed_summary": "The Ghanaian government plans to set a new producer price for cocoa, impacting farmers' earnings.",
+      "relevance": "High",
+      "date": "Fri, 25 Sep 2026 07:11:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaGczS1VHZU5nRFlnWTVyYnFtSloyTWtkdWthem50MlZyMEdRUU1DVzUxMzdzemRWUFRQWGRTbm0wN21Kbi1mUDM2dzhZa294QUFwT0tINXEtZnJjWVBWUnV2MVFub0JUZkZoSlNGTW5MdEdkQ0x3WHEwbHNHWHo0Mw?oc=5",
+      "commodity": "cocoa"
+    },
+    {
+      "source": "Modern Ghana (via Google News)",
+      "summary": "Cocoa farmers await COCOBOD's new producer price announcement.",
+      "detailed_summary": "COCOBOD will announce Friday's producer price, influencing farmers' income and market expectations.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 20:52:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14QmdQRWpFc3I3SlBFMDdFRThBM2d3MU5zcDlYdkdLM3NjWWRMeFVyMG9Gb0lVc3EzOEREQlgtbmdLOGZhdkY3V0k1VVJWencyTDZ1Q3NQM0tzN0tXTWVfb1JPONIBXEFVX3lxTE1PcFFxZERQT2FzSnJENVc2LWZRcHlxRmg0RVpzUXhGbTdsdzhXRjE4X0N1T1Y3cjZOcVpybEw2VWxobFpQc2h5OHhFb0NvbnJmZGlGSEhrNkszYUoz?oc=5",
+      "commodity": "cocoa"
+    },
+    {
       "source": "africa.businessinsider.com (via Google News)",
       "summary": "Second\u2011largest cocoa producer seeks $1.4\u202fbillion domestically after long\u2011running foreign loan model collapses.",
       "detailed_summary": "The country is looking to raise the funds internally following the collapse of a 30\u2011year foreign loan scheme that had financed cocoa production.",
@@ -2436,6 +2472,60 @@
     }
   ],
   "sugar": [
+    {
+      "source": "chinimandi.com (via Google News)",
+      "summary": "Philippines adds 9,151 MT raw sugar export quota to U.S.",
+      "detailed_summary": "The Philippines increased its raw sugar export quota to the United States by 9,151 metric tons, boosting U.S. supply.",
+      "relevance": "High",
+      "date": "Fri, 25 Sep 2026 05:49:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjRpWnpnRThYdlJiVm9PV2d2RGY2U2d6aXNpUlh4TEN4X2FoYk9CTVZ6RHNJSjFUNGl6dXc0dEJRRFpVWVZZc1lXazJuc2lUcGk3R3BISGRwMFFReURaWlNwY1hrRk1sRUN3dDE2aWN4TmV3VlJhYmphZ192dnRKSXFlMERpajJJYmJSLTJCaHJWT0tKMl8weQ?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "chinimandi.com (via Google News)",
+      "summary": "India may rely on overseas sugar supplies for a second year.",
+      "detailed_summary": "India could import sugar from abroad again this year, marking a second consecutive year of overseas sourcing.",
+      "relevance": "High",
+      "date": "Fri, 25 Sep 2026 05:43:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGlDaDZ1TE9qelo5cGs4M0pfWnhaOWo3QUZ3dGJtYTF3bm9EU2dqQmFLaGZ4LVdILU1sVzBBN1p2Ujc0TkR4Q2g3aE1kMGVtV0FUcW5PRXd4ZHUzdlVoTnN3dEhVdEdtQzMzSFozRXloSlIxM2VZU01PT1BqVkpNUXZSRExCdmI4UmszeEdaa3o?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "ChiniMandi",
+      "summary": "India may rely on overseas sugar imports for a second consecutive year.",
+      "detailed_summary": "India's domestic sugar production fell short of demand, prompting a second-year shift to overseas imports to meet consumption needs.",
+      "relevance": "High",
+      "date": "September 25, 2026",
+      "link": "https://www.chinimandi.com/india-may-turn-to-overseas-sugar-supplies-for-a-second-year/",
+      "commodity": "sugar"
+    },
+    {
+      "source": "Inquirer.net (via Google News)",
+      "summary": "US grants additional sugar export quota to the Philippines.",
+      "detailed_summary": "US Treasury approved an extra sugar export quota for the Philippines, expanding its export capacity amid rising global demand.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 18:14:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xZ2hPSV9mR3djUTFUQ3BrMW82WFFXdjVqVmNteWhfQXJlYkxSQ19UZG1UTXZVVndxNHUzTmgxeGI4U0h6S1BlajdZdG1kbHV6MEZNd3FuSUJWTEhYMVI0Y0t0b2NRNk9zOVVKeUNwVmEweUgwZXI1dzJtSEHSAYIBQVVfeXFMT2tqTnh2UnNfSVhTTWI0NHNqanYtZzFNQ25jLW54Mlh6S2xRMENISTl1Wk1LR0dfZ04wdkNJZm1Ob0RjNFJVamFXRWdPNkU0M3pEazU0YnhlN2dsOU1oMFJHQmV1LTk5dS0za3JqVlZSUnlmZDZNWjZMMC1hcjBqMWQwdw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "AgroSpectrum India (via Google News)",
+      "summary": "AI adoption could reshape sugar and ethanol plant operations.",
+      "detailed_summary": "AgroSpectrum reports that AI-driven automation is being integrated into sugar and ethanol facilities, aiming to improve efficiency and reduce costs, potentially affecting future supply.",
+      "relevance": "Medium",
+      "date": "Thu, 24 Sep 2026 18:00:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaUp5VFJQTlp3X0tqdXFYM21aaldGVW5SLW1lNWpsN2xqQU1IMmtyQWdqdERaT3J0V3U2U01TODNacmxUZHZ6eUJpejV3TER4R0tDVTVnR0cxdm9LbFE3azN6b3JXOXUxa04yMmlhb0o2dGkrN2lVVU05MzJMbzZubUlZcERkWmZBR08wbi1FLVVuQlpLWUdENjBTQmxkYVUxU3NNSE5DbWg5NXlBeDFINEJSUXZjX0JzSEY1Y0xBN19JbkUyNjdObjEwZw?oc=5",
+      "commodity": "sugar"
+    },
+    {
+      "source": "The Manila Times (via Google News)",
+      "summary": "US increases Philippines' sugar export quota.",
+      "detailed_summary": "The US has raised the Philippines' sugar export quota, potentially impacting global sugar supply dynamics.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 16:12:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW9GRnVJSDNjeU9yeHM0cmMwbWtRUXVBOU9kR1FNbl91Um1vc1FUQTdEMmR0Wk5sb29XVmdjRE0xNVlMSmJYSVhINzFEN0hjR1gxWkJaWFBxMmh1Mnlna19FQnJkc3Zkb3phYW9aVFdUc0tVeGNEbzJINFhtV3A3YU1xZVh6T2dEUUVVZXdRTndoZmZyNDJRVjIzOGhSV0gyWEk2REk5ejNOd9IBrwFBVV95cUxQTTZpYTBLTU45NVRhb3d0SldPZEFZMU1nV3daeF9hekRJczZtOW8xT1NwSGNlWE1OQUZkX21LWWE1dFl3MXI5WndjNEltdFZhT29RRnJWMUk5am5IRFdJWllabkszS1Qybk9SRVc0Q0dobC1sdUhSQXZmN2FaQjQ0WUVUUmlrUjlwMDRSZmpGWWV4QkJldWowbVBvdGdFbF93Y1dUSXhDUmZoZ2NtdmpR?oc=5",
+      "commodity": "sugar"
+    },
     {
       "source": "Manila Bulletin (via Google News)",
       "summary": "Philippines gains 9,151\u2011MT additional US sugar export quota.",
@@ -4765,6 +4855,96 @@
     }
   ],
   "cotton": [
+    {
+      "source": "Reuters (via Google News)",
+      "summary": "Sanctioned Chinese cotton giant linked firms sell clothes to US.",
+      "detailed_summary": "Reuters reports firms tied to sanctioned Chinese cotton giant are exporting clothing to the United States, indicating continued trade links despite sanctions.",
+      "relevance": "High",
+      "date": "Fri, 25 Sep 2026 04:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzFpeWxHY0MzVFNLd1Q2aUgtbnN4bTdEc3VMbW9KczJjMmNjODRHNTZ5UTZZbWIzLVBHMWRabTFKMUxFb092ajBON3NtTWtXM3NEbmlIdVY3VHIzNVJMa1JqdU1aSFgteHkybzZiQVQ0dXhqVnkwMWJ6a09TYlBUU2FQRHJScWNYRkg2eFg2d25RLS16UzVzMTNNTDI1bWhlZnpXQVJTQy1zelpUSDVLZTdxcEhHWHZBOXhONnZHSEJVOFk?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "TradingView (via Google News)",
+      "summary": "Cotton futures closed on Thursday.",
+      "detailed_summary": "The closing price reflected market sentiment amid ongoing supply concerns and trade policy discussions.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 22:16:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2ZldUtsNndYR1YzTXNoYkRkQTJVVG16TlFmTDJuYlRtaTkzcFBFMmtDcU1qeXh4d2lDYjFIYnZlZ1BzQ2NTdGZzV25HeUo0Z3hQRTBNNjRIX0djVzB6LWlSdWlLSDd4SjRZd1RfU2hYWUxZejBJdEJ4UUVYN0FFeHBWSTdVcTBVcW9Bc0E0R1JCclo0Y1JZSg?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Brownfield Ag News (via Google News)",
+      "summary": "Cotton industry seeks China trade talks.",
+      "detailed_summary": "Industry stakeholders aim to negotiate trade terms with China to secure better export conditions and market access.",
+      "relevance": "Medium",
+      "date": "Thu, 24 Sep 2026 20:20:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObURURW1neE0zdzYyeGMyT0FINzVfdV91ZlcwQ2xsM25KTGg0cGg2d1J4aXpiak44RUw3UjViV0ZKaVRMaDZFZU9XX0wtV3E2cWpicWVPNEJ2Rno2RWNabWRjM0NadE1kb0JsbkNhY1dLVUprMHUwM1ZrN0ZuYnU1TTJQOA?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "allAfrica.com (via Google News)",
+      "summary": "Kenya farmers return to cotton due to better prices.",
+      "detailed_summary": "In Kenya, better prices are encouraging farmers in Kitui to return to cotton cultivation, contingent on favorable weather and seed availability.",
+      "relevance": "Medium",
+      "date": "Thu, 24 Sep 2026 15:49:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Id18tend3TjB1dnVBMWJiMDgyOTc0b0gtUGdKaEp6RHlzY3NCZFRkNmt0UHRiR3VQZFJFamhVSkpKQ21CMTQ1UmtyamdaakJjTTk3QlVEZGRzYzZJWUFMbGNhdWxiYkhvYm80c3dwQnBURm03X3BjYnNZaFBpSEJSNE1Ka2xFem4xNnNrZGN5N3BtbnRBTFBaT0FyRXVrS0RBVzlNdFkyakE?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Independent News Pakistan (via Google News)",
+      "summary": "EU-India FTA threatens Pakistan's textile exports.",
+      "detailed_summary": "The EU-India Free Trade Agreement is expected to intensify competition for Pakistan's textile exports, potentially impacting cotton yarn and basmati exports.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 15:42:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVhVbVVrSENxY3FWaEJkUTUwVW1pY1ZlTUYwVXM1MF9sUWJCQzFDR0ZldUNkcE1mbjl2X1plc1ZWRTd3RTZ1a0ZaWWFsal9LSWpKQ21CMTQ1UmtyamdaakJjTTk3QlVEZGRzYzZJWUFMbGNhdWxiYkhvYm80c3dwQnBURm03X3BjYnNZaFBpSEJSNE1Ka2xFem4xNnNrZGN5N3BtbnRBTFBaT0FyRXVrS0RBVzlNdFkyakE?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Independent News Pakistan (via Google News)",
+      "summary": "Pakistan's cotton yarn and basmati exports grow.",
+      "detailed_summary": "Pakistan's exports of cotton yarn and basmati rice are showing year-on-year growth, maintaining positive trade dynamics.",
+      "relevance": "Medium",
+      "date": "Thu, 24 Sep 2026 15:39:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYzVjdlZtSFlZRXpKQm56VFhDb1h5ZmxKUDhBcERJb0FlNmlOMGdVTU50Ukc2cVpyX2J0a3V1RXc4T3lCN1k1aWJwLUhsbWVfblF5RFVjNWpWWWkwNzhodmxjQmpCUHZXandEZVJDaW9ZQWlTQ2ZFOHExQjBvLW01VmJvQjlOYWJzZ3lSRmJVZHM1R3R4c1JtRjNSbkFrX2xiYVZ4eVNJUkhnajVLVG9vOVJ1anJhNGc?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "allAfrica.com (via Google News)",
+      "summary": "Cameroon cotton farmers use improved seeds and nature-based methods.",
+      "detailed_summary": "Cameroon's cotton farmers are adopting improved seeds and nature-based practices to enhance crop productivity and sustainability.",
+      "relevance": "Medium",
+      "date": "Thu, 24 Sep 2026 13:39:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bVFnWm43bWExTkRydUp6U3pRNXFQRk1heFhIRHNNWXRRcWh3N1k1bWxyZnQ0UVAwNFBNVWVWMjAyd2ZqdjRHazRscHhXRjVvVjhWT3ZqY3AtWUE?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Free Press Journal (via Google News)",
+      "summary": "Collector visits Jalgaon fields to assess cotton crop damage amid drought-like conditions.",
+      "detailed_summary": "The visit aims to gauge potential yield losses in the region, which could tighten supply and influence cotton prices.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 13:07:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1huQmdOZjlRb0swX043RXAwNWV1Wl9SV0t6cV94UlRlS1BUNWk1RngxM1RnVXpqbjIyOHo3RXFVYUdxWlpOT3ZvajdYckVPTUNaM2k2V24wdnN1MjRWQVlUTVJWR2xFQVJrSTF5aE5JOExZUnA1eDAzcDE3aE5ySXJxaXQybHRGdGJKQkxqeEVaNHNFdWgtTmszZVlJNHlIa211M3lrRFpIOWZEdkJRMlR0cS1IVFNMdmFteG5mR2llaENYMEHSAcsBQVVfeXFMUElBNzc2S04tRlozVHMtaEFIcFNobGQtbmVTQnNGNy1kWmFHYWxQTGpyTldBVmdyWEl3R1FDbGtjVWNZbkdSRU5IWEJ6ZEpkSEQ0TUN1aVRqRVFnQ2F3Wmw3blRsX1hERlFwdkt3eFZvajZmZkRmbEtwSWFzcThfT1ZENEdIb1NMSU9pT1A1dG43b0NKbjFmUE9xRF9fYzhGQUJUNTBKbXRyNTllSmlZdnJpLWcyUHVqbGJqQW50eFgtWDk1Mko0SnpoQkE?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "North India cotton yarn remains steady as demand weakens and buyers stay cautious.",
+      "detailed_summary": "Yarn prices show limited movement, reflecting subdued demand and cautious buying sentiment in the domestic market.",
+      "relevance": "Medium",
+      "date": "Thu, 24 Sep 2026 12:30:57 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeHJReXY5VFItb1JEc0NyV1ZPd0NqNE5NTDVYb0RlRXlqQktQNm1lckwzQ0lQZFU1c2lNd0ZaR2tVQTYwMmxLLVdhdFF6aTJSZVo4aXBDWW1VbUFkUVE0Y3BuYThLSGNfYndsb2d1ejRnanVlY0t2UUFxdzByWUtrMklPSC1CY2U0QUFsSWlja29IZ19ndWlCWUp5RzFtYjUwN2dDbkJWZGtFTHBLSF9RLWN4TTZwc2VBOVRsdUFhdGhLLWEyaU9MWWxEVlVUNmV2ZUEzOW9ZeS1EdlVPYkJRWVpn?oc=5",
+      "commodity": "cotton"
+    },
+    {
+      "source": "Fibre2Fashion (via Google News)",
+      "summary": "ICE cotton futures moved modestly while traders await a demand signal.",
+      "detailed_summary": "The futures contract for cotton on ICE experienced a modest price adjustment, with market participants waiting for forthcoming demand data.",
+      "relevance": "High",
+      "date": "Thu, 24 Sep 2026 11:45:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMEtKSGR2aTVQY3R2ekt3OXNwNVIzTTVHUm16amh1QlpuNU52bFlXd2ctTUJDV3dyMFNoNHAtNWkwSGhCMjdZY3locW40QklTeHRRaHd6dXVSLVlJTWU1SFRxTUc1aFJ3TGlJTXpCOHctLTljMFpYRVVzVnpTSU1ZTDBta3pQWXB2SVRXZXA4ZgEwU3ZkRG9lUTQ2cGdnUFQtcXZCRTlGZzl6OUpjMWNHc0hfRS1zY1lwa1B0OThrM0pzRVdIeHVPakUwVnFwSk9aUmRV?oc=5",
+      "commodity": "cotton"
+    },
     {
       "source": "Farm Progress (via Google News)",
       "summary": "Cotton prices climb in 2026 due to tight supply.",
